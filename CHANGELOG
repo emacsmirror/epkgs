@@ -1,0 +1,22 @@
+# -*- mode: org -*-
+
+* 2016/11/04
+
+- All packages that are available from Melpa are also being mirrored
+  now.
+
+* 2016/11/02
+
+- Bumped database version to ~2~ after adding the new columns and tables
+  ~melpa-recipes~, ~gelpa-recipes~ and ~builtin-libraries~.
+
+* 2016/10/28
+
+- Themes are being mirrored too now.  Previously only a select few
+  themes were mirrored.  Themes still don't get the same protection
+  as other packages; if they cause issues then they are being removed
+  instead of being shelved.
+
+* 2016/04/16
+
+- Initial release.

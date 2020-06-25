@@ -1,0 +1,825 @@
+:PREAMBLE:
+#+SETUPFILE: .orgconfig
+#+NAME: setup
+#+BEGIN_SRC emacs-lisp :results silent
+  (require 'emir)
+  (defun emir--save-variable (variable value)
+    (customize-save-variable variable (and (not (equal value "nil")) value))
+    nil)
+#+END_SRC
+:END:
+* Set ~emir-emacs-reference~
+#+NAME: set--emir-emacs-reference
+#+BEGIN_SRC emacs-lisp :results silent
+  (emir--save-variable 'emir-emacs-reference "emacs-27.0.90")
+#+END_SRC
+
+* Set ~emir-pending-packages~
+#+NAME: set--emir-pending-packages
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-pending-packages
+  (emir--save-variable 'emir-pending-packages value)
+#+END_SRC
+#+NAME: val--emir-pending-packages
+| Package     | Reason                            |
+|-------------+-----------------------------------|
+| ada-ref-man | no license, no elisp, no response |
+| gnu-elpa    | provides wrong feature            |
+
+* Set ~emir-suspended-packages~
+#+NAME: set--emir-suspended-packages
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-suspended-packages
+  (emir--save-variable 'emir-suspended-packages value)
+#+END_SRC
+#+NAME: val--emir-suspended-packages
+| Package | Reason    |
+|---------+-----------|
+| icicles | heisenbug |
+
+It freezes except when I try to investigate why it freezes.
+
+* Set ~emir-secondary-packages~
+#+NAME: set--emir-secondary-packages
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-secondary-packages
+  (emir--save-variable 'emir-secondary-packages value)
+#+END_SRC
+#+NAME: val--emir-secondary-packages
+| Secondary | Primary |
+|-----------+---------|
+| shimbun   | w3m     |
+
+* Set ~emir-renamed-files~
+#+NAME: set--emir-renamed-files
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-renamed-files
+  (emir--save-variable 'emir-renamed-files value)
+#+END_SRC
+#+NAME: val--emir-renamed-files
+| Package               | Filename                                     |
+|-----------------------+----------------------------------------------|
+| chasen                | chasen.el.txt                                |
+| debian-bug            | debian-bug.el?root=pkg-goodies-el            |
+| debian-changelog-mode | debian-changelog-mode.el?root=pkg-goodies-el |
+| japanese-tokenizer    | japanese-tokenizer.el.txt                    |
+| llvm-mode             | llvm-mode.el?view=co                         |
+| spamfilter            | spamfilter.el.txt                            |
+| tablegen-mode         | tablegen-mode.el?view=co                     |
+
+* Set ~emir--homepage-alist~
+#+NAME: set--emir--homepage-alist
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--homepage-alist
+  (emir--save-variable 'emir--homepage-alist value)
+#+END_SRC
+#+NAME: val--emir--homepage-alist
+| Package                   | URL                                                                          |
+|---------------------------+------------------------------------------------------------------------------|
+| active-menu               | http://www.skamphausen.de/cgi-bin/ska/Software                               |
+| adv-random-sig            | http://www.zonix.de/projects/emacs/lisp                                      |
+| agchat                    | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| archie                    | http://quimby.gnus.org/elisp                                                 |
+| auto-show-doc             | http://www.cb1.com/~john/computing/emacs/lisp/elisp-dev-tools                |
+| autocap                   | http://www.loveshack.ukfsn.org/emacs                                         |
+| banner                    | http://www.cb1.com/~john/computing/emacs/lisp/misc                           |
+| bar-cursor                | http://www.northbound-train.com                                              |
+| bash-org                  | http://edward.oconnor.cx/elisp                                               |
+| bbdb                      | http://bbdb.sourceforge.net                                                  |
+| bbdb-pilot-jwz            | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| binclock                  | http://www.davep.org/emacs                                                   |
+| blackbook                 | http://fly.srk.fer.hr/~hniksic                                               |
+| breadcrumb                | http://breadcrumbemacs.sourceforge.net                                       |
+| breathe                   | http://www.cb1.com/~john/computing/emacs/lisp/well-being                     |
+| brief                     | http://www.emacs.mirkolinkonline.de/spiele.html                              |
+| buffer-fns                | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| bytecomp-fns              | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| c-comment-edit            | http://www.wonderworks.com                                                   |
+| cc-tempo-electric-support | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| cif                       | http://www.loveshack.ukfsn.org/emacs                                         |
+| cldoc                     | http://homepage1.nifty.com/bmonkey/emacs/index-en.html                       |
+| cmucl-wire                | http://emarsden.chez.com/downloads                                           |
+| cocol                     | http://lgarc.narod.ru/xemacs                                                 |
+| coffee                    | http://emarsden.chez.com/downloads                                           |
+| comint-popup              | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| completing-help           | http://homepage1.nifty.com/bmonkey/emacs/index-en.html                       |
+| constants                 | http://staff.science.uva.nl/~dominik/Tools/constants                         |
+| constellations            | http://www.davep.org/emacs                                                   |
+| copy-directory            | http://www.cb1.com/~john/computing/emacs/lisp/file-handling                  |
+| couchdb                   | http://edward.oconnor.cx/elisp                                               |
+| csv                       | http://ulf.epplejasper.de/EmacsGeneralPurpose.html                           |
+| csv-vocab-mode            | http://www.cb1.com/~john/computing/emacs/lisp/natural-language               |
+| csv-writer                | http://www.cb1.com/~john/computing/emacs/lisp/data-structures                |
+| cua-lite                  | http://www.northbound-train.com                                              |
+| cua-lite-bootstrap        | http://www.northbound-train.com                                              |
+| cvs-scramble              | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| cygwin-link               | http://edward.oconnor.cx/elisp                                               |
+| czscm                     | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| dar                       | http://www.xsteve.at/prg/emacs/dar                                           |
+| dbfrobs                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| deep-copy                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| delatex                   | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| diacriticalize            | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| diary-outlook             | http://www.loveshack.ukfsn.org/emacs                                         |
+| dict-web                  | http://emarsden.chez.com/downloads                                           |
+| dictem                    | http://sourceforge.net/projects/dictem                                       |
+| dictionary                | http://www.myrkr.in-berlin.de/dictionary/index.html                          |
+| dir-shell                 | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| disptime                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| dms-sig                   | http://thesassers.com/dewey/DmsSig.html                                      |
+| doh                       | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| dvi-view                  | http://www.cb1.com/~john/computing/emacs/lisp/graphics                       |
+| dwim-find                 | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| ediprolog                 | http://www.logic.at/prolog/ediprolog/ediprolog.html                          |
+| edit-tree                 | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| em-joc                    | http://www.northbound-train.com                                              |
+| emacs-name                | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| emacs-variants            | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| emacs-wiki-boxes          | http://sugarshark.com/ProjectPage.html                                       |
+| emms                      | http://www.gnu.org/software/emms                                             |
+| erc-track-score           | https://julien.danjou.info/projects/emacs-packages#erc-track-score           |
+| escreen                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| ess                       | http://ess.r-project.org                                                     |
+| etest                     | http://www.shellarchive.co.uk/content/etest.html                             |
+| eval-expr                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| face-fns                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| ff-paths                  | http://people.debian.org/~psg/elisp                                          |
+| fff                       | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| fff-elisp                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| fff-rfc                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| file-confirm              | http://www.iki.fi/pema/emacs                                                 |
+| file-ext                  | http://www.emacs.mirkolinkonline.de/extras.html                              |
+| file-fns                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| filename-cases            | http://www.cb1.com/~john/computing/emacs/lisp/file-handling                  |
+| filenames-in-env          | http://www.cb1.com/~john/computing/emacs/lisp/file-handling                  |
+| find-commands             | http://www.cb1.com/~john/computing/emacs/lisp/elisp-dev-tools                |
+| find-empty-el-files       | http://www.cb1.com/~john/computing/emacs/lisp/elisp-dev-tools                |
+| flame                     | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| flash-paren               | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| flatten-saved-pages       | http://www.cb1.com/~john/computing/emacs/lisp/webstuff                       |
+| flyspell-textcat          | http://os.inf.tu-dresden.de/~mp26/emacs.shtml                                |
+| flyspell-timer            | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| fm                        | http://www.anc.ed.ac.uk/~stephen/emacs                                       |
+| fmailutils                | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| fscroll                   | http://www.davep.org/emacs                                                   |
+| fshell                    | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| ftcp                      | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| ftelnet                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| garble                    | http://www.davep.org/emacs                                                   |
+| gedcom                    | http://www.rempe-online.de/genealogie/lines                                  |
+| geek                      | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| geiser                    | http://www.nongnu.org/geiser                                                 |
+| gentext-bindings          | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| gnus-checker              | http://www.shellarchive.co.uk/content/emacs.html                             |
+| gnus-highlight            | http://www.hardakers.net/elisp                                               |
+| google                    | http://edward.oconnor.cx/elisp                                               |
+| google-contacts           | https://julien.danjou.info/projects/emacs-packages#google-contacts           |
+| google-maps               | https://julien.danjou.info/projects/emacs-packages#google-maps               |
+| goto-char-other-window    | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| grabbox                   | http://www.xsteve.at/prg/emacs                                               |
+| gresreg                   | http://www.bookshelf.jp                                                      |
+| growl                     | http://edward.oconnor.cx/elisp                                               |
+| highlight-context-line    | http://www.skamphausen.de/cgi-bin/ska/highlight-context-line                 |
+| himarks-mode              | http://lgarc.narod.ru/xemacs                                                 |
+| hl-sexp                   | http://edward.oconnor.cx/elisp                                               |
+| hobo                      | http://www.northbound-train.com                                              |
+| horoscope                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| host-fns                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| html-chooser-mode         | http://www.dur.ac.uk/p.j.heslin/Software/Emacs                               |
+| html-phrase-list          | http://www.cb1.com/~john/computing/emacs/lisp/natural-language               |
+| html5                     | http://edward.oconnor.cx/elisp                                               |
+| hyde                      | http://nibrahim.net.in/2010/11/11/hyde_:_an_emacs_mode_for_jekyll_blogs.html |
+| hyphenate                 | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| ibs                       | http://www.geekware.de/software/emacs                                        |
+| icmp-info                 | http://www.davep.org/emacs                                                   |
+| iman                      | http://homepage1.nifty.com/bmonkey/emacs                                     |
+| indent-tabs-maybe         | http://www.loveshack.ukfsn.org/emacs                                         |
+| info-apropos              | http://www.phys.au.dk/~harder                                                |
+| infobook                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| inktc                     | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| insert-construct          | http://www.cb1.com/~john/computing/emacs/lisp/handsfree                      |
+| insertions                | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| install                   | http://www.iro.umontreal.ca/~monnier/elisp                                   |
+| invoice                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| ion3                      | http://www.xsteve.at/prg/emacs                                               |
+| ipp                       | http://emarsden.chez.com/downloads                                           |
+| java-find                 | http://www.northbound-train.com                                              |
+| jfolding                  | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| journal-search            | http://www.cb1.com/~john/computing/emacs/lisp/webstuff                       |
+| joystick                  | http://www.cb1.com/~john/computing/emacs/lisp/hardware                       |
+| jpeg-mode                 | http://www.cb1.com/~john/computing/emacs/lisp/graphics                       |
+| js-doctor                 | http://www.cb1.com/~john/computing/emacs/lisp/email                          |
+| kbd-fns                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| keymap-hacks              | http://www.cb1.com/~john/computing/emacs/lisp/misc                           |
+| keywiz                    | http://www.phys.au.dk/~harder                                                |
+| kill-a-lawyer             | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| labbook                   | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| lat1conv                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| lazy-desktop              | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| lbdb                      | http://www.davep.org/emacs                                                   |
+| ldif-ns                   | http://www.loveshack.ukfsn.org/emacs                                         |
+| lessage                   | http://www.cb1.com/~john/computing/emacs/lisp/misc                           |
+| linuxproc                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| list-fns                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| list-register             | http://www.bookshelf.jp                                                      |
+| listbuf                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| lmselect                  | http://edward.oconnor.cx/elisp                                               |
+| load-fns                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| localized-source          | http://www.cb1.com/~john/computing/emacs/lisp/natural-language               |
+| lookout                   | http://ulf.epplejasper.de/EmacsCalendarAndDiary.html                         |
+| loop-constructs           | http://gmarceau.qc.ca                                                        |
+| lude                      | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| mail-directory            | http://www.cb1.com/~john/computing/emacs/lisp/email                          |
+| mailrc-mode               | http://www.cb1.com/~john/computing/emacs/lisp/email                          |
+| mallow                    | http://edward.oconnor.cx/elisp                                               |
+| malyon                    | http://www.ifarchive.org                                                     |
+| manued                    | http://www.mpi-inf.mpg.de/~hitoshi/otherprojects/manued/index.shtml          |
+| map-win                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| mcomplete                 | http://homepage1.nifty.com/bmonkey/emacs/index-en.html                       |
+| meditate                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| mew                       | http://www.mew.org                                                           |
+| mhc                       | http://www.quickhack.net/mhc                                                 |
+| mic-paren                 | http://www.gnuvola.org/software/j/mic-paren                                  |
+| misc-elisp-tools          | http://www.cb1.com/~john/computing/emacs/lisp/elisp-dev-tools                |
+| mk-project                | http://www.littleredbat.net/mk/code/mk-project.html                          |
+| moccur-edit               | http://www.bookshelf.jp                                                      |
+| moo                       | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| motion-fns                | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| mouse-embrace             | http://www.xsteve.at/prg/emacs                                               |
+| mouse-focus               | http://www.skamphausen.de/cgi-bin/ska/mouse-focus                            |
+| multi-find-file           | http://www.cb1.com/~john/computing/emacs/lisp/file-handling                  |
+| multiselect               | http://www.skamphausen.de/cgi-bin/ska/multiselect                            |
+| multr                     | http://lgarc.narod.ru/xemacs                                                 |
+| muse-blog                 | https://julien.danjou.info/projects/emacs-packages#muse-blog                 |
+| muse-definition           | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| muse-settings             | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| muse-trail                | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| mutt-alias                | http://www.davep.org/emacs                                                   |
+| mwe-cambridge-permute     | http://www.foldr.org/~michaelw/emacs                                         |
+| mwe-color-box             | http://www.foldr.org/~michaelw/emacs                                         |
+| mwe-log-commands          | http://www.foldr.org/~michaelw/emacs                                         |
+| netrexx-mode              | http://zaaf.nl/emacs/emacs.html                                              |
+| nf-procmail-mode          | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| ngn                       | http://www.davep.org/emacs                                                   |
+| notes-mode                | http://www.isi.edu/~johnh/SOFTWARE/NOTES_MODE/index.html                     |
+| ns-browse                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| nukneval                  | http://www.davep.org/emacs                                                   |
+| obarray-fns               | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| obfusurl                  | http://www.davep.org/emacs                                                   |
+| octal-chars               | http://www.cb1.com/~john/computing/emacs/lisp/natural-language               |
+| odf-mode                  | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| offlineimap               | https://julien.danjou.info/projects/emacs-packages#offlineimap               |
+| order-head                | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| org-daypage               | http://almostobsolete.net/daypage.html                                       |
+| osx-plist                 | http://edward.oconnor.cx/elisp                                               |
+| pack-windows              | http://lampwww.epfl.ch/~schinz/elisp                                         |
+| pb-popup                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| pdb                       | http://www.loveshack.ukfsn.org/emacs                                         |
+| pgg-crypt                 | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| phrase                    | http://www.loveshack.ukfsn.org/emacs                                         |
+| pick-backup               | http://nschum.de/src/emacs/pick-backup                                       |
+| plugin                    | http://gmarceau.qc.ca                                                        |
+| pom                       | http://sugarshark.com/ProjectPage.html                                       |
+| prefixkey                 | http://lgarc.narod.ru/xemacs                                                 |
+| proc-filters              | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| progr-align               | http://www.xsteve.at/prg/emacs                                               |
+| project-buffer-mode       | http://repo.or.cz/w/project-buffer-mode.git                                  |
+| protbuf                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| protocols                 | http://www.davep.org/emacs                                                   |
+| prove                     | http://www.shellarchive.co.uk/content/emacs.html                             |
+| ps-stack-comments         | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| pseudo-grep               | http://www.cb1.com/~john/computing/emacs/lisp/file-handling                  |
+| psvn                      | http://www.xsteve.at/prg/vc_svn                                              |
+| pwsafe                    | http://www.xsteve.at/prg/emacs                                               |
+| pylookup                  | http://taesoo.org/Opensource/Pylookup                                        |
+| qemu                      | http://racin.free.fr                                                         |
+| qpdecode                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| quack                     | http://www.neilvandyke.org/quack                                             |
+| quick-task                | http://www.xsteve.at/prg/emacs                                               |
+| randomsig                 | http://www.backmes.de/scripts+programs.html                                  |
+| rdict                     | http://lgarc.narod.ru/xemacs                                                 |
+| read-all-emacs-help       | http://www.cb1.com/~john/computing/emacs/lisp/elisp-dev-tools                |
+| recent                    | http://levana.de/emacs                                                       |
+| record                    | http://gmarceau.qc.ca                                                        |
+| redo                      | http://www.wonderworks.com                                                   |
+| redshank                  | http://www.foldr.org/~michaelw/emacs/redshank                                |
+| regression                | http://www.cb1.com/~john/computing/emacs/lisp/misc                           |
+| removable-media           | http://www.cb1.com/~john/computing/emacs/lisp/file-handling                  |
+| riece                     | http://www.nongnu.org/riece                                                  |
+| rijndael                  | http://josefsson.org/aes                                                     |
+| rmail-frobs               | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| rpn-edit                  | http://www.cb1.com/~john/computing/emacs/lisp/handsfree                      |
+| save-undo                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| saveframes                | http://www.iki.fi/pema/emacs                                                 |
+| scrape                    | http://edward.oconnor.cx/elisp                                               |
+| screen-lines              | http://homepage1.nifty.com/bmonkey/emacs/index-en.html                       |
+| sendmail-alias            | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| services                  | http://www.davep.org/emacs                                                   |
+| setq-trap                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| shop                      | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| show-functions            | http://aurelien.tisne.free.fr/emacs-pages/emacs.html                         |
+| skip-initial-comments     | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| slashdot                  | http://www.davep.org/emacs                                                   |
+| smallurl                  | http://www.shellarchive.co.uk/content/emacs.html                             |
+| smartsig                  | http://www.davep.org/emacs                                                   |
+| soap                      | http://edward.oconnor.cx/elisp                                               |
+| spamprobe                 | http://www.davep.org/emacs                                                   |
+| speechd                   | http://www.freebsoft.org/speechd-el                                          |
+| split-root                | http://nschum.de/src/emacs/split-root                                        |
+| split-window-multi        | http://www.cb1.com/~john/computing/emacs/lisp/appearance                     |
+| spookmime                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| sqlplus-html              | http://fly.srk.fer.hr/~hniksic                                               |
+| strfile                   | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| string-fns                | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| suggbind                  | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| swadesh-numbers           | http://www.cb1.com/~john/computing/emacs/lisp/natural-language               |
+| swbuff-advice             | http://www.northbound-train.com                                              |
+| swimmers                  | http://www.cb1.com/~john/computing/emacs/lisp/games                          |
+| swiss-move                | http://www.skamphausen.de/cgi-bin/ska/swiss-move                             |
+| sww                       | http://www.xsteve.at/prg/emacs                                               |
+| task-mode                 | http://racin.free.fr/old/projects.html#task-mode                             |
+| taskjuggler-mode          | http://www.skamphausen.de/cgi-bin/ska/taskjuggler-mode                       |
+| technorati                | http://edward.oconnor.cx/elisp                                               |
+| texletter                 | http://www.skamphausen.de/cgi-bin/ska/Software                               |
+| tiger                     | http://edward.oconnor.cx/elisp                                               |
+| timestamp                 | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| tld                       | http://www.davep.org/emacs                                                   |
+| tmenu                     | http://homepage1.nifty.com/bmonkey/emacs/index-en.html                       |
+| tmmofl-x                  | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| todoo                     | http://www.mulix.org/code.html                                               |
+| toggle-buffer             | http://www.northbound-train.com                                              |
+| toggle-case               | http://www.northbound-train.com                                              |
+| tokipona                  | http://edward.oconnor.cx/elisp                                               |
+| total-numbers             | http://www.cb1.com/~john/computing/emacs/lisp/misc                           |
+| tpum                      | http://lgarc.narod.ru/xemacs                                                 |
+| track-scroll              | http://www.skamphausen.de/cgi-bin/ska/track-scroll                           |
+| twiddle                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| twiki-outline             | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| u-appt                    | http://ulf.epplejasper.de/EmacsCalendarAndDiary.html                         |
+| u-color-cycle             | http://ulf.epplejasper.de/EmacsFunStuff.html                                 |
+| u-mandelbrot              | http://ulf.epplejasper.de/EmacsFunStuff.html                                 |
+| unbind                    | http://www.davep.org/emacs                                                   |
+| uniesc                    | http://www.loveshack.ukfsn.org/emacs                                         |
+| unique                    | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| update-autoloads          | http://www.cb1.com/~john/computing/emacs/lisp/elisp-dev-tools                |
+| update-dns                | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| upside-down               | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| variant-abbc              | http://homepages.cs.ncl.ac.uk/phillip.lord/emacs.html                        |
+| viewtex                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| vkill                     | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| vorbiscomment             | http://www.phys.au.dk/~harder                                                |
+| watch-sexp                | http://www.skamphausen.de/cgi-bin/ska/Software                               |
+| watson                    | http://emarsden.chez.com/downloads                                           |
+| wb-line-number            | http://homepage1.nifty.com/blankspace/emacs/elisp.html                       |
+| webinfo                   | http://www.davep.org/emacs                                                   |
+| what-domain               | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| who-calls                 | http://www.phys.au.dk/~harder                                                |
+| win-disp-util             | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| with-file                 | http://www.cb1.com/~john/computing/emacs/lisp/file-handling                  |
+| with-saved-messages       | http://www.cb1.com/~john/computing/emacs/lisp/elisp-dev-tools                |
+| woof                      | http://www.xsteve.at/prg/emacs                                               |
+| wordnik                   | http://edward.oconnor.cx/elisp                                               |
+| words-in-elisp-symbols    | http://www.cb1.com/~john/computing/emacs/lisp/natural-language               |
+| x-dict                    | http://www.xsteve.at/prg/emacs                                               |
+| xml-event                 | http://edward.oconnor.cx/elisp                                               |
+| xml-stream                | http://edward.oconnor.cx/elisp                                               |
+| xrdb-mode                 | http://www.python.org/emacs                                                  |
+| xterm-frobs               | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| xterm-title               | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| xwindow-ring              | http://www.xsteve.at/prg/emacs                                               |
+| yank-whitespace           | http://www.cb1.com/~john/computing/emacs/lisp/editing                        |
+| yatex                     | http://www.yatex.org                                                         |
+| youwill                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| yow-fns                   | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| ysq                       | http://www.splode.com/~friedman/software/emacs-lisp                          |
+| ysq-modeline              | http://www.splode.com/~friedman/software/emacs-lisp                          |
+
+* Set ~emir--wikipage-alist~
+#+NAME: set--emir--wikipage-alist
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--wikipage-alist
+  (emir--save-variable 'emir--wikipage-alist value)
+#+END_SRC
+#+NAME: val--emir--wikipage-alist
+| Package             | URL                                  |
+|---------------------+--------------------------------------|
+| ajc-java-complete   | AutoJavaComplete                     |
+| arrange-buffers     | rcircDisplayChannels                 |
+| autolisp            | AutoLispMode                         |
+| bm                  | VisibleBookmarks                     |
+| breadcrumb          | BreadcrumbForEmacs                   |
+| buqis               | BufferQuickSwitcher                  |
+| columnize           | ColumnizeWords                       |
+| corba               | CorbaImplementation                  |
+| coroutine           | CoRoutines                           |
+| cssh                | ClusterSSH                           |
+| cua-lite            | CuaLightMode                         |
+| cucumber-i18n       | CucumberI18nEl                       |
+| cursor-chg          | ChangingCursorDynamically            |
+| deferred            | DeferredTask                         |
+| dired-filetype-face | DiredFileTypeFaces                   |
+| ebs                 | EasyBufferSwitch                     |
+| eform               | ElectricFormMode                     |
+| el-expectations     | EmacsLispExpectations                |
+| eoops               | EmacsObjectOrientedProgrammingSystem |
+| erobot              | EmacsRobots                          |
+| escreen             | EmacsScreen                          |
+| ethan-wspace        | EthanWhitespace                      |
+| etom                | EmacsToMaya                          |
+| ewb                 | EmacsWebBrowser                      |
+| fdlcap              | RotateWordCapitalization             |
+| flymake-for-csharp  | FlymakeCsharp                        |
+| google              | GoogleInterface                      |
+| inertial-scroll     | InertialScrolling                    |
+| ipa                 | InPlaceAnnotations                   |
+| java-complete       | JavaCompletion                       |
+| jcl-command-subset  | CommandSubset                        |
+| kdic                | KanjiDictionary                      |
+| loops               | LoopFindPackage                      |
+| magpie              | MagpieExpansion                      |
+| mc                  | MidnightCommanderMode                |
+| member-functions    | ExpandMemberFunctions                |
+| mhc                 | MessageHarmonizedCalendaring         |
+| modeline-posn       | ModeLinePosition                     |
+| move-and            | DeleteKillAndCopy                    |
+| mss                 | MakeSmartShortcuts                   |
+| mu                  | MushMode                             |
+| muse                | EmacsMuse                            |
+| mutt-alias          | MuttAliases                          |
+| mwe-log-commands    | CommandLogMode                       |
+| nc                  | NortonCommanderMode                  |
+| nntodo              | TodoGnus                             |
+| oauth               | OAuthLibrary                         |
+| osx-plist           | MacOSXPlist                          |
+| pcmpl-ssh           | PcompleteSSH                         |
+| ps2pdf              | PostScriptToPDF                      |
+| psvn                | SvnStatusMode                        |
+| pushy               | PushyCompletion                      |
+| rational            | RationalNumber                       |
+| rcirc-groups        | rcircGroupMode                       |
+| repdet              | RepetitionDetectionPackage           |
+| rfc                 | rfc-el                               |
+| ri                  | RiEl                                 |
+| riece               | RieceIrcClient                       |
+| rvm                 | RvmEl                                |
+| scrl-margs          | ScrollMargs                          |
+| summarye            | SummaryEditMode                      |
+| sys                 | SysPackage                           |
+| tag                 | FileTagUpdate                        |
+| technorati          | TechnoratiClient                     |
+| teco                | TecoInterpreterInElisp               |
+| thing-opt           | ThingAtPointOptional                 |
+| tiling              | QuickTiling                          |
+| typing              | TypingOfEmacs                        |
+| vbnet-mode          | VbDotNetMode                         |
+| versions            | VersionsPackage                      |
+| window-number       | NumberedWindows                      |
+| workgroups          | WorkgroupsForWindows                 |
+| xray                | XrayPackage                          |
+
+* Set ~emir--preferred-upstream~
+#+NAME: set--emir--preferred-upstreams
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--preferred-upstreams
+  (emir--save-variable 'emir--preferred-upstreams value)
+#+END_SRC
+#+NAME: val--emir--preferred-upstreams
+| Name               | Reason               |
+|--------------------+----------------------|
+| ace-window         | squash               |
+| ack                | [[https://github.com/leoliu/sokoban/issues/2][leoliu/sokoban#2]]     |
+| aggressive-indent  | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| async              | squash               |
+| avy                | squash               |
+| auctex             | actively maintained  |
+| beacon             | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| bug-hunter         | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| cedet              | not [[http://git.randomsample.de/cedet.git][randomsample.de]]  |
+| coffee-mode        | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67443674][#34#67443674]]         |
+| company            | squash [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67203059][#34#67203059]]  |
+| company-math       | squash [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164841865][#69#164841865]] |
+| company-statistics | squash               |
+| crisp              | builtin              |
+| dash               | external             |
+| dbus-codegen       | squash               |
+| diff-hl            | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67203059][#34#67203059]]         |
+| dts-mode           | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164455502][#69#164455502]]        |
+| easy-kill          | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164356304][melpa#3383#164356304]] |
+| eglot              | external             |
+| eldoc-eval         | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67275846][#34#67275846]]         |
+| electric-spacing   | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164462609][#69#164462609]]        |
+| ergoemacs-mode     | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164897071][melpa#3383#164897071]] |
+| exwm               | external             |
+| f90-face           | [[https://github.com/wence-/f90-iface/issues/1][wence-/f90-iface#1]]   |
+| ggtags             | [[https://github.com/leoliu/sokoban/issues/2][leoliu/sokoban#2]]     |
+| gnorb              | squash               |
+| gnus               | not [[http://git.gnus.org/gnus.git][gnus.org]]         |
+| hydra              | squash               |
+| ioccur             | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67275846][#34#67275846]]         |
+| ivy                | squash               |
+| js2-mode           | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67203059][#34#67203059]]         |
+| load-relative      |                      |
+| loc-changes        | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164446621][#69#164446621]]        |
+| loccur             | squash               |
+| math-symbol-lists  | squash [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164841865][#69#164841865]] |
+| minimap            | unfriendly fork      |
+| nadvice            | builtin              |
+| nameless           | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| names              | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| on-screen          | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164450677][#69#164450677]]        |
+| pabbrev            | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164418230][melpa#3383#164418230]] |
+| rich-minority      | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| sokoban            | [[https://github.com/leoliu/sokoban/issues/2][leoliu/sokoban#2]]     |
+| sotlisp            | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| spinner            | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| test-simple        | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164446621][#69#164446621]]        |
+| tiny               | squash               |
+| undo-tree          | squash               |
+| vlf                | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164299250][melpa#3383#164299250]] |
+| wcheck-mode        | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-68142129][#34#68142129]]         |
+| websocket          | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-68123453][#34#68123453]]         |
+| web-server         | [[https://github.com/milkypostman/melpa/pull/3394][melpa#3394]]           |
+| xelb               | external             |
+| yasnippet          | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67199311][#34#67199311]]         |
+| ztree              | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164285940][melpa#3383#164285940]] |
+
+* Set ~emir--preferred-builtins~
+#+NAME: set--emir--preferred-builtins
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--preferred-builtins
+  (emir--save-variable 'emir--preferred-builtins value)
+#+END_SRC
+#+NAME: val--emir--preferred-builtins
+| Name       | Reason              |
+|------------+---------------------|
+| cl-generic | backport of builtin |
+| cl-lib     | backport of builtin |
+| nadvice    | backport of builtin |
+| seq        | backport of builtin |
+
+* Set ~emir--diverging-reason~
+#+NAME: set--emir--diverging-reason
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--diverging-reason
+  (emir--save-variable 'emir--diverging-reason value)
+#+END_SRC
+#+NAME: val--emir--diverging-reason
+| Package              | Reason              |
+|----------------------+---------------------|
+| auth-source-pass     | part of Emacs 26.1  |
+| autotest             | all-in-one repo     |
+| bibliothek           | all-in-one repo     |
+| cfengine-code-style  | mostly non-elisp    |
+| clang-format         | mostly non-elisp    |
+| cmake-mode           | mostly non-elisp    |
+| cython-mode          | mostly non-elisp    |
+| diffscuss-mode       | mostly non-elisp    |
+| fold-dwim-org        | obsolete dependency |
+| forecast             | all-in-one repo     |
+| google-c-style       | mostly non-elisp    |
+| less-css-mode        | part of Emacs 26.1  |
+| modus-operandi-theme | dedicated branches  |
+| modus-vivendi-theme  | dedicated branches  |
+| nemerle              | mostly non-elisp    |
+| ninja-mode           | mostly non-elisp    |
+| org-variable-pitch   | all-in-one repo     |
+| paper-theme          | all-in-one repo     |
+| po-mode              | mostly non-elisp    |
+| pylint               | mostly non-elisp    |
+| smart-compile        | all-in-one repo     |
+| thrift               | mostly non-elisp    |
+| toggle               | all-in-one repo     |
+| wisp-mode            | mostly non-elisp    |
+
+* Set ~emir--library-reason~
+#+NAME: set--emir--library-reason
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--library-reason
+  (emir--save-variable 'emir--library-reason value)
+#+END_SRC
+#+NAME: val--emir--library-reason
+| Package               | Reason                     |
+|-----------------------+----------------------------|
+| auctex                | pkg/lib name mismatch      |
+| chumpy-windows        | no primary entry point     |
+| ddskk                 | pkg/lib name mismatch      |
+| dired-hacks           | no primary entry point     |
+| edb                   | no/mismatched main library |
+| emacs-speaks-nonmem   | no/mismatched main library |
+| emux                  | no/mismatched main library |
+| ert-runner            | not a library [[https://github.com/rejeep/ert-runner.el/pull/16][#16]]          |
+| eziam-theme           | two-variant theme          |
+| farmhouse-theme       | two-variant theme [[https://github.com/mattly/emacs-farmhouse-theme/pull/3][#3]]       |
+| git-undo              | defect, pending [[https://github.com/jwiegley/git-undo-el/pull/2][#2]]         |
+| html5                 | no/mismatched main library |
+| literate-starter-kit  | not a package              |
+| majapahit-theme       | two-variant theme [[https://gitlab.com/franksn/majapahit-theme/merge_requests/1][#1]]       |
+| modus-themes          | two-variant theme          |
+| ne2wm                 | no/mismatched main library |
+| omtose-phellack-theme | two-variant theme          |
+| punpun-theme          | two-variant theme [[https://github.com/wasamasa/punpun-theme/pull/7][#7]]       |
+| spacemacs-theme       | two-variant theme [[https://github.com/nashamri/spacemacs-theme/pull/63][#63]]      |
+| ultratex              | no/mismatched main library |
+| uni-confusables       | generated                  |
+
+* Set ~emir--orphanage-reason~
+#+NAME: set--emir--orphanage-reason
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--orphanage-reason
+  (emir--save-variable 'emir--orphanage-reason value)
+#+END_SRC
+#+NAME: val--emir--orphanage-reason
+| Package              | Reason                  |
+|----------------------+-------------------------|
+| 4clojure             | dropped by maintainer   |
+| ac-alchemist         | dropped by maintainer   |
+| ac-capf              | dropped by maintainer   |
+| ac-emoji             | dropped by maintainer   |
+| ac-etags             | dropped by maintainer   |
+| ac-ispell            | dropped by maintainer   |
+| ac-racer             | dropped by maintainer   |
+| ansible-doc          | dropped by maintainer   |
+| anzu                 | dropped by maintainer   |
+| applescript-mode     | dropped by maintainer   |
+| caml                 | semi-automatic import   |
+| cg                   | semi-automatic import   |
+| clang-format         | semi-automatic import   |
+| codic                | dropped by maintainer   |
+| color-theme          | semi-automatic import   |
+| company-jedi         | dropped by maintainer   |
+| confluence           | semi-automatic import   |
+| cpp-auto-include     | dropped by maintainer   |
+| cpp-auto-include     | upstream unresponsive   |
+| crontab-mode         | upstream disappeared    |
+| darcsum              | semi-automatic import   |
+| dedicated            | upstream disappeared    |
+| dic-lookup-w3m       | semi-automatic import   |
+| dired-k              | dropped by maintainer   |
+| direx                | dropped by maintainer   |
+| dirtree              | wiki needed by non-wiki |
+| docean               | dropped by maintainer   |
+| doom                 | upstream unresponsive   |
+| dsvn                 | semi-automatic import   |
+| easy-highlight       | dropped by maintainer   |
+| ecasound             | upstream disappeared    |
+| edb                  | upstream unresponsive   |
+| elisp-depend         | upstream unresponsive   |
+| emamux               | dropped by maintainer   |
+| emamux-ruby-test     | dropped by maintainer   |
+| ert-expectations     | wiki needed by non-wiki |
+| evil-anzu            | dropped by maintainer   |
+| evil-textobj-line    | dropped by maintainer   |
+| fancy-battery        | dropped by maintainer   |
+| filladapt            | upstream unresponsive   |
+| findr                | wiki needed by non-wiki |
+| fontawesome          | dropped by maintainer   |
+| gh-md                | dropped by maintainer   |
+| git-gutter           | dropped by maintainer   |
+| git-gutter-fringe    | dropped by maintainer   |
+| git-messenger        | dropped by maintainer   |
+| gnuplot              | dropped by maintainer   |
+| go-add-tags          | dropped by maintainer   |
+| go-direx             | dropped by maintainer   |
+| go-eldoc             | dropped by maintainer   |
+| go-impl              | dropped by maintainer   |
+| god-mode             | dropped by maintainer   |
+| gom-mode             | dropped by maintainer   |
+| haxe-mode            | dropped by maintainer   |
+| helm-ack             | dropped by maintainer   |
+| helm-ag              | dropped by maintainer   |
+| helm-css-scss        | dropped by maintainer   |
+| helm-github-issues   | dropped by maintainer   |
+| helm-gtags           | dropped by maintainer   |
+| helm-haskell-import  | dropped by maintainer   |
+| helm-ispell          | dropped by maintainer   |
+| helm-ls-svn          | semi-automatic import   |
+| helm-open-github     | dropped by maintainer   |
+| helm-package         | dropped by maintainer   |
+| helm-perldoc         | dropped by maintainer   |
+| helm-pydoc           | dropped by maintainer   |
+| helm-robe            | dropped by maintainer   |
+| helm-swoop           | dropped by maintainer   |
+| helm-themes          | dropped by maintainer   |
+| hide-lines           | wiki needed by non-wiki |
+| http-post-simple     | wiki needed by non-wiki |
+| hyperspec            | multiple non-upstreams  |
+| import-popwin        | dropped by maintainer   |
+| jedi-eldoc           | dropped by maintainer   |
+| key-chord            | wiki needed by non-wiki |
+| keydef               | upstream disappeared    |
+| konoha-mode          | dropped by maintainer   |
+| levenshtein          | wiki needed by non-wiki |
+| linkd                | wiki multiple files     |
+| literate-coffee-mode | dropped by maintainer   |
+| look-mode            | wiki needed by non-wiki |
+| ltsv                 | dropped by maintainer   |
+| magit-stgit          | dropped by maintainer   |
+| magit-svn            | dropped by maintainer   |
+| manage-minor-mode    | dropped by maintainer   |
+| miniedit             | upstream disappeared    |
+| mongo                | dropped by maintainer   |
+| multi-term           | wiki needed by non-wiki |
+| nxhtml               | semi-automatic import   |
+| oberon               | upstream unresponsive   |
+| octicons             | dropped by maintainer   |
+| opam                 | dropped by maintainer   |
+| org-bullets          | upstream unresponsive   |
+| org-grep             | maintainer is dead      |
+| osd                  | upstream disappeared    |
+| osx-trash            | dropped by maintainer   |
+| ov                   | dropped by maintainer   |
+| pager                | upstream disappeared    |
+| perl-utils           | dropped by maintainer   |
+| picolisp             | manual tarball import   |
+| pkg-info             | dropped by maintainer   |
+| pointback            | upstream disappeared    |
+| popup-complete       | dropped by maintainer   |
+| popwin               | dropped by maintainer   |
+| pyimpsort            | dropped by maintainer   |
+| quickrun             | dropped by maintainer   |
+| read-char-spec       | upstream unresponsive   |
+| reverse-theme        | dropped by maintainer   |
+| ruby-additional      | semi-automatic import   |
+| session              | manual tarball import   |
+| setnu                | upstream unresponsive   |
+| shell-command        | wiki needed by non-wiki |
+| shell-history        | wiki needed by non-wiki |
+| showtip              | wiki needed by non-wiki |
+| smarty-mode          | upstream disappeared    |
+| smeargle             | dropped by maintainer   |
+| sml-modeline         | manual tarball import   |
+| sound-wav            | dropped by maintainer   |
+| sourcemap            | dropped by maintainer   |
+| splitjoin            | dropped by maintainer   |
+| sr-speedbar          | wiki needed by non-wiki |
+| swoop                | dropped by maintainer   |
+| tail                 | upstream disappeared    |
+| terraform-mode       | dropped by maintainer   |
+| test-more            | dropped by maintainer   |
+| tex-smart-umlauts    | semi-automatic import   |
+| text-translator      | semi-automatic import   |
+| thingopt             | dropped by maintainer   |
+| tora-mode            | dropped by maintainer   |
+| transpose-frame      | wiki needed by non-wiki |
+| tree-mode            | wiki needed by non-wiki |
+| undo-tree            | two diverging upstreams |
+| undohist             | dropped by maintainer   |
+| vala-mode            | upstream disappeared    |
+| vm                   | semi-automatic import   |
+| w32-browser          | wiki needed by non-wiki |
+| w3m                  | semi-automatic import   |
+| windata              | wiki needed by non-wiki |
+| yafolding            | upstream unresponsive   |
+| yascroll             | dropped by maintainer   |
+| zoom-window          | dropped by maintainer   |
+
+* Set ~emir--other-vcs~
+#+NAME: set--emir--other-vcs
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--other-vcs
+  (emir--save-variable 'emir--other-vcs value)
+#+END_SRC
+#+NAME: val--emir--other-vcs
+| Package           | Vcs   |
+|-------------------+-------|
+| cg                | svn   |
+| clang-format      | svn   |
+| color-theme       | bzr   |
+| confluence        | svn   |
+| darcsum           | darcs |
+| dic-lookup-w3m    | svn   |
+| dsvn              | svn   |
+| helm-ls-svn       | svn   |
+| nxhtml            | bzr   |
+| ruby-additional   | svn   |
+| tex-smart-umlauts | darcs |
+| text-translator   | bzr   |
+| vm                | bzr   |
+| w3m               | cvs   |
+
+* Update ~emir--archived-packages~
+#+NAME: set--emir--archived-packages
+#+BEGIN_SRC emacs-lisp :results silent
+  (emir-gh-foreach-query
+   '(isArchived)
+   (lambda (data)
+     (customize-save-variable
+      'emir--archived-packages
+      (mapcan (pcase-lambda (`(,name . ,alist))
+                (and-let* ((archived (alist-get 'isArchived alist)))
+                  (list name)))
+              data))))
+#+END_SRC
+
+* Update ~emir--moved-packages~
+#+NAME: set--emir--moved-packages
+#+BEGIN_SRC emacs-lisp :results silent
+  (emir-gh-foreach-query
+   '(nameWithOwner)
+   (lambda (data)
+     (customize-save-variable
+      'emir--moved-packages
+      (mapcan (pcase-lambda (`(,name . ,data))
+                (message "Checking %s..." name)
+                (let* ((pkg (epkg name))
+                       (old (concat (oref pkg upstream-user) "/"
+                                    (oref pkg upstream-name)))
+                       (new (cdr (assq 'nameWithOwner data))))
+                  (prog1 (and (not (equal new old))
+                              (list (list name old new)))
+                    (message "Checking %s...done" name))))
+              data)))))
+#+END_SRC
+
+* _
+;; Local Variables:
+;; indent-tabs-mode: nil
+;; End:
