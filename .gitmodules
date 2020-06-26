@@ -7272,6 +7272,9 @@
 [submodule "flymake-json"]
 	path = mirror/flymake-json
 	url = git@github.com:emacsmirror/flymake-json.git
+[submodule "flymake-kondor"]
+	path = mirror/flymake-kondor
+	url = git@github.com:emacsmirror/flymake-kondor.git
 [submodule "flymake-ktlint"]
 	path = mirror/flymake-ktlint
 	url = git@github.com:emacsmirror/flymake-ktlint.git
