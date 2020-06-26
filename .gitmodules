@@ -17477,8 +17477,8 @@
 	path = mirror/related
 	url = git@github.com:emacsmirror/related.git
 [submodule "relative-buffers"]
-	path = mirror/relative-buffers
-	url = git@github.com:emacsmirror/relative-buffers.git
+	path = attic/relative-buffers
+	url = git@github.com:emacsattic/relative-buffers.git
 [submodule "relative-line-numbers"]
 	path = attic/relative-line-numbers
 	url = git@github.com:emacsattic/relative-line-numbers.git
