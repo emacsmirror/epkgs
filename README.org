@@ -1,0 +1,61 @@
+* The Emacsmirror
+
+The Emacsmirror is a growing collection of [[https://www.gnu.org/software/emacs][Emacs]] Lisp packages.  All
+mirrored packages are available as [[https://git-scm.com][Git]] repositories.  In most cases
+this is done by mirroring the upstream Git repository, but if upstream
+uses something else, then the mirror nevertheless makes the package
+available as a Git repository.
+
+* This Repository
+
+This repository is an integral part of the Emacsmirror.  It contains:
+
+- An SQLite database with information about all mirrored packages, as
+  well as all shelved packages (those in the attic) and all built-in
+  packages.
+
+- Submodules for all mirrored and shelved packages.  (If you don't
+  want to use these submodules, then you can just forgo checking them
+  out.)
+
+* Documentation
+
+- The Emacsmirror's [[https://emacsmirror.net][homepage]] documents how to get started.
+
+- Some package that are related to the Emacsmirror come with [[https://emacsmirror.net/manual][manuals]].
+
+* Changes
+** 2020-06-26 <https://github.com/emacscollective/borg/issues/91>
+
+- The database is now being stored as a text file instead of in its
+  binary form.  That gives us more useful diffs and most importantly
+  it allows us to shrink the size of the repository.  To accomplish
+  that the old history had to be removed and is now available at
+  https://github.com/emacsmirror/epkgs-v4.  The database schemata
+  revision is now 5.
+  
+** 2017-2019
+
+- I keep forgetting to update the changelog.  In the process the
+  database format goes from schemata revision 2 to 4.
+
+** 2016-11-04
+
+- All packages that are available from Melpa are also being mirrored
+  now.
+
+** 2016-11-02
+
+- Bumped database version to ~2~ after adding the new columns and tables
+  ~melpa-recipes~, ~gelpa-recipes~ and ~builtin-libraries~.
+
+** 2016-10-28
+
+- Themes are being mirrored too now.  Previously only a select few
+  themes were mirrored.  Themes still don't get the same protection
+  as other packages; if they cause issues then they are being removed
+  instead of being shelved.
+
+** 2016-04-16
+
+- Initial release.
