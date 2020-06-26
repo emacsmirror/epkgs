@@ -1,5 +1,4 @@
 /.dir-locals-2.el
 /epkg.rev
 /epkg.sqlite
-/export/
-/import/
+/epkg.sqlite-journal
