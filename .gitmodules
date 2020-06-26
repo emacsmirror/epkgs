@@ -15113,6 +15113,9 @@
 [submodule "orgit"]
 	path = mirror/orgit
 	url = git@github.com:emacsmirror/orgit.git
+[submodule "orgit-forge"]
+	path = mirror/orgit-forge
+	url = git@github.com:emacsmirror/orgit-forge.git
 [submodule "orglink"]
 	path = mirror/orglink
 	url = git@github.com:emacsmirror/orglink.git
