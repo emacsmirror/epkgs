@@ -3896,8 +3896,8 @@
 	path = mirror/di
 	url = git@github.com:emacsmirror/di.git
 [submodule "di-macs"]
-	path = mirror/di-macs
-	url = git@github.com:emacsmirror/di-macs.git
+	path = attic/di-macs
+	url = git@github.com:emacsattic/di-macs.git
 [submodule "diacriticalize"]
 	path = attic/diacriticalize
 	url = git@github.com:emacsattic/diacriticalize.git
