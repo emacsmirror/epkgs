@@ -510,8 +510,8 @@
 	path = mirror/angry-police-captain
 	url = git@github.com:emacsmirror/angry-police-captain.git
 [submodule "angular-mode"]
-	path = mirror/angular-mode
-	url = git@github.com:emacsmirror/angular-mode.git
+	path = attic/angular-mode
+	url = git@github.com:emacsattic/angular-mode.git
 [submodule "angular-snippets"]
 	path = mirror/angular-snippets
 	url = git@github.com:emacsmirror/angular-snippets.git
