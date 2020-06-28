@@ -20601,9 +20601,6 @@
 [submodule "ts-mode"]
 	path = mirror/ts-mode
 	url = git@github.com:emacsmirror/ts-mode.git
-[submodule "tsql-indent"]
-	path = mirror/tsql-indent
-	url = git@github.com:emacsmirror/tsql-indent.git
 [submodule "tss"]
 	path = mirror/tss
 	url = git@github.com:emacsmirror/tss.git
