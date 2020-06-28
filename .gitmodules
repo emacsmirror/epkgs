@@ -6121,6 +6121,9 @@
 [submodule "evil-paredit"]
 	path = mirror/evil-paredit
 	url = git@github.com:emacsmirror/evil-paredit.git
+[submodule "evil-pinyin"]
+	path = mirror/evil-pinyin
+	url = git@github.com:emacsmirror/evil-pinyin.git
 [submodule "evil-python-movement"]
 	path = mirror/evil-python-movement
 	url = git@github.com:emacsmirror/evil-python-movement.git
