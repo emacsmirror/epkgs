@@ -12207,6 +12207,9 @@
 [submodule "lsp-sh"]
 	path = attic/lsp-sh
 	url = git@github.com:emacsattic/lsp-sh.git
+[submodule "lsp-sonarlint"]
+	path = mirror/lsp-sonarlint
+	url = git@github.com:emacsmirror/lsp-sonarlint.git
 [submodule "lsp-sourcekit"]
 	path = mirror/lsp-sourcekit
 	url = git@github.com:emacsmirror/lsp-sourcekit.git
