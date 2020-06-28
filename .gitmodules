@@ -14617,8 +14617,8 @@
 	path = mirror/org-defprop
 	url = git@github.com:emacsmirror/org-defprop.git
 [submodule "org-doing"]
-	path = mirror/org-doing
-	url = git@github.com:emacsmirror/org-doing.git
+	path = attic/org-doing
+	url = git@github.com:emacsattic/org-doing.git
 [submodule "org-dotemacs"]
 	path = mirror/org-dotemacs
 	url = git@github.com:emacsmirror/org-dotemacs.git
