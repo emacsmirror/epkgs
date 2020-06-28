@@ -2727,6 +2727,9 @@
 [submodule "comb"]
 	path = mirror/comb
 	url = git@github.com:emacsmirror/comb.git
+[submodule "comby"]
+	path = mirror/comby
+	url = git@github.com:emacsmirror/comby.git
 [submodule "come-fly"]
 	path = mirror/come-fly
 	url = git@github.com:emacsmirror/come-fly.git
