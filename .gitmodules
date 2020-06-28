@@ -19031,8 +19031,8 @@
 	path = attic/sorter
 	url = git@github.com:emacsattic/sorter.git
 [submodule "sos"]
-	path = mirror/sos
-	url = git@github.com:emacsmirror/sos.git
+	path = attic/sos
+	url = git@github.com:emacsattic/sos.git
 [submodule "sotclojure"]
 	path = mirror/sotclojure
 	url = git@github.com:emacsmirror/sotclojure.git
