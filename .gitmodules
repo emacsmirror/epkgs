@@ -16476,6 +16476,9 @@
 [submodule "presentation"]
 	path = mirror/presentation
 	url = git@github.com:emacsmirror/presentation.git
+[submodule "prettier"]
+	path = mirror/prettier
+	url = git@github.com:emacsmirror/prettier.git
 [submodule "prettier-js"]
 	path = mirror/prettier-js
 	url = git@github.com:emacsmirror/prettier-js.git
