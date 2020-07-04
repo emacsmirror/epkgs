@@ -17112,6 +17112,9 @@
 [submodule "rainbow-delimiters"]
 	path = mirror/rainbow-delimiters
 	url = git@github.com:emacsmirror/rainbow-delimiters.git
+[submodule "rainbow-fart"]
+	path = mirror/rainbow-fart
+	url = git@github.com:emacsmirror/rainbow-fart.git
 [submodule "rainbow-identifiers"]
 	path = mirror/rainbow-identifiers
 	url = git@github.com:emacsmirror/rainbow-identifiers.git
