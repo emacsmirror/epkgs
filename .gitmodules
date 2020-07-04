@@ -10692,6 +10692,9 @@
 	path = mirror/ivy-dired-history
 	url = git@github.com:emacsmirror/ivy-dired-history.git
 	branch = master
+[submodule "ivy-emms"]
+	path = mirror/ivy-emms
+	url = git@github.com:emacsmirror/ivy-emms.git
 [submodule "ivy-emoji"]
 	path = mirror/ivy-emoji
 	url = git@github.com:emacsmirror/ivy-emoji.git
