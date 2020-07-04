@@ -20782,6 +20782,9 @@
 [submodule "ucs-utils"]
 	path = mirror/ucs-utils
 	url = git@github.com:emacsmirror/ucs-utils.git
+[submodule "udev-mode"]
+	path = mirror/udev-mode
+	url = git@github.com:emacsmirror/udev-mode.git
 [submodule "uimage"]
 	path = mirror/uimage
 	url = git@github.com:emacsmirror/uimage.git
