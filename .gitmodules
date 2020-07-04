@@ -20556,6 +20556,9 @@
 [submodule "transpose-mark"]
 	path = mirror/transpose-mark
 	url = git@github.com:emacsmirror/transpose-mark.git
+[submodule "transwin"]
+	path = mirror/transwin
+	url = git@github.com:emacsmirror/transwin.git
 [submodule "trashcan"]
 	path = attic/trashcan
 	url = git@github.com:emacsattic/trashcan.git
