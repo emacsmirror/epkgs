@@ -14217,6 +14217,9 @@
 [submodule "ob-kotlin"]
 	path = mirror/ob-kotlin
 	url = git@github.com:emacsmirror/ob-kotlin.git
+[submodule "ob-latex-as-png"]
+	path = mirror/ob-latex-as-png
+	url = git@github.com:emacsmirror/ob-latex-as-png.git
 [submodule "ob-lfe"]
 	path = mirror/ob-lfe
 	url = git@github.com:emacsmirror/ob-lfe.git
