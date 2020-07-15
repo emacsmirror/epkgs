@@ -16724,6 +16724,9 @@
 [submodule "psl-mode"]
 	path = mirror/psl-mode
 	url = git@github.com:emacsmirror/psl-mode.git
+[submodule "pspp-mode"]
+	path = mirror/pspp-mode
+	url = git@github.com:emacsmirror/pspp-mode.git
 [submodule "pst-format"]
 	path = attic/pst-format
 	url = git@github.com:emacsattic/pst-format.git
