@@ -13214,6 +13214,9 @@
 	path = mirror/mosey
 	url = git@github.com:emacsmirror/mosey.git
 	branch = master
+[submodule "most-used-words"]
+	path = mirror/most-used-words
+	url = git@github.com:emacsmirror/most-used-words.git
 [submodule "mote-mode"]
 	path = mirror/mote-mode
 	url = git@github.com:emacsmirror/mote-mode.git
