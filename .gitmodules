@@ -2910,6 +2910,9 @@
 	path = mirror/company-lua
 	url = git@github.com:emacsmirror/company-lua.git
 	branch = master
+[submodule "company-manually"]
+	path = mirror/company-manually
+	url = git@github.com:emacsmirror/company-manually.git
 [submodule "company-math"]
 	path = mirror/company-math
 	url = git@github.com:emacsmirror/company-math.git
