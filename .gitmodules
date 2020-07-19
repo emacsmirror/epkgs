@@ -4294,6 +4294,9 @@
 [submodule "dkmisc"]
 	path = mirror/dkmisc
 	url = git@github.com:emacsmirror/dkmisc.git
+[submodule "dmacro"]
+	path = mirror/dmacro
+	url = git@github.com:emacsmirror/dmacro.git
 [submodule "dmenu"]
 	path = mirror/dmenu
 	url = git@github.com:emacsmirror/dmenu.git
