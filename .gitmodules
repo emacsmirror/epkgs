@@ -19326,6 +19326,9 @@
 [submodule "sqlite-dump"]
 	path = attic/sqlite-dump
 	url = git@github.com:emacsattic/sqlite-dump.git
+[submodule "sqlite3"]
+	path = mirror/sqlite3
+	url = git@github.com:emacsmirror/sqlite3.git
 [submodule "sqlplus"]
 	path = mirror/sqlplus
 	url = git@github.com:emacsmirror/sqlplus.git
