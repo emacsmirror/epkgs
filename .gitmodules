@@ -9186,6 +9186,9 @@
 	path = mirror/helm-hunks
 	url = git@github.com:emacsmirror/helm-hunks.git
 	branch = master
+[submodule "helm-icons"]
+	path = mirror/helm-icons
+	url = git@github.com:emacsmirror/helm-icons.git
 [submodule "helm-idris"]
 	path = mirror/helm-idris
 	url = git@github.com:emacsmirror/helm-idris.git
