@@ -2518,6 +2518,9 @@
 [submodule "clojure-cheatsheet"]
 	path = attic/clojure-cheatsheet
 	url = git@github.com:emacsattic/clojure-cheatsheet.git
+[submodule "clojure-essential-ref"]
+	path = mirror/clojure-essential-ref
+	url = git@github.com:emacsmirror/clojure-essential-ref.git
 [submodule "clojure-mode"]
 	path = mirror/clojure-mode
 	url = git@github.com:emacsmirror/clojure-mode.git
