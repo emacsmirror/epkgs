@@ -19725,6 +19725,9 @@
 [submodule "sxiv"]
 	path = mirror/sxiv
 	url = git@github.com:emacsmirror/sxiv.git
+[submodule "symbol-navigation-hydra"]
+	path = mirror/symbol-navigation-hydra
+	url = git@github.com:emacsmirror/symbol-navigation-hydra.git
 [submodule "symbol-overlay"]
 	path = mirror/symbol-overlay
 	url = git@github.com:emacsmirror/symbol-overlay.git
