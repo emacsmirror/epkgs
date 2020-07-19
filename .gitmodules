@@ -6487,6 +6487,9 @@
 [submodule "feebleline"]
 	path = mirror/feebleline
 	url = git@github.com:emacsmirror/feebleline.git
+[submodule "feed-discovery"]
+	path = mirror/feed-discovery
+	url = git@github.com:emacsmirror/feed-discovery.git
 [submodule "fenc"]
 	path = mirror/fenc
 	url = git@github.com:emacsmirror/fenc.git
