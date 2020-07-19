@@ -21652,6 +21652,9 @@
 [submodule "weibo"]
 	path = mirror/weibo
 	url = git@github.com:emacsmirror/weibo.git
+[submodule "weyland-yutani-theme"]
+	path = mirror/weyland-yutani-theme
+	url = git@github.com:emacsmirror/weyland-yutani-theme.git
 [submodule "wget"]
 	path = attic/wget
 	url = git@github.com:emacsattic/wget.git
