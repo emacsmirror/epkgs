@@ -19672,6 +19672,9 @@
 [submodule "swbuff-x"]
 	path = attic/swbuff-x
 	url = git@github.com:emacsattic/swbuff-x.git
+[submodule "sweet-theme"]
+	path = mirror/sweet-theme
+	url = git@github.com:emacsmirror/sweet-theme.git
 [submodule "sweetgreen"]
 	path = mirror/sweetgreen
 	url = git@github.com:emacsmirror/sweetgreen.git
