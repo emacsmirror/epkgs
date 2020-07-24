@@ -21826,6 +21826,9 @@
 [submodule "windsize"]
 	path = mirror/windsize
 	url = git@github.com:emacsmirror/windsize.git
+[submodule "windswap"]
+	path = mirror/windswap
+	url = git@github.com:emacsmirror/windswap.git
 [submodule "windwow"]
 	path = mirror/windwow
 	url = git@github.com:emacsmirror/windwow.git
