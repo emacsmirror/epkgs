@@ -18692,6 +18692,9 @@
 [submodule "singlebind"]
 	path = mirror/singlebind
 	url = git@github.com:emacsmirror/singlebind.git
+[submodule "sis"]
+	path = mirror/sis
+	url = git@github.com:emacsmirror/sis.git
 [submodule "sisu-mode"]
 	path = mirror/sisu-mode
 	url = git@github.com:emacsmirror/sisu-mode.git
@@ -18860,9 +18863,6 @@
 [submodule "smart-indent-rigidly"]
 	path = mirror/smart-indent-rigidly
 	url = git@github.com:emacsmirror/smart-indent-rigidly.git
-[submodule "smart-input-source"]
-	path = mirror/smart-input-source
-	url = git@github.com:emacsmirror/smart-input-source.git
 [submodule "smart-jump"]
 	path = mirror/smart-jump
 	url = git@github.com:emacsmirror/smart-jump.git
