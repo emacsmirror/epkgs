@@ -20999,6 +20999,9 @@
 [submodule "unison-mode"]
 	path = mirror/unison-mode
 	url = git@github.com:emacsmirror/unison-mode.git
+[submodule "unisonlang-mode"]
+	path = mirror/unisonlang-mode
+	url = git@github.com:emacsmirror/unisonlang-mode.git
 [submodule "unit-test"]
 	path = mirror/unit-test
 	url = git@github.com:emacsmirror/unit-test.git
