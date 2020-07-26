@@ -15602,6 +15602,9 @@
 	path = mirror/parinfer
 	url = git@github.com:emacsmirror/parinfer.git
 	branch = master
+[submodule "parinfer-rust-mode"]
+	path = mirror/parinfer-rust-mode
+	url = git@github.com:emacsmirror/parinfer-rust-mode.git
 [submodule "parrot"]
 	path = mirror/parrot
 	url = git@github.com:emacsmirror/parrot.git
