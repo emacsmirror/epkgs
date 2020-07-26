@@ -8652,6 +8652,9 @@
 	path = mirror/gruber-darker-theme
 	url = git@github.com:emacsmirror/gruber-darker-theme.git
 	branch = master
+[submodule "grugru"]
+	path = mirror/grugru
+	url = git@github.com:emacsmirror/grugru.git
 [submodule "grunt"]
 	path = mirror/grunt
 	url = git@github.com:emacsmirror/grunt.git
