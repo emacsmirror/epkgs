@@ -20881,6 +20881,9 @@
 [submodule "underline-with-char"]
 	path = mirror/underline-with-char
 	url = git@github.com:emacsmirror/underline-with-char.git
+[submodule "undersea-theme"]
+	path = mirror/undersea-theme
+	url = git@github.com:emacsmirror/undersea-theme.git
 [submodule "underwater-theme"]
 	path = mirror/underwater-theme
 	url = git@github.com:emacsmirror/underwater-theme.git
