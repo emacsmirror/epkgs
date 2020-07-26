@@ -18085,6 +18085,9 @@
 	path = mirror/savekill
 	url = git@github.com:emacsmirror/savekill.git
 	branch = master
+[submodule "saveplace-pdf-view"]
+	path = mirror/saveplace-pdf-view
+	url = git@github.com:emacsmirror/saveplace-pdf-view.git
 [submodule "saw-client"]
 	path = mirror/saw-client
 	url = git@github.com:emacsmirror/saw-client.git
