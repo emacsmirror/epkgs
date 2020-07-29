@@ -14827,6 +14827,9 @@
 [submodule "org-mind-map"]
 	path = mirror/org-mind-map
 	url = git@github.com:emacsmirror/org-mind-map.git
+[submodule "org-ml"]
+	path = mirror/org-ml
+	url = git@github.com:emacsmirror/org-ml.git
 [submodule "org-mobile-sync"]
 	path = mirror/org-mobile-sync
 	url = git@github.com:emacsmirror/org-mobile-sync.git
