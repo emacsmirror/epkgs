@@ -13501,8 +13501,8 @@
 	path = mirror/multiple-line-edit
 	url = git@github.com:emacsmirror/multiple-line-edit.git
 [submodule "multiselect"]
-	path = mirror/multiselect
-	url = git@github.com:emacsmirror/multiselect.git
+	path = attic/multiselect
+	url = git@github.com:emacsattic/multiselect.git
 [submodule "multishell"]
 	path = mirror/multishell
 	url = git@github.com:emacsmirror/multishell.git
