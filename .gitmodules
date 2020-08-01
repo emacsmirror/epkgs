@@ -250,8 +250,8 @@
 	path = mirror/activator
 	url = git@github.com:emacsmirror/activator.git
 [submodule "active-menu"]
-	path = mirror/active-menu
-	url = git@github.com:emacsmirror/active-menu.git
+	path = attic/active-menu
+	url = git@github.com:emacsattic/active-menu.git
 [submodule "activity-watch-mode"]
 	path = mirror/activity-watch-mode
 	url = git@github.com:emacsmirror/activity-watch-mode.git
