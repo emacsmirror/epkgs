@@ -21551,8 +21551,8 @@
 	path = mirror/watch-buffer
 	url = git@github.com:emacsmirror/watch-buffer.git
 [submodule "watch-sexp"]
-	path = mirror/watch-sexp
-	url = git@github.com:emacsmirror/watch-sexp.git
+	path = attic/watch-sexp
+	url = git@github.com:emacsattic/watch-sexp.git
 [submodule "watson"]
 	path = attic/watson
 	url = git@github.com:emacsattic/watson.git
