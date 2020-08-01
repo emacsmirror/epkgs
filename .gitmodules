@@ -13266,8 +13266,8 @@
 	path = attic/mouse-embrace
 	url = git@github.com:emacsattic/mouse-embrace.git
 [submodule "mouse-focus"]
-	path = mirror/mouse-focus
-	url = git@github.com:emacsmirror/mouse-focus.git
+	path = attic/mouse-focus
+	url = git@github.com:emacsattic/mouse-focus.git
 [submodule "mouse-slider-mode"]
 	path = mirror/mouse-slider-mode
 	url = git@github.com:emacsmirror/mouse-slider-mode.git
