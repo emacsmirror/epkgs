@@ -19931,7 +19931,7 @@
 	path = mirror/task-timer
 	url = git@github.com:emacsmirror/task-timer.git
 [submodule "taskjuggler-mode"]
-	path = mirror/taskjuggler-mode
+	path = attic/taskjuggler-mode
 	url = git@github.com:emacsmirror/taskjuggler-mode.git
 [submodule "taskpaper"]
 	path = mirror/taskpaper
@@ -20193,8 +20193,8 @@
 	path = attic/texinfo-warn
 	url = git@github.com:emacsattic/texinfo-warn.git
 [submodule "texletter"]
-	path = mirror/texletter
-	url = git@github.com:emacsmirror/texletter.git
+	path = attic/texletter
+	url = git@github.com:emacsattic/texletter.git
 [submodule "texmed"]
 	path = attic/texmed
 	url = git@github.com:emacsattic/texmed.git
