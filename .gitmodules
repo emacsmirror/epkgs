@@ -20552,8 +20552,8 @@
 	path = mirror/trac-wiki
 	url = git@github.com:emacsmirror/trac-wiki.git
 [submodule "track-scroll"]
-	path = mirror/track-scroll
-	url = git@github.com:emacsmirror/track-scroll.git
+	path = attic/track-scroll
+	url = git@github.com:emacsattic/track-scroll.git
 [submodule "tracwiki-mode"]
 	path = mirror/tracwiki-mode
 	url = git@github.com:emacsmirror/tracwiki-mode.git
