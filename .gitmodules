@@ -19716,8 +19716,8 @@
 	path = mirror/swiss-holidays
 	url = git@github.com:emacsmirror/swiss-holidays.git
 [submodule "swiss-move"]
-	path = mirror/swiss-move
-	url = git@github.com:emacsmirror/swiss-move.git
+	path = attic/swiss-move
+	url = git@github.com:emacsattic/swiss-move.git
 [submodule "switch-buffer-functions"]
 	path = mirror/switch-buffer-functions
 	url = git@github.com:emacsmirror/switch-buffer-functions.git
