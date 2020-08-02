@@ -22171,6 +22171,9 @@
 [submodule "xelb"]
 	path = mirror/xelb
 	url = git@github.com:emacsmirror/xelb.git
+[submodule "xenops"]
+	path = mirror/xenops
+	url = git@github.com:emacsmirror/xenops.git
 [submodule "xgtags"]
 	path = attic/xgtags
 	url = git@github.com:emacsattic/xgtags.git
