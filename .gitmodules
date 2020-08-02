@@ -10993,6 +10993,9 @@
 [submodule "jenkins-watch"]
 	path = mirror/jenkins-watch
 	url = git@github.com:emacsmirror/jenkins-watch.git
+[submodule "jenkinsfile-mode"]
+	path = mirror/jenkinsfile-mode
+	url = git@github.com:emacsmirror/jenkinsfile-mode.git
 [submodule "jess-mode"]
 	path = attic/jess-mode
 	url = git@github.com:emacsattic/jess-mode.git
