@@ -3854,6 +3854,9 @@
 [submodule "descr-text+"]
 	path = mirror/descr-text+
 	url = git@github.com:emacsmirror/descr-text-plus.git
+[submodule "describe-hash"]
+	path = mirror/describe-hash
+	url = git@github.com:emacsmirror/describe-hash.git
 [submodule "describe-number"]
 	path = mirror/describe-number
 	url = git@github.com:emacsmirror/describe-number.git
