@@ -9997,6 +9997,9 @@
 [submodule "hyai"]
 	path = mirror/hyai
 	url = git@github.com:emacsmirror/hyai.git
+[submodule "hybrid-reverse-theme"]
+	path = mirror/hybrid-reverse-theme
+	url = git@github.com:emacsmirror/hybrid-reverse-theme.git
 [submodule "hydandata-light-theme"]
 	path = mirror/hydandata-light-theme
 	url = git@github.com:emacsmirror/hydandata-light-theme.git
