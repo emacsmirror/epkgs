@@ -5638,6 +5638,9 @@
 [submodule "equinox"]
 	path = attic/equinox
 	url = git@github.com:emacsattic/equinox.git
+[submodule "eradio"]
+	path = mirror/eradio
+	url = git@github.com:emacsmirror/eradio.git
 [submodule "erblint"]
 	path = mirror/erblint
 	url = git@github.com:emacsmirror/erblint.git
