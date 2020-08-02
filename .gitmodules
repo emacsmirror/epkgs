@@ -20828,6 +20828,9 @@
 [submodule "typo"]
 	path = mirror/typo
 	url = git@github.com:emacsmirror/typo.git
+[submodule "typo-suggest"]
+	path = mirror/typo-suggest
+	url = git@github.com:emacsmirror/typo-suggest.git
 [submodule "typopunct"]
 	path = mirror/typopunct
 	url = git@github.com:emacsmirror/typopunct.git
