@@ -14429,6 +14429,9 @@
 [submodule "oj"]
 	path = mirror/oj
 	url = git@github.com:emacsmirror/oj.git
+[submodule "olc"]
+	path = mirror/olc
+	url = git@github.com:emacsmirror/olc.git
 [submodule "old-fashioned-undo"]
 	path = mirror/old-fashioned-undo
 	url = git@github.com:emacsmirror/old-fashioned-undo.git
