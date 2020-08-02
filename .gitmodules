@@ -7818,6 +7818,9 @@
 [submodule "geiser"]
 	path = mirror/geiser
 	url = git@github.com:emacsmirror/geiser.git
+[submodule "geiser-gauche"]
+	path = mirror/geiser-gauche
+	url = git@github.com:emacsmirror/geiser-gauche.git
 [submodule "geiser-kawa"]
 	path = mirror/geiser-kawa
 	url = git@github.com:emacsmirror/geiser-kawa.git
