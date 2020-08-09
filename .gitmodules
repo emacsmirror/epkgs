@@ -10520,6 +10520,9 @@
 [submodule "insert-construct"]
 	path = attic/insert-construct
 	url = git@github.com:emacsattic/insert-construct.git
+[submodule "insert-esv"]
+	path = mirror/insert-esv
+	url = git@github.com:emacsmirror/insert-esv.git
 [submodule "insert-kaomoji"]
 	path = mirror/insert-kaomoji
 	url = git@github.com:emacsmirror/insert-kaomoji.git
