@@ -4586,6 +4586,9 @@
 [submodule "dynamic-fonts"]
 	path = mirror/dynamic-fonts
 	url = git@github.com:emacsmirror/dynamic-fonts.git
+[submodule "dynamic-graphs"]
+	path = mirror/dynamic-graphs
+	url = git@github.com:emacsmirror/dynamic-graphs.git
 [submodule "dynamic-ring"]
 	path = mirror/dynamic-ring
 	url = git@github.com:emacsmirror/dynamic-ring.git
