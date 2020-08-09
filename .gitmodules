@@ -12260,6 +12260,9 @@
 [submodule "lsp-pyre"]
 	path = mirror/lsp-pyre
 	url = git@github.com:emacsmirror/lsp-pyre.git
+[submodule "lsp-pyright"]
+	path = mirror/lsp-pyright
+	url = git@github.com:emacsmirror/lsp-pyright.git
 [submodule "lsp-python"]
 	path = attic/lsp-python
 	url = git@github.com:emacsattic/lsp-python.git
