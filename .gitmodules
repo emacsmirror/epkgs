@@ -4445,6 +4445,9 @@
 [submodule "downplay-mode"]
 	path = mirror/downplay-mode
 	url = git@github.com:emacsmirror/downplay-mode.git
+[submodule "doxy-graph-mode"]
+	path = mirror/doxy-graph-mode
+	url = git@github.com:emacsmirror/doxy-graph-mode.git
 [submodule "doxygen"]
 	path = mirror/doxygen
 	url = git@github.com:emacsmirror/doxygen.git
