@@ -3259,6 +3259,9 @@
 [submodule "cparen"]
 	path = attic/cparen
 	url = git@github.com:emacsattic/cparen.git
+[submodule "cpio-mode"]
+	path = mirror/cpio-mode
+	url = git@github.com:emacsmirror/cpio-mode.git
 [submodule "cpp-auto-include"]
 	path = mirror/cpp-auto-include
 	url = git@github.com:emacsmirror/cpp-auto-include.git
