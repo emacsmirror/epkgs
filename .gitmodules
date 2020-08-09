@@ -9426,6 +9426,9 @@
 [submodule "helm-selected"]
 	path = mirror/helm-selected
 	url = git@github.com:emacsmirror/helm-selected.git
+[submodule "helm-selector"]
+	path = mirror/helm-selector
+	url = git@github.com:emacsmirror/helm-selector.git
 [submodule "helm-sheet"]
 	path = mirror/helm-sheet
 	url = git@github.com:emacsmirror/helm-sheet.git
