@@ -16342,6 +16342,9 @@
 [submodule "pointback"]
 	path = mirror/pointback
 	url = git@github.com:emacsmirror/pointback.git
+[submodule "poke-mode"]
+	path = mirror/poke-mode
+	url = git@github.com:emacsmirror/poke-mode.git
 [submodule "poker"]
 	path = mirror/poker
 	url = git@github.com:emacsmirror/poker.git
