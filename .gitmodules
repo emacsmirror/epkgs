@@ -20112,6 +20112,9 @@
 [submodule "template-simple"]
 	path = mirror/template-simple
 	url = git@github.com:emacsmirror/template-simple.git
+[submodule "templatel"]
+	path = mirror/templatel
+	url = git@github.com:emacsmirror/templatel.git
 [submodule "tempo-c-cpp"]
 	path = mirror/tempo-c-cpp
 	url = git@github.com:emacsmirror/tempo-c-cpp.git
