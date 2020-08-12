@@ -11,7 +11,7 @@
 * Set ~emir-emacs-reference~
 #+NAME: set--emir-emacs-reference
 #+BEGIN_SRC emacs-lisp :results silent
-  (emir--save-variable 'emir-emacs-reference "emacs-27.0.90")
+  (emir--save-variable 'emir-emacs-reference "emacs-27.1")
 #+END_SRC
 
 * Set ~emir-pending-packages~
