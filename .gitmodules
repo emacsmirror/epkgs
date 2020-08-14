@@ -14789,6 +14789,9 @@
 [submodule "org-grep"]
 	path = mirror/org-grep
 	url = git@github.com:emacsmirror/org-grep.git
+[submodule "org-gtd"]
+	path = mirror/org-gtd
+	url = git@github.com:emacsmirror/org-gtd.git
 [submodule "org-helpers"]
 	path = mirror/org-helpers
 	url = git@github.com:emacsmirror/org-helpers.git
