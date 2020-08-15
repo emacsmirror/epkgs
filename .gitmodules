@@ -774,8 +774,8 @@
 	path = attic/ascii-display
 	url = git@github.com:emacsattic/ascii-display.git
 [submodule "ascii-table"]
-	path = attic/ascii-table
-	url = git@github.com:emacsattic/ascii-table.git
+	path = mirror/ascii-table
+	url = git@github.com:emacsmirror/ascii-table.git
 [submodule "asciidoc"]
 	path = mirror/asciidoc
 	url = git@github.com:emacsmirror/asciidoc.git
