@@ -31,11 +31,17 @@
   (emir--save-variable 'emir-suspended-packages value)
 #+END_SRC
 #+NAME: val--emir-suspended-packages
-| Package | Reason    |
-|---------+-----------|
-| icicles | heisenbug |
+| Package             | Reason         |
+|---------------------+----------------|
+| icicles             | heisenbug      |
+| cfengine-code-style | slow           |
+| clang-format        | extremely slow |
+| make-mode           | slow           |
+| cython-mode         | slow           |
 
-It freezes except when I try to investigate why it freezes.
+- icicles: It freezes except when I try to investigate why it freezes.
+- cfengine-code-style, clang-format, make-mode, cython-mode: pending
+  filtering improvements
 
 * Set ~emir-secondary-packages~
 #+NAME: set--emir-secondary-packages
@@ -550,6 +556,7 @@ It freezes except when I try to investigate why it freezes.
 | seq        | backport of builtin |
 
 * Set ~emir--diverging-reason~
+FIXME Also used for minority reason.
 #+NAME: set--emir--diverging-reason
 #+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--diverging-reason
   (emir--save-variable 'emir--diverging-reason value)
@@ -565,6 +572,7 @@ It freezes except when I try to investigate why it freezes.
 | cmake-mode           | mostly non-elisp    |
 | cython-mode          | mostly non-elisp    |
 | diffscuss-mode       | mostly non-elisp    |
+| faceup               | part of Emacs 27.1  |
 | fold-dwim-org        | obsolete dependency |
 | forecast             | all-in-one repo     |
 | google-c-style       | mostly non-elisp    |
@@ -573,14 +581,21 @@ It freezes except when I try to investigate why it freezes.
 | modus-vivendi-theme  | dedicated branches  |
 | nemerle              | mostly non-elisp    |
 | ninja-mode           | mostly non-elisp    |
+| org-pua              | all-in-one repo     |
 | org-variable-pitch   | all-in-one repo     |
 | paper-theme          | all-in-one repo     |
 | po-mode              | mostly non-elisp    |
 | pylint               | mostly non-elisp    |
+| rfringe              | all-in-one repo     |
 | smart-compile        | all-in-one repo     |
+| tenv                 | unclean repo        |
+| tfs                  | all-in-one repo     |
+| thesaurus            | all-in-one repo     |
+| thingatpt-ext        | all-in-one repo     |
 | thrift               | mostly non-elisp    |
 | toggle               | all-in-one repo     |
 | wisp-mode            | mostly non-elisp    |
+| wn-org               | all-in-one repo     |
 
 * Set ~emir--library-reason~
 #+NAME: set--emir--library-reason
