@@ -16960,8 +16960,8 @@
 	path = mirror/pyimpsort
 	url = git@github.com:emacsmirror/pyimpsort.git
 [submodule "pylint"]
-	path = attic/pylint
-	url = git@github.com:emacsattic/pylint.git
+	path = mirror/pylint
+	url = git@github.com:emacsmirror/pylint.git
 [submodule "pylit"]
 	path = mirror/pylit
 	url = git@github.com:emacsmirror/pylit.git
