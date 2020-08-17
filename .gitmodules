@@ -21175,6 +21175,9 @@
 [submodule "uzumaki"]
 	path = mirror/uzumaki
 	url = git@github.com:emacsmirror/uzumaki.git
+[submodule "v-mode"]
+	path = mirror/v-mode
+	url = git@github.com:emacsmirror/v-mode.git
 [submodule "v2ex-mode"]
 	path = mirror/v2ex-mode
 	url = git@github.com:emacsmirror/v2ex-mode.git
