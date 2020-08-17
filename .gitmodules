@@ -11159,6 +11159,9 @@
 [submodule "js2-refactor"]
 	path = mirror/js2-refactor
 	url = git@github.com:emacsmirror/js2-refactor.git
+[submodule "js2hl"]
+	path = mirror/js2hl
+	url = git@github.com:emacsmirror/js2hl.git
 [submodule "js3-mode"]
 	path = mirror/js3-mode
 	url = git@github.com:emacsmirror/js3-mode.git
