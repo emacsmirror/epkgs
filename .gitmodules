@@ -21308,6 +21308,9 @@
 [submodule "verilog-mode"]
 	path = mirror/verilog-mode
 	url = git@github.com:emacsmirror/verilog-mode.git
+[submodule "verona-mode"]
+	path = mirror/verona-mode
+	url = git@github.com:emacsmirror/verona-mode.git
 [submodule "versions"]
 	path = mirror/versions
 	url = git@github.com:emacsmirror/versions.git
