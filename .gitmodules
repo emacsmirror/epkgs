@@ -4127,6 +4127,9 @@
 [submodule "dired-lsi"]
 	path = mirror/dired-lsi
 	url = git@github.com:emacsmirror/dired-lsi.git
+[submodule "dired-posframe"]
+	path = mirror/dired-posframe
+	url = git@github.com:emacsmirror/dired-posframe.git
 [submodule "dired-quick-sort"]
 	path = mirror/dired-quick-sort
 	url = git@github.com:emacsmirror/dired-quick-sort.git
