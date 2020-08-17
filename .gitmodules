@@ -12206,9 +12206,6 @@
 [submodule "lsp-docker"]
 	path = mirror/lsp-docker
 	url = git@github.com:emacsmirror/lsp-docker.git
-[submodule "lsp-elixir"]
-	path = mirror/lsp-elixir
-	url = git@github.com:emacsmirror/lsp-elixir.git
 [submodule "lsp-focus"]
 	path = mirror/lsp-focus
 	url = git@github.com:emacsmirror/lsp-focus.git
