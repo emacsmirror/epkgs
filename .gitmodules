@@ -22368,6 +22368,9 @@
 	path = mirror/xwidgete
 	url = git@github.com:emacsmirror/xwidgete.git
 	branch = master
+[submodule "xwidgets-reuse"]
+	path = mirror/xwidgets-reuse
+	url = git@github.com:emacsmirror/xwidgets-reuse.git
 [submodule "xwindow-ring"]
 	path = attic/xwindow-ring
 	url = git@github.com:emacsattic/xwindow-ring.git
