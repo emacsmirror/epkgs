@@ -12248,9 +12248,6 @@
 [submodule "lsp-mssql"]
 	path = mirror/lsp-mssql
 	url = git@github.com:emacsmirror/lsp-mssql.git
-[submodule "lsp-ocaml"]
-	path = attic/lsp-ocaml
-	url = git@github.com:emacsattic/lsp-ocaml.git
 [submodule "lsp-origami"]
 	path = mirror/lsp-origami
 	url = git@github.com:emacsmirror/lsp-origami.git
