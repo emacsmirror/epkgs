@@ -12209,9 +12209,6 @@
 [submodule "lsp-focus"]
 	path = mirror/lsp-focus
 	url = git@github.com:emacsmirror/lsp-focus.git
-[submodule "lsp-fortran"]
-	path = attic/lsp-fortran
-	url = git@github.com:emacsattic/lsp-fortran.git
 [submodule "lsp-hack"]
 	path = attic/lsp-hack
 	url = git@github.com:emacsattic/lsp-hack.git
