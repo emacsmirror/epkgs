@@ -14320,6 +14320,9 @@
 [submodule "ob-mongo"]
 	path = mirror/ob-mongo
 	url = git@github.com:emacsmirror/ob-mongo.git
+[submodule "ob-napkin"]
+	path = mirror/ob-napkin
+	url = git@github.com:emacsmirror/ob-napkin.git
 [submodule "ob-nim"]
 	path = mirror/ob-nim
 	url = git@github.com:emacsmirror/ob-nim.git
