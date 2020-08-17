@@ -20392,6 +20392,9 @@
 [submodule "tiger"]
 	path = attic/tiger
 	url = git@github.com:emacsattic/tiger.git
+[submodule "tikz"]
+	path = mirror/tikz
+	url = git@github.com:emacsmirror/tikz.git
 [submodule "tile"]
 	path = mirror/tile
 	url = git@github.com:emacsmirror/tile.git
