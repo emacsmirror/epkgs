@@ -12257,9 +12257,6 @@
 [submodule "lsp-pascal"]
 	path = mirror/lsp-pascal
 	url = git@github.com:emacsmirror/lsp-pascal.git
-[submodule "lsp-php"]
-	path = attic/lsp-php
-	url = git@github.com:emacsattic/lsp-php.git
 [submodule "lsp-pyre"]
 	path = mirror/lsp-pyre
 	url = git@github.com:emacsmirror/lsp-pyre.git
