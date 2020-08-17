@@ -19094,6 +19094,9 @@
 [submodule "snort-mode"]
 	path = mirror/snort-mode
 	url = git@github.com:emacsmirror/snort-mode.git
+[submodule "so-long"]
+	path = mirror/so-long
+	url = git@github.com:emacsmirror/so-long.git
 [submodule "soap"]
 	path = attic/soap
 	url = git@github.com:emacsattic/soap.git
