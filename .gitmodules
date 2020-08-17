@@ -8337,6 +8337,9 @@
 [submodule "go-errcheck"]
 	path = mirror/go-errcheck
 	url = git@github.com:emacsmirror/go-errcheck.git
+[submodule "go-expr-completion"]
+	path = mirror/go-expr-completion
+	url = git@github.com:emacsmirror/go-expr-completion.git
 [submodule "go-fill-struct"]
 	path = mirror/go-fill-struct
 	url = git@github.com:emacsmirror/go-fill-struct.git
