@@ -12503,6 +12503,9 @@
 [submodule "magpie"]
 	path = mirror/magpie
 	url = git@github.com:emacsmirror/magpie.git
+[submodule "magrant"]
+	path = mirror/magrant
+	url = git@github.com:emacsmirror/magrant.git
 [submodule "mail-bug"]
 	path = mirror/mail-bug
 	url = git@github.com:emacsmirror/mail-bug.git
