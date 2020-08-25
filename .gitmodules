@@ -19627,6 +19627,9 @@
 	path = mirror/stylefmt
 	url = git@github.com:emacsmirror/stylefmt.git
 	branch = master
+[submodule "su"]
+	path = mirror/su
+	url = git@github.com:emacsmirror/su.git
 [submodule "subatomic-theme"]
 	path = mirror/subatomic-theme
 	url = git@github.com:emacsmirror/subatomic-theme.git
