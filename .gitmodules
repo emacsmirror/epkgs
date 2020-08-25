@@ -13196,6 +13196,9 @@
 [submodule "modtime-skip-mode"]
 	path = mirror/modtime-skip-mode
 	url = git@github.com:emacsmirror/modtime-skip-mode.git
+[submodule "modular-config"]
+	path = mirror/modular-config
+	url = git@github.com:emacsmirror/modular-config.git
 [submodule "modus-operandi-theme"]
 	path = mirror/modus-operandi-theme
 	url = git@github.com:emacsmirror/modus-operandi-theme.git
