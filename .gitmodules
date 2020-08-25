@@ -17897,6 +17897,9 @@
 [submodule "roguel-ike"]
 	path = mirror/roguel-ike
 	url = git@github.com:emacsmirror/roguel-ike.git
+[submodule "ron-mode"]
+	path = mirror/ron-mode
+	url = git@github.com:emacsmirror/ron-mode.git
 [submodule "rope-read-mode"]
 	path = mirror/rope-read-mode
 	url = git@github.com:emacsmirror/rope-read-mode.git
