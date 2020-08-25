@@ -6843,6 +6843,9 @@
 [submodule "flashcard-sm5"]
 	path = attic/flashcard-sm5
 	url = git@github.com:emacsattic/flashcard-sm5.git
+[submodule "flatbuffers-mode"]
+	path = mirror/flatbuffers-mode
+	url = git@github.com:emacsmirror/flatbuffers-mode.git
 [submodule "flatfluc-theme"]
 	path = mirror/flatfluc-theme
 	url = git@github.com:emacsmirror/flatfluc-theme.git
