@@ -21166,6 +21166,9 @@
 [submodule "use-package-hydra"]
 	path = mirror/use-package-hydra
 	url = git@github.com:emacsmirror/use-package-hydra.git
+[submodule "use-proxy"]
+	path = mirror/use-proxy
+	url = git@github.com:emacsmirror/use-proxy.git
 [submodule "use-ttf"]
 	path = mirror/use-ttf
 	url = git@github.com:emacsmirror/use-ttf.git
