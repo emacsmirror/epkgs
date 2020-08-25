@@ -11584,6 +11584,9 @@
 [submodule "laguna-theme"]
 	path = mirror/laguna-theme
 	url = git@github.com:emacsmirror/laguna-theme.git
+[submodule "lakota-input"]
+	path = mirror/lakota-input
+	url = git@github.com:emacsmirror/lakota-input.git
 [submodule "lambdacalc"]
 	path = mirror/lambdacalc
 	url = git@github.com:emacsmirror/lambdacalc.git
