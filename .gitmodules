@@ -5690,6 +5690,9 @@
 [submodule "erc-image"]
 	path = mirror/erc-image
 	url = git@github.com:emacsmirror/erc-image.git
+[submodule "erc-matterircd"]
+	path = mirror/erc-matterircd
+	url = git@github.com:emacsmirror/erc-matterircd.git
 [submodule "erc-nick-notify"]
 	path = mirror/erc-nick-notify
 	url = git@github.com:emacsmirror/erc-nick-notify.git
