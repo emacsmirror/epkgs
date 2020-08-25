@@ -14856,6 +14856,9 @@
 [submodule "org-kindle"]
 	path = mirror/org-kindle
 	url = git@github.com:emacsmirror/org-kindle.git
+[submodule "org-link-beautify"]
+	path = mirror/org-link-beautify
+	url = git@github.com:emacsmirror/org-link-beautify.git
 [submodule "org-link-minor-mode"]
 	path = attic/org-link-minor-mode
 	url = git@github.com:emacsattic/org-link-minor-mode.git
