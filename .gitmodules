@@ -20519,6 +20519,9 @@
 [submodule "tnt"]
 	path = attic/tnt
 	url = git@github.com:emacsattic/tnt.git
+[submodule "toc-mode"]
+	path = mirror/toc-mode
+	url = git@github.com:emacsmirror/toc-mode.git
 [submodule "toc-org"]
 	path = mirror/toc-org
 	url = git@github.com:emacsmirror/toc-org.git
