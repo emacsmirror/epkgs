@@ -12540,6 +12540,9 @@
 [submodule "mailrc-mode"]
 	path = attic/mailrc-mode
 	url = git@github.com:emacsattic/mailrc-mode.git
+[submodule "mailscripts"]
+	path = mirror/mailscripts
+	url = git@github.com:emacsmirror/mailscripts.git
 [submodule "mailto-checker"]
 	path = attic/mailto-checker
 	url = git@github.com:emacsattic/mailto-checker.git
