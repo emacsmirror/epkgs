@@ -5866,6 +5866,9 @@
 [submodule "eshell-git-prompt"]
 	path = mirror/eshell-git-prompt
 	url = git@github.com:emacsmirror/eshell-git-prompt.git
+[submodule "eshell-outline"]
+	path = mirror/eshell-outline
+	url = git@github.com:emacsmirror/eshell-outline.git
 [submodule "eshell-prompt-extras"]
 	path = mirror/eshell-prompt-extras
 	url = git@github.com:emacsmirror/eshell-prompt-extras.git
