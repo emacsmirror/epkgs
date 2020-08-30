@@ -13202,6 +13202,9 @@
 [submodule "modern-fringes"]
 	path = mirror/modern-fringes
 	url = git@github.com:emacsmirror/modern-fringes.git
+[submodule "modern-sh"]
+	path = mirror/modern-sh
+	url = git@github.com:emacsmirror/modern-sh.git
 [submodule "modtime-skip-mode"]
 	path = mirror/modtime-skip-mode
 	url = git@github.com:emacsmirror/modtime-skip-mode.git
