@@ -20884,6 +20884,9 @@
 [submodule "two-mode-mode"]
 	path = attic/two-mode-mode
 	url = git@github.com:emacsattic/two-mode-mode.git
+[submodule "twtxt"]
+	path = mirror/twtxt
+	url = git@github.com:emacsmirror/twtxt.git
 [submodule "tx-mode"]
 	path = mirror/tx-mode
 	url = git@github.com:emacsmirror/tx-mode.git
