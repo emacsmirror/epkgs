@@ -10335,6 +10335,9 @@
 [submodule "imaxima"]
 	path = attic/imaxima
 	url = git@github.com:emacsattic/imaxima.git
+[submodule "imbot"]
+	path = mirror/imbot
+	url = git@github.com:emacsmirror/imbot.git
 [submodule "imdb"]
 	path = mirror/imdb
 	url = git@github.com:emacsmirror/imdb.git
