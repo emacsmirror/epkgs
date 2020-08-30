@@ -21548,6 +21548,9 @@
 [submodule "vterm-toggle"]
 	path = mirror/vterm-toggle
 	url = git@github.com:emacsmirror/vterm-toggle.git
+[submodule "vtm"]
+	path = mirror/vtm
+	url = git@github.com:emacsmirror/vtm.git
 [submodule "vtx"]
 	path = attic/vtx
 	url = git@github.com:emacsattic/vtx.git
