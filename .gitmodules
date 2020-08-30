@@ -6713,6 +6713,9 @@
 [submodule "find-file-in-tags"]
 	path = mirror/find-file-in-tags
 	url = git@github.com:emacsmirror/find-file-in-tags.git
+[submodule "find-file-rg"]
+	path = mirror/find-file-rg
+	url = git@github.com:emacsmirror/find-file-rg.git
 [submodule "find-files"]
 	path = attic/find-files
 	url = git@github.com:emacsattic/find-files.git
