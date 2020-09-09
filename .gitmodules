@@ -8165,6 +8165,9 @@
 [submodule "gitlab-ci-mode-flycheck"]
 	path = mirror/gitlab-ci-mode-flycheck
 	url = git@github.com:emacsmirror/gitlab-ci-mode-flycheck.git
+[submodule "gitlab-pipeline"]
+	path = mirror/gitlab-pipeline
+	url = git@github.com:emacsmirror/gitlab-pipeline.git
 [submodule "gitlab-snip-helm"]
 	path = mirror/gitlab-snip-helm
 	url = git@github.com:emacsmirror/gitlab-snip-helm.git
