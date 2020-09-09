@@ -5936,6 +5936,9 @@
 [submodule "ess-view"]
 	path = mirror/ess-view
 	url = git@github.com:emacsmirror/ess-view.git
+[submodule "ess-view-data"]
+	path = mirror/ess-view-data
+	url = git@github.com:emacsmirror/ess-view-data.git
 [submodule "esup"]
 	path = mirror/esup
 	url = git@github.com:emacsmirror/esup.git
