@@ -15297,6 +15297,9 @@
 [submodule "orgrade"]
 	path = mirror/orgrade
 	url = git@github.com:emacsmirror/orgrade.git
+[submodule "orgstrap"]
+	path = mirror/orgstrap
+	url = git@github.com:emacsmirror/orgstrap.git
 [submodule "orgtbl-aggregate"]
 	path = mirror/orgtbl-aggregate
 	url = git@github.com:emacsmirror/orgtbl-aggregate.git
