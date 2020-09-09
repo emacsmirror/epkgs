@@ -10852,6 +10852,9 @@
 	path = mirror/ivy-rich
 	url = git@github.com:emacsmirror/ivy-rich.git
 	branch = master
+[submodule "ivy-searcher"]
+	path = mirror/ivy-searcher
+	url = git@github.com:emacsmirror/ivy-searcher.git
 [submodule "ivy-todo"]
 	path = mirror/ivy-todo
 	url = git@github.com:emacsmirror/ivy-todo.git
