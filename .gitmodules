@@ -8425,6 +8425,9 @@
 [submodule "go-to-char"]
 	path = mirror/go-to-char
 	url = git@github.com:emacsmirror/go-to-char.git
+[submodule "go-translate"]
+	path = mirror/go-translate
+	url = git@github.com:emacsmirror/go-translate.git
 [submodule "gob"]
 	path = mirror/gob
 	url = git@github.com:emacsmirror/gob.git
