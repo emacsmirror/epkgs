@@ -15179,8 +15179,8 @@
 	path = mirror/org-tanglesync
 	url = git@github.com:emacsmirror/org-tanglesync.git
 [submodule "org-taskforecast"]
-	path = mirror/org-taskforecast
-	url = git@github.com:emacsmirror/org-taskforecast.git
+	path = attic/org-taskforecast
+	url = git@github.com:emacsattic/org-taskforecast.git
 [submodule "org-tfl"]
 	path = mirror/org-tfl
 	url = git@github.com:emacsmirror/org-tfl.git
