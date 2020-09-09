@@ -7185,6 +7185,9 @@
 [submodule "flycheck-posframe"]
 	path = mirror/flycheck-posframe
 	url = git@github.com:emacsmirror/flycheck-posframe.git
+[submodule "flycheck-projectile"]
+	path = mirror/flycheck-projectile
+	url = git@github.com:emacsmirror/flycheck-projectile.git
 [submodule "flycheck-prospector"]
 	path = mirror/flycheck-prospector
 	url = git@github.com:emacsmirror/flycheck-prospector.git
