@@ -17787,8 +17787,8 @@
 	path = mirror/retrie
 	url = git@github.com:emacsmirror/retrie.git
 [submodule "revbufs"]
-	path = attic/revbufs
-	url = git@github.com:emacsattic/revbufs.git
+	path = mirror/revbufs
+	url = git@github.com:emacsmirror/revbufs.git
 [submodule "reveal-in-folder"]
 	path = mirror/reveal-in-folder
 	url = git@github.com:emacsmirror/reveal-in-folder.git
