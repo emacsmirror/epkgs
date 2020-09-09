@@ -13527,6 +13527,9 @@
 [submodule "mu4e-query-fragments"]
 	path = mirror/mu4e-query-fragments
 	url = git@github.com:emacsmirror/mu4e-query-fragments.git
+[submodule "mu4e-views"]
+	path = mirror/mu4e-views
+	url = git@github.com:emacsmirror/mu4e-views.git
 [submodule "muban"]
 	path = mirror/muban
 	url = git@github.com:emacsmirror/muban.git
