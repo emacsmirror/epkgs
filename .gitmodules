@@ -11887,6 +11887,9 @@
 [submodule "license"]
 	path = attic/license
 	url = git@github.com:emacsattic/license.git
+[submodule "license-templates"]
+	path = mirror/license-templates
+	url = git@github.com:emacsmirror/license-templates.git
 [submodule "ligeti"]
 	path = attic/ligeti
 	url = git@github.com:emacsattic/ligeti.git
