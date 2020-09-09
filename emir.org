@@ -24,7 +24,6 @@
 |-------------+-----------------------------------|
 | ada-ref-man | no license, no elisp, no response |
 | gnu-elpa    | provides wrong feature            |
-| lsp-elixir  | pending [[https://github.com/emacs-lsp/lsp-mode/pull/2070][#2070]]                     |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
