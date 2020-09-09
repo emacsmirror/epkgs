@@ -6951,6 +6951,9 @@
 	path = mirror/flycheck-apertium
 	url = git@github.com:emacsmirror/flycheck-apertium.git
 	branch = master
+[submodule "flycheck-aspell"]
+	path = mirror/flycheck-aspell
+	url = git@github.com:emacsmirror/flycheck-aspell.git
 [submodule "flycheck-ats2"]
 	path = mirror/flycheck-ats2
 	url = git@github.com:emacsmirror/flycheck-ats2.git
