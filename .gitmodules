@@ -18412,6 +18412,9 @@
 [submodule "search-web"]
 	path = mirror/search-web
 	url = git@github.com:emacsmirror/search-web.git
+[submodule "searcher"]
+	path = mirror/searcher
+	url = git@github.com:emacsmirror/searcher.git
 [submodule "searchq"]
 	path = mirror/searchq
 	url = git@github.com:emacsmirror/searchq.git
