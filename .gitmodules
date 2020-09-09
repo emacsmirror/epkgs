@@ -7753,6 +7753,9 @@
 [submodule "fuzzy-find-in-project"]
 	path = mirror/fuzzy-find-in-project
 	url = git@github.com:emacsmirror/fuzzy-find-in-project.git
+[submodule "fuzzy-finder"]
+	path = mirror/fuzzy-finder
+	url = git@github.com:emacsmirror/fuzzy-finder.git
 [submodule "fuzzy-format"]
 	path = mirror/fuzzy-format
 	url = git@github.com:emacsmirror/fuzzy-format.git
