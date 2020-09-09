@@ -15523,6 +15523,9 @@
 	path = mirror/ox-qmd
 	url = git@github.com:emacsmirror/ox-qmd.git
 	branch = master
+[submodule "ox-report"]
+	path = mirror/ox-report
+	url = git@github.com:emacsmirror/ox-report.git
 [submodule "ox-reveal"]
 	path = mirror/ox-reveal
 	url = git@github.com:emacsmirror/ox-reveal.git
