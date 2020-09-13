@@ -11815,7 +11815,6 @@
 [submodule "lenlen-theme"]
 	path = attic/lenlen-theme
 	url = git@github.com:emacsattic/lenlen-theme.git
-	branch = master
 [submodule "lentic"]
 	path = mirror/lentic
 	url = git@github.com:emacsmirror/lentic.git
