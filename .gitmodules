@@ -14926,8 +14926,8 @@
 	path = mirror/org-listcruncher
 	url = git@github.com:emacsmirror/org-listcruncher.git
 [submodule "org-lookup-dnd"]
-	path = mirror/org-lookup-dnd
-	url = git@github.com:emacsmirror/org-lookup-dnd.git
+	path = attic/org-lookup-dnd
+	url = git@github.com:emacsattic/org-lookup-dnd.git
 [submodule "org-mac-protocol"]
 	path = attic/org-mac-protocol
 	url = git@github.com:emacsattic/org-mac-protocol.git
