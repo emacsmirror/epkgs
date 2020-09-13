@@ -11813,8 +11813,8 @@
 	path = mirror/lemon-mode
 	url = git@github.com:emacsmirror/lemon-mode.git
 [submodule "lenlen-theme"]
-	path = mirror/lenlen-theme
-	url = git@github.com:emacsmirror/lenlen-theme.git
+	path = attic/lenlen-theme
+	url = git@github.com:emacsattic/lenlen-theme.git
 	branch = master
 [submodule "lentic"]
 	path = mirror/lentic
