@@ -21299,6 +21299,9 @@
 	path = mirror/validate
 	url = git@github.com:emacsmirror/validate.git
 	branch = master
+[submodule "validate-html"]
+	path = mirror/validate-html
+	url = git@github.com:emacsmirror/validate-html.git
 [submodule "variant-abbc"]
 	path = attic/variant-abbc
 	url = git@github.com:emacsattic/variant-abbc.git
