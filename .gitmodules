@@ -7837,6 +7837,9 @@
 [submodule "gcmh"]
 	path = mirror/gcmh
 	url = git@github.com:emacsmirror/gcmh.git
+[submodule "gcode-mode"]
+	path = mirror/gcode-mode
+	url = git@github.com:emacsmirror/gcode-mode.git
 [submodule "gdb-bp-session"]
 	path = mirror/gdb-bp-session
 	url = git@github.com:emacsmirror/gdb-bp-session.git
