@@ -1447,6 +1447,9 @@
 [submodule "better-registers"]
 	path = mirror/better-registers
 	url = git@github.com:emacsmirror/better-registers.git
+[submodule "better-scroll"]
+	path = mirror/better-scroll
+	url = git@github.com:emacsmirror/better-scroll.git
 [submodule "better-shell"]
 	path = mirror/better-shell
 	url = git@github.com:emacsmirror/better-shell.git
