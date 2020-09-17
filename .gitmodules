@@ -15204,6 +15204,9 @@
 [submodule "org-transform-tree-table"]
 	path = mirror/org-transform-tree-table
 	url = git@github.com:emacsmirror/org-transform-tree-table.git
+[submodule "org-translate"]
+	path = mirror/org-translate
+	url = git@github.com:emacsmirror/org-translate.git
 [submodule "org-tree-slide"]
 	path = mirror/org-tree-slide
 	url = git@github.com:emacsmirror/org-tree-slide.git
