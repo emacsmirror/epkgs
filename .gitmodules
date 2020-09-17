@@ -66,6 +66,9 @@
 [submodule "abl-mode"]
 	path = mirror/abl-mode
 	url = git@github.com:emacsmirror/abl-mode.git
+[submodule "abridge-diff"]
+	path = mirror/abridge-diff
+	url = git@github.com:emacsmirror/abridge-diff.git
 [submodule "abs-mode"]
 	path = mirror/abs-mode
 	url = git@github.com:emacsmirror/abs-mode.git
