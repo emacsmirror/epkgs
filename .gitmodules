@@ -17839,8 +17839,8 @@
 	url = git@github.com:emacsmirror/reykjavik-theme.git
 	branch = master
 [submodule "rfc"]
-	path = mirror/rfc
-	url = git@github.com:emacsmirror/rfc.git
+	path = attic/rfc
+	url = git@github.com:emacsattic/rfc.git
 [submodule "rfc-mode"]
 	path = mirror/rfc-mode
 	url = git@github.com:emacsmirror/rfc-mode.git
