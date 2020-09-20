@@ -5942,6 +5942,9 @@
 [submodule "ess-edit"]
 	path = mirror/ess-edit
 	url = git@github.com:emacsmirror/ess-edit.git
+[submodule "ess-r-insert-obj"]
+	path = mirror/ess-r-insert-obj
+	url = git@github.com:emacsmirror/ess-r-insert-obj.git
 [submodule "ess-smart-equals"]
 	path = mirror/ess-smart-equals
 	url = git@github.com:emacsmirror/ess-smart-equals.git
