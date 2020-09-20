@@ -1525,6 +1525,9 @@
 [submodule "bind-map"]
 	path = mirror/bind-map
 	url = git@github.com:emacsmirror/bind-map.git
+[submodule "binder"]
+	path = mirror/binder
+	url = git@github.com:emacsmirror/binder.git
 [submodule "bindings+"]
 	path = mirror/bindings+
 	url = git@github.com:emacsmirror/bindings-plus.git
