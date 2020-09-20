@@ -10100,6 +10100,9 @@
 	path = mirror/hyperbole
 	url = git@github.com:emacsmirror/hyperbole.git
 	branch = master
+[submodule "hyperkitty"]
+	path = mirror/hyperkitty
+	url = git@github.com:emacsmirror/hyperkitty.git
 [submodule "hyperlist-mode"]
 	path = mirror/hyperlist-mode
 	url = git@github.com:emacsmirror/hyperlist-mode.git
