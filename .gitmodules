@@ -8063,6 +8063,9 @@
 [submodule "git-find-file"]
 	path = mirror/git-find-file
 	url = git@github.com:emacsmirror/git-find-file.git
+[submodule "git-grep"]
+	path = mirror/git-grep
+	url = git@github.com:emacsmirror/git-grep.git
 [submodule "git-gutter"]
 	path = mirror/git-gutter
 	url = git@github.com:emacsmirror/git-gutter.git
