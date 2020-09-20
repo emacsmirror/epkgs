@@ -4595,6 +4595,9 @@
 [submodule "dvorak-mode"]
 	path = mirror/dvorak-mode
 	url = git@github.com:emacsmirror/dvorak-mode.git
+[submodule "dw"]
+	path = mirror/dw
+	url = git@github.com:emacsmirror/dw.git
 [submodule "dwim-find"]
 	path = attic/dwim-find
 	url = git@github.com:emacsattic/dwim-find.git
