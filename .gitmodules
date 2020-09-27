@@ -3449,6 +3449,9 @@
 [submodule "ctrlf"]
 	path = mirror/ctrlf
 	url = git@github.com:emacsmirror/ctrlf.git
+[submodule "ctrlxo"]
+	path = mirror/ctrlxo
+	url = git@github.com:emacsmirror/ctrlxo.git
 [submodule "ctune"]
 	path = mirror/ctune
 	url = git@github.com:emacsmirror/ctune.git
