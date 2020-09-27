@@ -5248,6 +5248,9 @@
 [submodule "elmine"]
 	path = mirror/elmine
 	url = git@github.com:emacsmirror/elmine.git
+[submodule "elmpd"]
+	path = mirror/elmpd
+	url = git@github.com:emacsmirror/elmpd.git
 [submodule "elnode"]
 	path = mirror/elnode
 	url = git@github.com:emacsmirror/elnode.git
