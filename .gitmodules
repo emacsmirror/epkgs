@@ -7405,6 +7405,9 @@
 [submodule "flymake-phpcs"]
 	path = mirror/flymake-phpcs
 	url = git@github.com:emacsmirror/flymake-phpcs.git
+[submodule "flymake-proselint"]
+	path = mirror/flymake-proselint
+	url = git@github.com:emacsmirror/flymake-proselint.git
 [submodule "flymake-puppet"]
 	path = mirror/flymake-puppet
 	url = git@github.com:emacsmirror/flymake-puppet.git
