@@ -14,6 +14,9 @@
 [submodule "2048-game"]
 	path = mirror/2048-game
 	url = git@github.com:emacsmirror/2048-game.git
+[submodule "2bit"]
+	path = mirror/2bit
+	url = git@github.com:emacsmirror/2bit.git
 [submodule "4clojure"]
 	path = mirror/4clojure
 	url = git@github.com:emacsmirror/4clojure.git
