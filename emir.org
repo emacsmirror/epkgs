@@ -20,10 +20,11 @@
   (emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
-| Package     | Reason                            |
-|-------------+-----------------------------------|
-| ada-ref-man | no license, no elisp, no response |
-| gnu-elpa    | provides wrong feature            |
+| Package        | Reason                            |
+|----------------+-----------------------------------|
+| ada-ref-man    | no license, no elisp, no response |
+| gnu-elpa       | provides wrong feature            |
+| shell-command+ | relationship to bang is unclear   |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
@@ -835,6 +836,6 @@ FIXME Also used for minority reason.
 #+END_SRC
 
 * _
-;; Local Variables:
-;; indent-tabs-mode: nil
-;; End:
+# Local Variables:
+# indent-tabs-mode: nil
+# End:
