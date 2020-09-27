@@ -20845,6 +20845,9 @@
 [submodule "treepy"]
 	path = mirror/treepy
 	url = git@github.com:emacsmirror/treepy.git
+[submodule "treeview"]
+	path = mirror/treeview
+	url = git@github.com:emacsmirror/treeview.git
 [submodule "trelloel"]
 	path = mirror/trelloel
 	url = git@github.com:emacsmirror/trelloel.git
