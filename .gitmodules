@@ -8223,6 +8223,9 @@
 [submodule "gitty"]
 	path = attic/gitty
 	url = git@github.com:emacsattic/gitty.git
+[submodule "gkroam"]
+	path = mirror/gkroam
+	url = git@github.com:emacsmirror/gkroam.git
 [submodule "gl-conf-mode"]
 	path = mirror/gl-conf-mode
 	url = git@github.com:emacsmirror/gl-conf-mode.git
