@@ -8776,6 +8776,9 @@
 [submodule "gsettings"]
 	path = mirror/gsettings
 	url = git@github.com:emacsmirror/gsettings.git
+[submodule "gsnip"]
+	path = mirror/gsnip
+	url = git@github.com:emacsmirror/gsnip.git
 [submodule "gst-inspect"]
 	path = mirror/gst-inspect
 	url = git@github.com:emacsmirror/gst-inspect.git
