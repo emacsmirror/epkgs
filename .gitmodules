@@ -11131,6 +11131,9 @@
 [submodule "jetbrains"]
 	path = mirror/jetbrains
 	url = git@github.com:emacsmirror/jetbrains.git
+[submodule "jetbrains-darcula-theme"]
+	path = mirror/jetbrains-darcula-theme
+	url = git@github.com:emacsmirror/jetbrains-darcula-theme.git
 [submodule "jfolding"]
 	path = attic/jfolding
 	url = git@github.com:emacsattic/jfolding.git
