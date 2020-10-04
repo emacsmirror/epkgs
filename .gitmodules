@@ -4069,6 +4069,9 @@
 [submodule "dir-shell"]
 	path = attic/dir-shell
 	url = git@github.com:emacsattic/dir-shell.git
+[submodule "dir-treeview"]
+	path = mirror/dir-treeview
+	url = git@github.com:emacsmirror/dir-treeview.git
 [submodule "dircmp"]
 	path = mirror/dircmp
 	url = git@github.com:emacsmirror/dircmp.git
