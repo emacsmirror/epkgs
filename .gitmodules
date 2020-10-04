@@ -491,6 +491,9 @@
 [submodule "amread-mode"]
 	path = mirror/amread-mode
 	url = git@github.com:emacsmirror/amread-mode.git
+[submodule "amsreftex"]
+	path = mirror/amsreftex
+	url = git@github.com:emacsmirror/amsreftex.git
 [submodule "amx"]
 	path = mirror/amx
 	url = git@github.com:emacsmirror/amx.git
