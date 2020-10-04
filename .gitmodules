@@ -6707,6 +6707,9 @@
 [submodule "fill-function-arguments"]
 	path = mirror/fill-function-arguments
 	url = git@github.com:emacsmirror/fill-function-arguments.git
+[submodule "fill-page"]
+	path = mirror/fill-page
+	url = git@github.com:emacsmirror/fill-page.git
 [submodule "filladapt"]
 	path = mirror/filladapt
 	url = git@github.com:emacsmirror/filladapt.git
