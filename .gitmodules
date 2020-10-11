@@ -10461,6 +10461,9 @@
 [submodule "impatient-mode"]
 	path = mirror/impatient-mode
 	url = git@github.com:emacsmirror/impatient-mode.git
+[submodule "impatient-showdown"]
+	path = mirror/impatient-showdown
+	url = git@github.com:emacsmirror/impatient-showdown.git
 [submodule "import-js"]
 	path = mirror/import-js
 	url = git@github.com:emacsmirror/import-js.git
