@@ -1612,6 +1612,9 @@
 	path = mirror/bln-mode
 	url = git@github.com:emacsmirror/bln-mode.git
 	branch = master
+[submodule "block-nav"]
+	path = mirror/block-nav
+	url = git@github.com:emacsmirror/block-nav.git
 [submodule "blockdiag-mode"]
 	path = mirror/blockdiag-mode
 	url = git@github.com:emacsmirror/blockdiag-mode.git
