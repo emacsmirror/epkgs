@@ -10171,6 +10171,9 @@
 	path = mirror/i3wm
 	url = git@github.com:emacsmirror/i3wm.git
 	branch = master
+[submodule "i3wm-config-mode"]
+	path = mirror/i3wm-config-mode
+	url = git@github.com:emacsmirror/i3wm-config-mode.git
 [submodule "ialign"]
 	path = mirror/ialign
 	url = git@github.com:emacsmirror/ialign.git
