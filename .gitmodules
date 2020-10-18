@@ -15639,6 +15639,9 @@
 [submodule "ox-spectacle"]
 	path = mirror/ox-spectacle
 	url = git@github.com:emacsmirror/ox-spectacle.git
+[submodule "ox-ssh"]
+	path = mirror/ox-ssh
+	url = git@github.com:emacsmirror/ox-ssh.git
 [submodule "ox-textile"]
 	path = mirror/ox-textile
 	url = git@github.com:emacsmirror/ox-textile.git
