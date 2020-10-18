@@ -22830,6 +22830,9 @@
 [submodule "zmq"]
 	path = mirror/zmq
 	url = git@github.com:emacsmirror/zmq.git
+[submodule "zmusic"]
+	path = mirror/zmusic
+	url = git@github.com:emacsmirror/zmusic.git
 [submodule "znc"]
 	path = mirror/znc
 	url = git@github.com:emacsmirror/znc.git
