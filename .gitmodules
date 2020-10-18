@@ -11415,6 +11415,9 @@
 [submodule "kaleidoscope"]
 	path = mirror/kaleidoscope
 	url = git@github.com:emacsmirror/kaleidoscope.git
+[submodule "kana"]
+	path = mirror/kana
+	url = git@github.com:emacsmirror/kana.git
 [submodule "kanban"]
 	path = mirror/kanban
 	url = git@github.com:emacsmirror/kanban.git
