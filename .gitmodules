@@ -14401,6 +14401,9 @@
 	path = mirror/ob-dart
 	url = git@github.com:emacsmirror/ob-dart.git
 	branch = master
+[submodule "ob-deno"]
+	path = mirror/ob-deno
+	url = git@github.com:emacsmirror/ob-deno.git
 [submodule "ob-diagrams"]
 	path = mirror/ob-diagrams
 	url = git@github.com:emacsmirror/ob-diagrams.git
