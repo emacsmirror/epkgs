@@ -2524,6 +2524,9 @@
 [submodule "clips-mode"]
 	path = mirror/clips-mode
 	url = git@github.com:emacsmirror/clips-mode.git
+[submodule "clj-decompiler"]
+	path = mirror/clj-decompiler
+	url = git@github.com:emacsmirror/clj-decompiler.git
 [submodule "clj-refactor"]
 	path = mirror/clj-refactor
 	url = git@github.com:emacsmirror/clj-refactor.git
