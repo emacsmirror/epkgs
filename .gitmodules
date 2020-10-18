@@ -1195,6 +1195,9 @@
 [submodule "axcess"]
 	path = attic/axcess
 	url = git@github.com:emacsattic/axcess.git
+[submodule "axe"]
+	path = mirror/axe
+	url = git@github.com:emacsmirror/axe.git
 [submodule "axiom-environment"]
 	path = mirror/axiom-environment
 	url = git@github.com:emacsmirror/axiom-environment.git
