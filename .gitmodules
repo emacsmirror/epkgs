@@ -18693,6 +18693,9 @@
 [submodule "share2computer"]
 	path = mirror/share2computer
 	url = git@github.com:emacsmirror/share2computer.git
+[submodule "sharper"]
+	path = mirror/sharper
+	url = git@github.com:emacsmirror/sharper.git
 [submodule "shelisp"]
 	path = mirror/shelisp
 	url = git@github.com:emacsmirror/shelisp.git
