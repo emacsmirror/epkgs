@@ -6024,6 +6024,9 @@
 [submodule "ethan-wspace"]
 	path = mirror/ethan-wspace
 	url = git@github.com:emacsmirror/ethan-wspace.git
+[submodule "etherpad"]
+	path = mirror/etherpad
+	url = git@github.com:emacsmirror/etherpad.git
 [submodule "etom"]
 	path = mirror/etom
 	url = git@github.com:emacsmirror/etom.git
