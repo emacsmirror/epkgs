@@ -11191,6 +11191,9 @@
 [submodule "jknav"]
 	path = mirror/jknav
 	url = git@github.com:emacsmirror/jknav.git
+[submodule "jmt-mode"]
+	path = mirror/jmt-mode
+	url = git@github.com:emacsmirror/jmt-mode.git
 [submodule "joccur"]
 	path = mirror/joccur
 	url = git@github.com:emacsmirror/joccur.git
