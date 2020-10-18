@@ -14530,6 +14530,9 @@
 	path = mirror/obsidian-theme
 	url = git@github.com:emacsmirror/obsidian-theme.git
 	branch = master
+[submodule "ocamlformat"]
+	path = mirror/ocamlformat
+	url = git@github.com:emacsmirror/ocamlformat.git
 [submodule "occidental-theme"]
 	path = mirror/occidental-theme
 	url = git@github.com:emacsmirror/occidental-theme.git
