@@ -12894,6 +12894,9 @@
 [submodule "maxframe"]
 	path = mirror/maxframe
 	url = git@github.com:emacsmirror/maxframe.git
+[submodule "maxima"]
+	path = mirror/maxima
+	url = git@github.com:emacsmirror/maxima.git
 [submodule "mazemax"]
 	path = mirror/mazemax
 	url = git@github.com:emacsmirror/mazemax.git
