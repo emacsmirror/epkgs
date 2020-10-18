@@ -21750,6 +21750,9 @@
 [submodule "w32-fullscreen"]
 	path = attic/w32-fullscreen
 	url = git@github.com:emacsattic/w32-fullscreen.git
+[submodule "w32-ime"]
+	path = mirror/w32-ime
+	url = git@github.com:emacsmirror/w32-ime.git
 [submodule "w32-send-mapi"]
 	path = mirror/w32-send-mapi
 	url = git@github.com:emacsmirror/w32-send-mapi.git
