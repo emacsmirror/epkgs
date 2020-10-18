@@ -15973,9 +15973,6 @@
 [submodule "pcmpl-pip"]
 	path = mirror/pcmpl-pip
 	url = git@github.com:emacsmirror/pcmpl-pip.git
-[submodule "pcmpl-ssh"]
-	path = mirror/pcmpl-ssh
-	url = git@github.com:emacsmirror/pcmpl-ssh.git
 [submodule "pcomplete-extension"]
 	path = mirror/pcomplete-extension
 	url = git@github.com:emacsmirror/pcomplete-extension.git
