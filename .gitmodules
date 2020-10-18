@@ -11752,6 +11752,9 @@
 [submodule "latch"]
 	path = mirror/latch
 	url = git@github.com:emacsmirror/latch.git
+[submodule "later-do"]
+	path = mirror/later-do
+	url = git@github.com:emacsmirror/later-do.git
 [submodule "latex-doc"]
 	path = attic/latex-doc
 	url = git@github.com:emacsattic/latex-doc.git
