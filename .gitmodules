@@ -14131,6 +14131,9 @@
 [submodule "nntodo"]
 	path = attic/nntodo
 	url = git@github.com:emacsattic/nntodo.git
+[submodule "nntwitter"]
+	path = mirror/nntwitter
+	url = git@github.com:emacsmirror/nntwitter.git
 [submodule "no-emoji"]
 	path = mirror/no-emoji
 	url = git@github.com:emacsmirror/no-emoji.git
