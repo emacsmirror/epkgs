@@ -8721,6 +8721,9 @@
 	path = mirror/green-screen-theme
 	url = git@github.com:emacsmirror/green-screen-theme.git
 	branch = master
+[submodule "greenbar"]
+	path = mirror/greenbar
+	url = git@github.com:emacsmirror/greenbar.git
 [submodule "gregorio-mode"]
 	path = mirror/gregorio-mode
 	url = git@github.com:emacsmirror/gregorio-mode.git
