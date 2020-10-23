@@ -20303,6 +20303,9 @@
 [submodule "teletext"]
 	path = mirror/teletext
 	url = git@github.com:emacsmirror/teletext.git
+[submodule "teletext-yle"]
+	path = mirror/teletext-yle
+	url = git@github.com:emacsmirror/teletext-yle.git
 [submodule "tellicopy"]
 	path = attic/tellicopy
 	url = git@github.com:emacsattic/tellicopy.git
