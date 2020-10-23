@@ -20300,6 +20300,9 @@
 [submodule "telephone-line"]
 	path = mirror/telephone-line
 	url = git@github.com:emacsmirror/telephone-line.git
+[submodule "teletext"]
+	path = mirror/teletext
+	url = git@github.com:emacsmirror/teletext.git
 [submodule "tellicopy"]
 	path = attic/tellicopy
 	url = git@github.com:emacsattic/tellicopy.git
