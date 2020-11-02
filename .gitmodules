@@ -11376,6 +11376,9 @@
 [submodule "julia-snail"]
 	path = mirror/julia-snail
 	url = git@github.com:emacsmirror/julia-snail.git
+[submodule "julia-vterm"]
+	path = mirror/julia-vterm
+	url = git@github.com:emacsmirror/julia-vterm.git
 [submodule "jumblr"]
 	path = mirror/jumblr
 	url = git@github.com:emacsmirror/jumblr.git
