@@ -838,6 +838,9 @@
 [submodule "atim-unscroll"]
 	path = mirror/atim-unscroll
 	url = git@github.com:emacsmirror/atim-unscroll.git
+[submodule "atl-long-lines"]
+	path = mirror/atl-long-lines
+	url = git@github.com:emacsmirror/atl-long-lines.git
 [submodule "atl-markup"]
 	path = mirror/atl-markup
 	url = git@github.com:emacsmirror/atl-markup.git
