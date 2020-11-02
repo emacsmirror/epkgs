@@ -4922,6 +4922,9 @@
 [submodule "edn"]
 	path = mirror/edn
 	url = git@github.com:emacsmirror/edn.git
+[submodule "ednc"]
+	path = mirror/ednc
+	url = git@github.com:emacsmirror/ednc.git
 [submodule "edom"]
 	path = attic/edom
 	url = git@github.com:emacsattic/edom.git
