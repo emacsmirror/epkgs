@@ -1934,6 +1934,9 @@
 [submodule "buqis"]
 	path = attic/buqis
 	url = git@github.com:emacsattic/buqis.git
+[submodule "burnt-toast"]
+	path = mirror/burnt-toast
+	url = git@github.com:emacsmirror/burnt-toast.git
 [submodule "bury-successful-compilation"]
 	path = mirror/bury-successful-compilation
 	url = git@github.com:emacsmirror/bury-successful-compilation.git
