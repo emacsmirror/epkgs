@@ -14063,7 +14063,6 @@
 [submodule "nikola"]
 	path = mirror/nikola
 	url = git@github.com:emacsmirror/nikola.git
-	branch = master
 [submodule "nim-mode"]
 	path = mirror/nim-mode
 	url = git@github.com:emacsmirror/nim-mode.git
