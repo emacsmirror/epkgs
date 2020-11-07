@@ -9234,9 +9234,6 @@
 [submodule "helm-exwm"]
 	path = mirror/helm-exwm
 	url = git@github.com:emacsmirror/helm-exwm.git
-[submodule "helm-fd"]
-	path = mirror/helm-fd
-	url = git@github.com:emacsmirror/helm-fd.git
 [submodule "helm-file-preview"]
 	path = mirror/helm-file-preview
 	url = git@github.com:emacsmirror/helm-file-preview.git
