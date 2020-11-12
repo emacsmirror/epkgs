@@ -13134,6 +13134,9 @@
 [submodule "milkode"]
 	path = mirror/milkode
 	url = git@github.com:emacsmirror/milkode.git
+[submodule "mimetypes"]
+	path = mirror/mimetypes
+	url = git@github.com:emacsmirror/mimetypes.git
 [submodule "mine-sweeper-auto"]
 	path = attic/mine-sweeper-auto
 	url = git@github.com:emacsattic/mine-sweeper-auto.git
