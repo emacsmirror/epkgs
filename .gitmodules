@@ -17633,6 +17633,9 @@
 [submodule "rebox2"]
 	path = mirror/rebox2
 	url = git@github.com:emacsmirror/rebox2.git
+[submodule "rec-mode"]
+	path = mirror/rec-mode
+	url = git@github.com:emacsmirror/rec-mode.git
 [submodule "recaptcha"]
 	path = mirror/recaptcha
 	url = git@github.com:emacsmirror/recaptcha.git
