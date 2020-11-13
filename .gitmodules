@@ -16274,8 +16274,8 @@
 	path = mirror/phpactor
 	url = git@github.com:emacsmirror/phpactor.git
 [submodule "phpcbf"]
-	path = mirror/phpcbf
-	url = git@github.com:emacsmirror/phpcbf.git
+	path = attic/phpcbf
+	url = git@github.com:emacsattic/phpcbf.git
 [submodule "phps-mode"]
 	path = mirror/phps-mode
 	url = git@github.com:emacsmirror/phps-mode.git
