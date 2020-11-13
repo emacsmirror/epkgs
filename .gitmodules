@@ -7344,8 +7344,8 @@
 	path = mirror/flymake-coffee
 	url = git@github.com:emacsmirror/flymake-coffee.git
 [submodule "flymake-cppcheck"]
-	path = mirror/flymake-cppcheck
-	url = git@github.com:emacsmirror/flymake-cppcheck.git
+	path = attic/flymake-cppcheck
+	url = git@github.com:emacsattic/flymake-cppcheck.git
 [submodule "flymake-css"]
 	path = mirror/flymake-css
 	url = git@github.com:emacsmirror/flymake-css.git
