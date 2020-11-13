@@ -18116,8 +18116,8 @@
 	path = attic/rs-info
 	url = git@github.com:emacsattic/rs-info.git
 [submodule "rsense"]
-	path = mirror/rsense
-	url = git@github.com:emacsmirror/rsense.git
+	path = attic/rsense
+	url = git@github.com:emacsattic/rsense.git
 [submodule "rspec-mode"]
 	path = mirror/rspec-mode
 	url = git@github.com:emacsmirror/rspec-mode.git
