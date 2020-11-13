@@ -7387,8 +7387,8 @@
 	path = mirror/flymake-golangci
 	url = git@github.com:emacsmirror/flymake-golangci.git
 [submodule "flymake-google-cpplint"]
-	path = mirror/flymake-google-cpplint
-	url = git@github.com:emacsmirror/flymake-google-cpplint.git
+	path = attic/flymake-google-cpplint
+	url = git@github.com:emacsattic/flymake-google-cpplint.git
 [submodule "flymake-gradle"]
 	path = mirror/flymake-gradle
 	url = git@github.com:emacsmirror/flymake-gradle.git
