@@ -8021,8 +8021,8 @@
 	path = mirror/gh-md
 	url = git@github.com:emacsmirror/gh-md.git
 [submodule "ghc"]
-	path = mirror/ghc
-	url = git@github.com:emacsmirror/ghc.git
+	path = attic/ghc
+	url = git@github.com:emacsattic/ghc.git
 [submodule "ghc-imported-from"]
 	path = mirror/ghc-imported-from
 	url = git@github.com:emacsmirror/ghc-imported-from.git
