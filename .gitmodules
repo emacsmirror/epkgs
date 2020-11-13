@@ -10199,8 +10199,8 @@
 	path = mirror/ibuffer-git
 	url = git@github.com:emacsmirror/ibuffer-git.git
 [submodule "ibuffer-perspective"]
-	path = mirror/ibuffer-perspective
-	url = git@github.com:emacsmirror/ibuffer-perspective.git
+	path = attic/ibuffer-perspective
+	url = git@github.com:emacsattic/ibuffer-perspective.git
 [submodule "ibuffer-project"]
 	path = mirror/ibuffer-project
 	url = git@github.com:emacsmirror/ibuffer-project.git
