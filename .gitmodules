@@ -14369,8 +14369,8 @@
 	path = mirror/nz-holidays
 	url = git@github.com:emacsmirror/nz-holidays.git
 [submodule "o-blog"]
-	path = mirror/o-blog
-	url = git@github.com:emacsmirror/o-blog.git
+	path = attic/o-blog
+	url = git@github.com:emacsattic/o-blog.git
 [submodule "o-journal"]
 	path = attic/o-journal
 	url = git@github.com:emacsattic/o-journal.git
