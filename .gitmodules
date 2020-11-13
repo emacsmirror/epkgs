@@ -9355,8 +9355,8 @@
 	path = mirror/helm-img-tiqav
 	url = git@github.com:emacsmirror/helm-img-tiqav.git
 [submodule "helm-ipython"]
-	path = mirror/helm-ipython
-	url = git@github.com:emacsmirror/helm-ipython.git
+	path = attic/helm-ipython
+	url = git@github.com:emacsattic/helm-ipython.git
 [submodule "helm-ispell"]
 	path = mirror/helm-ispell
 	url = git@github.com:emacsmirror/helm-ispell.git
