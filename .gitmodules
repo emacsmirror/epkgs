@@ -2925,8 +2925,8 @@
 	path = mirror/company-fuzzy
 	url = git@github.com:emacsmirror/company-fuzzy.git
 [submodule "company-ghc"]
-	path = mirror/company-ghc
-	url = git@github.com:emacsmirror/company-ghc.git
+	path = attic/company-ghc
+	url = git@github.com:emacsattic/company-ghc.git
 [submodule "company-ghci"]
 	path = mirror/company-ghci
 	url = git@github.com:emacsmirror/company-ghci.git
