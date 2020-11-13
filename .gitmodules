@@ -10733,8 +10733,8 @@
 	path = mirror/io-mode-inf
 	url = git@github.com:emacsmirror/io-mode-inf.git
 [submodule "ioccur"]
-	path = mirror/ioccur
-	url = git@github.com:emacsmirror/ioccur.git
+	path = attic/ioccur
+	url = git@github.com:emacsattic/ioccur.git
 [submodule "iodine-theme"]
 	path = mirror/iodine-theme
 	url = git@github.com:emacsmirror/iodine-theme.git
