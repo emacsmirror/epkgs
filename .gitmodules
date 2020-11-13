@@ -16872,8 +16872,8 @@
 	path = mirror/projectile
 	url = git@github.com:emacsmirror/projectile.git
 [submodule "projectile-direnv"]
-	path = mirror/projectile-direnv
-	url = git@github.com:emacsmirror/projectile-direnv.git
+	path = attic/projectile-direnv
+	url = git@github.com:emacsattic/projectile-direnv.git
 	branch = master
 [submodule "projectile-git-autofetch"]
 	path = mirror/projectile-git-autofetch
