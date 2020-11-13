@@ -2314,8 +2314,8 @@
 	path = mirror/chess
 	url = git@github.com:emacsmirror/chess.git
 [submodule "chicken-scheme"]
-	path = mirror/chicken-scheme
-	url = git@github.com:emacsmirror/chicken-scheme.git
+	path = attic/chicken-scheme
+	url = git@github.com:emacsattic/chicken-scheme.git
 [submodule "chicken-scheme-extras"]
 	path = mirror/chicken-scheme-extras
 	url = git@github.com:emacsmirror/chicken-scheme-extras.git
