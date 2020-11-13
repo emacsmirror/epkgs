@@ -10967,8 +10967,8 @@
 	path = mirror/ix
 	url = git@github.com:emacsmirror/ix.git
 [submodule "iy-go-to-char"]
-	path = mirror/iy-go-to-char
-	url = git@github.com:emacsmirror/iy-go-to-char.git
+	path = attic/iy-go-to-char
+	url = git@github.com:emacsattic/iy-go-to-char.git
 [submodule "j-mode"]
 	path = mirror/j-mode
 	url = git@github.com:emacsmirror/j-mode.git
