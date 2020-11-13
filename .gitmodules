@@ -16230,8 +16230,8 @@
 	url = git@github.com:emacsattic/php-plus-mode.git
 	branch = master
 [submodule "php-auto-yasnippets"]
-	path = mirror/php-auto-yasnippets
-	url = git@github.com:emacsmirror/php-auto-yasnippets.git
+	path = attic/php-auto-yasnippets
+	url = git@github.com:emacsattic/php-auto-yasnippets.git
 [submodule "php-boris"]
 	path = mirror/php-boris
 	url = git@github.com:emacsmirror/php-boris.git
