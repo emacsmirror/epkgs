@@ -9277,8 +9277,8 @@
 	path = mirror/helm-fuzzy-find
 	url = git@github.com:emacsmirror/helm-fuzzy-find.git
 [submodule "helm-ghc"]
-	path = mirror/helm-ghc
-	url = git@github.com:emacsmirror/helm-ghc.git
+	path = attic/helm-ghc
+	url = git@github.com:emacsattic/helm-ghc.git
 [submodule "helm-ghq"]
 	path = mirror/helm-ghq
 	url = git@github.com:emacsmirror/helm-ghq.git
