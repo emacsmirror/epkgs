@@ -2972,8 +2972,8 @@
 	url = git@github.com:emacsmirror/company-ngram.git
 	branch = master
 [submodule "company-org-roam"]
-	path = mirror/company-org-roam
-	url = git@github.com:emacsmirror/company-org-roam.git
+	path = attic/company-org-roam
+	url = git@github.com:emacsattic/company-org-roam.git
 [submodule "company-plisp"]
 	path = mirror/company-plisp
 	url = git@github.com:emacsmirror/company-plisp.git
