@@ -12329,8 +12329,8 @@
 	path = attic/lout-mode
 	url = git@github.com:emacsattic/lout-mode.git
 [submodule "love-minor-mode"]
-	path = mirror/love-minor-mode
-	url = git@github.com:emacsmirror/love-minor-mode.git
+	path = attic/love-minor-mode
+	url = git@github.com:emacsattic/love-minor-mode.git
 [submodule "lox-mode"]
 	path = mirror/lox-mode
 	url = git@github.com:emacsmirror/lox-mode.git
