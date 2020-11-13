@@ -1691,8 +1691,8 @@
 	path = mirror/bookmark-add
 	url = git@github.com:emacsmirror/bookmark-add.git
 [submodule "bookmark-extensions"]
-	path = mirror/bookmark-extensions
-	url = git@github.com:emacsmirror/bookmark-extensions.git
+	path = attic/bookmark-extensions
+	url = git@github.com:emacsattic/bookmark-extensions.git
 [submodule "bookmark-search"]
 	path = attic/bookmark-search
 	url = git@github.com:emacsattic/bookmark-search.git
