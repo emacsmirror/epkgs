@@ -1447,8 +1447,8 @@
 	path = mirror/bert
 	url = git@github.com:emacsmirror/bert.git
 [submodule "better-defaults"]
-	path = mirror/better-defaults
-	url = git@github.com:emacsmirror/better-defaults.git
+	path = attic/better-defaults
+	url = git@github.com:emacsattic/better-defaults.git
 [submodule "better-jump"]
 	path = mirror/better-jump
 	url = git@github.com:emacsmirror/better-jump.git
