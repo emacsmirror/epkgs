@@ -17523,8 +17523,8 @@
 	path = mirror/rcirc-styles
 	url = git@github.com:emacsmirror/rcirc-styles.git
 [submodule "rcirc-ucomplete"]
-	path = mirror/rcirc-ucomplete
-	url = git@github.com:emacsmirror/rcirc-ucomplete.git
+	path = attic/rcirc-ucomplete
+	url = git@github.com:emacsattic/rcirc-ucomplete.git
 [submodule "rcodetools"]
 	path = mirror/rcodetools
 	url = git@github.com:emacsmirror/rcodetools.git
