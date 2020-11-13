@@ -563,40 +563,59 @@ FIXME Also used for minority reason.
   (emir--save-variable 'emir--diverging-reason value)
 #+END_SRC
 #+NAME: val--emir--diverging-reason
-| Package              | Reason              |
-|----------------------+---------------------|
-| auth-source-pass     | part of Emacs 26.1  |
-| autotest             | all-in-one repo     |
-| bibliothek           | all-in-one repo     |
-| cfengine-code-style  | mostly non-elisp    |
-| clang-format         | mostly non-elisp    |
-| cmake-mode           | mostly non-elisp    |
-| cython-mode          | mostly non-elisp    |
-| diffscuss-mode       | mostly non-elisp    |
-| faceup               | part of Emacs 27.1  |
-| fold-dwim-org        | obsolete dependency |
-| forecast             | all-in-one repo     |
-| google-c-style       | mostly non-elisp    |
-| less-css-mode        | part of Emacs 26.1  |
-| modus-operandi-theme | dedicated branches  |
-| modus-vivendi-theme  | dedicated branches  |
-| nemerle              | mostly non-elisp    |
-| ninja-mode           | mostly non-elisp    |
-| org-pua              | all-in-one repo     |
-| org-variable-pitch   | all-in-one repo     |
-| paper-theme          | all-in-one repo     |
-| po-mode              | mostly non-elisp    |
-| pylint               | mostly non-elisp    |
-| rfringe              | all-in-one repo     |
-| smart-compile        | all-in-one repo     |
-| tenv                 | unclean repo        |
-| tfs                  | all-in-one repo     |
-| thesaurus            | all-in-one repo     |
-| thingatpt-ext        | all-in-one repo     |
-| thrift               | mostly non-elisp    |
-| toggle               | all-in-one repo     |
-| wisp-mode            | mostly non-elisp    |
-| wn-org               | all-in-one repo     |
+| Package                      | Reason              |
+|------------------------------+---------------------|
+| auth-source-pass             | part of Emacs 26.1  |
+| autotest                     | all-in-one repo     |
+| bibliothek                   | all-in-one repo     |
+| cfengine-code-style          | mostly non-elisp    |
+| clang-format                 | mostly non-elisp    |
+| cmake-mode                   | mostly non-elisp    |
+| cython-mode                  | mostly non-elisp    |
+| diffscuss-mode               | mostly non-elisp    |
+| faceup                       | part of Emacs 27.1  |
+| fold-dwim-org                | obsolete dependency |
+| forecast                     | all-in-one repo     |
+| google-c-style               | mostly non-elisp    |
+| less-css-mode                | part of Emacs 26.1  |
+| modus-operandi-theme         | dedicated branches  |
+| modus-vivendi-theme          | dedicated branches  |
+| nemerle                      | mostly non-elisp    |
+| ninja-mode                   | mostly non-elisp    |
+| org-pua                      | all-in-one repo     |
+| org-variable-pitch           | all-in-one repo     |
+| paper-theme                  | all-in-one repo     |
+| po-mode                      | mostly non-elisp    |
+| pylint                       | mostly non-elisp    |
+| rfringe                      | all-in-one repo     |
+| smart-compile                | all-in-one repo     |
+| tenv                         | unclean repo        |
+| tfs                          | all-in-one repo     |
+| thesaurus                    | all-in-one repo     |
+| thingatpt-ext                | all-in-one repo     |
+| thrift                       | mostly non-elisp    |
+| toggle                       | all-in-one repo     |
+| wisp-mode                    | mostly non-elisp    |
+| wn-org                       | all-in-one repo     |
+| better-defaults              | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| chicken-scheme               | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| company-ghc                  | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| company-org-roam             | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| flymake-cppcheck             | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| flymake-google-cpplint       | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| ghc                          | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| helm-ghc                     | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| ido-complete-space-or-hyphen | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| isolate                      | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| iy-go-to-char                | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| love-minor-mode              | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| lsp-scala                    | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| o-blog                       | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| php-auto-yasnippets          | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| phpcbf                       | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| projectile-direnv            | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| rsense                       | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+| scpaste                      | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
 
 * Set ~emir--library-reason~
 #+NAME: set--emir--library-reason
