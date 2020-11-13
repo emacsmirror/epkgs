@@ -10828,8 +10828,8 @@
 	path = attic/iso-sgml
 	url = git@github.com:emacsattic/iso-sgml.git
 [submodule "isolate"]
-	path = mirror/isolate
-	url = git@github.com:emacsmirror/isolate.git
+	path = attic/isolate
+	url = git@github.com:emacsattic/isolate.git
 [submodule "isortify"]
 	path = mirror/isortify
 	url = git@github.com:emacsmirror/isortify.git
