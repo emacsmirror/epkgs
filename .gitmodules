@@ -774,8 +774,8 @@
 	path = attic/arxiv-reader
 	url = git@github.com:emacsattic/arxiv-reader.git
 [submodule "as3-simple-mode"]
-	path = mirror/as3-simple-mode
-	url = git@github.com:emacsmirror/as3-simple-mode.git
+	path = attic/as3-simple-mode
+	url = git@github.com:emacsattic/as3-simple-mode.git
 [submodule "ascii"]
 	path = mirror/ascii
 	url = git@github.com:emacsmirror/ascii.git
