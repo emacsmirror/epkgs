@@ -10708,8 +10708,8 @@
 	path = mirror/interleave
 	url = git@github.com:emacsmirror/interleave.git
 [submodule "intero"]
-	path = mirror/intero
-	url = git@github.com:emacsmirror/intero.git
+	path = attic/intero
+	url = git@github.com:emacsattic/intero.git
 	branch = master
 [submodule "interpreter-minor"]
 	path = mirror/interpreter-minor
