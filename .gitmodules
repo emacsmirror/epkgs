@@ -17034,6 +17034,9 @@
 [submodule "ptemplate"]
 	path = mirror/ptemplate
 	url = git@github.com:emacsmirror/ptemplate.git
+[submodule "ptemplate-templates"]
+	path = mirror/ptemplate-templates
+	url = git@github.com:emacsmirror/ptemplate-templates.git
 [submodule "pubmed"]
 	path = mirror/pubmed
 	url = git@github.com:emacsmirror/pubmed.git
