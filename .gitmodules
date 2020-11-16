@@ -7395,6 +7395,9 @@
 [submodule "flymake-gradle"]
 	path = mirror/flymake-gradle
 	url = git@github.com:emacsmirror/flymake-gradle.git
+[submodule "flymake-grammarly"]
+	path = mirror/flymake-grammarly
+	url = git@github.com:emacsmirror/flymake-grammarly.git
 [submodule "flymake-haml"]
 	path = mirror/flymake-haml
 	url = git@github.com:emacsmirror/flymake-haml.git
