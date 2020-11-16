@@ -11497,6 +11497,9 @@
 [submodule "kerl"]
 	path = mirror/kerl
 	url = git@github.com:emacsmirror/kerl.git
+[submodule "key-assist"]
+	path = mirror/key-assist
+	url = git@github.com:emacsmirror/key-assist.git
 [submodule "key-cast"]
 	path = mirror/key-cast
 	url = git@github.com:emacsmirror/key-cast.git
