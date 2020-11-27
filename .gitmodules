@@ -20861,6 +20861,9 @@
 	path = mirror/tql-mode
 	url = git@github.com:emacsmirror/tql-mode.git
 	branch = master
+[submodule "tr-ime"]
+	path = mirror/tr-ime
+	url = git@github.com:emacsmirror/tr-ime.git
 [submodule "traad"]
 	path = mirror/traad
 	url = git@github.com:emacsmirror/traad.git
