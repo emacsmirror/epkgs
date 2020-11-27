@@ -11932,6 +11932,9 @@
 [submodule "lentic-server"]
 	path = mirror/lentic-server
 	url = git@github.com:emacsmirror/lentic-server.git
+[submodule "leo"]
+	path = mirror/leo
+	url = git@github.com:emacsmirror/leo.git
 [submodule "less"]
 	path = mirror/less
 	url = git@github.com:emacsmirror/less.git
