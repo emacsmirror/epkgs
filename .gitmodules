@@ -22858,6 +22858,9 @@
 [submodule "zeno-theme"]
 	path = mirror/zeno-theme
 	url = git@github.com:emacsmirror/zeno-theme.git
+[submodule "zenscript-mode"]
+	path = mirror/zenscript-mode
+	url = git@github.com:emacsmirror/zenscript-mode.git
 [submodule "zephir-mode"]
 	path = mirror/zephir-mode
 	url = git@github.com:emacsmirror/zephir-mode.git
