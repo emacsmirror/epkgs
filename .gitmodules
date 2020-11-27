@@ -13554,6 +13554,9 @@
 [submodule "mpdel"]
 	path = mirror/mpdel
 	url = git@github.com:emacsmirror/mpdel.git
+[submodule "mpdmacs"]
+	path = mirror/mpdmacs
+	url = git@github.com:emacsmirror/mpdmacs.git
 [submodule "mplayer-mode"]
 	path = mirror/mplayer-mode
 	url = git@github.com:emacsmirror/mplayer-mode.git
