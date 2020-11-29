@@ -2646,7 +2646,6 @@
 [submodule "cobol-mode"]
 	path = mirror/cobol-mode
 	url = git@github.com:emacsmirror/cobol-mode.git
-	branch = master
 [submodule "cobra-mode"]
 	path = mirror/cobra-mode
 	url = git@github.com:emacsmirror/cobra-mode.git
@@ -2855,7 +2854,6 @@
 [submodule "compact-docstrings"]
 	path = mirror/compact-docstrings
 	url = git@github.com:emacsmirror/compact-docstrings.git
-	branch = master
 [submodule "company"]
 	path = mirror/company
 	url = git@github.com:emacsmirror/company.git
@@ -13842,7 +13840,6 @@
 [submodule "myers"]
 	path = mirror/myers
 	url = git@github.com:emacsmirror/myers.git
-	branch = master
 [submodule "mykie"]
 	path = mirror/mykie
 	url = git@github.com:emacsmirror/mykie.git
@@ -21249,7 +21246,6 @@
 [submodule "uni-confusables"]
 	path = mirror/uni-confusables
 	url = git@github.com:emacsmirror/uni-confusables.git
-	branch = master
 [submodule "unibasic"]
 	path = attic/unibasic
 	url = git@github.com:emacsattic/unibasic.git
@@ -21376,7 +21372,6 @@
 [submodule "url-http-ntlm"]
 	path = mirror/url-http-ntlm
 	url = git@github.com:emacsmirror/url-http-ntlm.git
-	branch = master
 [submodule "url-shortener"]
 	path = mirror/url-shortener
 	url = git@github.com:emacsmirror/url-shortener.git
