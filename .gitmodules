@@ -15036,6 +15036,9 @@
 [submodule "org-kindle"]
 	path = mirror/org-kindle
 	url = git@github.com:emacsmirror/org-kindle.git
+[submodule "org-latex-impatient"]
+	path = mirror/org-latex-impatient
+	url = git@github.com:emacsmirror/org-latex-impatient.git
 [submodule "org-link-beautify"]
 	path = mirror/org-link-beautify
 	url = git@github.com:emacsmirror/org-link-beautify.git
