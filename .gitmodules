@@ -13399,6 +13399,9 @@
 	path = mirror/monitor
 	url = git@github.com:emacsmirror/monitor.git
 	branch = master
+[submodule "monkeytype"]
+	path = mirror/monkeytype
+	url = git@github.com:emacsmirror/monkeytype.git
 [submodule "monky"]
 	path = mirror/monky
 	url = git@github.com:emacsmirror/monky.git
