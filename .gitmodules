@@ -19955,6 +19955,9 @@
 [submodule "svg-mode-line-themes"]
 	path = mirror/svg-mode-line-themes
 	url = git@github.com:emacsmirror/svg-mode-line-themes.git
+[submodule "svg-tag-mode"]
+	path = mirror/svg-tag-mode
+	url = git@github.com:emacsmirror/svg-tag-mode.git
 [submodule "svnwrapper"]
 	path = mirror/svnwrapper
 	url = git@github.com:emacsmirror/svnwrapper.git
