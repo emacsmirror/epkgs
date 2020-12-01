@@ -270,7 +270,6 @@
 [submodule "ada-mode"]
 	path = mirror/ada-mode
 	url = git@github.com:emacsmirror/ada-mode.git
-	branch = master
 [submodule "adafruit-wisdom"]
 	path = mirror/adafruit-wisdom
 	url = git@github.com:emacsmirror/adafruit-wisdom.git
@@ -476,7 +475,6 @@
 [submodule "ampc"]
 	path = mirror/ampc
 	url = git@github.com:emacsmirror/ampc.git
-	branch = master
 [submodule "ample-regexps"]
 	path = mirror/ample-regexps
 	url = git@github.com:emacsmirror/ample-regexps.git
@@ -711,7 +709,6 @@
 [submodule "arbitools"]
 	path = mirror/arbitools
 	url = git@github.com:emacsmirror/arbitools.git
-	branch = master
 [submodule "arc-dark-theme"]
 	path = mirror/arc-dark-theme
 	url = git@github.com:emacsmirror/arc-dark-theme.git
@@ -6370,7 +6367,6 @@
 [submodule "excorporate"]
 	path = mirror/excorporate
 	url = git@github.com:emacsmirror/excorporate.git
-	branch = master
 [submodule "exec-abbrev-cmd"]
 	path = mirror/exec-abbrev-cmd
 	url = git@github.com:emacsmirror/exec-abbrev-cmd.git
