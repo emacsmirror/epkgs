@@ -3209,9 +3209,6 @@
 	path = mirror/counsel-dash
 	url = git@github.com:emacsmirror/counsel-dash.git
 	branch = master
-[submodule "counsel-ebdb"]
-	path = mirror/counsel-ebdb
-	url = git@github.com:emacsmirror/counsel-ebdb.git
 [submodule "counsel-etags"]
 	path = mirror/counsel-etags
 	url = git@github.com:emacsmirror/counsel-etags.git
