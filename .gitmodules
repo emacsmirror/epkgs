@@ -3347,7 +3347,6 @@
 [submodule "crisp"]
 	path = mirror/crisp
 	url = git@github.com:emacsmirror/crisp.git
-	branch = master
 [submodule "crisp-mode"]
 	path = mirror/crisp-mode
 	url = git@github.com:emacsmirror/crisp-mode.git
@@ -3578,7 +3577,6 @@
 [submodule "cycle-quotes"]
 	path = mirror/cycle-quotes
 	url = git@github.com:emacsmirror/cycle-quotes.git
-	branch = master
 [submodule "cycle-resize"]
 	path = mirror/cycle-resize
 	url = git@github.com:emacsmirror/cycle-resize.git
@@ -11740,7 +11738,6 @@
 [submodule "landmark"]
 	path = mirror/landmark
 	url = git@github.com:emacsmirror/landmark.git
-	branch = master
 [submodule "lang-refactor-perl"]
 	path = mirror/lang-refactor-perl
 	url = git@github.com:emacsmirror/lang-refactor-perl.git
@@ -15746,7 +15743,6 @@
 [submodule "package-fixes"]
 	path = mirror/package-fixes
 	url = git@github.com:emacsmirror/package-fixes.git
-	branch = master
 [submodule "package-lint"]
 	path = mirror/package-lint
 	url = git@github.com:emacsmirror/package-lint.git
@@ -18580,7 +18576,6 @@
 [submodule "sed-mode"]
 	path = mirror/sed-mode
 	url = git@github.com:emacsmirror/sed-mode.git
-	branch = master
 [submodule "see-mode"]
 	path = mirror/see-mode
 	url = git@github.com:emacsmirror/see-mode.git
@@ -19214,7 +19209,6 @@
 [submodule "smart-yank"]
 	path = mirror/smart-yank
 	url = git@github.com:emacsmirror/smart-yank.git
-	branch = master
 [submodule "smartchr"]
 	path = mirror/smartchr
 	url = git@github.com:emacsmirror/smartchr.git
@@ -20893,7 +20887,6 @@
 [submodule "tramp-theme"]
 	path = mirror/tramp-theme
 	url = git@github.com:emacsmirror/tramp-theme.git
-	branch = master
 [submodule "trans-ej"]
 	path = mirror/trans-ej
 	url = git@github.com:emacsmirror/trans-ej.git
@@ -21453,7 +21446,6 @@
 [submodule "validate"]
 	path = mirror/validate
 	url = git@github.com:emacsmirror/validate.git
-	branch = master
 [submodule "validate-html"]
 	path = mirror/validate-html
 	url = git@github.com:emacsmirror/validate-html.git
