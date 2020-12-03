@@ -21449,6 +21449,9 @@
 [submodule "validate-html"]
 	path = mirror/validate-html
 	url = git@github.com:emacsmirror/validate-html.git
+[submodule "valign"]
+	path = mirror/valign
+	url = git@github.com:emacsmirror/valign.git
 [submodule "variant-abbc"]
 	path = attic/variant-abbc
 	url = git@github.com:emacsattic/variant-abbc.git
