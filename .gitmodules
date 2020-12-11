@@ -12112,8 +12112,8 @@
 	path = mirror/lispy-mnemonic
 	url = git@github.com:emacsmirror/lispy-mnemonic.git
 [submodule "lispyscript-mode"]
-	path = mirror/lispyscript-mode
-	url = git@github.com:emacsmirror/lispyscript-mode.git
+	path = attic/lispyscript-mode
+	url = git@github.com:emacsattic/lispyscript-mode.git
 [submodule "lispyville"]
 	path = mirror/lispyville
 	url = git@github.com:emacsmirror/lispyville.git
