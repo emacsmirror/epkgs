@@ -3116,6 +3116,9 @@
 [submodule "constraint"]
 	path = mirror/constraint
 	url = git@github.com:emacsmirror/constraint.git
+[submodule "consult"]
+	path = mirror/consult
+	url = git@github.com:emacsmirror/consult.git
 [submodule "contentswitch"]
 	path = mirror/contentswitch
 	url = git@github.com:emacsmirror/contentswitch.git
