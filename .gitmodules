@@ -13348,12 +13348,9 @@
 [submodule "modular-config"]
 	path = mirror/modular-config
 	url = git@github.com:emacsmirror/modular-config.git
-[submodule "modus-operandi-theme"]
-	path = mirror/modus-operandi-theme
-	url = git@github.com:emacsmirror/modus-operandi-theme.git
-[submodule "modus-vivendi-theme"]
-	path = mirror/modus-vivendi-theme
-	url = git@github.com:emacsmirror/modus-vivendi-theme.git
+[submodule "modus-themes"]
+	path = mirror/modus-themes
+	url = git@github.com:emacsmirror/modus-themes.git
 [submodule "moe-theme"]
 	path = mirror/moe-theme
 	url = git@github.com:emacsmirror/moe-theme.git
