@@ -8515,6 +8515,9 @@
 	path = mirror/godoctor
 	url = git@github.com:emacsmirror/godoctor.git
 	branch = master
+[submodule "goggles"]
+	path = mirror/goggles
+	url = git@github.com:emacsmirror/goggles.git
 [submodule "golb"]
 	path = mirror/golb
 	url = git@github.com:emacsmirror/golb.git
