@@ -19361,6 +19361,9 @@
 [submodule "solidity-mode"]
 	path = mirror/solidity-mode
 	url = git@github.com:emacsmirror/solidity-mode.git
+[submodule "solo-jazz-theme"]
+	path = mirror/solo-jazz-theme
+	url = git@github.com:emacsmirror/solo-jazz-theme.git
 [submodule "somafm"]
 	path = mirror/somafm
 	url = git@github.com:emacsmirror/somafm.git
