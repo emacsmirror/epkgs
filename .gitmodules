@@ -12809,6 +12809,9 @@
 [submodule "marcopolo"]
 	path = mirror/marcopolo
 	url = git@github.com:emacsmirror/marcopolo.git
+[submodule "marginalia"]
+	path = mirror/marginalia
+	url = git@github.com:emacsmirror/marginalia.git
 [submodule "mark-forward-sexp"]
 	path = mirror/mark-forward-sexp
 	url = git@github.com:emacsmirror/mark-forward-sexp.git
