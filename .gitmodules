@@ -13102,6 +13102,9 @@
 [submodule "metafmt"]
 	path = attic/metafmt
 	url = git@github.com:emacsattic/metafmt.git
+[submodule "metal-archives"]
+	path = mirror/metal-archives
+	url = git@github.com:emacsmirror/metal-archives.git
 [submodule "metalheart-theme"]
 	path = mirror/metalheart-theme
 	url = git@github.com:emacsmirror/metalheart-theme.git
