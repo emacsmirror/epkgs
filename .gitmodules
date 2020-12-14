@@ -10922,6 +10922,9 @@
 [submodule "ivy-feedwrangler"]
 	path = attic/ivy-feedwrangler
 	url = git@github.com:emacsattic/ivy-feedwrangler.git
+[submodule "ivy-file-preview"]
+	path = mirror/ivy-file-preview
+	url = git@github.com:emacsmirror/ivy-file-preview.git
 [submodule "ivy-fuz"]
 	path = mirror/ivy-fuz
 	url = git@github.com:emacsmirror/ivy-fuz.git
