@@ -672,6 +672,9 @@
 [submodule "aplac-mode"]
 	path = attic/aplac-mode
 	url = git@github.com:emacsattic/aplac-mode.git
+[submodule "apparmor-mode"]
+	path = mirror/apparmor-mode
+	url = git@github.com:emacsmirror/apparmor-mode.git
 [submodule "apples-mode"]
 	path = mirror/apples-mode
 	url = git@github.com:emacsmirror/apples-mode.git
