@@ -15630,6 +15630,9 @@
 	path = mirror/ox-epub
 	url = git@github.com:emacsmirror/ox-epub.git
 	branch = master
+[submodule "ox-gemini"]
+	path = mirror/ox-gemini
+	url = git@github.com:emacsmirror/ox-gemini.git
 [submodule "ox-gfm"]
 	path = mirror/ox-gfm
 	url = git@github.com:emacsmirror/ox-gfm.git
