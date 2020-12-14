@@ -22554,6 +22554,9 @@
 [submodule "xlsl-mode"]
 	path = attic/xlsl-mode
 	url = git@github.com:emacsattic/xlsl-mode.git
+[submodule "xmind-org"]
+	path = mirror/xmind-org
+	url = git@github.com:emacsmirror/xmind-org.git
 [submodule "xml+"]
 	path = mirror/xml+
 	url = git@github.com:emacsmirror/xml-plus.git
