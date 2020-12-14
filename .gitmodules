@@ -5166,6 +5166,9 @@
 [submodule "electric-spacing"]
 	path = mirror/electric-spacing
 	url = git@github.com:emacsmirror/electric-spacing.git
+[submodule "elegant-agenda-mode"]
+	path = mirror/elegant-agenda-mode
+	url = git@github.com:emacsmirror/elegant-agenda-mode.git
 [submodule "elein"]
 	path = mirror/elein
 	url = git@github.com:emacsmirror/elein.git
