@@ -8229,6 +8229,9 @@
 [submodule "github-theme"]
 	path = mirror/github-theme
 	url = git@github.com:emacsmirror/github-theme.git
+[submodule "gitignore-snippets"]
+	path = mirror/gitignore-snippets
+	url = git@github.com:emacsmirror/gitignore-snippets.git
 [submodule "gitignore-templates"]
 	path = mirror/gitignore-templates
 	url = git@github.com:emacsmirror/gitignore-templates.git
