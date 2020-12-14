@@ -12225,6 +12225,9 @@
 [submodule "livid-mode"]
 	path = mirror/livid-mode
 	url = git@github.com:emacsmirror/livid-mode.git
+[submodule "ll-debug"]
+	path = mirror/ll-debug
+	url = git@github.com:emacsmirror/ll-debug.git
 [submodule "lmc"]
 	path = mirror/lmc
 	url = git@github.com:emacsmirror/lmc.git
