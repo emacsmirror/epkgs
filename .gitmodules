@@ -5179,6 +5179,9 @@
 [submodule "elfeed"]
 	path = mirror/elfeed
 	url = git@github.com:emacsmirror/elfeed.git
+[submodule "elfeed-dashboard"]
+	path = mirror/elfeed-dashboard
+	url = git@github.com:emacsmirror/elfeed-dashboard.git
 [submodule "elfeed-goodies"]
 	path = mirror/elfeed-goodies
 	url = git@github.com:emacsmirror/elfeed-goodies.git
