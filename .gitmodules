@@ -16375,6 +16375,9 @@
 [submodule "pig-mode"]
 	path = mirror/pig-mode
 	url = git@github.com:emacsmirror/pig-mode.git
+[submodule "pikchr-mode"]
+	path = mirror/pikchr-mode
+	url = git@github.com:emacsmirror/pikchr-mode.git
 [submodule "pillar"]
 	path = mirror/pillar
 	url = git@github.com:emacsmirror/pillar.git
