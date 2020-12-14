@@ -10468,6 +10468,9 @@
 [submodule "imenu-anywhere"]
 	path = mirror/imenu-anywhere
 	url = git@github.com:emacsmirror/imenu-anywhere.git
+[submodule "imenu-extra"]
+	path = mirror/imenu-extra
+	url = git@github.com:emacsmirror/imenu-extra.git
 [submodule "imenu-list"]
 	path = mirror/imenu-list
 	url = git@github.com:emacsmirror/imenu-list.git
