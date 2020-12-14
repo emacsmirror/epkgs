@@ -12919,6 +12919,9 @@
 	path = mirror/material-theme
 	url = git@github.com:emacsmirror/material-theme.git
 	branch = master
+[submodule "math-preview"]
+	path = mirror/math-preview
+	url = git@github.com:emacsmirror/math-preview.git
 [submodule "math-symbol-lists"]
 	path = mirror/math-symbol-lists
 	url = git@github.com:emacsmirror/math-symbol-lists.git
