@@ -19330,6 +19330,9 @@
 	path = mirror/smyx-theme
 	url = git@github.com:emacsmirror/smyx-theme.git
 	branch = master
+[submodule "snails"]
+	path = mirror/snails
+	url = git@github.com:emacsmirror/snails.git
 [submodule "snakemake-mode"]
 	path = mirror/snakemake-mode
 	url = git@github.com:emacsmirror/snakemake-mode.git
