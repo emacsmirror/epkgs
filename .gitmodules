@@ -18361,6 +18361,9 @@
 	path = mirror/salesforce-utils
 	url = git@github.com:emacsmirror/salesforce-utils.git
 	branch = master
+[submodule "sallet"]
+	path = mirror/sallet
+	url = git@github.com:emacsmirror/sallet.git
 [submodule "salt-mode"]
 	path = mirror/salt-mode
 	url = git@github.com:emacsmirror/salt-mode.git
