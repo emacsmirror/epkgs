@@ -5473,6 +5473,9 @@
 [submodule "ematrix"]
 	path = attic/ematrix
 	url = git@github.com:emacsattic/ematrix.git
+[submodule "embark"]
+	path = mirror/embark
+	url = git@github.com:emacsmirror/embark.git
 [submodule "embeddedchangelog"]
 	path = mirror/embeddedchangelog
 	url = git@github.com:emacsmirror/embeddedchangelog.git
