@@ -15376,6 +15376,9 @@
 [submodule "org-tree-slide"]
 	path = mirror/org-tree-slide
 	url = git@github.com:emacsmirror/org-tree-slide.git
+[submodule "org-tree-slide-pauses"]
+	path = mirror/org-tree-slide-pauses
+	url = git@github.com:emacsmirror/org-tree-slide-pauses.git
 [submodule "org-treescope"]
 	path = mirror/org-treescope
 	url = git@github.com:emacsmirror/org-treescope.git
