@@ -16470,6 +16470,9 @@
 	path = mirror/plan9-theme
 	url = git@github.com:emacsmirror/plan9-theme.git
 	branch = master
+[submodule "planemo-mode"]
+	path = mirror/planemo-mode
+	url = git@github.com:emacsmirror/planemo-mode.git
 [submodule "planet-theme"]
 	path = mirror/planet-theme
 	url = git@github.com:emacsmirror/planet-theme.git
