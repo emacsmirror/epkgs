@@ -4690,6 +4690,9 @@
 [submodule "eacl"]
 	path = mirror/eacl
 	url = git@github.com:emacsmirror/eacl.git
+[submodule "eaf"]
+	path = mirror/eaf
+	url = git@github.com:emacsmirror/eaf.git
 [submodule "eap"]
 	path = attic/eap
 	url = git@github.com:emacsattic/eap.git
