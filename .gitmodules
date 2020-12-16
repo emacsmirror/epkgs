@@ -16106,6 +16106,9 @@
 [submodule "peepopen"]
 	path = attic/peepopen
 	url = git@github.com:emacsattic/peepopen.git
+[submodule "peertube"]
+	path = mirror/peertube
+	url = git@github.com:emacsmirror/peertube.git
 [submodule "peg"]
 	path = mirror/peg
 	url = git@github.com:emacsmirror/peg.git
