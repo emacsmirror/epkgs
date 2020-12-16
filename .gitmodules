@@ -9601,6 +9601,9 @@
 [submodule "helm-switch-shell"]
 	path = mirror/helm-switch-shell
 	url = git@github.com:emacsmirror/helm-switch-shell.git
+[submodule "helm-switch-to-repl"]
+	path = mirror/helm-switch-to-repl
+	url = git@github.com:emacsmirror/helm-switch-to-repl.git
 [submodule "helm-swoop"]
 	path = mirror/helm-swoop
 	url = git@github.com:emacsmirror/helm-swoop.git
