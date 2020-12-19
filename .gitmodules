@@ -10861,6 +10861,9 @@
 [submodule "isortify"]
 	path = mirror/isortify
 	url = git@github.com:emacsmirror/isortify.git
+[submodule "ispc-mode"]
+	path = mirror/ispc-mode
+	url = git@github.com:emacsmirror/ispc-mode.git
 [submodule "ispell-multi"]
 	path = attic/ispell-multi
 	url = git@github.com:emacsattic/ispell-multi.git
