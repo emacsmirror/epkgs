@@ -17751,6 +17751,9 @@
 [submodule "recompile-on-save"]
 	path = mirror/recompile-on-save
 	url = git@github.com:emacsmirror/recompile-on-save.git
+[submodule "recomplete"]
+	path = mirror/recomplete
+	url = git@github.com:emacsmirror/recomplete.git
 [submodule "record"]
 	path = attic/record
 	url = git@github.com:emacsattic/record.git
