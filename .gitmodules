@@ -10946,6 +10946,9 @@
 [submodule "ivy-lobsters"]
 	path = mirror/ivy-lobsters
 	url = git@github.com:emacsmirror/ivy-lobsters.git
+[submodule "ivy-migemo"]
+	path = mirror/ivy-migemo
+	url = git@github.com:emacsmirror/ivy-migemo.git
 [submodule "ivy-mpdel"]
 	path = mirror/ivy-mpdel
 	url = git@github.com:emacsmirror/ivy-mpdel.git
