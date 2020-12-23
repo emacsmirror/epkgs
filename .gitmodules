@@ -14855,6 +14855,9 @@
 [submodule "org-analyzer"]
 	path = mirror/org-analyzer
 	url = git@github.com:emacsmirror/org-analyzer.git
+[submodule "org-anki"]
+	path = mirror/org-anki
+	url = git@github.com:emacsmirror/org-anki.git
 [submodule "org-assoc-tags"]
 	path = mirror/org-assoc-tags
 	url = git@github.com:emacsmirror/org-assoc-tags.git
