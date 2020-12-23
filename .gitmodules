@@ -4220,6 +4220,9 @@
 [submodule "dired-xattr"]
 	path = mirror/dired-xattr
 	url = git@github.com:emacsmirror/dired-xattr.git
+[submodule "diredc"]
+	path = mirror/diredc
+	url = git@github.com:emacsmirror/diredc.git
 [submodule "diredfl"]
 	path = mirror/diredfl
 	url = git@github.com:emacsmirror/diredfl.git
