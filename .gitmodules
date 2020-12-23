@@ -19561,6 +19561,9 @@
 [submodule "spatial-navigate"]
 	path = mirror/spatial-navigate
 	url = git@github.com:emacsmirror/spatial-navigate.git
+[submodule "spdx"]
+	path = mirror/spdx
+	url = git@github.com:emacsmirror/spdx.git
 [submodule "speck"]
 	path = mirror/speck
 	url = git@github.com:emacsmirror/speck.git
