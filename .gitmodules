@@ -3843,6 +3843,9 @@
 [submodule "deep-copy"]
 	path = attic/deep-copy
 	url = git@github.com:emacsattic/deep-copy.git
+[submodule "default-font-presets"]
+	path = mirror/default-font-presets
+	url = git@github.com:emacsmirror/default-font-presets.git
 [submodule "default-text-scale"]
 	path = mirror/default-text-scale
 	url = git@github.com:emacsmirror/default-text-scale.git
