@@ -19394,6 +19394,9 @@
 [submodule "snort-mode"]
 	path = mirror/snort-mode
 	url = git@github.com:emacsmirror/snort-mode.git
+[submodule "snow"]
+	path = mirror/snow
+	url = git@github.com:emacsmirror/snow.git
 [submodule "so-long"]
 	path = mirror/so-long
 	url = git@github.com:emacsmirror/so-long.git
