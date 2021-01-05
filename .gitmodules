@@ -22248,6 +22248,9 @@
 [submodule "wikidot-mode"]
 	path = mirror/wikidot-mode
 	url = git@github.com:emacsmirror/wikidot-mode.git
+[submodule "wikinfo"]
+	path = mirror/wikinfo
+	url = git@github.com:emacsmirror/wikinfo.git
 [submodule "wikipedia-mode"]
 	path = mirror/wikipedia-mode
 	url = git@github.com:emacsmirror/wikipedia-mode.git
