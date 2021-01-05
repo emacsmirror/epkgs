@@ -18939,6 +18939,9 @@
 [submodule "show-eol"]
 	path = mirror/show-eol
 	url = git@github.com:emacsmirror/show-eol.git
+[submodule "show-font-mode"]
+	path = mirror/show-font-mode
+	url = git@github.com:emacsmirror/show-font-mode.git
 [submodule "show-functions"]
 	path = attic/show-functions
 	url = git@github.com:emacsattic/show-functions.git
