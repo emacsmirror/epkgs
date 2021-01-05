@@ -2426,6 +2426,9 @@
 [submodule "circle"]
 	path = attic/circle
 	url = git@github.com:emacsattic/circle.git
+[submodule "circleci-api"]
+	path = mirror/circleci-api
+	url = git@github.com:emacsmirror/circleci-api.git
 [submodule "cisco-router-mode"]
 	path = mirror/cisco-router-mode
 	url = git@github.com:emacsmirror/cisco-router-mode.git
