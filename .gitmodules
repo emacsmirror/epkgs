@@ -6025,6 +6025,9 @@
 [submodule "esxml"]
 	path = mirror/esxml
 	url = git@github.com:emacsmirror/esxml.git
+[submodule "eta"]
+	path = mirror/eta
+	url = git@github.com:emacsmirror/eta.git
 [submodule "etable"]
 	path = mirror/etable
 	url = git@github.com:emacsmirror/etable.git
