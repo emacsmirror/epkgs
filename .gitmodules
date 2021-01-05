@@ -18627,6 +18627,9 @@
 [submodule "scroll-restore"]
 	path = mirror/scroll-restore
 	url = git@github.com:emacsmirror/scroll-restore.git
+[submodule "scrollable-quick-peek"]
+	path = mirror/scrollable-quick-peek
+	url = git@github.com:emacsmirror/scrollable-quick-peek.git
 [submodule "scrollkeeper"]
 	path = mirror/scrollkeeper
 	url = git@github.com:emacsmirror/scrollkeeper.git
