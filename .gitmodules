@@ -18621,6 +18621,9 @@
 [submodule "scroll-on-drag"]
 	path = mirror/scroll-on-drag
 	url = git@github.com:emacsmirror/scroll-on-drag.git
+[submodule "scroll-on-jump"]
+	path = mirror/scroll-on-jump
+	url = git@github.com:emacsmirror/scroll-on-jump.git
 [submodule "scroll-restore"]
 	path = mirror/scroll-restore
 	url = git@github.com:emacsmirror/scroll-restore.git
