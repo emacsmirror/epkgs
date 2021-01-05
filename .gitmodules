@@ -8578,6 +8578,9 @@
 [submodule "gomacro-mode"]
 	path = mirror/gomacro-mode
 	url = git@github.com:emacsmirror/gomacro-mode.git
+[submodule "good-scroll"]
+	path = mirror/good-scroll
+	url = git@github.com:emacsmirror/good-scroll.git
 [submodule "goofey"]
 	path = attic/goofey
 	url = git@github.com:emacsattic/goofey.git
