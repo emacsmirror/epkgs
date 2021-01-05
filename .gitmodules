@@ -22125,6 +22125,9 @@
 	path = mirror/weblogger
 	url = git@github.com:emacsmirror/weblogger.git
 	branch = master
+[submodule "weblorg"]
+	path = mirror/weblorg
+	url = git@github.com:emacsmirror/weblorg.git
 [submodule "webpaste"]
 	path = mirror/webpaste
 	url = git@github.com:emacsmirror/webpaste.git
