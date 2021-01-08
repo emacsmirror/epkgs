@@ -6010,6 +6010,9 @@
 [submodule "ess-smart-underscore"]
 	path = mirror/ess-smart-underscore
 	url = git@github.com:emacsmirror/ess-smart-underscore.git
+[submodule "ess-stata-mode"]
+	path = mirror/ess-stata-mode
+	url = git@github.com:emacsmirror/ess-stata-mode.git
 [submodule "ess-view"]
 	path = mirror/ess-view
 	url = git@github.com:emacsmirror/ess-view.git
