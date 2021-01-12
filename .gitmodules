@@ -22733,6 +22733,9 @@
 	path = mirror/xref-js2
 	url = git@github.com:emacsmirror/xref-js2.git
 	branch = master
+[submodule "xref-rst"]
+	path = mirror/xref-rst
+	url = git@github.com:emacsmirror/xref-rst.git
 [submodule "xresources-theme"]
 	path = mirror/xresources-theme
 	url = git@github.com:emacsmirror/xresources-theme.git
