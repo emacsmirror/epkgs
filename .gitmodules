@@ -4579,6 +4579,9 @@
 [submodule "dsvn"]
 	path = mirror/dsvn
 	url = git@github.com:emacsmirror/dsvn.git
+[submodule "dtb-mode"]
+	path = mirror/dtb-mode
+	url = git@github.com:emacsmirror/dtb-mode.git
 [submodule "dtk"]
 	path = mirror/dtk
 	url = git@github.com:emacsmirror/dtk.git
