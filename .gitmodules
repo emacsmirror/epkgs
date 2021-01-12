@@ -16420,6 +16420,9 @@
 	path = mirror/picpocket
 	url = git@github.com:emacsmirror/picpocket.git
 	branch = master
+[submodule "piem"]
+	path = mirror/piem
+	url = git@github.com:emacsmirror/piem.git
 [submodule "pig-mode"]
 	path = mirror/pig-mode
 	url = git@github.com:emacsmirror/pig-mode.git
