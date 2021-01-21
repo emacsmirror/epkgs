@@ -3227,6 +3227,9 @@
 	path = mirror/counsel-dash
 	url = git@github.com:emacsmirror/counsel-dash.git
 	branch = master
+[submodule "counsel-edit-mode"]
+	path = mirror/counsel-edit-mode
+	url = git@github.com:emacsmirror/counsel-edit-mode.git
 [submodule "counsel-etags"]
 	path = mirror/counsel-etags
 	url = git@github.com:emacsmirror/counsel-etags.git
