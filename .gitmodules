@@ -7478,6 +7478,9 @@
 	path = mirror/flymake-lua
 	url = git@github.com:emacsmirror/flymake-lua.git
 	branch = master
+[submodule "flymake-nasm"]
+	path = mirror/flymake-nasm
+	url = git@github.com:emacsmirror/flymake-nasm.git
 [submodule "flymake-perlcritic"]
 	path = mirror/flymake-perlcritic
 	url = git@github.com:emacsmirror/flymake-perlcritic.git
