@@ -7196,6 +7196,9 @@
 [submodule "flycheck-hdevtools"]
 	path = mirror/flycheck-hdevtools
 	url = git@github.com:emacsmirror/flycheck-hdevtools.git
+[submodule "flycheck-hledger"]
+	path = mirror/flycheck-hledger
+	url = git@github.com:emacsmirror/flycheck-hledger.git
 [submodule "flycheck-indicator"]
 	path = mirror/flycheck-indicator
 	url = git@github.com:emacsmirror/flycheck-indicator.git
