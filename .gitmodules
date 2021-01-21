@@ -21828,6 +21828,9 @@
 [submodule "virtual-auto-fill"]
 	path = mirror/virtual-auto-fill
 	url = git@github.com:emacsmirror/virtual-auto-fill.git
+[submodule "virtual-comment"]
+	path = mirror/virtual-comment
+	url = git@github.com:emacsmirror/virtual-comment.git
 [submodule "virtualenv"]
 	path = mirror/virtualenv
 	url = git@github.com:emacsmirror/virtualenv.git
