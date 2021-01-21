@@ -3377,6 +3377,9 @@
 [submodule "crosshairs"]
 	path = mirror/crosshairs
 	url = git@github.com:emacsmirror/crosshairs.git
+[submodule "crossword"]
+	path = mirror/crossword
+	url = git@github.com:emacsmirror/crossword.git
 [submodule "cruisecontrol"]
 	path = attic/cruisecontrol
 	url = git@github.com:emacsattic/cruisecontrol.git
