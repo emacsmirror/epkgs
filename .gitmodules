@@ -2664,6 +2664,9 @@
 [submodule "code-archive"]
 	path = mirror/code-archive
 	url = git@github.com:emacsmirror/code-archive.git
+[submodule "code-cells"]
+	path = mirror/code-cells
+	url = git@github.com:emacsmirror/code-cells.git
 [submodule "code-imports"]
 	path = mirror/code-imports
 	url = git@github.com:emacsmirror/code-imports.git
