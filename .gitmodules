@@ -15796,6 +15796,9 @@
 [submodule "ox-textile"]
 	path = mirror/ox-textile
 	url = git@github.com:emacsmirror/ox-textile.git
+[submodule "ox-timeline"]
+	path = mirror/ox-timeline
+	url = git@github.com:emacsmirror/ox-timeline.git
 [submodule "ox-trac"]
 	path = mirror/ox-trac
 	url = git@github.com:emacsmirror/ox-trac.git
