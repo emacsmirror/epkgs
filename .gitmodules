@@ -18026,6 +18026,9 @@
 [submodule "repo"]
 	path = mirror/repo
 	url = git@github.com:emacsmirror/repo.git
+[submodule "repology"]
+	path = mirror/repology
+	url = git@github.com:emacsmirror/repology.git
 [submodule "reportmail"]
 	path = attic/reportmail
 	url = git@github.com:emacsattic/reportmail.git
