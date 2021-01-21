@@ -18359,6 +18359,9 @@
 [submodule "run-assoc"]
 	path = mirror/run-assoc
 	url = git@github.com:emacsmirror/run-assoc.git
+[submodule "run-command"]
+	path = mirror/run-command
+	url = git@github.com:emacsmirror/run-command.git
 [submodule "run-stuff"]
 	path = mirror/run-stuff
 	url = git@github.com:emacsmirror/run-stuff.git
