@@ -20045,6 +20045,9 @@
 [submodule "sudo-save"]
 	path = mirror/sudo-save
 	url = git@github.com:emacsmirror/sudo-save.git
+[submodule "sudo-utils"]
+	path = mirror/sudo-utils
+	url = git@github.com:emacsmirror/sudo-utils.git
 [submodule "sudoku"]
 	path = mirror/sudoku
 	url = git@github.com:emacsmirror/sudoku.git
