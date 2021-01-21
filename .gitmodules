@@ -14535,6 +14535,9 @@
 [submodule "ob-graphql"]
 	path = mirror/ob-graphql
 	url = git@github.com:emacsmirror/ob-graphql.git
+[submodule "ob-haxe"]
+	path = mirror/ob-haxe
+	url = git@github.com:emacsmirror/ob-haxe.git
 [submodule "ob-html-chrome"]
 	path = mirror/ob-html-chrome
 	url = git@github.com:emacsmirror/ob-html-chrome.git
