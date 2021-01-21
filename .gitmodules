@@ -10022,6 +10022,9 @@
 	path = mirror/holiday-pascha-etc
 	url = git@github.com:emacsmirror/holiday-pascha-etc.git
 	branch = master
+[submodule "holy-books"]
+	path = mirror/holy-books
+	url = git@github.com:emacsmirror/holy-books.git
 [submodule "home-end"]
 	path = mirror/home-end
 	url = git@github.com:emacsmirror/home-end.git
