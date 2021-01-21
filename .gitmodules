@@ -13733,6 +13733,9 @@
 [submodule "mu4e-maildirs-extension"]
 	path = mirror/mu4e-maildirs-extension
 	url = git@github.com:emacsmirror/mu4e-maildirs-extension.git
+[submodule "mu4e-marker-icons"]
+	path = mirror/mu4e-marker-icons
+	url = git@github.com:emacsmirror/mu4e-marker-icons.git
 [submodule "mu4e-overview"]
 	path = mirror/mu4e-overview
 	url = git@github.com:emacsmirror/mu4e-overview.git
