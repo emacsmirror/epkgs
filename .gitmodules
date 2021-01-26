@@ -15910,6 +15910,9 @@
 [submodule "pair-mode"]
 	path = attic/pair-mode
 	url = git@github.com:emacsattic/pair-mode.git
+[submodule "pair-tree"]
+	path = mirror/pair-tree
+	url = git@github.com:emacsmirror/pair-tree.git
 [submodule "palette"]
 	path = mirror/palette
 	url = git@github.com:emacsmirror/palette.git
