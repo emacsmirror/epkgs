@@ -15418,6 +15418,9 @@
 	path = mirror/org-table-sticky-header
 	url = git@github.com:emacsmirror/org-table-sticky-header.git
 	branch = master
+[submodule "org-tag-beautify"]
+	path = mirror/org-tag-beautify
+	url = git@github.com:emacsmirror/org-tag-beautify.git
 [submodule "org-tanglesync"]
 	path = mirror/org-tanglesync
 	url = git@github.com:emacsmirror/org-tanglesync.git
