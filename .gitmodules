@@ -10235,8 +10235,8 @@
 	path = attic/hyphenate
 	url = git@github.com:emacsattic/hyphenate.git
 [submodule "i-ching"]
-	path = attic/i-ching
-	url = git@github.com:emacsattic/i-ching.git
+	path = mirror/i-ching
+	url = git@github.com:emacsmirror/i-ching.git
 [submodule "i2b2-mode"]
 	path = mirror/i2b2-mode
 	url = git@github.com:emacsmirror/i2b2-mode.git
