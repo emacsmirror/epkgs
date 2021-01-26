@@ -6240,8 +6240,8 @@
 	url = git@github.com:emacsmirror/evil-lispy.git
 	branch = master
 [submodule "evil-magit"]
-	path = mirror/evil-magit
-	url = git@github.com:emacsmirror/evil-magit.git
+	path = attic/evil-magit
+	url = git@github.com:emacsattic/evil-magit.git
 	branch = master
 [submodule "evil-mark-replace"]
 	path = mirror/evil-mark-replace
