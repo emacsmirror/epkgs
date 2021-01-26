@@ -15281,8 +15281,8 @@
 	path = mirror/org-protocol-jekyll
 	url = git@github.com:emacsmirror/org-protocol-jekyll.git
 [submodule "org-pua"]
-	path = mirror/org-pua
-	url = git@github.com:emacsmirror/org-pua.git
+	path = attic/org-pua
+	url = git@github.com:emacsattic/org-pua.git
 [submodule "org-ql"]
 	path = mirror/org-ql
 	url = git@github.com:emacsmirror/org-ql.git
@@ -18136,8 +18136,8 @@
 	path = attic/rfcview
 	url = git@github.com:emacsattic/rfcview.git
 [submodule "rfringe"]
-	path = mirror/rfringe
-	url = git@github.com:emacsmirror/rfringe.git
+	path = attic/rfringe
+	url = git@github.com:emacsattic/rfringe.git
 [submodule "rg"]
 	path = mirror/rg
 	url = git@github.com:emacsmirror/rg.git
@@ -20723,8 +20723,8 @@
 	url = git@github.com:emacsmirror/tf2-conf-mode.git
 	branch = master
 [submodule "tfs"]
-	path = mirror/tfs
-	url = git@github.com:emacsmirror/tfs.git
+	path = attic/tfs
+	url = git@github.com:emacsattic/tfs.git
 [submodule "tfsmacs"]
 	path = mirror/tfsmacs
 	url = git@github.com:emacsmirror/tfsmacs.git
@@ -20748,8 +20748,8 @@
 	path = mirror/therapy
 	url = git@github.com:emacsmirror/therapy.git
 [submodule "thesaurus"]
-	path = mirror/thesaurus
-	url = git@github.com:emacsmirror/thesaurus.git
+	path = attic/thesaurus
+	url = git@github.com:emacsattic/thesaurus.git
 [submodule "thing-cmds"]
 	path = mirror/thing-cmds
 	url = git@github.com:emacsmirror/thing-cmds.git
@@ -20760,8 +20760,8 @@
 	path = mirror/thingatpt+
 	url = git@github.com:emacsmirror/thingatpt-plus.git
 [submodule "thingatpt-ext"]
-	path = mirror/thingatpt-ext
-	url = git@github.com:emacsmirror/thingatpt-ext.git
+	path = attic/thingatpt-ext
+	url = git@github.com:emacsattic/thingatpt-ext.git
 [submodule "thingopt"]
 	path = mirror/thingopt
 	url = git@github.com:emacsmirror/thingopt.git
@@ -22474,8 +22474,8 @@
 	path = mirror/wn-mode
 	url = git@github.com:emacsmirror/wn-mode.git
 [submodule "wn-org"]
-	path = mirror/wn-org
-	url = git@github.com:emacsmirror/wn-org.git
+	path = attic/wn-org
+	url = git@github.com:emacsattic/wn-org.git
 [submodule "wolfram"]
 	path = mirror/wolfram
 	url = git@github.com:emacsmirror/wolfram.git
