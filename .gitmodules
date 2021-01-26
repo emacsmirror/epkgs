@@ -3068,6 +3068,9 @@
 [submodule "compile-dwim"]
 	path = mirror/compile-dwim
 	url = git@github.com:emacsmirror/compile-dwim.git
+[submodule "compiler-explorer"]
+	path = mirror/compiler-explorer
+	url = git@github.com:emacsmirror/compiler-explorer.git
 [submodule "completing-help"]
 	path = attic/completing-help
 	url = git@github.com:emacsattic/completing-help.git
