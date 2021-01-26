@@ -18592,8 +18592,8 @@
 	path = attic/scp
 	url = git@github.com:emacsattic/scp.git
 [submodule "scpaste"]
-	path = attic/scpaste
-	url = git@github.com:emacsattic/scpaste.git
+	path = mirror/scpaste
+	url = git@github.com:emacsmirror/scpaste.git
 [submodule "scrape"]
 	path = attic/scrape
 	url = git@github.com:emacsattic/scrape.git
