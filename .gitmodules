@@ -3472,6 +3472,9 @@
 [submodule "csv-writer"]
 	path = attic/csv-writer
 	url = git@github.com:emacsattic/csv-writer.git
+[submodule "ct"]
+	path = mirror/ct
+	url = git@github.com:emacsmirror/ct.git
 [submodule "ctable"]
 	path = mirror/ctable
 	url = git@github.com:emacsmirror/ctable.git
