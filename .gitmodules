@@ -17464,6 +17464,9 @@
 [submodule "quelpa"]
 	path = mirror/quelpa
 	url = git@github.com:emacsmirror/quelpa.git
+[submodule "quelpa-leaf"]
+	path = mirror/quelpa-leaf
+	url = git@github.com:emacsmirror/quelpa-leaf.git
 [submodule "quelpa-use-package"]
 	path = mirror/quelpa-use-package
 	url = git@github.com:emacsmirror/quelpa-use-package.git
