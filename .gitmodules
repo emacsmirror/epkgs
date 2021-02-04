@@ -10882,6 +10882,9 @@
 [submodule "irony-eldoc"]
 	path = mirror/irony-eldoc
 	url = git@github.com:emacsmirror/irony-eldoc.git
+[submodule "iscroll"]
+	path = mirror/iscroll
+	url = git@github.com:emacsmirror/iscroll.git
 [submodule "isea"]
 	path = mirror/isea
 	url = git@github.com:emacsmirror/isea.git
