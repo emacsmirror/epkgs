@@ -12554,6 +12554,9 @@
 [submodule "lsp-sourcekit"]
 	path = mirror/lsp-sourcekit
 	url = git@github.com:emacsmirror/lsp-sourcekit.git
+[submodule "lsp-tailwindcss"]
+	path = mirror/lsp-tailwindcss
+	url = git@github.com:emacsmirror/lsp-tailwindcss.git
 [submodule "lsp-treemacs"]
 	path = mirror/lsp-treemacs
 	url = git@github.com:emacsmirror/lsp-treemacs.git
