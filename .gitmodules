@@ -19499,6 +19499,9 @@
 [submodule "snipplr"]
 	path = mirror/snipplr
 	url = git@github.com:emacsmirror/snipplr.git
+[submodule "snitch"]
+	path = mirror/snitch
+	url = git@github.com:emacsmirror/snitch.git
 [submodule "snoopy"]
 	path = mirror/snoopy
 	url = git@github.com:emacsmirror/snoopy.git
