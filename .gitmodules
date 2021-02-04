@@ -10382,8 +10382,8 @@
 	path = attic/ido-clever-match
 	url = git@github.com:emacsattic/ido-clever-match.git
 [submodule "ido-complete-space-or-hyphen"]
-	path = attic/ido-complete-space-or-hyphen
-	url = git@github.com:emacsattic/ido-complete-space-or-hyphen.git
+	path = mirror/ido-complete-space-or-hyphen
+	url = git@github.com:emacsmirror/ido-complete-space-or-hyphen.git
 [submodule "ido-completing-read+"]
 	path = mirror/ido-completing-read+
 	url = git@github.com:emacsmirror/ido-completing-read-plus.git
