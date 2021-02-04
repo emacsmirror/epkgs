@@ -12315,6 +12315,9 @@
 [submodule "ll-debug"]
 	path = mirror/ll-debug
 	url = git@github.com:emacsmirror/ll-debug.git
+[submodule "llama"]
+	path = mirror/llama
+	url = git@github.com:emacsmirror/llama.git
 [submodule "lmc"]
 	path = mirror/lmc
 	url = git@github.com:emacsmirror/lmc.git
