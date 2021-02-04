@@ -9143,8 +9143,8 @@
 	path = mirror/helm-ad
 	url = git@github.com:emacsmirror/helm-ad.git
 [submodule "helm-addressbook"]
-	path = mirror/helm-addressbook
-	url = git@github.com:emacsmirror/helm-addressbook.git
+	path = attic/helm-addressbook
+	url = git@github.com:emacsattic/helm-addressbook.git
 [submodule "helm-ag"]
 	path = mirror/helm-ag
 	url = git@github.com:emacsmirror/helm-ag.git
