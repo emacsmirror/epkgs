@@ -296,6 +296,9 @@
 [submodule "admb"]
 	path = attic/admb
 	url = git@github.com:emacsattic/admb.git
+[submodule "ado-mode"]
+	path = mirror/ado-mode
+	url = git@github.com:emacsmirror/ado-mode.git
 [submodule "adoc-mode"]
 	path = mirror/adoc-mode
 	url = git@github.com:emacsmirror/adoc-mode.git
