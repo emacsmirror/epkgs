@@ -6822,6 +6822,9 @@
 [submodule "find-dired-lisp"]
 	path = attic/find-dired-lisp
 	url = git@github.com:emacsattic/find-dired-lisp.git
+[submodule "find-dupes-dired"]
+	path = mirror/find-dupes-dired
+	url = git@github.com:emacsmirror/find-dupes-dired.git
 [submodule "find-empty-el-files"]
 	path = attic/find-empty-el-files
 	url = git@github.com:emacsattic/find-empty-el-files.git
