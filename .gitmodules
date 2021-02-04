@@ -8264,8 +8264,8 @@
 	path = mirror/github-explorer
 	url = git@github.com:emacsmirror/github-explorer.git
 [submodule "github-issues"]
-	path = mirror/github-issues
-	url = git@github.com:emacsmirror/github-issues.git
+	path = attic/github-issues
+	url = git@github.com:emacsattic/github-issues.git
 [submodule "github-modern-theme"]
 	path = mirror/github-modern-theme
 	url = git@github.com:emacsmirror/github-modern-theme.git
