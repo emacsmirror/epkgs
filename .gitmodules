@@ -15265,8 +15265,8 @@
 	path = mirror/org-parser
 	url = git@github.com:emacsmirror/org-parser.git
 [submodule "org-password-manager"]
-	path = mirror/org-password-manager
-	url = git@github.com:emacsmirror/org-password-manager.git
+	path = attic/org-password-manager
+	url = git@github.com:emacsattic/org-password-manager.git
 [submodule "org-pdftools"]
 	path = mirror/org-pdftools
 	url = git@github.com:emacsmirror/org-pdftools.git
