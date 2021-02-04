@@ -9282,8 +9282,8 @@
 	path = mirror/helm-dirset
 	url = git@github.com:emacsmirror/helm-dirset.git
 [submodule "helm-elscreen"]
-	path = mirror/helm-elscreen
-	url = git@github.com:emacsmirror/helm-elscreen.git
+	path = attic/helm-elscreen
+	url = git@github.com:emacsattic/helm-elscreen.git
 [submodule "helm-emmet"]
 	path = mirror/helm-emmet
 	url = git@github.com:emacsmirror/helm-emmet.git
