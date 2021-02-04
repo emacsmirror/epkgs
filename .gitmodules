@@ -15079,6 +15079,9 @@
 [submodule "org-elisp-help"]
 	path = mirror/org-elisp-help
 	url = git@github.com:emacsmirror/org-elisp-help.git
+[submodule "org-elp"]
+	path = mirror/org-elp
+	url = git@github.com:emacsmirror/org-elp.git
 [submodule "org-email"]
 	path = mirror/org-email
 	url = git@github.com:emacsmirror/org-email.git
