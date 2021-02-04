@@ -12063,6 +12063,9 @@
 [submodule "lexbind-mode"]
 	path = mirror/lexbind-mode
 	url = git@github.com:emacsmirror/lexbind-mode.git
+[submodule "lexic"]
+	path = mirror/lexic
+	url = git@github.com:emacsmirror/lexic.git
 [submodule "lfe-mode"]
 	path = mirror/lfe-mode
 	url = git@github.com:emacsmirror/lfe-mode.git
