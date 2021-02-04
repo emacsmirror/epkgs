@@ -10492,8 +10492,8 @@
 	path = mirror/im-notification
 	url = git@github.com:emacsmirror/im-notification.git
 [submodule "image+"]
-	path = attic/image+
-	url = git@github.com:emacsattic/image-plus.git
+	path = mirror/image+
+	url = git@github.com:emacsmirror/image-plus.git
 [submodule "image-archive"]
 	path = mirror/image-archive
 	url = git@github.com:emacsmirror/image-archive.git
