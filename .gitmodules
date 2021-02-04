@@ -3035,6 +3035,9 @@
 [submodule "company-web"]
 	path = mirror/company-web
 	url = git@github.com:emacsmirror/company-web.git
+[submodule "company-wordfreq"]
+	path = mirror/company-wordfreq
+	url = git@github.com:emacsmirror/company-wordfreq.git
 [submodule "compare-windows-interactively"]
 	path = attic/compare-windows-interactively
 	url = git@github.com:emacsattic/compare-windows-interactively.git
