@@ -7817,6 +7817,9 @@
 [submodule "from"]
 	path = attic/from
 	url = git@github.com:emacsattic/from.git
+[submodule "frontside-javascript"]
+	path = mirror/frontside-javascript
+	url = git@github.com:emacsmirror/frontside-javascript.git
 [submodule "fs-mode"]
 	path = mirror/fs-mode
 	url = git@github.com:emacsmirror/fs-mode.git
