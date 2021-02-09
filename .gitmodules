@@ -14963,6 +14963,9 @@
 [submodule "org-auto-shorten-url"]
 	path = attic/org-auto-shorten-url
 	url = git@github.com:emacsattic/org-auto-shorten-url.git
+[submodule "org-auto-tangle"]
+	path = mirror/org-auto-tangle
+	url = git@github.com:emacsmirror/org-auto-tangle.git
 [submodule "org-autolist"]
 	path = mirror/org-autolist
 	url = git@github.com:emacsmirror/org-autolist.git
