@@ -6506,6 +6506,9 @@
 [submodule "exwm-firefox-evil"]
 	path = mirror/exwm-firefox-evil
 	url = git@github.com:emacsmirror/exwm-firefox-evil.git
+[submodule "exwm-float"]
+	path = mirror/exwm-float
+	url = git@github.com:emacsmirror/exwm-float.git
 [submodule "exwm-mff"]
 	path = mirror/exwm-mff
 	url = git@github.com:emacsmirror/exwm-mff.git
