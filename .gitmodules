@@ -4490,6 +4490,9 @@
 [submodule "doom-modeline"]
 	path = mirror/doom-modeline
 	url = git@github.com:emacsmirror/doom-modeline.git
+[submodule "doom-modeline-now-playing"]
+	path = mirror/doom-modeline-now-playing
+	url = git@github.com:emacsmirror/doom-modeline-now-playing.git
 [submodule "doom-themes"]
 	path = mirror/doom-themes
 	url = git@github.com:emacsmirror/doom-themes.git
