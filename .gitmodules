@@ -2008,6 +2008,9 @@
 	path = mirror/ca2+
 	url = git@github.com:emacsmirror/ca2-plus.git
 	branch = master
+[submodule "ca65-mode"]
+	path = mirror/ca65-mode
+	url = git@github.com:emacsmirror/ca65-mode.git
 [submodule "cabecera"]
 	path = attic/cabecera
 	url = git@github.com:emacsattic/cabecera.git
