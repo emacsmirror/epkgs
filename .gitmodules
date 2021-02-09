@@ -5220,6 +5220,9 @@
 [submodule "elein"]
 	path = mirror/elein
 	url = git@github.com:emacsmirror/elein.git
+[submodule "elescope"]
+	path = mirror/elescope
+	url = git@github.com:emacsmirror/elescope.git
 [submodule "elf-mode"]
 	path = mirror/elf-mode
 	url = git@github.com:emacsmirror/elf-mode.git
