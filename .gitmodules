@@ -23067,6 +23067,9 @@
 [submodule "ysq-modeline"]
 	path = attic/ysq-modeline
 	url = git@github.com:emacsattic/ysq-modeline.git
+[submodule "ytdious"]
+	path = mirror/ytdious
+	url = git@github.com:emacsmirror/ytdious.git
 [submodule "ytdl"]
 	path = mirror/ytdl
 	url = git@github.com:emacsmirror/ytdl.git
