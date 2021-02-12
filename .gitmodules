@@ -9824,6 +9824,9 @@
 [submodule "hiccup-cli"]
 	path = mirror/hiccup-cli
 	url = git@github.com:emacsmirror/hiccup-cli.git
+[submodule "hiddenquote"]
+	path = mirror/hiddenquote
+	url = git@github.com:emacsmirror/hiddenquote.git
 [submodule "hide-comnt"]
 	path = mirror/hide-comnt
 	url = git@github.com:emacsmirror/hide-comnt.git
