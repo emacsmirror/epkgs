@@ -8416,6 +8416,9 @@
 [submodule "gnu-apl-mode"]
 	path = mirror/gnu-apl-mode
 	url = git@github.com:emacsmirror/gnu-apl-mode.git
+[submodule "gnu-elpa"]
+	path = mirror/gnu-elpa
+	url = git@github.com:emacsmirror/gnu-elpa.git
 [submodule "gnu-elpa-keyring-update"]
 	path = mirror/gnu-elpa-keyring-update
 	url = git@github.com:emacsmirror/gnu-elpa-keyring-update.git
