@@ -4899,6 +4899,9 @@
 	path = mirror/ede-php-autoload-drupal
 	url = git@github.com:emacsmirror/ede-php-autoload-drupal.git
 	branch = master
+[submodule "edebug-inline-result"]
+	path = mirror/edebug-inline-result
+	url = git@github.com:emacsmirror/edebug-inline-result.git
 [submodule "edebug-x"]
 	path = mirror/edebug-x
 	url = git@github.com:emacsmirror/edebug-x.git
