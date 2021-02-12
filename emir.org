@@ -674,6 +674,7 @@ FIXME Also used for minority reason.
 | cpp-auto-include     | dropped by maintainer   |
 | cpp-auto-include     | upstream unresponsive   |
 | crontab-mode         | upstream disappeared    |
+| cygwin-mount         | wiki needed by non-wiki |
 | darcsum              | semi-automatic import   |
 | dedicated            | upstream disappeared    |
 | dic-lookup-w3m       | semi-automatic import   |
@@ -686,12 +687,14 @@ FIXME Also used for minority reason.
 | easy-highlight       | dropped by maintainer   |
 | ecasound             | upstream disappeared    |
 | edb                  | upstream unresponsive   |
+| el-expectations      | wiki needed by non-wiki |
 | elisp-depend         | upstream unresponsive   |
 | emamux               | dropped by maintainer   |
 | emamux-ruby-test     | dropped by maintainer   |
 | ert-expectations     | wiki needed by non-wiki |
 | evil-anzu            | dropped by maintainer   |
 | evil-textobj-line    | dropped by maintainer   |
+| extract-text         | wiki needed by non-wiki |
 | fancy-battery        | dropped by maintainer   |
 | filladapt            | upstream unresponsive   |
 | findr                | wiki needed by non-wiki |
@@ -724,13 +727,18 @@ FIXME Also used for minority reason.
 | helm-swoop           | dropped by maintainer   |
 | helm-themes          | dropped by maintainer   |
 | hide-lines           | wiki needed by non-wiki |
+| highline             | wiki needed by non-wiki |
 | http-post-simple     | wiki needed by non-wiki |
 | hyperspec            | multiple non-upstreams  |
+| image-plus           | archived by maintainer  |
+| imdb                 | wiki needed by non-wiki |
 | import-popwin        | dropped by maintainer   |
 | jedi-eldoc           | dropped by maintainer   |
 | key-chord            | wiki needed by non-wiki |
 | keydef               | upstream disappeared    |
+| keyword-arg-macros   | wiki needed by non-wiki |
 | konoha-mode          | dropped by maintainer   |
+| later-do             | wiki needed by non-wiki |
 | levenshtein          | wiki needed by non-wiki |
 | linkd                | wiki multiple files     |
 | literate-coffee-mode | dropped by maintainer   |
@@ -745,9 +753,11 @@ FIXME Also used for minority reason.
 | nxhtml               | semi-automatic import   |
 | oberon               | upstream unresponsive   |
 | octicons             | dropped by maintainer   |
+| oddmuse              | wiki needed by non-wiki |
 | opam                 | dropped by maintainer   |
 | org-bullets          | upstream unresponsive   |
 | org-grep             | maintainer is dead      |
+| org-json             | wiki needed by non-wiki |
 | osd                  | upstream disappeared    |
 | osx-trash            | dropped by maintainer   |
 | ov                   | dropped by maintainer   |
@@ -756,6 +766,7 @@ FIXME Also used for minority reason.
 | picolisp             | manual tarball import   |
 | pkg-info             | dropped by maintainer   |
 | pointback            | upstream disappeared    |
+| policy-switch        | wiki needed by non-wiki |
 | popup-complete       | dropped by maintainer   |
 | popwin               | dropped by maintainer   |
 | pyimpsort            | dropped by maintainer   |
@@ -763,6 +774,8 @@ FIXME Also used for minority reason.
 | read-char-spec       | upstream unresponsive   |
 | reverse-theme        | dropped by maintainer   |
 | ruby-additional      | semi-automatic import   |
+| run-assoc            | wiki needed by non-wiki |
+| screenshot           | wiki needed by non-wiki |
 | session              | manual tarball import   |
 | setnu                | upstream unresponsive   |
 | shell-command        | wiki needed by non-wiki |
@@ -787,14 +800,18 @@ FIXME Also used for minority reason.
 | tree-mode            | wiki needed by non-wiki |
 | undo-tree            | two diverging upstreams |
 | undohist             | dropped by maintainer   |
+| unit-test            | wiki needed by non-wiki |
 | vala-mode            | upstream disappeared    |
+| vline                | wiki needed by non-wiki |
 | vm                   | semi-automatic import   |
 | w32-browser          | wiki needed by non-wiki |
 | w3m                  | semi-automatic import   |
 | windata              | wiki needed by non-wiki |
 | yafolding            | upstream unresponsive   |
+| yaoddmuse            | wiki needed by non-wiki |
 | yascroll             | dropped by maintainer   |
 | zoom-window          | dropped by maintainer   |
+
 
 * Set ~emir--other-vcs~
 #+NAME: set--emir--other-vcs

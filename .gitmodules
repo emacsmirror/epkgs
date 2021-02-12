@@ -6493,7 +6493,6 @@
 [submodule "extract-text"]
 	path = mirror/extract-text
 	url = git@github.com:emacsmirror/extract-text.git
-	branch = master
 [submodule "extview"]
 	path = mirror/extview
 	url = git@github.com:emacsmirror/extview.git
@@ -11704,7 +11703,6 @@
 [submodule "keyword-arg-macros"]
 	path = mirror/keyword-arg-macros
 	url = git@github.com:emacsmirror/keyword-arg-macros.git
-	branch = master
 [submodule "keyword-search"]
 	path = mirror/keyword-search
 	url = git@github.com:emacsmirror/keyword-search.git
