@@ -270,6 +270,9 @@
 [submodule "ada-mode"]
 	path = mirror/ada-mode
 	url = git@github.com:emacsmirror/ada-mode.git
+[submodule "ada-ref-man"]
+	path = mirror/ada-ref-man
+	url = git@github.com:emacsmirror/ada-ref-man.git
 [submodule "adafruit-wisdom"]
 	path = mirror/adafruit-wisdom
 	url = git@github.com:emacsmirror/adafruit-wisdom.git
