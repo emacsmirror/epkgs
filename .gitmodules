@@ -18972,6 +18972,9 @@
 	path = mirror/shell-command
 	url = git@github.com:emacsmirror/shell-command.git
 	branch = master
+[submodule "shell-command+"]
+	path = mirror/shell-command+
+	url = git@github.com:emacsmirror/shell-command-plus.git
 [submodule "shell-command-queue"]
 	path = mirror/shell-command-queue
 	url = git@github.com:emacsmirror/shell-command-queue.git

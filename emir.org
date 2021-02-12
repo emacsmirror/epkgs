@@ -22,11 +22,8 @@
 #+NAME: val--emir-pending-packages
 | Package              | Reason                            |
 |----------------------+-----------------------------------|
-| ada-ref-man          | no license, no elisp, no response |
-| gnu-elpa             | provides wrong feature            |
 | modus-operandi-theme | to be merged into modus-themes    |
 | modus-vivendi-theme  | to be merged into modus-themes    |
-| shell-command+       | relationship to bang is unclear   |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
