@@ -21178,6 +21178,9 @@
 [submodule "travis"]
 	path = mirror/travis
 	url = git@github.com:emacsmirror/travis.git
+[submodule "tray"]
+	path = mirror/tray
+	url = git@github.com:emacsmirror/tray.git
 [submodule "tree-mode"]
 	path = mirror/tree-mode
 	url = git@github.com:emacsmirror/tree-mode.git
