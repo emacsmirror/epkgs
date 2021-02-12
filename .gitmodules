@@ -8156,6 +8156,9 @@
 [submodule "git-annex"]
 	path = mirror/git-annex
 	url = git@github.com:emacsmirror/git-annex.git
+[submodule "git-assembler-mode"]
+	path = mirror/git-assembler-mode
+	url = git@github.com:emacsmirror/git-assembler-mode.git
 [submodule "git-attr"]
 	path = mirror/git-attr
 	url = git@github.com:emacsmirror/git-attr.git
