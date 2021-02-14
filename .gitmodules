@@ -13495,6 +13495,9 @@
 [submodule "mode-line-frame"]
 	path = mirror/mode-line-frame
 	url = git@github.com:emacsmirror/mode-line-frame.git
+[submodule "mode-line-idle"]
+	path = mirror/mode-line-idle
+	url = git@github.com:emacsmirror/mode-line-idle.git
 [submodule "mode-line-in-header"]
 	path = attic/mode-line-in-header
 	url = git@github.com:emacsattic/mode-line-in-header.git
