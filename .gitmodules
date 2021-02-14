@@ -18963,6 +18963,9 @@
 [submodule "shader-mode"]
 	path = mirror/shader-mode
 	url = git@github.com:emacsmirror/shader-mode.git
+[submodule "shades-of-purple-theme"]
+	path = mirror/shades-of-purple-theme
+	url = git@github.com:emacsmirror/shades-of-purple-theme.git
 [submodule "shadowenv"]
 	path = mirror/shadowenv
 	url = git@github.com:emacsmirror/shadowenv.git
