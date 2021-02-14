@@ -3149,6 +3149,9 @@
 [submodule "consult"]
 	path = mirror/consult
 	url = git@github.com:emacsmirror/consult.git
+[submodule "consult-notmuch"]
+	path = mirror/consult-notmuch
+	url = git@github.com:emacsmirror/consult-notmuch.git
 [submodule "contentswitch"]
 	path = mirror/contentswitch
 	url = git@github.com:emacsmirror/contentswitch.git
