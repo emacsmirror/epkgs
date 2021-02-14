@@ -10678,6 +10678,9 @@
 [submodule "inf-crystal"]
 	path = mirror/inf-crystal
 	url = git@github.com:emacsmirror/inf-crystal.git
+[submodule "inf-elixir"]
+	path = mirror/inf-elixir
+	url = git@github.com:emacsmirror/inf-elixir.git
 [submodule "inf-mongo"]
 	path = mirror/inf-mongo
 	url = git@github.com:emacsmirror/inf-mongo.git
