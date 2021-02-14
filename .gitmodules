@@ -48,6 +48,9 @@
 	path = mirror/aa-edit-mode
 	url = git@github.com:emacsmirror/aa-edit-mode.git
 	branch = master
+[submodule "aas"]
+	path = mirror/aas
+	url = git@github.com:emacsmirror/aas.git
 [submodule "abacus"]
 	path = attic/abacus
 	url = git@github.com:emacsattic/abacus.git
