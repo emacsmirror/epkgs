@@ -15742,8 +15742,8 @@
 	path = mirror/outline-wiki
 	url = git@github.com:emacsmirror/outline-wiki.git
 [submodule "outlined-elisp-mode"]
-	path = mirror/outlined-elisp-mode
-	url = git@github.com:emacsmirror/outlined-elisp-mode.git
+	path = attic/outlined-elisp-mode
+	url = git@github.com:emacsattic/outlined-elisp-mode.git
 [submodule "outlook"]
 	path = mirror/outlook
 	url = git@github.com:emacsmirror/outlook.git
