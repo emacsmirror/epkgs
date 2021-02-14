@@ -11846,6 +11846,9 @@
 [submodule "kwin"]
 	path = mirror/kwin
 	url = git@github.com:emacsmirror/kwin.git
+[submodule "l"]
+	path = mirror/l
+	url = git@github.com:emacsmirror/l.git
 [submodule "lab-themes"]
 	path = mirror/lab-themes
 	url = git@github.com:emacsmirror/lab-themes.git
