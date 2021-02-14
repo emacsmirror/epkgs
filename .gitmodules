@@ -20407,6 +20407,9 @@
 [submodule "tab-bar-echo-area"]
 	path = mirror/tab-bar-echo-area
 	url = git@github.com:emacsmirror/tab-bar-echo-area.git
+[submodule "tab-bar-groups"]
+	path = mirror/tab-bar-groups
+	url = git@github.com:emacsmirror/tab-bar-groups.git
 [submodule "tab-display"]
 	path = attic/tab-display
 	url = git@github.com:emacsattic/tab-display.git
