@@ -812,7 +812,6 @@ FIXME Also used for minority reason.
 | yascroll             | dropped by maintainer   |
 | zoom-window          | dropped by maintainer   |
 
-
 * Set ~emir--other-vcs~
 #+NAME: set--emir--other-vcs
 #+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--other-vcs
