@@ -14566,6 +14566,9 @@
 [submodule "oauth2"]
 	path = mirror/oauth2
 	url = git@github.com:emacsmirror/oauth2.git
+[submodule "oauth2-request"]
+	path = mirror/oauth2-request
+	url = git@github.com:emacsmirror/oauth2-request.git
 [submodule "ob-ammonite"]
 	path = mirror/ob-ammonite
 	url = git@github.com:emacsmirror/ob-ammonite.git
