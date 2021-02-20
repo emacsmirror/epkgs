@@ -14246,6 +14246,9 @@
 [submodule "night-owl-theme"]
 	path = mirror/night-owl-theme
 	url = git@github.com:emacsmirror/night-owl-theme.git
+[submodule "nikki"]
+	path = mirror/nikki
+	url = git@github.com:emacsmirror/nikki.git
 [submodule "nikola"]
 	path = mirror/nikola
 	url = git@github.com:emacsmirror/nikola.git
