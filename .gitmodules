@@ -14694,6 +14694,9 @@
 [submodule "ob-restclient"]
 	path = mirror/ob-restclient
 	url = git@github.com:emacsmirror/ob-restclient.git
+[submodule "ob-reticulate"]
+	path = mirror/ob-reticulate
+	url = git@github.com:emacsmirror/ob-reticulate.git
 [submodule "ob-rust"]
 	path = mirror/ob-rust
 	url = git@github.com:emacsmirror/ob-rust.git
