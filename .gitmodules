@@ -19584,8 +19584,8 @@
 	path = mirror/snazzy-theme
 	url = git@github.com:emacsmirror/snazzy-theme.git
 [submodule "snippet"]
-	path = mirror/snippet
-	url = git@github.com:emacsmirror/snippet.git
+	path = attic/snippet
+	url = git@github.com:emacsattic/snippet.git
 [submodule "snipplr"]
 	path = mirror/snipplr
 	url = git@github.com:emacsmirror/snipplr.git
