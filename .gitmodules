@@ -1650,6 +1650,9 @@
 [submodule "blorg"]
 	path = attic/blorg
 	url = git@github.com:emacsattic/blorg.git
+[submodule "blox"]
+	path = mirror/blox
+	url = git@github.com:emacsmirror/blox.git
 [submodule "bluetooth"]
 	path = mirror/bluetooth
 	url = git@github.com:emacsmirror/bluetooth.git
