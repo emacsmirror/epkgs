@@ -422,7 +422,6 @@
 [submodule "all-the-icons-dired"]
 	path = mirror/all-the-icons-dired
 	url = git@github.com:emacsmirror/all-the-icons-dired.git
-	branch = master
 [submodule "all-the-icons-gnus"]
 	path = mirror/all-the-icons-gnus
 	url = git@github.com:emacsmirror/all-the-icons-gnus.git
