@@ -21264,6 +21264,9 @@
 [submodule "tree-sitter-indent"]
 	path = mirror/tree-sitter-indent
 	url = git@github.com:emacsmirror/tree-sitter-indent.git
+[submodule "tree-sitter-langs"]
+	path = mirror/tree-sitter-langs
+	url = git@github.com:emacsmirror/tree-sitter-langs.git
 [submodule "treefactor"]
 	path = mirror/treefactor
 	url = git@github.com:emacsmirror/treefactor.git
