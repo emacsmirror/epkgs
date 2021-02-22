@@ -15809,6 +15809,9 @@
 [submodule "ox-asciidoc"]
 	path = mirror/ox-asciidoc
 	url = git@github.com:emacsmirror/ox-asciidoc.git
+[submodule "ox-bb"]
+	path = mirror/ox-bb
+	url = git@github.com:emacsmirror/ox-bb.git
 [submodule "ox-bibtex-chinese"]
 	path = mirror/ox-bibtex-chinese
 	url = git@github.com:emacsmirror/ox-bibtex-chinese.git
