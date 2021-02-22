@@ -6039,6 +6039,9 @@
 [submodule "espect"]
 	path = attic/espect
 	url = git@github.com:emacsattic/espect.git
+[submodule "espotify"]
+	path = mirror/espotify
+	url = git@github.com:emacsmirror/espotify.git
 [submodule "espresso-theme"]
 	path = mirror/espresso-theme
 	url = git@github.com:emacsmirror/espresso-theme.git
