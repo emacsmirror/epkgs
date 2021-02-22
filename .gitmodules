@@ -12696,6 +12696,9 @@
 [submodule "macrostep"]
 	path = mirror/macrostep
 	url = git@github.com:emacsmirror/macrostep.git
+[submodule "macrostep-geiser"]
+	path = mirror/macrostep-geiser
+	url = git@github.com:emacsmirror/macrostep-geiser.git
 [submodule "madhat2r-theme"]
 	path = mirror/madhat2r-theme
 	url = git@github.com:emacsmirror/madhat2r-theme.git
