@@ -5465,6 +5465,9 @@
 [submodule "emacs-android"]
 	path = mirror/emacs-android
 	url = git@github.com:emacsmirror/emacs-android.git
+[submodule "emacs-everywhere"]
+	path = mirror/emacs-everywhere
+	url = git@github.com:emacsmirror/emacs-everywhere.git
 [submodule "emacs-init-check"]
 	path = mirror/emacs-init-check
 	url = git@github.com:emacsmirror/emacs-init-check.git
