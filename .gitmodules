@@ -4468,6 +4468,9 @@
 [submodule "docsetutil"]
 	path = mirror/docsetutil
 	url = git@github.com:emacsmirror/docsetutil.git
+[submodule "docstr"]
+	path = mirror/docstr
+	url = git@github.com:emacsmirror/docstr.git
 [submodule "doct"]
 	path = mirror/doct
 	url = git@github.com:emacsmirror/doct.git
