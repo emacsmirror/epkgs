@@ -16096,8 +16096,8 @@
 	path = mirror/parfait-mode
 	url = git@github.com:emacsmirror/parfait-mode.git
 [submodule "parinfer"]
-	path = mirror/parinfer
-	url = git@github.com:emacsmirror/parinfer.git
+	path = attic/parinfer
+	url = git@github.com:emacsattic/parinfer.git
 	branch = master
 [submodule "parinfer-rust-mode"]
 	path = mirror/parinfer-rust-mode
