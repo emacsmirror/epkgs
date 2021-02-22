@@ -5688,6 +5688,9 @@
 [submodule "enh-ruby-mode"]
 	path = mirror/enh-ruby-mode
 	url = git@github.com:emacsmirror/enh-ruby-mode.git
+[submodule "enlightened-theme"]
+	path = mirror/enlightened-theme
+	url = git@github.com:emacsmirror/enlightened-theme.git
 [submodule "enlive"]
 	path = mirror/enlive
 	url = git@github.com:emacsmirror/enlive.git
