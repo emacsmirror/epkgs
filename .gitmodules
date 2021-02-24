@@ -3094,6 +3094,9 @@
 [submodule "completing-help"]
 	path = attic/completing-help
 	url = git@github.com:emacsattic/completing-help.git
+[submodule "completing-history"]
+	path = mirror/completing-history
+	url = git@github.com:emacsmirror/completing-history.git
 [submodule "completion-ignored-build"]
 	path = attic/completion-ignored-build
 	url = git@github.com:emacsattic/completion-ignored-build.git
