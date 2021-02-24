@@ -8142,6 +8142,9 @@
 [submodule "gh-md"]
 	path = mirror/gh-md
 	url = git@github.com:emacsmirror/gh-md.git
+[submodule "gh-notify"]
+	path = mirror/gh-notify
+	url = git@github.com:emacsmirror/gh-notify.git
 [submodule "ghc"]
 	path = attic/ghc
 	url = git@github.com:emacsattic/ghc.git
