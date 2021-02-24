@@ -5753,6 +5753,9 @@
 [submodule "epic"]
 	path = mirror/epic
 	url = git@github.com:emacsmirror/epic.git
+[submodule "epithet"]
+	path = mirror/epithet
+	url = git@github.com:emacsmirror/epithet.git
 [submodule "epkg"]
 	path = mirror/epkg
 	url = git@github.com:emacsmirror/epkg.git
