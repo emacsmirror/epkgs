@@ -16670,6 +16670,9 @@
 [submodule "pkgbuild-mode"]
 	path = mirror/pkgbuild-mode
 	url = git@github.com:emacsmirror/pkgbuild-mode.git
+[submodule "placeholder"]
+	path = mirror/placeholder
+	url = git@github.com:emacsmirror/placeholder.git
 [submodule "plain-org-wiki"]
 	path = mirror/plain-org-wiki
 	url = git@github.com:emacsmirror/plain-org-wiki.git
