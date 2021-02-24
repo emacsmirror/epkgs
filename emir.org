@@ -744,6 +744,7 @@ FIXME Also used for minority reason.
 | literate-coffee-mode | dropped by maintainer   |
 | look-mode            | wiki needed by non-wiki |
 | ltsv                 | dropped by maintainer   |
+| magit-p4             | dropped by maintainer   |
 | magit-stgit          | dropped by maintainer   |
 | magit-svn            | dropped by maintainer   |
 | manage-minor-mode    | dropped by maintainer   |

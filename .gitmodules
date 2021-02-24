@@ -12791,7 +12791,6 @@
 [submodule "magit-p4"]
 	path = mirror/magit-p4
 	url = git@github.com:emacsmirror/magit-p4.git
-	branch = master
 [submodule "magit-patch-changelog"]
 	path = mirror/magit-patch-changelog
 	url = git@github.com:emacsmirror/magit-patch-changelog.git
