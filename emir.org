@@ -1,5 +1,7 @@
 :PREAMBLE:
-#+SETUPFILE: .orgconfig
+#+STARTUP: overview
+#+STARTUP: hideblocks
+#+STARTUP: noindent
 #+NAME: setup
 #+BEGIN_SRC emacs-lisp :results silent
   (require 'emir)
