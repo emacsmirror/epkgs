@@ -18202,6 +18202,9 @@
 	path = mirror/restclient-test
 	url = git@github.com:emacsmirror/restclient-test.git
 	branch = master
+[submodule "restricto"]
+	path = mirror/restricto
+	url = git@github.com:emacsmirror/restricto.git
 [submodule "retrie"]
 	path = mirror/retrie
 	url = git@github.com:emacsmirror/retrie.git
