@@ -4653,6 +4653,9 @@
 [submodule "dumb-jump"]
 	path = mirror/dumb-jump
 	url = git@github.com:emacsmirror/dumb-jump.git
+[submodule "dumbparens"]
+	path = mirror/dumbparens
+	url = git@github.com:emacsmirror/dumbparens.git
 [submodule "dummy-h-mode"]
 	path = attic/dummy-h-mode
 	url = git@github.com:emacsattic/dummy-h-mode.git
