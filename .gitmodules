@@ -13087,6 +13087,9 @@
 	path = mirror/material-theme
 	url = git@github.com:emacsmirror/material-theme.git
 	branch = master
+[submodule "math-delimiters"]
+	path = mirror/math-delimiters
+	url = git@github.com:emacsmirror/math-delimiters.git
 [submodule "math-preview"]
 	path = mirror/math-preview
 	url = git@github.com:emacsmirror/math-preview.git
