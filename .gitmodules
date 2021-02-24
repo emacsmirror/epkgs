@@ -12357,6 +12357,9 @@
 [submodule "live-code-talks"]
 	path = mirror/live-code-talks
 	url = git@github.com:emacsmirror/live-code-talks.git
+[submodule "live-completions"]
+	path = mirror/live-completions
+	url = git@github.com:emacsmirror/live-completions.git
 [submodule "live-preview"]
 	path = mirror/live-preview
 	url = git@github.com:emacsmirror/live-preview.git
