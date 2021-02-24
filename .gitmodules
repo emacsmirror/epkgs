@@ -21906,6 +21906,9 @@
 [submodule "vel"]
 	path = attic/vel
 	url = git@github.com:emacsattic/vel.git
+[submodule "velocity"]
+	path = mirror/velocity
+	url = git@github.com:emacsmirror/velocity.git
 [submodule "verb"]
 	path = mirror/verb
 	url = git@github.com:emacsmirror/verb.git
