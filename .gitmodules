@@ -669,6 +669,9 @@
 [submodule "apel"]
 	path = mirror/apel
 	url = git@github.com:emacsmirror/apel.git
+[submodule "apheleia"]
+	path = mirror/apheleia
+	url = git@github.com:emacsmirror/apheleia.git
 [submodule "apib-mode"]
 	path = mirror/apib-mode
 	url = git@github.com:emacsmirror/apib-mode.git
