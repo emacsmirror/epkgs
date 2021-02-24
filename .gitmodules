@@ -840,6 +840,9 @@
 	path = mirror/async-await
 	url = git@github.com:emacsmirror/async-await.git
 	branch = master
+[submodule "async-completing-read"]
+	path = mirror/async-completing-read
+	url = git@github.com:emacsmirror/async-completing-read.git
 [submodule "async-eval"]
 	path = mirror/async-eval
 	url = git@github.com:emacsmirror/async-eval.git
