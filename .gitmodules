@@ -2969,6 +2969,9 @@
 [submodule "company-inf-ruby"]
 	path = mirror/company-inf-ruby
 	url = git@github.com:emacsmirror/company-inf-ruby.git
+[submodule "company-ipa"]
+	path = mirror/company-ipa
+	url = git@github.com:emacsmirror/company-ipa.git
 [submodule "company-irony"]
 	path = mirror/company-irony
 	url = git@github.com:emacsmirror/company-irony.git
