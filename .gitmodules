@@ -12565,6 +12565,9 @@
 [submodule "lsp-focus"]
 	path = mirror/lsp-focus
 	url = git@github.com:emacsmirror/lsp-focus.git
+[submodule "lsp-grammarly"]
+	path = mirror/lsp-grammarly
+	url = git@github.com:emacsmirror/lsp-grammarly.git
 [submodule "lsp-haskell"]
 	path = mirror/lsp-haskell
 	url = git@github.com:emacsmirror/lsp-haskell.git
