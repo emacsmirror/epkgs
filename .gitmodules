@@ -2130,6 +2130,9 @@
 	path = mirror/caroline-theme
 	url = git@github.com:emacsmirror/caroline-theme.git
 	branch = master
+[submodule "cascading-dir-locals"]
+	path = mirror/cascading-dir-locals
+	url = git@github.com:emacsmirror/cascading-dir-locals.git
 [submodule "caseformat"]
 	path = mirror/caseformat
 	url = git@github.com:emacsmirror/caseformat.git
