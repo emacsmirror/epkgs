@@ -21950,9 +21950,6 @@
 [submodule "vertigo"]
 	path = mirror/vertigo
 	url = git@github.com:emacsmirror/vertigo.git
-[submodule "vex"]
-	path = attic/vex
-	url = git@github.com:emacsattic/vex.git
 [submodule "vh-scroll"]
 	path = attic/vh-scroll
 	url = git@github.com:emacsattic/vh-scroll.git
