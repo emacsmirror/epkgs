@@ -14584,6 +14584,9 @@
 [submodule "nummove"]
 	path = attic/nummove
 	url = git@github.com:emacsattic/nummove.git
+[submodule "numpydoc"]
+	path = mirror/numpydoc
+	url = git@github.com:emacsmirror/numpydoc.git
 [submodule "numwin"]
 	path = mirror/numwin
 	url = git@github.com:emacsmirror/numwin.git
