@@ -3978,6 +3978,9 @@
 [submodule "desktop-environment"]
 	path = mirror/desktop-environment
 	url = git@github.com:emacsmirror/desktop-environment.git
+[submodule "desktop-mail-user-agent"]
+	path = mirror/desktop-mail-user-agent
+	url = git@github.com:emacsmirror/desktop-mail-user-agent.git
 [submodule "desktop-menu"]
 	path = attic/desktop-menu
 	url = git@github.com:emacsattic/desktop-menu.git
