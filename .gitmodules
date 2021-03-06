@@ -12202,6 +12202,9 @@
 [submodule "light-symbol"]
 	path = attic/light-symbol
 	url = git@github.com:emacsattic/light-symbol.git
+[submodule "ligo-mode"]
+	path = mirror/ligo-mode
+	url = git@github.com:emacsmirror/ligo-mode.git
 [submodule "lilypond"]
 	path = mirror/lilypond
 	url = git@github.com:emacsmirror/lilypond.git
