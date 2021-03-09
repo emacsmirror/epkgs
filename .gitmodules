@@ -22179,6 +22179,9 @@
 [submodule "vuiet"]
 	path = mirror/vuiet
 	url = git@github.com:emacsmirror/vuiet.git
+[submodule "vulpea"]
+	path = mirror/vulpea
+	url = git@github.com:emacsmirror/vulpea.git
 [submodule "vvb-mode"]
 	path = attic/vvb-mode
 	url = git@github.com:emacsattic/vvb-mode.git
