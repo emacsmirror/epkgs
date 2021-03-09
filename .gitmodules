@@ -11603,6 +11603,9 @@
 [submodule "jupyter"]
 	path = mirror/jupyter
 	url = git@github.com:emacsmirror/jupyter.git
+[submodule "just-mode"]
+	path = mirror/just-mode
+	url = git@github.com:emacsmirror/just-mode.git
 [submodule "jvm-mode"]
 	path = mirror/jvm-mode
 	url = git@github.com:emacsmirror/jvm-mode.git
