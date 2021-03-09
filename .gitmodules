@@ -4106,6 +4106,9 @@
 [submodule "difflib"]
 	path = mirror/difflib
 	url = git@github.com:emacsmirror/difflib.git
+[submodule "diffpdf"]
+	path = mirror/diffpdf
+	url = git@github.com:emacsmirror/diffpdf.git
 [submodule "diffscuss-mode"]
 	path = mirror/diffscuss-mode
 	url = git@github.com:emacsmirror/diffscuss-mode.git
