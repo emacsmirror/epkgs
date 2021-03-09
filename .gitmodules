@@ -18920,6 +18920,9 @@
 [submodule "seeing-is-believing"]
 	path = mirror/seeing-is-believing
 	url = git@github.com:emacsmirror/seeing-is-believing.git
+[submodule "seen-mode"]
+	path = mirror/seen-mode
+	url = git@github.com:emacsmirror/seen-mode.git
 [submodule "seethru"]
 	path = mirror/seethru
 	url = git@github.com:emacsmirror/seethru.git
