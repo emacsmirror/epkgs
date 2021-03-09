@@ -12071,6 +12071,9 @@
 [submodule "leaf-convert"]
 	path = mirror/leaf-convert
 	url = git@github.com:emacsmirror/leaf-convert.git
+[submodule "leaf-defaults"]
+	path = mirror/leaf-defaults
+	url = git@github.com:emacsmirror/leaf-defaults.git
 [submodule "leaf-keywords"]
 	path = mirror/leaf-keywords
 	url = git@github.com:emacsmirror/leaf-keywords.git
