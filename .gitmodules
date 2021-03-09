@@ -18988,6 +18988,9 @@
 [submodule "seq-numbering"]
 	path = attic/seq-numbering
 	url = git@github.com:emacsattic/seq-numbering.git
+[submodule "sequed"]
+	path = mirror/sequed
+	url = git@github.com:emacsmirror/sequed.git
 [submodule "sequence"]
 	path = mirror/sequence
 	url = git@github.com:emacsmirror/sequence.git
