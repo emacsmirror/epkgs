@@ -2985,8 +2985,8 @@
 	path = mirror/company-ledger
 	url = git@github.com:emacsmirror/company-ledger.git
 [submodule "company-lsp"]
-	path = mirror/company-lsp
-	url = git@github.com:emacsmirror/company-lsp.git
+	path = attic/company-lsp
+	url = git@github.com:emacsattic/company-lsp.git
 [submodule "company-lua"]
 	path = mirror/company-lua
 	url = git@github.com:emacsmirror/company-lua.git
