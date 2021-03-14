@@ -2255,6 +2255,9 @@
 [submodule "cfml-mode"]
 	path = mirror/cfml-mode
 	url = git@github.com:emacsmirror/cfml-mode.git
+[submodule "cfn-mode"]
+	path = mirror/cfn-mode
+	url = git@github.com:emacsmirror/cfn-mode.git
 [submodule "cframe"]
 	path = mirror/cframe
 	url = git@github.com:emacsmirror/cframe.git
