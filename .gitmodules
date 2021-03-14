@@ -16948,6 +16948,9 @@
 [submodule "poporg"]
 	path = mirror/poporg
 	url = git@github.com:emacsmirror/poporg.git
+[submodule "popper"]
+	path = mirror/popper
+	url = git@github.com:emacsmirror/popper.git
 [submodule "popup"]
 	path = mirror/popup
 	url = git@github.com:emacsmirror/popup.git
