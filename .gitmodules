@@ -19038,6 +19038,9 @@
 [submodule "setq-trap"]
 	path = attic/setq-trap
 	url = git@github.com:emacsattic/setq-trap.git
+[submodule "setup"]
+	path = mirror/setup
+	url = git@github.com:emacsmirror/setup.git
 [submodule "sexp-diff"]
 	path = mirror/sexp-diff
 	url = git@github.com:emacsmirror/sexp-diff.git
