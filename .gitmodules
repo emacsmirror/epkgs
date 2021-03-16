@@ -7400,6 +7400,9 @@
 [submodule "flycheck-pyre"]
 	path = mirror/flycheck-pyre
 	url = git@github.com:emacsmirror/flycheck-pyre.git
+[submodule "flycheck-raku"]
+	path = mirror/flycheck-raku
+	url = git@github.com:emacsmirror/flycheck-raku.git
 [submodule "flycheck-rebar3"]
 	path = attic/flycheck-rebar3
 	url = git@github.com:emacsattic/flycheck-rebar3.git
