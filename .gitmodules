@@ -3587,6 +3587,9 @@
 [submodule "current-word-highlight"]
 	path = mirror/current-word-highlight
 	url = git@github.com:emacsmirror/current-word-highlight.git
+[submodule "curry-on-theme"]
+	path = mirror/curry-on-theme
+	url = git@github.com:emacsmirror/curry-on-theme.git
 [submodule "cursor-chg"]
 	path = mirror/cursor-chg
 	url = git@github.com:emacsmirror/cursor-chg.git
