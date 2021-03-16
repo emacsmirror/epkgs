@@ -11768,6 +11768,9 @@
 	path = mirror/keyswap
 	url = git@github.com:emacsmirror/keyswap.git
 	branch = master
+[submodule "keytar"]
+	path = mirror/keytar
+	url = git@github.com:emacsmirror/keytar.git
 [submodule "keywiz"]
 	path = attic/keywiz
 	url = git@github.com:emacsattic/keywiz.git
