@@ -7359,9 +7359,6 @@
 [submodule "flycheck-pact"]
 	path = mirror/flycheck-pact
 	url = git@github.com:emacsmirror/flycheck-pact.git
-[submodule "flycheck-perl6"]
-	path = mirror/flycheck-perl6
-	url = git@github.com:emacsmirror/flycheck-perl6.git
 [submodule "flycheck-pkg-config"]
 	path = mirror/flycheck-pkg-config
 	url = git@github.com:emacsmirror/flycheck-pkg-config.git
