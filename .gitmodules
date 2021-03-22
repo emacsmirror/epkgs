@@ -20264,6 +20264,9 @@
 [submodule "subr+"]
 	path = mirror/subr+
 	url = git@github.com:emacsmirror/subr-plus.git
+[submodule "subsonic"]
+	path = mirror/subsonic
+	url = git@github.com:emacsmirror/subsonic.git
 [submodule "subtitles"]
 	path = attic/subtitles
 	url = git@github.com:emacsattic/subtitles.git
