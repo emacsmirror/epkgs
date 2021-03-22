@@ -22832,6 +22832,9 @@
 [submodule "wucuo"]
 	path = mirror/wucuo
 	url = git@github.com:emacsmirror/wucuo.git
+[submodule "wwg"]
+	path = mirror/wwg
+	url = git@github.com:emacsmirror/wwg.git
 [submodule "wwtime"]
 	path = mirror/wwtime
 	url = git@github.com:emacsmirror/wwtime.git
