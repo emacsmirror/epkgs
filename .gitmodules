@@ -20958,6 +20958,9 @@
 [submodule "tfsmacs"]
 	path = mirror/tfsmacs
 	url = git@github.com:emacsmirror/tfsmacs.git
+[submodule "theme-anchor"]
+	path = mirror/theme-anchor
+	url = git@github.com:emacsmirror/theme-anchor.git
 [submodule "theme-changer"]
 	path = mirror/theme-changer
 	url = git@github.com:emacsmirror/theme-changer.git
