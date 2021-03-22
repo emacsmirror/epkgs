@@ -4728,9 +4728,9 @@
 [submodule "dyalog-mode"]
 	path = mirror/dyalog-mode
 	url = git@github.com:emacsmirror/dyalog-mode.git
-[submodule "dylan-mode"]
-	path = mirror/dylan-mode
-	url = git@github.com:emacsmirror/dylan-mode.git
+[submodule "dylan"]
+	path = mirror/dylan
+	url = git@github.com:emacsmirror/dylan.git
 [submodule "dynamic-fonts"]
 	path = mirror/dynamic-fonts
 	url = git@github.com:emacsmirror/dynamic-fonts.git
