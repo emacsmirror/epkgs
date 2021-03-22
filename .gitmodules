@@ -18298,6 +18298,9 @@
 [submodule "reverse-theme"]
 	path = mirror/reverse-theme
 	url = git@github.com:emacsmirror/reverse-theme.git
+[submodule "revert-buffer-all"]
+	path = mirror/revert-buffer-all
+	url = git@github.com:emacsmirror/revert-buffer-all.git
 [submodule "review"]
 	path = mirror/review
 	url = git@github.com:emacsmirror/review.git
