@@ -23122,6 +23122,9 @@
 [submodule "yalinum"]
 	path = mirror/yalinum
 	url = git@github.com:emacsmirror/yalinum.git
+[submodule "yaml"]
+	path = mirror/yaml
+	url = git@github.com:emacsmirror/yaml.git
 [submodule "yaml-imenu"]
 	path = mirror/yaml-imenu
 	url = git@github.com:emacsmirror/yaml-imenu.git
