@@ -8087,6 +8087,9 @@
 [submodule "geiser-mit"]
 	path = mirror/geiser-mit
 	url = git@github.com:emacsmirror/geiser-mit.git
+[submodule "geiser-racket"]
+	path = mirror/geiser-racket
+	url = git@github.com:emacsmirror/geiser-racket.git
 [submodule "gemini-mode"]
 	path = mirror/gemini-mode
 	url = git@github.com:emacsmirror/gemini-mode.git
