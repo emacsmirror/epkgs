@@ -18384,6 +18384,9 @@
 [submodule "rigid-tabs"]
 	path = mirror/rigid-tabs
 	url = git@github.com:emacsmirror/rigid-tabs.git
+[submodule "rii"]
+	path = mirror/rii
+	url = git@github.com:emacsmirror/rii.git
 [submodule "rijndael"]
 	path = mirror/rijndael
 	url = git@github.com:emacsmirror/rijndael.git
