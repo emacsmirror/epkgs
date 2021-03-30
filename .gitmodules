@@ -13633,6 +13633,9 @@
 [submodule "mojo"]
 	path = attic/mojo
 	url = git@github.com:emacsattic/mojo.git
+[submodule "molar-mass"]
+	path = mirror/molar-mass
+	url = git@github.com:emacsmirror/molar-mass.git
 [submodule "molecule"]
 	path = mirror/molecule
 	url = git@github.com:emacsmirror/molecule.git
