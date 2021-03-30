@@ -20178,6 +20178,9 @@
 [submodule "stickyfunc-enhance"]
 	path = mirror/stickyfunc-enhance
 	url = git@github.com:emacsmirror/stickyfunc-enhance.git
+[submodule "stimmung-themes"]
+	path = mirror/stimmung-themes
+	url = git@github.com:emacsmirror/stimmung-themes.git
 [submodule "stock-quote"]
 	path = attic/stock-quote
 	url = git@github.com:emacsattic/stock-quote.git
