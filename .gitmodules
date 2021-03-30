@@ -23417,6 +23417,9 @@
 [submodule "zotelo"]
 	path = mirror/zotelo
 	url = git@github.com:emacsmirror/zotelo.git
+[submodule "zotero"]
+	path = mirror/zotero
+	url = git@github.com:emacsmirror/zotero.git
 [submodule "zotxt"]
 	path = mirror/zotxt
 	url = git@github.com:emacsmirror/zotxt.git
