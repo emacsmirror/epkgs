@@ -336,6 +336,9 @@
 [submodule "agda2-mode"]
 	path = mirror/agda2-mode
 	url = git@github.com:emacsmirror/agda2-mode.git
+[submodule "aggressive-completion"]
+	path = mirror/aggressive-completion
+	url = git@github.com:emacsmirror/aggressive-completion.git
 [submodule "aggressive-fill-paragraph"]
 	path = mirror/aggressive-fill-paragraph
 	url = git@github.com:emacsmirror/aggressive-fill-paragraph.git
