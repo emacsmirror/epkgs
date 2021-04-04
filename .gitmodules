@@ -19694,6 +19694,9 @@
 [submodule "smtpmail-multi"]
 	path = mirror/smtpmail-multi
 	url = git@github.com:emacsmirror/smtpmail-multi.git
+[submodule "smudge"]
+	path = mirror/smudge
+	url = git@github.com:emacsmirror/smudge.git
 [submodule "smyx-theme"]
 	path = mirror/smyx-theme
 	url = git@github.com:emacsmirror/smyx-theme.git
