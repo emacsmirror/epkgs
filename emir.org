@@ -761,6 +761,7 @@ FIXME Also used for minority reason.
 | org-bullets          | upstream unresponsive   |
 | org-grep             | maintainer is dead      |
 | org-json             | wiki needed by non-wiki |
+| org-page             | dropped by maintainer   |
 | osd                  | upstream disappeared    |
 | osx-trash            | dropped by maintainer   |
 | ov                   | dropped by maintainer   |
