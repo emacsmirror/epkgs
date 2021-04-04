@@ -22710,8 +22710,8 @@
 	path = mirror/wisitoken-grammar-mode
 	url = git@github.com:emacsmirror/wisitoken-grammar-mode.git
 [submodule "wisp-mode"]
-	path = attic/wisp-mode
-	url = git@github.com:emacsattic/wisp-mode.git
+	path = mirror/wisp-mode
+	url = git@github.com:emacsmirror/wisp-mode.git
 [submodule "wispjs-mode"]
 	path = mirror/wispjs-mode
 	url = git@github.com:emacsmirror/wispjs-mode.git
