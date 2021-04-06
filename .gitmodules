@@ -7517,6 +7517,9 @@
 [submodule "flymake-extension"]
 	path = mirror/flymake-extension
 	url = git@github.com:emacsmirror/flymake-extension.git
+[submodule "flymake-flycheck"]
+	path = mirror/flymake-flycheck
+	url = git@github.com:emacsmirror/flymake-flycheck.git
 [submodule "flymake-for-csharp"]
 	path = mirror/flymake-for-csharp
 	url = git@github.com:emacsmirror/flymake-for-csharp.git
