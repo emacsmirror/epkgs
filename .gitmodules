@@ -1526,6 +1526,9 @@
 [submodule "bibslurp"]
 	path = mirror/bibslurp
 	url = git@github.com:emacsmirror/bibslurp.git
+[submodule "bibtex-actions"]
+	path = mirror/bibtex-actions
+	url = git@github.com:emacsmirror/bibtex-actions.git
 [submodule "bibtex-completion"]
 	path = mirror/bibtex-completion
 	url = git@github.com:emacsmirror/bibtex-completion.git
