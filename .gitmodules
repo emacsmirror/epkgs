@@ -19723,6 +19723,9 @@
 [submodule "snazzy-theme"]
 	path = mirror/snazzy-theme
 	url = git@github.com:emacsmirror/snazzy-theme.git
+[submodule "sniem"]
+	path = mirror/sniem
+	url = git@github.com:emacsmirror/sniem.git
 [submodule "snippet"]
 	path = attic/snippet
 	url = git@github.com:emacsattic/snippet.git
