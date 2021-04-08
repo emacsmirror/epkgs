@@ -7458,8 +7458,8 @@
 	url = git@github.com:emacsmirror/flycheck-title.git
 	branch = master
 [submodule "flycheck-typescript-tslint"]
-	path = mirror/flycheck-typescript-tslint
-	url = git@github.com:emacsmirror/flycheck-typescript-tslint.git
+	path = attic/flycheck-typescript-tslint
+	url = git@github.com:emacsattic/flycheck-typescript-tslint.git
 [submodule "flycheck-vale"]
 	path = mirror/flycheck-vale
 	url = git@github.com:emacsmirror/flycheck-vale.git
