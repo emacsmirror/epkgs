@@ -22055,6 +22055,9 @@
 [submodule "vertica-snippets"]
 	path = mirror/vertica-snippets
 	url = git@github.com:emacsmirror/vertica-snippets.git
+[submodule "vertico"]
+	path = mirror/vertico
+	url = git@github.com:emacsmirror/vertico.git
 [submodule "vertigo"]
 	path = mirror/vertigo
 	url = git@github.com:emacsmirror/vertigo.git
