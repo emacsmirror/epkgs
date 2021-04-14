@@ -6865,6 +6865,9 @@
 [submodule "filetags"]
 	path = mirror/filetags
 	url = git@github.com:emacsmirror/filetags.git
+[submodule "filetree"]
+	path = mirror/filetree
+	url = git@github.com:emacsmirror/filetree.git
 [submodule "fileutils"]
 	path = attic/fileutils
 	url = git@github.com:emacsattic/fileutils.git
