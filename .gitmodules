@@ -4704,6 +4704,9 @@
 [submodule "dune"]
 	path = mirror/dune
 	url = git@github.com:emacsmirror/dune.git
+[submodule "dune-format"]
+	path = mirror/dune-format
+	url = git@github.com:emacsmirror/dune-format.git
 [submodule "duplicate-line"]
 	path = attic/duplicate-line
 	url = git@github.com:emacsattic/duplicate-line.git
