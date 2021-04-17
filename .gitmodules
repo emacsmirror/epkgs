@@ -5896,8 +5896,8 @@
 	path = mirror/erc-social-graph
 	url = git@github.com:emacsmirror/erc-social-graph.git
 [submodule "erc-status-sidebar"]
-	path = mirror/erc-status-sidebar
-	url = git@github.com:emacsmirror/erc-status-sidebar.git
+	path = attic/erc-status-sidebar
+	url = git@github.com:emacsattic/erc-status-sidebar.git
 [submodule "erc-terminal-notifier"]
 	path = mirror/erc-terminal-notifier
 	url = git@github.com:emacsmirror/erc-terminal-notifier.git
