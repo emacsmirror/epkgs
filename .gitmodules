@@ -1145,8 +1145,8 @@
 	path = attic/automargin
 	url = git@github.com:emacsattic/automargin.git
 [submodule "autopair"]
-	path = mirror/autopair
-	url = git@github.com:emacsmirror/autopair.git
+	path = attic/autopair
+	url = git@github.com:emacsattic/autopair.git
 [submodule "autosmiley"]
 	path = mirror/autosmiley
 	url = git@github.com:emacsmirror/autosmiley.git
