@@ -20331,8 +20331,8 @@
 	path = attic/subtitles
 	url = git@github.com:emacsattic/subtitles.git
 [submodule "sudden-death"]
-	path = mirror/sudden-death
-	url = git@github.com:emacsmirror/sudden-death.git
+	path = attic/sudden-death
+	url = git@github.com:emacsattic/sudden-death.git
 [submodule "sudo-edit"]
 	path = mirror/sudo-edit
 	url = git@github.com:emacsmirror/sudo-edit.git
