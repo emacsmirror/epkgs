@@ -15062,6 +15062,9 @@
 	path = mirror/opener
 	url = git@github.com:emacsmirror/opener.git
 	branch = master
+[submodule "openfoam"]
+	path = mirror/openfoam
+	url = git@github.com:emacsmirror/openfoam.git
 [submodule "openpaste"]
 	path = mirror/openpaste
 	url = git@github.com:emacsmirror/openpaste.git
