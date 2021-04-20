@@ -17556,6 +17556,9 @@
 [submodule "pyim-cangjie5dict"]
 	path = mirror/pyim-cangjie5dict
 	url = git@github.com:emacsmirror/pyim-cangjie5dict.git
+[submodule "pyim-smzmdict"]
+	path = mirror/pyim-smzmdict
+	url = git@github.com:emacsmirror/pyim-smzmdict.git
 [submodule "pyim-wbdict"]
 	path = mirror/pyim-wbdict
 	url = git@github.com:emacsmirror/pyim-wbdict.git
