@@ -4643,6 +4643,9 @@
 [submodule "drawille"]
 	path = attic/drawille
 	url = git@github.com:emacsattic/drawille.git
+[submodule "dream-theme"]
+	path = mirror/dream-theme
+	url = git@github.com:emacsmirror/dream-theme.git
 [submodule "drill-instructor"]
 	path = mirror/drill-instructor
 	url = git@github.com:emacsmirror/drill-instructor.git
