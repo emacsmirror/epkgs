@@ -924,6 +924,9 @@
 [submodule "aurquery"]
 	path = mirror/aurquery
 	url = git@github.com:emacsmirror/aurquery.git
+[submodule "auth-source-kwallet"]
+	path = mirror/auth-source-kwallet
+	url = git@github.com:emacsmirror/auth-source-kwallet.git
 [submodule "auth-source-xoauth2"]
 	path = mirror/auth-source-xoauth2
 	url = git@github.com:emacsmirror/auth-source-xoauth2.git
