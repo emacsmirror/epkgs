@@ -924,6 +924,9 @@
 [submodule "aurquery"]
 	path = mirror/aurquery
 	url = git@github.com:emacsmirror/aurquery.git
+[submodule "auth-source-keytar"]
+	path = mirror/auth-source-keytar
+	url = git@github.com:emacs-grammarly/auth-source-keytar.git
 [submodule "auth-source-kwallet"]
 	path = mirror/auth-source-kwallet
 	url = git@github.com:emacsmirror/auth-source-kwallet.git
