@@ -14441,8 +14441,8 @@
 	url = git@github.com:emacsmirror/nlinum-relative.git
 	branch = master
 [submodule "nm"]
-	path = mirror/nm
-	url = git@github.com:emacsmirror/nm.git
+	path = attic/nm
+	url = git@github.com:emacsattic/nm.git
 [submodule "nmap"]
 	path = attic/nmap
 	url = git@github.com:emacsattic/nmap.git
