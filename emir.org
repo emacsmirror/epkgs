@@ -6,7 +6,9 @@
 #+BEGIN_SRC emacs-lisp :results silent
   (require 'emir)
   (defun emir--save-variable (variable value)
-    (customize-save-variable variable (and (not (equal value "nil")) value))
+    (customize-save-variable variable
+                             (and (not (equal value "nil"))
+                                  (cl-subst nil "" value)))
     nil)
 #+END_SRC
 :END:
@@ -846,6 +848,16 @@ FIXME Also used for minority reason.
 | text-translator   | bzr   |
 | vm                | bzr   |
 | w3m               | cvs   |
+
+* Set ~elx-license-substitutions~
+#+NAME: set--elx-license-substitutions
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--elx-license-substitutions
+  (emir--save-variable 'elx-license-substitutions value)
+#+END_SRC
+#+NAME: val--elx-license-substitutions
+| Package     | String | Substitute    |
+|-------------+--------+---------------|
+| pollen-mode | LGPL   | LGPL-3.0-only |
 
 * Update ~emir--archived-packages~
 #+NAME: set--emir--archived-packages
