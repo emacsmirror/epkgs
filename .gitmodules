@@ -21193,9 +21193,6 @@
 [submodule "title-time"]
 	path = mirror/title-time
 	url = git@github.com:emacsmirror/title-time.git
-[submodule "tj-mode"]
-	path = attic/tj-mode
-	url = git@github.com:emacsattic/tj-mode.git
 [submodule "tj3-mode"]
 	path = mirror/tj3-mode
 	url = git@github.com:emacsmirror/tj3-mode.git
