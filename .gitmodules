@@ -3181,6 +3181,9 @@
 [submodule "consult"]
 	path = mirror/consult
 	url = git@github.com:emacsmirror/consult.git
+[submodule "consult-lsp"]
+	path = mirror/consult-lsp
+	url = git@github.com:emacsmirror/consult-lsp.git
 [submodule "consult-notmuch"]
 	path = mirror/consult-notmuch
 	url = git@github.com:emacsmirror/consult-notmuch.git
