@@ -10150,6 +10150,9 @@
 [submodule "hl-line+"]
 	path = mirror/hl-line+
 	url = git@github.com:emacsmirror/hl-line-plus.git
+[submodule "hl-prog-extra"]
+	path = mirror/hl-prog-extra
+	url = git@github.com:emacsmirror/hl-prog-extra.git
 [submodule "hl-sentence"]
 	path = mirror/hl-sentence
 	url = git@github.com:emacsmirror/hl-sentence.git
