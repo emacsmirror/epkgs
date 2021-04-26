@@ -14816,6 +14816,9 @@
 [submodule "ob-ipython"]
 	path = mirror/ob-ipython
 	url = git@github.com:emacsmirror/ob-ipython.git
+[submodule "ob-julia-vterm"]
+	path = mirror/ob-julia-vterm
+	url = git@github.com:emacsmirror/ob-julia-vterm.git
 [submodule "ob-kotlin"]
 	path = mirror/ob-kotlin
 	url = git@github.com:emacsmirror/ob-kotlin.git
