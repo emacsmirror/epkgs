@@ -3307,6 +3307,9 @@
 [submodule "counsel-jq"]
 	path = mirror/counsel-jq
 	url = git@github.com:emacsmirror/counsel-jq.git
+[submodule "counsel-mairix"]
+	path = mirror/counsel-mairix
+	url = git@github.com:emacsmirror/counsel-mairix.git
 [submodule "counsel-notmuch"]
 	path = mirror/counsel-notmuch
 	url = git@github.com:emacsmirror/counsel-notmuch.git
