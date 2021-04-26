@@ -4318,6 +4318,9 @@
 [submodule "dired-view"]
 	path = mirror/dired-view
 	url = git@github.com:emacsmirror/dired-view.git
+[submodule "dired-view-data"]
+	path = mirror/dired-view-data
+	url = git@github.com:emacsmirror/dired-view-data.git
 [submodule "dired-xattr"]
 	path = mirror/dired-xattr
 	url = git@github.com:emacsmirror/dired-xattr.git
