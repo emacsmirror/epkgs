@@ -5234,8 +5234,8 @@
 	path = attic/el-tools
 	url = git@github.com:emacsattic/el-tools.git
 [submodule "el-x"]
-	path = mirror/el-x
-	url = git@github.com:emacsmirror/el-x.git
+	path = attic/el-x
+	url = git@github.com:emacsattic/el-x.git
 [submodule "el2markdown"]
 	path = mirror/el2markdown
 	url = git@github.com:emacsmirror/el2markdown.git
