@@ -5294,6 +5294,9 @@
 [submodule "electric-case"]
 	path = mirror/electric-case
 	url = git@github.com:emacsmirror/electric-case.git
+[submodule "electric-cursor"]
+	path = mirror/electric-cursor
+	url = git@github.com:emacsmirror/electric-cursor.git
 [submodule "electric-dot-and-dash"]
 	path = mirror/electric-dot-and-dash
 	url = git@github.com:emacsmirror/electric-dot-and-dash.git
