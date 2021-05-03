@@ -19500,8 +19500,8 @@
 	path = attic/skip-initial-comments
 	url = git@github.com:emacsattic/skip-initial-comments.git
 [submodule "skip-sexp"]
-	path = mirror/skip-sexp
-	url = git@github.com:emacsmirror/skip-sexp.git
+	path = attic/skip-sexp
+	url = git@github.com:emacsattic/skip-sexp.git
 [submodule "skype"]
 	path = mirror/skype
 	url = git@github.com:emacsmirror/skype.git
