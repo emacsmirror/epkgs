@@ -17905,6 +17905,9 @@
 [submodule "rbit"]
 	path = mirror/rbit
 	url = git@github.com:emacsmirror/rbit.git
+[submodule "rbs-mode"]
+	path = mirror/rbs-mode
+	url = git@github.com:emacsmirror/rbs-mode.git
 [submodule "rbt"]
 	path = mirror/rbt
 	url = git@github.com:emacsmirror/rbt.git
