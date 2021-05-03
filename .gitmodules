@@ -12884,8 +12884,8 @@
 	path = mirror/magit-gerrit
 	url = git@github.com:emacsmirror/magit-gerrit.git
 [submodule "magit-gh-pulls"]
-	path = mirror/magit-gh-pulls
-	url = git@github.com:emacsmirror/magit-gh-pulls.git
+	path = attic/magit-gh-pulls
+	url = git@github.com:emacsattic/magit-gh-pulls.git
 [submodule "magit-gitflow"]
 	path = mirror/magit-gitflow
 	url = git@github.com:emacsmirror/magit-gitflow.git
