@@ -19211,8 +19211,8 @@
 	path = mirror/shelisp
 	url = git@github.com:emacsmirror/shelisp.git
 [submodule "shell-command"]
-	path = mirror/shell-command
-	url = git@github.com:emacsmirror/shell-command.git
+	path = attic/shell-command
+	url = git@github.com:emacsattic/shell-command.git
 	branch = master
 [submodule "shell-command+"]
 	path = mirror/shell-command+
