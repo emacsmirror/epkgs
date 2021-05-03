@@ -15615,8 +15615,8 @@
 	path = mirror/org-runbook
 	url = git@github.com:emacsmirror/org-runbook.git
 [submodule "org-s5"]
-	path = mirror/org-s5
-	url = git@github.com:emacsmirror/org-s5.git
+	path = attic/org-s5
+	url = git@github.com:emacsattic/org-s5.git
 [submodule "org-scrum"]
 	path = mirror/org-scrum
 	url = git@github.com:emacsmirror/org-scrum.git
