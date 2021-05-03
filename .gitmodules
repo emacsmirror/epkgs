@@ -20483,6 +20483,9 @@
 [submodule "swarmhacker"]
 	path = mirror/swarmhacker
 	url = git@github.com:emacsmirror/swarmhacker.git
+[submodule "sway"]
+	path = mirror/sway
+	url = git@github.com:emacsmirror/sway.git
 [submodule "swbuff"]
 	path = attic/swbuff
 	url = git@github.com:emacsattic/swbuff.git
