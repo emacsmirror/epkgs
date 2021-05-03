@@ -3363,6 +3363,9 @@
 [submodule "coverlay"]
 	path = mirror/coverlay
 	url = git@github.com:emacsmirror/coverlay.git
+[submodule "cowsay"]
+	path = mirror/cowsay
+	url = git@github.com:emacsmirror/cowsay.git
 [submodule "cp5022x"]
 	path = mirror/cp5022x
 	url = git@github.com:emacsmirror/cp5022x.git
