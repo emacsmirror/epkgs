@@ -15257,6 +15257,9 @@
 [submodule "org-context"]
 	path = mirror/org-context
 	url = git@github.com:emacsmirror/org-context.git
+[submodule "org-contrib"]
+	path = mirror/org-contrib
+	url = git@github.com:emacsmirror/org-contrib.git
 [submodule "org-cua-dwim"]
 	path = mirror/org-cua-dwim
 	url = git@github.com:emacsmirror/org-cua-dwim.git
