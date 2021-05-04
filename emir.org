@@ -636,6 +636,7 @@ FIXME Also used for minority reason.
 #+NAME: val--emir--library-reason
 | Package               | Reason                     |
 |-----------------------+----------------------------|
+| apropospriate-theme   | two-variant theme          |
 | auctex                | pkg/lib name mismatch      |
 | chumpy-windows        | no primary entry point     |
 | ddskk                 | pkg/lib name mismatch      |
@@ -646,17 +647,16 @@ FIXME Also used for minority reason.
 | ert-runner            | not a library [[https://github.com/rejeep/ert-runner.el/pull/16][#16]]          |
 | eziam-theme           | two-variant theme          |
 | farmhouse-theme       | two-variant theme [[https://github.com/mattly/emacs-farmhouse-theme/pull/3][#3]]       |
-| git-undo              | defect, pending [[https://github.com/jwiegley/git-undo-el/pull/2][#2]]         |
 | html5                 | no/mismatched main library |
 | literate-starter-kit  | not a package              |
 | majapahit-theme       | two-variant theme [[https://gitlab.com/franksn/majapahit-theme/merge_requests/1][#1]]       |
-| modus-themes          | two-variant theme          |
 | ne2wm                 | no/mismatched main library |
 | omtose-phellack-theme | two-variant theme          |
 | punpun-theme          | two-variant theme [[https://github.com/wasamasa/punpun-theme/pull/7][#7]]       |
+| pyim-cangjiedict      | pending [[https://github.com/melpa/melpa/pull/7543][#7543]]              |
 | spacemacs-theme       | two-variant theme [[https://github.com/nashamri/spacemacs-theme/pull/63][#63]]      |
 | ultratex              | no/mismatched main library |
-| uni-confusables       | generated                  |
+| zonokai-theme         | two-variant theme          |
 
 * Set ~emir--orphanage-reason~
 #+NAME: set--emir--orphanage-reason

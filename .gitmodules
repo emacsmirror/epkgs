@@ -1243,8 +1243,8 @@
 	path = mirror/back-button
 	url = git@github.com:emacsmirror/back-button.git
 [submodule "background"]
-	path = mirror/background
-	url = git@github.com:emacsmirror/background.git
+	path = attic/background
+	url = git@github.com:emacsattic/background.git
 	branch = master
 [submodule "backlight"]
 	path = mirror/backlight
