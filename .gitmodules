@@ -18356,6 +18356,9 @@
 [submodule "requirejs-mode"]
 	path = mirror/requirejs-mode
 	url = git@github.com:emacsmirror/requirejs-mode.git
+[submodule "rescript-mode"]
+	path = mirror/rescript-mode
+	url = git@github.com:emacsmirror/rescript-mode.git
 [submodule "resize-window"]
 	path = mirror/resize-window
 	url = git@github.com:emacsmirror/resize-window.git
