@@ -2347,6 +2347,9 @@
 [submodule "chef-mode"]
 	path = mirror/chef-mode
 	url = git@github.com:emacsmirror/chef-mode.git
+[submodule "chembalance"]
+	path = mirror/chembalance
+	url = git@github.com:emacsmirror/chembalance.git
 [submodule "cherry-blossom-theme"]
 	path = mirror/cherry-blossom-theme
 	url = git@github.com:emacsmirror/cherry-blossom-theme.git
