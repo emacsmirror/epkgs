@@ -926,7 +926,7 @@
 	url = git@github.com:emacsmirror/aurquery.git
 [submodule "auth-source-keytar"]
 	path = mirror/auth-source-keytar
-	url = git@github.com:emacs-grammarly/auth-source-keytar.git
+	url = git@github.com:emacsmirror/auth-source-keytar.git
 [submodule "auth-source-kwallet"]
 	path = mirror/auth-source-kwallet
 	url = git@github.com:emacsmirror/auth-source-kwallet.git
@@ -20104,7 +20104,7 @@
 	url = git@github.com:emacsmirror/sql-completion.git
 [submodule "sql-ident"]
 	path = mirror/sql-ident
-	url = git@github.com:bsvingen/sql-indent.git
+	url = git@github.com:emacsmirror/sql-indent.git
 [submodule "sql-impala"]
 	path = mirror/sql-impala
 	url = git@github.com:emacsmirror/sql-impala.git
