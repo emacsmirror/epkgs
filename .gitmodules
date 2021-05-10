@@ -20573,6 +20573,9 @@
 	path = mirror/symbol-overlay
 	url = git@github.com:emacsmirror/symbol-overlay.git
 	branch = master
+[submodule "symbolist"]
+	path = mirror/symbolist
+	url = git@github.com:emacsmirror/symbolist.git
 [submodule "symbols-mode"]
 	path = mirror/symbols-mode
 	url = git@github.com:emacsmirror/symbols-mode.git
