@@ -22558,6 +22558,9 @@
 [submodule "webkit-color-picker"]
 	path = mirror/webkit-color-picker
 	url = git@github.com:emacsmirror/webkit-color-picker.git
+[submodule "weblio"]
+	path = mirror/weblio
+	url = git@github.com:emacsmirror/weblio.git
 [submodule "weblogger"]
 	path = mirror/weblogger
 	url = git@github.com:emacsmirror/weblogger.git
