@@ -15848,6 +15848,9 @@
 [submodule "orthodox"]
 	path = mirror/orthodox
 	url = git@github.com:emacsmirror/orthodox.git
+[submodule "orthodox-christian-new-calendar-holidays"]
+	path = mirror/orthodox-christian-new-calendar-holidays
+	url = git@github.com:emacsmirror/orthodox-christian-new-calendar-holidays.git
 [submodule "orwell"]
 	path = mirror/orwell
 	url = git@github.com:emacsmirror/orwell.git
