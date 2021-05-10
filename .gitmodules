@@ -13161,8 +13161,8 @@
 	path = mirror/markdown-mode
 	url = git@github.com:emacsmirror/markdown-mode.git
 [submodule "markdown-mode+"]
-	path = mirror/markdown-mode+
-	url = git@github.com:emacsmirror/markdown-mode-plus.git
+	path = attic/markdown-mode+
+	url = git@github.com:emacsattic/markdown-mode-plus.git
 [submodule "markdown-preview-eww"]
 	path = mirror/markdown-preview-eww
 	url = git@github.com:emacsmirror/markdown-preview-eww.git
