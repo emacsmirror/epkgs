@@ -9981,7 +9981,6 @@
 [submodule "hide-lines"]
 	path = mirror/hide-lines
 	url = git@github.com:emacsmirror/hide-lines.git
-	branch = master
 [submodule "hide-mode-line"]
 	path = mirror/hide-mode-line
 	url = git@github.com:emacsmirror/hide-mode-line.git

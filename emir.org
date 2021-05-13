@@ -738,7 +738,6 @@ FIXME Also used for minority reason.
 | helm-robe            | dropped by maintainer   |
 | helm-swoop           | dropped by maintainer   |
 | helm-themes          | dropped by maintainer   |
-| hide-lines           | wiki needed by non-wiki |
 | highline             | wiki needed by non-wiki |
 | http-post-simple     | wiki needed by non-wiki |
 | hyperspec            | multiple non-upstreams  |
