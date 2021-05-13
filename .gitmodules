@@ -16977,8 +16977,8 @@
 	path = mirror/point-undo
 	url = git@github.com:emacsmirror/point-undo.git
 [submodule "pointback"]
-	path = mirror/pointback
-	url = git@github.com:emacsmirror/pointback.git
+	path = attic/pointback
+	url = git@github.com:emacsattic/pointback.git
 [submodule "poke-line"]
 	path = mirror/poke-line
 	url = git@github.com:emacsmirror/poke-line.git

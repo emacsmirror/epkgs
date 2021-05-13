@@ -780,7 +780,6 @@ FIXME Also used for minority reason.
 | perl-utils           | dropped by maintainer   |
 | picolisp             | manual tarball import   |
 | pkg-info             | dropped by maintainer   |
-| pointback            | upstream disappeared    |
 | policy-switch        | wiki needed by non-wiki |
 | popup-complete       | dropped by maintainer   |
 | popwin               | dropped by maintainer   |
