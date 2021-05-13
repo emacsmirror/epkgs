@@ -1346,9 +1346,9 @@
 [submodule "battle-haxe"]
 	path = mirror/battle-haxe
 	url = git@github.com:emacsmirror/battle-haxe.git
-[submodule "bazel-mode"]
-	path = mirror/bazel-mode
-	url = git@github.com:emacsmirror/bazel-mode.git
+[submodule "bazel"]
+	path = mirror/bazel
+	url = git@github.com:emacsmirror/bazel.git
 [submodule "bbc-news"]
 	path = attic/bbc-news
 	url = git@github.com:emacsattic/bbc-news.git
