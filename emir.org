@@ -2,26 +2,27 @@
 #+STARTUP: overview
 #+STARTUP: hideblocks
 #+STARTUP: noindent
+#+PROPERTY: header-args :results silent :noweb eval
 #+NAME: setup
-#+BEGIN_SRC emacs-lisp :results silent
+#+BEGIN_SRC emacs-lisp
   (require 'emir)
   (defun emir--save-variable (variable value)
     (customize-save-variable variable
                              (and (not (equal value "nil"))
                                   (cl-subst nil "" value)))
-    nil)
+    (format "%s saved" variable))
 #+END_SRC
 :END:
 * Set ~emir-emacs-reference~
 #+NAME: set--emir-emacs-reference
-#+BEGIN_SRC emacs-lisp :results silent
-  (emir--save-variable 'emir-emacs-reference "emacs-27.1")
+#+BEGIN_SRC emacs-lisp
+  <<setup>>(emir--save-variable 'emir-emacs-reference "emacs-27.1")
 #+END_SRC
 
 * Set ~emir-pending-packages~
 #+NAME: set--emir-pending-packages
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-pending-packages
-  (emir--save-variable 'emir-pending-packages value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir-pending-packages
+  <<setup>>(emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
 | Package              | Reason                            |
@@ -31,8 +32,8 @@
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-suspended-packages
-  (emir--save-variable 'emir-suspended-packages value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir-suspended-packages
+  <<setup>>(emir--save-variable 'emir-suspended-packages value)
 #+END_SRC
 #+NAME: val--emir-suspended-packages
 | Package             | Reason         |
@@ -50,8 +51,8 @@
 
 * Set ~emir-secondary-packages~
 #+NAME: set--emir-secondary-packages
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-secondary-packages
-  (emir--save-variable 'emir-secondary-packages value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir-secondary-packages
+  <<setup>>(emir--save-variable 'emir-secondary-packages value)
 #+END_SRC
 #+NAME: val--emir-secondary-packages
 | Secondary      | Primary |
@@ -67,8 +68,8 @@
 
 * Set ~emir-renamed-files~
 #+NAME: set--emir-renamed-files
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-renamed-files
-  (emir--save-variable 'emir-renamed-files value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir-renamed-files
+  <<setup>>(emir--save-variable 'emir-renamed-files value)
 #+END_SRC
 #+NAME: val--emir-renamed-files
 | Package               | Filename                                     |
@@ -83,8 +84,8 @@
 
 * Set ~emir--homepage-alist~
 #+NAME: set--emir--homepage-alist
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--homepage-alist
-  (emir--save-variable 'emir--homepage-alist value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir--homepage-alist
+  <<setup>>(emir--save-variable 'emir--homepage-alist value)
 #+END_SRC
 #+NAME: val--emir--homepage-alist
 | Package                   | URL                                                                          |
@@ -409,8 +410,8 @@
 
 * Set ~emir--wikipage-alist~
 #+NAME: set--emir--wikipage-alist
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--wikipage-alist
-  (emir--save-variable 'emir--wikipage-alist value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir--wikipage-alist
+  <<setup>>(emir--save-variable 'emir--wikipage-alist value)
 #+END_SRC
 #+NAME: val--emir--wikipage-alist
 | Package             | URL                                  |
@@ -491,8 +492,8 @@
 
 * Set ~emir--preferred-upstream~
 #+NAME: set--emir--preferred-upstreams
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--preferred-upstreams
-  (emir--save-variable 'emir--preferred-upstreams value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir--preferred-upstreams
+  <<setup>>(emir--save-variable 'emir--preferred-upstreams value)
 #+END_SRC
 #+NAME: val--emir--preferred-upstreams
 | Name               | Reason               |
@@ -556,8 +557,8 @@
 
 * Set ~emir--preferred-builtins~
 #+NAME: set--emir--preferred-builtins
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--preferred-builtins
-  (emir--save-variable 'emir--preferred-builtins value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir--preferred-builtins
+  <<setup>>(emir--save-variable 'emir--preferred-builtins value)
 #+END_SRC
 #+NAME: val--emir--preferred-builtins
 | Name       | Reason              |
@@ -570,8 +571,8 @@
 * Set ~emir--diverging-reason~
 FIXME Also used for minority reason.
 #+NAME: set--emir--diverging-reason
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--diverging-reason
-  (emir--save-variable 'emir--diverging-reason value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir--diverging-reason
+  <<setup>>(emir--save-variable 'emir--diverging-reason value)
 #+END_SRC
 #+NAME: val--emir--diverging-reason
 | Package                      | Reason              |
@@ -630,8 +631,8 @@ FIXME Also used for minority reason.
 
 * Set ~emir--library-reason~
 #+NAME: set--emir--library-reason
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--library-reason
-  (emir--save-variable 'emir--library-reason value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir--library-reason
+  <<setup>>(emir--save-variable 'emir--library-reason value)
 #+END_SRC
 #+NAME: val--emir--library-reason
 | Package               | Reason                     |
@@ -660,8 +661,8 @@ FIXME Also used for minority reason.
 
 * Set ~emir--orphanage-reason~
 #+NAME: set--emir--orphanage-reason
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--orphanage-reason
-  (emir--save-variable 'emir--orphanage-reason value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir--orphanage-reason
+  <<setup>>(emir--save-variable 'emir--orphanage-reason value)
 #+END_SRC
 #+NAME: val--emir--orphanage-reason
 | Package              | Reason                  |
@@ -827,8 +828,8 @@ FIXME Also used for minority reason.
 
 * Set ~emir--other-vcs~
 #+NAME: set--emir--other-vcs
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--other-vcs
-  (emir--save-variable 'emir--other-vcs value)
+#+BEGIN_SRC emacs-lisp :var value=val--emir--other-vcs
+  <<setup>>(emir--save-variable 'emir--other-vcs value)
 #+END_SRC
 #+NAME: val--emir--other-vcs
 | Package           | Vcs   |
@@ -850,8 +851,8 @@ FIXME Also used for minority reason.
 
 * Set ~elx-license-substitutions~
 #+NAME: set--elx-license-substitutions
-#+BEGIN_SRC emacs-lisp :results silent :var value=val--elx-license-substitutions
-  (emir--save-variable 'elx-license-substitutions value)
+#+BEGIN_SRC emacs-lisp :var value=val--elx-license-substitutions
+  <<setup>>(emir--save-variable 'elx-license-substitutions value)
 #+END_SRC
 #+NAME: val--elx-license-substitutions
 | Package     | String | Substitute    |
@@ -860,7 +861,8 @@ FIXME Also used for minority reason.
 
 * Update ~emir--archived-packages~
 #+NAME: set--emir--archived-packages
-#+BEGIN_SRC emacs-lisp :results silent
+#+BEGIN_SRC emacs-lisp
+  <<setup>>
   (emir-gh-foreach-query
    '(isArchived)
    (lambda (data)
@@ -874,7 +876,8 @@ FIXME Also used for minority reason.
 
 * Update ~emir--moved-packages~
 #+NAME: set--emir--moved-packages
-#+BEGIN_SRC emacs-lisp :results silent
+#+BEGIN_SRC emacs-lisp
+  <<setup>>
   (emir-gh-foreach-query
    '(nameWithOwner)
    (lambda (data)
