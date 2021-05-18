@@ -1343,6 +1343,9 @@
 [submodule "bats-mode"]
 	path = mirror/bats-mode
 	url = git@github.com:emacsmirror/bats-mode.git
+[submodule "battery-notifier"]
+	path = mirror/battery-notifier
+	url = git@github.com:emacsmirror/battery-notifier.git
 [submodule "battle-haxe"]
 	path = mirror/battle-haxe
 	url = git@github.com:emacsmirror/battle-haxe.git
