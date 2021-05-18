@@ -12748,6 +12748,9 @@
 [submodule "lsp-python-ms"]
 	path = mirror/lsp-python-ms
 	url = git@github.com:emacsmirror/lsp-python-ms.git
+[submodule "lsp-rescript"]
+	path = mirror/lsp-rescript
+	url = git@github.com:emacsmirror/lsp-rescript.git
 [submodule "lsp-ruby"]
 	path = attic/lsp-ruby
 	url = git@github.com:emacsattic/lsp-ruby.git
