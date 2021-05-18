@@ -4788,6 +4788,9 @@
 [submodule "dynamic-spaces"]
 	path = mirror/dynamic-spaces
 	url = git@github.com:emacsmirror/dynamic-spaces.git
+[submodule "dynaring"]
+	path = mirror/dynaring
+	url = git@github.com:emacsmirror/dynaring.git
 [submodule "dyncloze"]
 	path = mirror/dyncloze
 	url = git@github.com:emacsmirror/dyncloze.git
