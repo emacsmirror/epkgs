@@ -18030,6 +18030,9 @@
 [submodule "read-library"]
 	path = attic/read-library
 	url = git@github.com:emacsattic/read-library.git
+[submodule "read-only-cfg"]
+	path = mirror/read-only-cfg
+	url = git@github.com:emacsmirror/read-only-cfg.git
 [submodule "read-table-data"]
 	path = attic/read-table-data
 	url = git@github.com:emacsattic/read-table-data.git
