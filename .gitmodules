@@ -11083,6 +11083,9 @@
 [submodule "isearch-extension"]
 	path = mirror/isearch-extension
 	url = git@github.com:emacsmirror/isearch-extension.git
+[submodule "isearch-mb"]
+	path = mirror/isearch-mb
+	url = git@github.com:emacsmirror/isearch-mb.git
 [submodule "isearch-project"]
 	path = mirror/isearch-project
 	url = git@github.com:emacsmirror/isearch-project.git
