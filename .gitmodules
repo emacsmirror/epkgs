@@ -19757,6 +19757,9 @@
 	path = mirror/smiles-mode
 	url = git@github.com:emacsmirror/smiles-mode.git
 	branch = master
+[submodule "sml-basis"]
+	path = mirror/sml-basis
+	url = git@github.com:emacsmirror/sml-basis.git
 [submodule "sml-mode"]
 	path = mirror/sml-mode
 	url = git@github.com:emacsmirror/sml-mode.git
