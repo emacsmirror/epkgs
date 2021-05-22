@@ -19601,9 +19601,9 @@
 	path = mirror/slstats
 	url = git@github.com:emacsmirror/slstats.git
 	branch = master
-[submodule "slurm"]
-	path = mirror/slurm
-	url = git@github.com:emacsmirror/slurm.git
+[submodule "slurm-mode"]
+	path = mirror/slurm-mode
+	url = git@github.com:emacsmirror/slurm-mode.git
 [submodule "slurp"]
 	path = mirror/slurp
 	url = git@github.com:emacsmirror/slurp.git
