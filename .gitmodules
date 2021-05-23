@@ -15363,6 +15363,9 @@
 [submodule "org-fstree"]
 	path = attic/org-fstree
 	url = git@github.com:emacsattic/org-fstree.git
+[submodule "org-gamedb"]
+	path = mirror/org-gamedb
+	url = git@github.com:emacsmirror/org-gamedb.git
 [submodule "org-gcal"]
 	path = mirror/org-gcal
 	url = git@github.com:emacsmirror/org-gcal.git
