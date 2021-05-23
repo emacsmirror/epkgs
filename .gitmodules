@@ -13612,6 +13612,9 @@
 [submodule "mldonkey"]
 	path = attic/mldonkey
 	url = git@github.com:emacsattic/mldonkey.git
+[submodule "mlscroll"]
+	path = mirror/mlscroll
+	url = git@github.com:emacsmirror/mlscroll.git
 [submodule "mm2mw"]
 	path = mirror/mm2mw
 	url = git@github.com:emacsmirror/mm2mw.git
