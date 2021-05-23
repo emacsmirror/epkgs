@@ -8945,6 +8945,9 @@
 [submodule "graphql"]
 	path = mirror/graphql
 	url = git@github.com:emacsmirror/graphql.git
+[submodule "graphql-doc"]
+	path = mirror/graphql-doc
+	url = git@github.com:emacsmirror/graphql-doc.git
 [submodule "graphql-mode"]
 	path = mirror/graphql-mode
 	url = git@github.com:emacsmirror/graphql-mode.git
