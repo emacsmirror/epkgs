@@ -1294,9 +1294,6 @@
 [submodule "balanced-windows"]
 	path = mirror/balanced-windows
 	url = git@github.com:emacsmirror/balanced-windows.git
-[submodule "bang"]
-	path = mirror/bang
-	url = git@github.com:emacsmirror/bang.git
 [submodule "banner"]
 	path = attic/banner
 	url = git@github.com:emacsattic/banner.git
