@@ -320,6 +320,9 @@
 [submodule "aes"]
 	path = mirror/aes
 	url = git@github.com:emacsmirror/aes.git
+[submodule "affe"]
+	path = mirror/affe
+	url = git@github.com:emacsmirror/affe.git
 [submodule "after-save-commands"]
 	path = attic/after-save-commands
 	url = git@github.com:emacsattic/after-save-commands.git
