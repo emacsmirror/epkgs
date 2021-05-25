@@ -8673,8 +8673,8 @@
 	path = mirror/go-autocomplete
 	url = git@github.com:emacsmirror/go-autocomplete.git
 [submodule "go-capf"]
-	path = mirror/go-capf
-	url = git@github.com:emacsmirror/go-capf.git
+	path = attic/go-capf
+	url = git@github.com:emacsattic/go-capf.git
 [submodule "go-complete"]
 	path = mirror/go-complete
 	url = git@github.com:emacsmirror/go-complete.git
