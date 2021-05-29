@@ -13517,6 +13517,9 @@
 [submodule "mini-modeline"]
 	path = mirror/mini-modeline
 	url = git@github.com:emacsmirror/mini-modeline.git
+[submodule "mini-popup"]
+	path = mirror/mini-popup
+	url = git@github.com:emacsmirror/mini-popup.git
 [submodule "minibuf-isearch"]
 	path = mirror/minibuf-isearch
 	url = git@github.com:emacsmirror/minibuf-isearch.git
