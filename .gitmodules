@@ -12737,6 +12737,9 @@
 [submodule "lsp-latex"]
 	path = mirror/lsp-latex
 	url = git@github.com:emacsmirror/lsp-latex.git
+[submodule "lsp-ltex"]
+	path = mirror/lsp-ltex
+	url = git@github.com:emacsmirror/lsp-ltex.git
 [submodule "lsp-metals"]
 	path = mirror/lsp-metals
 	url = git@github.com:emacsmirror/lsp-metals.git
