@@ -19064,6 +19064,9 @@
 [submodule "scss-mode"]
 	path = mirror/scss-mode
 	url = git@github.com:emacsmirror/scss-mode.git
+[submodule "sculpture-themes"]
+	path = mirror/sculpture-themes
+	url = git@github.com:emacsmirror/sculpture-themes.git
 [submodule "sdcv"]
 	path = mirror/sdcv
 	url = git@github.com:emacsmirror/sdcv.git
