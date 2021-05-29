@@ -17057,6 +17057,9 @@
 [submodule "polymode"]
 	path = mirror/polymode
 	url = git@github.com:emacsmirror/polymode.git
+[submodule "polyp"]
+	path = mirror/polyp
+	url = git@github.com:emacsmirror/polyp.git
 [submodule "pom"]
 	path = attic/pom
 	url = git@github.com:emacsattic/pom.git
