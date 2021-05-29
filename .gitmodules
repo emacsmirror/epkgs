@@ -12064,6 +12064,9 @@
 [submodule "langtool"]
 	path = mirror/langtool
 	url = git@github.com:emacsmirror/langtool.git
+[submodule "langtool-ignore-fonts"]
+	path = mirror/langtool-ignore-fonts
+	url = git@github.com:emacsmirror/langtool-ignore-fonts.git
 [submodule "language-detection"]
 	path = mirror/language-detection
 	url = git@github.com:emacsmirror/language-detection.git
