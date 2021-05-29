@@ -393,6 +393,9 @@
 	path = mirror/alect-themes
 	url = git@github.com:emacsmirror/alect-themes.git
 	branch = master
+[submodule "alectryon"]
+	path = mirror/alectryon
+	url = git@github.com:emacsmirror/alectryon.git
 [submodule "alert"]
 	path = mirror/alert
 	url = git@github.com:emacsmirror/alert.git
