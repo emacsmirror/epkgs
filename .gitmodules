@@ -21738,6 +21738,9 @@
 	path = mirror/ubuntu-theme
 	url = git@github.com:emacsmirror/ubuntu-theme.git
 	branch = master
+[submodule "uchronia"]
+	path = mirror/uchronia
+	url = git@github.com:emacsmirror/uchronia.git
 [submodule "ucs-cmds"]
 	path = mirror/ucs-cmds
 	url = git@github.com:emacsmirror/ucs-cmds.git
