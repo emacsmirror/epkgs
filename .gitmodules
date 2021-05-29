@@ -3429,6 +3429,9 @@
 	path = mirror/creamsody-theme
 	url = git@github.com:emacsmirror/creamsody-theme.git
 	branch = master
+[submodule "create-link"]
+	path = mirror/create-link
+	url = git@github.com:emacsmirror/create-link.git
 [submodule "creds"]
 	path = mirror/creds
 	url = git@github.com:emacsmirror/creds.git
