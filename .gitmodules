@@ -1880,6 +1880,9 @@
 [submodule "buffer-charset"]
 	path = attic/buffer-charset
 	url = git@github.com:emacsattic/buffer-charset.git
+[submodule "buffer-env"]
+	path = mirror/buffer-env
+	url = git@github.com:emacsmirror/buffer-env.git
 [submodule "buffer-expose"]
 	path = mirror/buffer-expose
 	url = git@github.com:emacsmirror/buffer-expose.git
