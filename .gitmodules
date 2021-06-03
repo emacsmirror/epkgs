@@ -12669,6 +12669,9 @@
 [submodule "loops"]
 	path = mirror/loops
 	url = git@github.com:emacsmirror/loops.git
+[submodule "loopy"]
+	path = mirror/loopy
+	url = git@github.com:emacsmirror/loopy.git
 [submodule "lorem-ipsum"]
 	path = mirror/lorem-ipsum
 	url = git@github.com:emacsmirror/lorem-ipsum.git
