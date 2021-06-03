@@ -23615,6 +23615,9 @@
 [submodule "zpresent"]
 	path = mirror/zpresent
 	url = git@github.com:emacsmirror/zpresent.git
+[submodule "zprint-format"]
+	path = mirror/zprint-format
+	url = git@github.com:emacsmirror/zprint-format.git
 [submodule "zprint-mode"]
 	path = mirror/zprint-mode
 	url = git@github.com:emacsmirror/zprint-mode.git
