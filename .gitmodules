@@ -4065,6 +4065,9 @@
 [submodule "devdocs"]
 	path = mirror/devdocs
 	url = git@github.com:emacsmirror/devdocs.git
+[submodule "devdocs-browser"]
+	path = mirror/devdocs-browser
+	url = git@github.com:emacsmirror/devdocs-browser.git
 [submodule "devel-notes"]
 	path = mirror/devel-notes
 	url = git@github.com:emacsmirror/devel-notes.git
