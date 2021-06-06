@@ -16215,6 +16215,9 @@
 	path = mirror/package-lint
 	url = git@github.com:emacsmirror/package-lint.git
 	branch = master
+[submodule "package-loading-notifier"]
+	path = mirror/package-loading-notifier
+	url = git@github.com:emacsmirror/package-loading-notifier.git
 [submodule "package-safe-delete"]
 	path = mirror/package-safe-delete
 	url = git@github.com:emacsmirror/package-safe-delete.git
