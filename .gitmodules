@@ -2036,6 +2036,9 @@
 [submodule "c-eldoc"]
 	path = mirror/c-eldoc
 	url = git@github.com:emacsmirror/c-eldoc.git
+[submodule "c-eval"]
+	path = mirror/c-eval
+	url = git@github.com:emacsmirror/c-eval.git
 [submodule "c-toggle-dot-pointer"]
 	path = mirror/c-toggle-dot-pointer
 	url = git@github.com:emacsmirror/c-toggle-dot-pointer.git
