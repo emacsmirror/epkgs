@@ -3040,6 +3040,9 @@
 	path = mirror/company-ngram
 	url = git@github.com:emacsmirror/company-ngram.git
 	branch = master
+[submodule "company-org-block"]
+	path = mirror/company-org-block
+	url = git@github.com:emacsmirror/company-org-block.git
 [submodule "company-org-roam"]
 	path = attic/company-org-roam
 	url = git@github.com:emacsattic/company-org-roam.git
