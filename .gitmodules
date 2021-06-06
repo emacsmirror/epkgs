@@ -3208,6 +3208,9 @@
 [submodule "consult-flycheck"]
 	path = mirror/consult-flycheck
 	url = git@github.com:emacsmirror/consult-flycheck.git
+[submodule "consult-ghq"]
+	path = mirror/consult-ghq
+	url = git@github.com:emacsmirror/consult-ghq.git
 [submodule "consult-lsp"]
 	path = mirror/consult-lsp
 	url = git@github.com:emacsmirror/consult-lsp.git
