@@ -21310,6 +21310,9 @@
 	path = mirror/timp
 	url = git@github.com:emacsmirror/timp.git
 	branch = master
+[submodule "timu-spacegrey-theme"]
+	path = mirror/timu-spacegrey-theme
+	url = git@github.com:emacsmirror/timu-spacegrey-theme.git
 [submodule "tinkerer"]
 	path = mirror/tinkerer
 	url = git@github.com:emacsmirror/tinkerer.git
