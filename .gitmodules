@@ -7408,6 +7408,9 @@
 	path = mirror/flycheck-kotlin
 	url = git@github.com:emacsmirror/flycheck-kotlin.git
 	branch = master
+[submodule "flycheck-languagetool"]
+	path = mirror/flycheck-languagetool
+	url = git@github.com:emacsmirror/flycheck-languagetool.git
 [submodule "flycheck-ledger"]
 	path = mirror/flycheck-ledger
 	url = git@github.com:emacsmirror/flycheck-ledger.git
