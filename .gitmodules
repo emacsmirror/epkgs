@@ -12438,6 +12438,9 @@
 	path = mirror/liquid-types
 	url = git@github.com:emacsmirror/liquid-types.git
 	branch = master
+[submodule "liquidmetal"]
+	path = mirror/liquidmetal
+	url = git@github.com:emacsmirror/liquidmetal.git
 [submodule "liso-theme"]
 	path = mirror/liso-theme
 	url = git@github.com:emacsmirror/liso-theme.git
