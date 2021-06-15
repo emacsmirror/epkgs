@@ -16145,8 +16145,8 @@
 	path = mirror/ox-slack
 	url = git@github.com:emacsmirror/ox-slack.git
 [submodule "ox-slimhtml"]
-	path = mirror/ox-slimhtml
-	url = git@github.com:emacsmirror/ox-slimhtml.git
+	path = attic/ox-slimhtml
+	url = git@github.com:emacsattic/ox-slimhtml.git
 [submodule "ox-spectacle"]
 	path = mirror/ox-spectacle
 	url = git@github.com:emacsmirror/ox-spectacle.git
