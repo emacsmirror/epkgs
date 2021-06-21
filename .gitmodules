@@ -17384,6 +17384,9 @@
 [submodule "project-local-variables"]
 	path = mirror/project-local-variables
 	url = git@github.com:emacsmirror/project-local-variables.git
+[submodule "project-mode-line-tag"]
+	path = mirror/project-mode-line-tag
+	url = git@github.com:emacsmirror/project-mode-line-tag.git
 [submodule "project-persist"]
 	path = mirror/project-persist
 	url = git@github.com:emacsmirror/project-persist.git
