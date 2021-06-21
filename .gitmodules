@@ -19366,6 +19366,9 @@
 [submodule "shell-toggle"]
 	path = mirror/shell-toggle
 	url = git@github.com:emacsmirror/shell-toggle.git
+[submodule "shellcop"]
+	path = mirror/shellcop
+	url = git@github.com:emacsmirror/shellcop.git
 [submodule "shelldoc"]
 	path = mirror/shelldoc
 	url = git@github.com:emacsmirror/shelldoc.git
