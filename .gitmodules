@@ -2563,8 +2563,8 @@
 	path = mirror/clevercss
 	url = git@github.com:emacsmirror/clevercss.git
 [submodule "clhs"]
-	path = attic/clhs
-	url = git@github.com:emacsattic/clhs.git
+	path = mirror/clhs
+	url = git@github.com:emacsmirror/clhs.git
 [submodule "clibpc"]
 	path = mirror/clibpc
 	url = git@github.com:emacsmirror/clibpc.git
