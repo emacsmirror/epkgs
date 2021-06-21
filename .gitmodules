@@ -15080,6 +15080,9 @@
 [submodule "oj"]
 	path = mirror/oj
 	url = git@github.com:emacsmirror/oj.git
+[submodule "ol-notmuch"]
+	path = mirror/ol-notmuch
+	url = git@github.com:emacsmirror/ol-notmuch.git
 [submodule "olc"]
 	path = mirror/olc
 	url = git@github.com:emacsmirror/olc.git
