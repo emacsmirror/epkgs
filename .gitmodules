@@ -14966,6 +14966,9 @@
 	path = mirror/ob-swift
 	url = git@github.com:emacsmirror/ob-swift.git
 	branch = master
+[submodule "ob-swiftui"]
+	path = mirror/ob-swiftui
+	url = git@github.com:emacsmirror/ob-swiftui.git
 [submodule "ob-tmux"]
 	path = mirror/ob-tmux
 	url = git@github.com:emacsmirror/ob-tmux.git
