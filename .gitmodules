@@ -2500,6 +2500,9 @@
 [submodule "citeproc-org"]
 	path = mirror/citeproc-org
 	url = git@github.com:emacsmirror/citeproc-org.git
+[submodule "citre"]
+	path = mirror/citre
+	url = git@github.com:emacsmirror/citre.git
 [submodule "cl-array"]
 	path = attic/cl-array
 	url = git@github.com:emacsattic/cl-array.git
