@@ -21824,6 +21824,9 @@
 [submodule "uchronia"]
 	path = mirror/uchronia
 	url = git@github.com:emacsmirror/uchronia.git
+[submodule "uci-mode"]
+	path = mirror/uci-mode
+	url = git@github.com:emacsmirror/uci-mode.git
 [submodule "ucs-cmds"]
 	path = mirror/ucs-cmds
 	url = git@github.com:emacsmirror/ucs-cmds.git
