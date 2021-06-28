@@ -7663,6 +7663,9 @@
 [submodule "flymake-ktlint"]
 	path = mirror/flymake-ktlint
 	url = git@github.com:emacsmirror/flymake-ktlint.git
+[submodule "flymake-languagetool"]
+	path = mirror/flymake-languagetool
+	url = git@github.com:emacsmirror/flymake-languagetool.git
 [submodule "flymake-less"]
 	path = mirror/flymake-less
 	url = git@github.com:emacsmirror/flymake-less.git
