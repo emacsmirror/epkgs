@@ -19500,6 +19500,9 @@
 [submodule "sicp"]
 	path = mirror/sicp
 	url = git@github.com:emacsmirror/sicp.git
+[submodule "side-hustle"]
+	path = mirror/side-hustle
+	url = git@github.com:emacsmirror/side-hustle.git
 [submodule "side-notes"]
 	path = mirror/side-notes
 	url = git@github.com:emacsmirror/side-notes.git
