@@ -7704,8 +7704,8 @@
 	path = mirror/flymake-ruby
 	url = git@github.com:emacsmirror/flymake-ruby.git
 [submodule "flymake-rust"]
-	path = mirror/flymake-rust
-	url = git@github.com:emacsmirror/flymake-rust.git
+	path = attic/flymake-rust
+	url = git@github.com:emacsattic/flymake-rust.git
 [submodule "flymake-sass"]
 	path = mirror/flymake-sass
 	url = git@github.com:emacsmirror/flymake-sass.git
