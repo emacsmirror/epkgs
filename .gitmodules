@@ -20,6 +20,9 @@
 [submodule "4clojure"]
 	path = mirror/4clojure
 	url = git@github.com:emacsmirror/4clojure.git
+[submodule "750words"]
+	path = mirror/750words
+	url = git@github.com:emacsmirror/750words.git
 [submodule "@"]
 	path = mirror/@
 	url = git@github.com:emacsmirror/at.git
