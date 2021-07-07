@@ -23680,6 +23680,9 @@
 	path = mirror/zoutline
 	url = git@github.com:emacsmirror/zoutline.git
 	branch = master
+[submodule "zoxide"]
+	path = mirror/zoxide
+	url = git@github.com:emacsmirror/zoxide.git
 [submodule "zpl-mode"]
 	path = mirror/zpl-mode
 	url = git@github.com:emacsmirror/zpl-mode.git
