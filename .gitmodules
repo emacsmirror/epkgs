@@ -17692,6 +17692,9 @@
 	path = mirror/pygen
 	url = git@github.com:emacsmirror/pygen.git
 	branch = master
+[submodule "pygn-mode"]
+	path = mirror/pygn-mode
+	url = git@github.com:emacsmirror/pygn-mode.git
 [submodule "pyim"]
 	path = mirror/pyim
 	url = git@github.com:emacsmirror/pyim.git
