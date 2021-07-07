@@ -10419,6 +10419,9 @@
 [submodule "httprepl"]
 	path = mirror/httprepl
 	url = git@github.com:emacsmirror/httprepl.git
+[submodule "huecycle"]
+	path = mirror/huecycle
+	url = git@github.com:emacsmirror/huecycle.git
 [submodule "hugs-mode"]
 	path = attic/hugs-mode
 	url = git@github.com:emacsattic/hugs-mode.git
