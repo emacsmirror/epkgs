@@ -16196,6 +16196,9 @@
 [submodule "ox-wk"]
 	path = mirror/ox-wk
 	url = git@github.com:emacsmirror/ox-wk.git
+[submodule "ox-yaow"]
+	path = mirror/ox-yaow
+	url = git@github.com:emacsmirror/ox-yaow.git
 [submodule "ox-zenn"]
 	path = mirror/ox-zenn
 	url = git@github.com:emacsmirror/ox-zenn.git
