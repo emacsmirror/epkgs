@@ -931,8 +931,8 @@
 	path = mirror/aurora-config-mode
 	url = git@github.com:emacsmirror/aurora-config-mode.git
 [submodule "aurquery"]
-	path = mirror/aurquery
-	url = git@github.com:emacsmirror/aurquery.git
+	path = attic/aurquery
+	url = git@github.com:emacsattic/aurquery.git
 [submodule "auth-source-keytar"]
 	path = mirror/auth-source-keytar
 	url = git@github.com:emacsmirror/auth-source-keytar.git
