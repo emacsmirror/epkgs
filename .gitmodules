@@ -17819,8 +17819,8 @@
 	path = attic/qiita
 	url = git@github.com:emacsattic/qiita.git
 [submodule "ql"]
-	path = mirror/ql
-	url = git@github.com:emacsmirror/ql.git
+	path = attic/ql
+	url = git@github.com:emacsattic/ql.git
 [submodule "qmake"]
 	path = attic/qmake
 	url = git@github.com:emacsattic/qmake.git
