@@ -2520,8 +2520,8 @@
 	path = attic/cl-info
 	url = git@github.com:emacsattic/cl-info.git
 [submodule "cl-lib-highlight"]
-	path = mirror/cl-lib-highlight
-	url = git@github.com:emacsmirror/cl-lib-highlight.git
+	path = attic/cl-lib-highlight
+	url = git@github.com:emacsattic/cl-lib-highlight.git
 [submodule "cl-libify"]
 	path = mirror/cl-libify
 	url = git@github.com:emacsmirror/cl-libify.git
