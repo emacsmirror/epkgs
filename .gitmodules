@@ -2371,6 +2371,9 @@
 [submodule "chembalance"]
 	path = mirror/chembalance
 	url = git@github.com:emacsmirror/chembalance.git
+[submodule "chemtable"]
+	path = mirror/chemtable
+	url = git@github.com:emacsmirror/chemtable.git
 [submodule "cherry-blossom-theme"]
 	path = mirror/cherry-blossom-theme
 	url = git@github.com:emacsmirror/cherry-blossom-theme.git
