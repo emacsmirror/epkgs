@@ -8461,8 +8461,8 @@
 	path = mirror/gited
 	url = git@github.com:emacsmirror/gited.git
 [submodule "githorg"]
-	path = mirror/githorg
-	url = git@github.com:emacsmirror/githorg.git
+	path = attic/githorg
+	url = git@github.com:emacsattic/githorg.git
 [submodule "github"]
 	path = attic/github
 	url = git@github.com:emacsattic/github.git
