@@ -3181,8 +3181,8 @@
 	path = mirror/config-parser
 	url = git@github.com:emacsmirror/config-parser.git
 [submodule "confluence"]
-	path = mirror/confluence
-	url = git@github.com:emacsmirror/confluence.git
+	path = attic/confluence
+	url = git@github.com:emacsattic/confluence.git
 [submodule "conjecture-mode"]
 	path = attic/conjecture-mode
 	url = git@github.com:emacsattic/conjecture-mode.git
