@@ -1218,7 +1218,7 @@
 	path = mirror/awk-it
 	url = git@github.com:emacsmirror/awk-it.git
 [submodule "aws"]
-	path = mirror/aws
+	path = attic/aws
 	url = git@github.com:emacsmirror/aws.git
 [submodule "aws-ec2"]
 	path = mirror/aws-ec2
