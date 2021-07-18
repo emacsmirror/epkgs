@@ -665,7 +665,6 @@ FIXME Also used for minority reason.
 #+NAME: val--emir--orphanage-reason
 | Package              | Reason                  |
 |----------------------+-------------------------|
-| 4clojure             | dropped by maintainer   |
 | ac-alchemist         | dropped by maintainer   |
 | ac-capf              | dropped by maintainer   |
 | ac-emoji             | dropped by maintainer   |
@@ -675,26 +674,17 @@ FIXME Also used for minority reason.
 | ansible-doc          | dropped by maintainer   |
 | anzu                 | dropped by maintainer   |
 | applescript-mode     | dropped by maintainer   |
-| caml                 | semi-automatic import   |
-| cg                   | semi-automatic import   |
-| clang-format         | semi-automatic import   |
 | codic                | dropped by maintainer   |
-| color-theme          | semi-automatic import   |
 | company-jedi         | dropped by maintainer   |
-| confluence           | semi-automatic import   |
 | cpp-auto-include     | dropped by maintainer   |
 | cpp-auto-include     | upstream unresponsive   |
-| crontab-mode         | upstream disappeared    |
 | cygwin-mount         | wiki needed by non-wiki |
-| darcsum              | semi-automatic import   |
 | dedicated            | upstream disappeared    |
 | dic-lookup-w3m       | semi-automatic import   |
 | dired-k              | dropped by maintainer   |
 | direx                | dropped by maintainer   |
 | dirtree              | wiki needed by non-wiki |
 | docean               | dropped by maintainer   |
-| doom                 | upstream unresponsive   |
-| dsvn                 | semi-automatic import   |
 | easy-highlight       | dropped by maintainer   |
 | ecasound             | upstream disappeared    |
 | edb                  | upstream unresponsive   |
@@ -707,7 +697,6 @@ FIXME Also used for minority reason.
 | evil-textobj-line    | dropped by maintainer   |
 | extract-text         | wiki needed by non-wiki |
 | fancy-battery        | dropped by maintainer   |
-| filladapt            | upstream unresponsive   |
 | findr                | wiki needed by non-wiki |
 | fontawesome          | dropped by maintainer   |
 | gh-md                | dropped by maintainer   |
@@ -729,7 +718,6 @@ FIXME Also used for minority reason.
 | helm-gtags           | dropped by maintainer   |
 | helm-haskell-import  | dropped by maintainer   |
 | helm-ispell          | dropped by maintainer   |
-| helm-ls-svn          | semi-automatic import   |
 | helm-open-github     | dropped by maintainer   |
 | helm-package         | dropped by maintainer   |
 | helm-perldoc         | dropped by maintainer   |
@@ -740,7 +728,6 @@ FIXME Also used for minority reason.
 | highline             | wiki needed by non-wiki |
 | http-post-simple     | wiki needed by non-wiki |
 | hyperspec            | multiple non-upstreams  |
-| image-plus           | archived by maintainer  |
 | imdb                 | wiki needed by non-wiki |
 | import-popwin        | dropped by maintainer   |
 | jedi-eldoc           | dropped by maintainer   |
@@ -752,7 +739,6 @@ FIXME Also used for minority reason.
 | levenshtein          | wiki needed by non-wiki |
 | linkd                | wiki multiple files     |
 | literate-coffee-mode | dropped by maintainer   |
-| look-mode            | wiki needed by non-wiki |
 | ltsv                 | dropped by maintainer   |
 | magit-gerrit         | dropped by maintainer   |
 | magit-p4             | dropped by maintainer   |
@@ -761,13 +747,10 @@ FIXME Also used for minority reason.
 | manage-minor-mode    | dropped by maintainer   |
 | miniedit             | upstream disappeared    |
 | mongo                | dropped by maintainer   |
-| multi-term           | wiki needed by non-wiki |
-| nxhtml               | semi-automatic import   |
 | oberon               | upstream unresponsive   |
 | octicons             | dropped by maintainer   |
 | oddmuse              | wiki needed by non-wiki |
 | opam                 | dropped by maintainer   |
-| org-bullets          | upstream unresponsive   |
 | org-grep             | maintainer is dead      |
 | org-json             | wiki needed by non-wiki |
 | org-page             | dropped by maintainer   |
@@ -785,12 +768,10 @@ FIXME Also used for minority reason.
 | quickrun             | dropped by maintainer   |
 | read-char-spec       | upstream unresponsive   |
 | reverse-theme        | dropped by maintainer   |
-| ruby-additional      | semi-automatic import   |
 | run-assoc            | wiki needed by non-wiki |
 | screenshot           | wiki needed by non-wiki |
 | session              | manual tarball import   |
 | setnu                | upstream unresponsive   |
-| shell-command        | wiki needed by non-wiki |
 | shell-history        | wiki needed by non-wiki |
 | showtip              | wiki needed by non-wiki |
 | smarty-mode          | upstream disappeared    |
@@ -804,20 +785,15 @@ FIXME Also used for minority reason.
 | tail                 | upstream disappeared    |
 | terraform-mode       | dropped by maintainer   |
 | test-more            | dropped by maintainer   |
-| tex-smart-umlauts    | semi-automatic import   |
-| text-translator      | semi-automatic import   |
 | thingopt             | dropped by maintainer   |
 | tora-mode            | dropped by maintainer   |
 | transpose-frame      | wiki needed by non-wiki |
 | tree-mode            | wiki needed by non-wiki |
-| undo-tree            | two diverging upstreams |
 | undohist             | dropped by maintainer   |
 | unit-test            | wiki needed by non-wiki |
-| vala-mode            | upstream disappeared    |
 | vline                | wiki needed by non-wiki |
-| vm                   | semi-automatic import   |
+| vm                   | upstream disappeared    |
 | w32-browser          | wiki needed by non-wiki |
-| w3m                  | semi-automatic import   |
 | windata              | wiki needed by non-wiki |
 | yafolding            | upstream unresponsive   |
 | yaoddmuse            | wiki needed by non-wiki |
@@ -832,20 +808,7 @@ FIXME Also used for minority reason.
 #+NAME: val--emir--other-vcs
 | Package           | Vcs   |
 |-------------------+-------|
-| cg                | svn   |
-| clang-format      | svn   |
-| color-theme       | bzr   |
-| confluence        | svn   |
-| darcsum           | darcs |
 | dic-lookup-w3m    | svn   |
-| dsvn              | svn   |
-| helm-ls-svn       | svn   |
-| nxhtml            | bzr   |
-| ruby-additional   | svn   |
-| tex-smart-umlauts | darcs |
-| text-translator   | bzr   |
-| vm                | bzr   |
-| w3m               | cvs   |
 
 * Set ~elx-license-substitutions~
 #+NAME: set--elx-license-substitutions
