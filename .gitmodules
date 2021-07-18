@@ -5208,8 +5208,8 @@
 	url = git@github.com:emacsmirror/ein.git
 	branch = master
 [submodule "ein-mumamo"]
-	path = mirror/ein-mumamo
-	url = git@github.com:emacsmirror/ein-mumamo.git
+	path = attic/ein-mumamo
+	url = git@github.com:emacsattic/ein-mumamo.git
 	branch = master
 [submodule "eink-theme"]
 	path = mirror/eink-theme
