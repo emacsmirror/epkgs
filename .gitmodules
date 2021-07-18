@@ -2138,6 +2138,9 @@
 [submodule "cangjie"]
 	path = mirror/cangjie
 	url = git@github.com:emacsmirror/cangjie.git
+[submodule "capnp-mode"]
+	path = mirror/capnp-mode
+	url = git@github.com:emacsmirror/capnp-mode.git
 [submodule "caps-lock"]
 	path = mirror/caps-lock
 	url = git@github.com:emacsmirror/caps-lock.git
