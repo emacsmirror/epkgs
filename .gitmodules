@@ -12665,6 +12665,9 @@
 [submodule "logito"]
 	path = mirror/logito
 	url = git@github.com:emacsmirror/logito.git
+[submodule "logms"]
+	path = mirror/logms
+	url = git@github.com:emacsmirror/logms.git
 [submodule "lognav-mode"]
 	path = mirror/lognav-mode
 	url = git@github.com:emacsmirror/lognav-mode.git
