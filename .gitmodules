@@ -14805,8 +14805,8 @@
 	path = mirror/nvm
 	url = git@github.com:emacsmirror/nvm.git
 [submodule "nxhtml"]
-	path = mirror/nxhtml
-	url = git@github.com:emacsmirror/nxhtml.git
+	path = attic/nxhtml
+	url = git@github.com:emacsattic/nxhtml.git
 	branch = master
 [submodule "nyan-mode"]
 	path = mirror/nyan-mode
