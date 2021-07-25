@@ -3668,6 +3668,9 @@
 [submodule "cursor-chg"]
 	path = mirror/cursor-chg
 	url = git@github.com:emacsmirror/cursor-chg.git
+[submodule "cursor-flash"]
+	path = mirror/cursor-flash
+	url = git@github.com:emacsmirror/cursor-flash.git
 [submodule "cursor-in-brackets"]
 	path = attic/cursor-in-brackets
 	url = git@github.com:emacsattic/cursor-in-brackets.git
