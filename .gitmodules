@@ -2985,6 +2985,9 @@
 [submodule "company-emoji"]
 	path = mirror/company-emoji
 	url = git@github.com:emacsmirror/company-emoji.git
+[submodule "company-emojify"]
+	path = mirror/company-emojify
+	url = git@github.com:emacsmirror/company-emojify.git
 [submodule "company-erlang"]
 	path = mirror/company-erlang
 	url = git@github.com:emacsmirror/company-erlang.git
