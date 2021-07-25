@@ -64,22 +64,6 @@
 | ivy-hydra      | ivy     |
 | swiper         | ivy     |
 
-* Set ~emir-renamed-files~
-#+NAME: set--emir-renamed-files
-#+BEGIN_SRC emacs-lisp :var value=val--emir-renamed-files
-  <<setup>>(emir--save-variable 'emir-renamed-files value)
-#+END_SRC
-#+NAME: val--emir-renamed-files
-| Package               | Filename                                     |
-|-----------------------+----------------------------------------------|
-| chasen                | chasen.el.txt                                |
-| debian-bug            | debian-bug.el?root=pkg-goodies-el            |
-| debian-changelog-mode | debian-changelog-mode.el?root=pkg-goodies-el |
-| japanese-tokenizer    | japanese-tokenizer.el.txt                    |
-| llvm-mode             | llvm-mode.el?view=co                         |
-| spamfilter            | spamfilter.el.txt                            |
-| tablegen-mode         | tablegen-mode.el?view=co                     |
-
 * Set ~emir--homepage-alist~
 #+NAME: set--emir--homepage-alist
 #+BEGIN_SRC emacs-lisp :var value=val--emir--homepage-alist
@@ -567,7 +551,6 @@
 | seq        | backport of builtin |
 
 * Set ~emir--diverging-reason~
-FIXME Also used for minority reason.
 #+NAME: set--emir--diverging-reason
 #+BEGIN_SRC emacs-lisp :var value=val--emir--diverging-reason
   <<setup>>(emir--save-variable 'emir--diverging-reason value)
@@ -576,37 +559,11 @@ FIXME Also used for minority reason.
 | Package                      | Reason              |
 |------------------------------+---------------------|
 | auth-source-pass             | part of Emacs 26.1  |
-| autotest                     | all-in-one repo     |
-| bibliothek                   | all-in-one repo     |
-| cfengine-code-style          | mostly non-elisp    |
-| clang-format                 | mostly non-elisp    |
-| cmake-mode                   | mostly non-elisp    |
-| cython-mode                  | mostly non-elisp    |
-| diffscuss-mode               | mostly non-elisp    |
 | faceup                       | part of Emacs 27.1  |
 | fold-dwim-org                | obsolete dependency |
-| forecast                     | all-in-one repo     |
-| google-c-style               | mostly non-elisp    |
 | less-css-mode                | part of Emacs 26.1  |
 | modus-operandi-theme         | dedicated branches  |
 | modus-vivendi-theme          | dedicated branches  |
-| nemerle                      | mostly non-elisp    |
-| ninja-mode                   | mostly non-elisp    |
-| org-pua                      | all-in-one repo     |
-| org-variable-pitch           | all-in-one repo     |
-| paper-theme                  | all-in-one repo     |
-| po-mode                      | mostly non-elisp    |
-| pylint                       | mostly non-elisp    |
-| rfringe                      | all-in-one repo     |
-| smart-compile                | all-in-one repo     |
-| tenv                         | unclean repo        |
-| tfs                          | all-in-one repo     |
-| thesaurus                    | all-in-one repo     |
-| thingatpt-ext                | all-in-one repo     |
-| thrift                       | mostly non-elisp    |
-| toggle                       | all-in-one repo     |
-| wisp-mode                    | mostly non-elisp    |
-| wn-org                       | all-in-one repo     |
 | better-defaults              | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
 | chicken-scheme               | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
 | company-ghc                  | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
@@ -626,6 +583,41 @@ FIXME Also used for minority reason.
 | projectile-direnv            | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
 | rsense                       | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
 | scpaste                      | pending [[https://github.com/melpa/melpa/issues/7225][#7225]]       |
+
+* Set ~emir--minority-reason~
+#+NAME: set--emir--minority-reason
+#+BEGIN_SRC emacs-lisp :var value=val--emir--minority-reason
+  <<setup>>(emir--save-variable 'emir--minority-reason value)
+#+END_SRC
+#+NAME: val--emir--minority-reason
+| Package             | Reason           |
+|---------------------+------------------|
+| autotest            | all-in-one repo  |
+| bibliothek          | all-in-one repo  |
+| cfengine-code-style | mostly non-elisp |
+| clang-format        | mostly non-elisp |
+| cmake-mode          | mostly non-elisp |
+| cython-mode         | mostly non-elisp |
+| diffscuss-mode      | mostly non-elisp |
+| forecast            | all-in-one repo  |
+| google-c-style      | mostly non-elisp |
+| nemerle             | mostly non-elisp |
+| ninja-mode          | mostly non-elisp |
+| org-pua             | all-in-one repo  |
+| org-variable-pitch  | all-in-one repo  |
+| paper-theme         | all-in-one repo  |
+| po-mode             | mostly non-elisp |
+| pylint              | mostly non-elisp |
+| rfringe             | all-in-one repo  |
+| smart-compile       | all-in-one repo  |
+| tenv                | unclean repo     |
+| tfs                 | all-in-one repo  |
+| thesaurus           | all-in-one repo  |
+| thingatpt-ext       | all-in-one repo  |
+| thrift              | mostly non-elisp |
+| toggle              | all-in-one repo  |
+| wisp-mode           | mostly non-elisp |
+| wn-org              | all-in-one repo  |
 
 * Set ~emir--library-reason~
 #+NAME: set--emir--library-reason
@@ -652,7 +644,6 @@ FIXME Also used for minority reason.
 | ne2wm                 | no/mismatched main library |
 | omtose-phellack-theme | two-variant theme          |
 | punpun-theme          | two-variant theme [[https://github.com/wasamasa/punpun-theme/pull/7][#7]]       |
-| pyim-cangjiedict      | pending [[https://github.com/melpa/melpa/pull/7543][#7543]]              |
 | spacemacs-theme       | two-variant theme [[https://github.com/nashamri/spacemacs-theme/pull/63][#63]]      |
 | ultratex              | no/mismatched main library |
 | zonokai-theme         | two-variant theme          |
@@ -680,7 +671,7 @@ FIXME Also used for minority reason.
 | cpp-auto-include     | upstream unresponsive   |
 | cygwin-mount         | wiki needed by non-wiki |
 | dedicated            | upstream disappeared    |
-| dic-lookup-w3m       | semi-automatic import   |
+| dic-lookup-w3m       | last subversion         |
 | dired-k              | dropped by maintainer   |
 | direx                | dropped by maintainer   |
 | dirtree              | wiki needed by non-wiki |
@@ -799,16 +790,6 @@ FIXME Also used for minority reason.
 | yaoddmuse            | wiki needed by non-wiki |
 | yascroll             | dropped by maintainer   |
 | zoom-window          | dropped by maintainer   |
-
-* Set ~emir--other-vcs~
-#+NAME: set--emir--other-vcs
-#+BEGIN_SRC emacs-lisp :var value=val--emir--other-vcs
-  <<setup>>(emir--save-variable 'emir--other-vcs value)
-#+END_SRC
-#+NAME: val--emir--other-vcs
-| Package           | Vcs   |
-|-------------------+-------|
-| dic-lookup-w3m    | svn   |
 
 * Set ~elx-license-substitutions~
 #+NAME: set--elx-license-substitutions
