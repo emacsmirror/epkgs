@@ -12334,6 +12334,9 @@
 [submodule "lexic"]
 	path = mirror/lexic
 	url = git@github.com:emacsmirror/lexic.git
+[submodule "lf"]
+	path = mirror/lf
+	url = git@github.com:emacsmirror/lf.git
 [submodule "lfe-mode"]
 	path = mirror/lfe-mode
 	url = git@github.com:emacsmirror/lfe-mode.git
