@@ -23231,6 +23231,9 @@
 [submodule "xgtags"]
 	path = attic/xgtags
 	url = git@github.com:emacsattic/xgtags.git
+[submodule "xhair"]
+	path = mirror/xhair
+	url = git@github.com:emacsmirror/xhair.git
 [submodule "xiomacs"]
 	path = attic/xiomacs
 	url = git@github.com:emacsattic/xiomacs.git
