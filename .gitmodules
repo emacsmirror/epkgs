@@ -5891,6 +5891,9 @@
 	path = mirror/epkg
 	url = git@github.com:emacsmirror/epkg.git
 	branch = master
+[submodule "epkg-marginalia"]
+	path = mirror/epkg-marginalia
+	url = git@github.com:emacsmirror/epkg-marginalia.git
 [submodule "epl"]
 	path = mirror/epl
 	url = git@github.com:emacsmirror/epl.git
