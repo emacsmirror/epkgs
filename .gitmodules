@@ -14710,6 +14710,9 @@
 [submodule "notmuch-maildir"]
 	path = mirror/notmuch-maildir
 	url = git@github.com:emacsmirror/notmuch-maildir.git
+[submodule "notmuch-transient"]
+	path = mirror/notmuch-transient
+	url = git@github.com:emacsmirror/notmuch-transient.git
 [submodule "notmuch-unread"]
 	path = attic/notmuch-unread
 	url = git@github.com:emacsattic/notmuch-unread.git
