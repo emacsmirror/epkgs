@@ -18868,6 +18868,9 @@
 [submodule "rustic"]
 	path = mirror/rustic
 	url = git@github.com:emacsmirror/rustic.git
+[submodule "rutils"]
+	path = mirror/rutils
+	url = git@github.com:emacsmirror/rutils.git
 [submodule "rvm"]
 	path = mirror/rvm
 	url = git@github.com:emacsmirror/rvm.git
