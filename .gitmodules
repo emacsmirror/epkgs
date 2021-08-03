@@ -5507,6 +5507,9 @@
 	path = mirror/eloud
 	url = git@github.com:emacsmirror/eloud.git
 	branch = master
+[submodule "elpa-admin"]
+	path = mirror/elpa-admin
+	url = git@github.com:emacsmirror/elpa-admin.git
 [submodule "elpa-audit"]
 	path = mirror/elpa-audit
 	url = git@github.com:emacsmirror/elpa-audit.git
