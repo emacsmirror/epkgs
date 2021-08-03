@@ -10309,6 +10309,9 @@
 [submodule "host-fns"]
 	path = attic/host-fns
 	url = git@github.com:emacsattic/host-fns.git
+[submodule "hotfuzz"]
+	path = mirror/hotfuzz
+	url = git@github.com:emacsmirror/hotfuzz.git
 [submodule "hound"]
 	path = mirror/hound
 	url = git@github.com:emacsmirror/hound.git
