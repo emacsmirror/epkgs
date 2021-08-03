@@ -14698,6 +14698,9 @@
 [submodule "notmuch"]
 	path = mirror/notmuch
 	url = git@github.com:emacsmirror/notmuch.git
+[submodule "notmuch-addr"]
+	path = mirror/notmuch-addr
+	url = git@github.com:emacsmirror/notmuch-addr.git
 [submodule "notmuch-bookmarks"]
 	path = mirror/notmuch-bookmarks
 	url = git@github.com:emacsmirror/notmuch-bookmarks.git
