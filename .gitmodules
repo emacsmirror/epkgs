@@ -14692,6 +14692,9 @@
 [submodule "notify"]
 	path = attic/notify
 	url = git@github.com:emacsattic/notify.git
+[submodule "notink-theme"]
+	path = mirror/notink-theme
+	url = git@github.com:emacsmirror/notink-theme.git
 [submodule "notmuch"]
 	path = mirror/notmuch
 	url = git@github.com:emacsmirror/notmuch.git
