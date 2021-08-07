@@ -8038,6 +8038,9 @@
 [submodule "fsvn"]
 	path = attic/fsvn
 	url = git@github.com:emacsattic/fsvn.git
+[submodule "ftable"]
+	path = mirror/ftable
+	url = git@github.com:emacsmirror/ftable.git
 [submodule "ftcp"]
 	path = attic/ftcp
 	url = git@github.com:emacsattic/ftcp.git
