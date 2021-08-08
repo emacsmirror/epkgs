@@ -656,6 +656,7 @@
 #+NAME: val--emir--orphanage-reason
 | Package              | Reason                  |
 |----------------------+-------------------------|
+| 4clojure             | dropped by maintainer   |
 | ac-alchemist         | dropped by maintainer   |
 | ac-capf              | dropped by maintainer   |
 | ac-emoji             | dropped by maintainer   |
@@ -719,6 +720,7 @@
 | highline             | wiki needed by non-wiki |
 | http-post-simple     | wiki needed by non-wiki |
 | hyperspec            | multiple non-upstreams  |
+| image+               | upstream disappeared    |
 | imdb                 | wiki needed by non-wiki |
 | import-popwin        | dropped by maintainer   |
 | jedi-eldoc           | dropped by maintainer   |
