@@ -21751,6 +21751,9 @@
 [submodule "tuareg"]
 	path = mirror/tuareg
 	url = git@github.com:emacsmirror/tuareg.git
+[submodule "tubestatus"]
+	path = mirror/tubestatus
+	url = git@github.com:emacsmirror/tubestatus.git
 [submodule "tumbl"]
 	path = mirror/tumbl
 	url = git@github.com:emacsmirror/tumbl.git
