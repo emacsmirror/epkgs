@@ -16967,6 +16967,9 @@
 [submodule "pkg-info"]
 	path = mirror/pkg-info
 	url = git@github.com:emacsmirror/pkg-info.git
+[submodule "pkg-overview"]
+	path = mirror/pkg-overview
+	url = git@github.com:emacsmirror/pkg-overview.git
 [submodule "pkgbuild-mode"]
 	path = mirror/pkgbuild-mode
 	url = git@github.com:emacsmirror/pkgbuild-mode.git
