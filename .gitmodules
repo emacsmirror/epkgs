@@ -431,6 +431,9 @@
 	path = mirror/all-the-icons
 	url = git@github.com:emacsmirror/all-the-icons.git
 	branch = master
+[submodule "all-the-icons-completion"]
+	path = mirror/all-the-icons-completion
+	url = git@github.com:emacsmirror/all-the-icons-completion.git
 [submodule "all-the-icons-dired"]
 	path = mirror/all-the-icons-dired
 	url = git@github.com:emacsmirror/all-the-icons-dired.git
