@@ -20507,6 +20507,9 @@
 [submodule "stream"]
 	path = mirror/stream
 	url = git@github.com:emacsmirror/stream.git
+[submodule "streamlink"]
+	path = mirror/streamlink
+	url = git@github.com:emacsmirror/streamlink.git
 [submodule "strfile"]
 	path = attic/strfile
 	url = git@github.com:emacsattic/strfile.git
