@@ -19344,6 +19344,9 @@
 [submodule "session"]
 	path = mirror/session
 	url = git@github.com:emacsmirror/session.git
+[submodule "session-async"]
+	path = mirror/session-async
+	url = git@github.com:emacsmirror/session-async.git
 [submodule "seti-theme"]
 	path = mirror/seti-theme
 	url = git@github.com:emacsmirror/seti-theme.git
