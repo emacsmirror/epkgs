@@ -14096,6 +14096,9 @@
 [submodule "mu4e-alert"]
 	path = mirror/mu4e-alert
 	url = git@github.com:emacsmirror/mu4e-alert.git
+[submodule "mu4e-column-faces"]
+	path = mirror/mu4e-column-faces
+	url = git@github.com:emacsmirror/mu4e-column-faces.git
 [submodule "mu4e-conversation"]
 	path = mirror/mu4e-conversation
 	url = git@github.com:emacsmirror/mu4e-conversation.git
