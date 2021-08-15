@@ -22118,6 +22118,9 @@
 [submodule "unparen"]
 	path = mirror/unparen
 	url = git@github.com:emacsmirror/unparen.git
+[submodule "untappd"]
+	path = mirror/untappd
+	url = git@github.com:emacsmirror/untappd.git
 [submodule "untitled-new-buffer"]
 	path = mirror/untitled-new-buffer
 	url = git@github.com:emacsmirror/untitled-new-buffer.git
