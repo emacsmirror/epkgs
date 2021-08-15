@@ -9205,6 +9205,9 @@
 	path = mirror/gulp-task-runner
 	url = git@github.com:emacsmirror/gulp-task-runner.git
 	branch = master
+[submodule "gumshoe"]
+	path = mirror/gumshoe
+	url = git@github.com:emacsmirror/gumshoe.git
 [submodule "guru-mode"]
 	path = mirror/guru-mode
 	url = git@github.com:emacsmirror/guru-mode.git
