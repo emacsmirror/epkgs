@@ -5148,6 +5148,9 @@
 [submodule "eev"]
 	path = mirror/eev
 	url = git@github.com:emacsmirror/eev.git
+[submodule "efar"]
+	path = mirror/efar
+	url = git@github.com:emacsmirror/efar.git
 [submodule "efine"]
 	path = attic/efine
 	url = git@github.com:emacsattic/efine.git
