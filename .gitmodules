@@ -6792,6 +6792,9 @@
 [submodule "fantom-theme"]
 	path = mirror/fantom-theme
 	url = git@github.com:emacsmirror/fantom-theme.git
+[submodule "fanyi"]
+	path = mirror/fanyi
+	url = git@github.com:emacsmirror/fanyi.git
 [submodule "farmhouse-theme"]
 	path = mirror/farmhouse-theme
 	url = git@github.com:emacsmirror/farmhouse-theme.git
