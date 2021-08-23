@@ -12403,6 +12403,9 @@
 [submodule "libmpdel"]
 	path = mirror/libmpdel
 	url = git@github.com:emacsmirror/libmpdel.git
+[submodule "librera-sync"]
+	path = mirror/librera-sync
+	url = git@github.com:emacsmirror/librera-sync.git
 [submodule "lice"]
 	path = mirror/lice
 	url = git@github.com:emacsmirror/lice.git
