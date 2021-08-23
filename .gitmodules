@@ -12764,6 +12764,9 @@
 [submodule "loop-constructs"]
 	path = attic/loop-constructs
 	url = git@github.com:emacsattic/loop-constructs.git
+[submodule "loophole"]
+	path = mirror/loophole
+	url = git@github.com:emacsmirror/loophole.git
 [submodule "loops"]
 	path = mirror/loops
 	url = git@github.com:emacsmirror/loops.git
