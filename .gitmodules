@@ -12575,6 +12575,9 @@
 [submodule "listbuf"]
 	path = attic/listbuf
 	url = git@github.com:emacsattic/listbuf.git
+[submodule "lister"]
+	path = mirror/lister
+	url = git@github.com:emacsmirror/lister.git
 [submodule "listing"]
 	path = attic/listing
 	url = git@github.com:emacsattic/listing.git
