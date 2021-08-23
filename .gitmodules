@@ -15787,8 +15787,8 @@
 	path = mirror/org-roam-bibtex
 	url = git@github.com:emacsmirror/org-roam-bibtex.git
 [submodule "org-roam-server"]
-	path = mirror/org-roam-server
-	url = git@github.com:emacsmirror/org-roam-server.git
+	path = attic/org-roam-server
+	url = git@github.com:emacsattic/org-roam-server.git
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
