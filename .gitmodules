@@ -4598,6 +4598,9 @@
 [submodule "doct"]
 	path = mirror/doct
 	url = git@github.com:emacsmirror/doct.git
+[submodule "dogears"]
+	path = mirror/dogears
+	url = git@github.com:emacsmirror/dogears.git
 [submodule "doh"]
 	path = attic/doh
 	url = git@github.com:emacsattic/doh.git
