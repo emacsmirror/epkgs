@@ -3226,6 +3226,9 @@
 [submodule "consult-dir"]
 	path = mirror/consult-dir
 	url = git@github.com:emacsmirror/consult-dir.git
+[submodule "consult-eglot"]
+	path = mirror/consult-eglot
+	url = git@github.com:emacsmirror/consult-eglot.git
 [submodule "consult-flycheck"]
 	path = mirror/consult-flycheck
 	url = git@github.com:emacsmirror/consult-flycheck.git
