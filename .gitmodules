@@ -13994,8 +13994,8 @@
 	path = attic/moz
 	url = git@github.com:emacsattic/moz.git
 [submodule "moz-controller"]
-	path = mirror/moz-controller
-	url = git@github.com:emacsmirror/moz-controller.git
+	path = attic/moz-controller
+	url = git@github.com:emacsattic/moz-controller.git
 [submodule "mozart"]
 	path = mirror/mozart
 	url = git@github.com:emacsmirror/mozart.git
