@@ -2785,8 +2785,8 @@
 	path = mirror/col-highlight
 	url = git@github.com:emacsmirror/col-highlight.git
 [submodule "colemak-evil"]
-	path = mirror/colemak-evil
-	url = git@github.com:emacsmirror/colemak-evil.git
+	path = attic/colemak-evil
+	url = git@github.com:emacsattic/colemak-evil.git
 [submodule "collab"]
 	path = attic/collab
 	url = git@github.com:emacsattic/collab.git
