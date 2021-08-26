@@ -7117,8 +7117,8 @@
 	url = git@github.com:emacsmirror/firecode-theme.git
 	branch = master
 [submodule "firefox-controller"]
-	path = mirror/firefox-controller
-	url = git@github.com:emacsmirror/firefox-controller.git
+	path = attic/firefox-controller
+	url = git@github.com:emacsattic/firefox-controller.git
 [submodule "firefox-remote"]
 	path = mirror/firefox-remote
 	url = git@github.com:emacsmirror/firefox-remote.git
