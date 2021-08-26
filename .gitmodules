@@ -1476,8 +1476,8 @@
 	path = mirror/bencoding
 	url = git@github.com:emacsmirror/bencoding.git
 [submodule "bento"]
-	path = mirror/bento
-	url = git@github.com:emacsmirror/bento.git
+	path = attic/bento
+	url = git@github.com:emacsattic/bento.git
 [submodule "berrys-theme"]
 	path = mirror/berrys-theme
 	url = git@github.com:emacsmirror/berrys-theme.git
