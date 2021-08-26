@@ -22267,6 +22267,9 @@
 [submodule "vc-auto-commit"]
 	path = mirror/vc-auto-commit
 	url = git@github.com:emacsmirror/vc-auto-commit.git
+[submodule "vc-backup"]
+	path = mirror/vc-backup
+	url = git@github.com:emacsmirror/vc-backup.git
 [submodule "vc-browse"]
 	path = attic/vc-browse
 	url = git@github.com:emacsattic/vc-browse.git
