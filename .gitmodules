@@ -7097,6 +7097,9 @@
 [submodule "fingers"]
 	path = mirror/fingers
 	url = git@github.com:emacsmirror/fingers.git
+[submodule "finito"]
+	path = mirror/finito
+	url = git@github.com:emacsmirror/finito.git
 [submodule "fink"]
 	path = attic/fink
 	url = git@github.com:emacsattic/fink.git
