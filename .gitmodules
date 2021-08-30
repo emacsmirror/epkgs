@@ -15075,6 +15075,9 @@
 [submodule "ob-sml"]
 	path = mirror/ob-sml
 	url = git@github.com:emacsmirror/ob-sml.git
+[submodule "ob-spice"]
+	path = mirror/ob-spice
+	url = git@github.com:emacsmirror/ob-spice.git
 [submodule "ob-sql-mode"]
 	path = mirror/ob-sql-mode
 	url = git@github.com:emacsmirror/ob-sql-mode.git
