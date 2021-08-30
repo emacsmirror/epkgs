@@ -15053,6 +15053,9 @@
 [submodule "ob-pygment"]
 	path = attic/ob-pygment
 	url = git@github.com:emacsattic/ob-pygment.git
+[submodule "ob-redis"]
+	path = mirror/ob-redis
+	url = git@github.com:emacsmirror/ob-redis.git
 [submodule "ob-restclient"]
 	path = mirror/ob-restclient
 	url = git@github.com:emacsmirror/ob-restclient.git
