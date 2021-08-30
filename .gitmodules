@@ -16267,6 +16267,9 @@
 [submodule "ox-rfc"]
 	path = mirror/ox-rfc
 	url = git@github.com:emacsmirror/ox-rfc.git
+[submodule "ox-rss"]
+	path = mirror/ox-rss
+	url = git@github.com:emacsmirror/ox-rss.git
 [submodule "ox-rst"]
 	path = mirror/ox-rst
 	url = git@github.com:emacsmirror/ox-rst.git
