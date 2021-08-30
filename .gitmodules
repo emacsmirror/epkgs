@@ -8315,6 +8315,9 @@
 [submodule "german-holidays"]
 	path = mirror/german-holidays
 	url = git@github.com:emacsmirror/german-holidays.git
+[submodule "germanium"]
+	path = mirror/germanium
+	url = git@github.com:emacsmirror/germanium.git
 [submodule "gerrit"]
 	path = mirror/gerrit
 	url = git@github.com:emacsmirror/gerrit.git
