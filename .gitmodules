@@ -15612,6 +15612,9 @@
 [submodule "org-link-beautify"]
 	path = mirror/org-link-beautify
 	url = git@github.com:emacsmirror/org-link-beautify.git
+[submodule "org-link-edit"]
+	path = mirror/org-link-edit
+	url = git@github.com:emacsmirror/org-link-edit.git
 [submodule "org-link-minor-mode"]
 	path = attic/org-link-minor-mode
 	url = git@github.com:emacsattic/org-link-minor-mode.git
