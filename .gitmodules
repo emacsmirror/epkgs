@@ -13669,6 +13669,9 @@
 [submodule "minibuffer-line"]
 	path = mirror/minibuffer-line
 	url = git@github.com:emacsmirror/minibuffer-line.git
+[submodule "minibuffer-modifier-keys"]
+	path = mirror/minibuffer-modifier-keys
+	url = git@github.com:emacsmirror/minibuffer-modifier-keys.git
 [submodule "miniedit"]
 	path = mirror/miniedit
 	url = git@github.com:emacsmirror/miniedit.git
