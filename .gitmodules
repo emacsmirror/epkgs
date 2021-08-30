@@ -3464,6 +3464,9 @@
 [submodule "crappy-jsp-mode"]
 	path = mirror/crappy-jsp-mode
 	url = git@github.com:emacsmirror/crappy-jsp-mode.git
+[submodule "crdt"]
+	path = mirror/crdt
+	url = git@github.com:emacsmirror/crdt.git
 [submodule "creamsody-theme"]
 	path = mirror/creamsody-theme
 	url = git@github.com:emacsmirror/creamsody-theme.git
