@@ -21007,6 +21007,9 @@
 	path = mirror/tawny-mode
 	url = git@github.com:emacsmirror/tawny-mode.git
 	branch = master
+[submodule "taxy"]
+	path = mirror/taxy
+	url = git@github.com:emacsmirror/taxy.git
 [submodule "tbemail"]
 	path = mirror/tbemail
 	url = git@github.com:emacsmirror/tbemail.git
