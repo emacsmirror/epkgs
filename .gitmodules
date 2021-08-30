@@ -15066,6 +15066,9 @@
 	path = mirror/ob-sagemath
 	url = git@github.com:emacsmirror/ob-sagemath.git
 	branch = master
+[submodule "ob-sclang"]
+	path = mirror/ob-sclang
+	url = git@github.com:emacsmirror/ob-sclang.git
 [submodule "ob-smiles"]
 	path = mirror/ob-smiles
 	url = git@github.com:emacsmirror/ob-smiles.git
