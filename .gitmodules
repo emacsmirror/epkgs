@@ -15024,6 +15024,9 @@
 [submodule "ob-markdown"]
 	path = mirror/ob-markdown
 	url = git@github.com:emacsmirror/ob-markdown.git
+[submodule "ob-mathematica"]
+	path = mirror/ob-mathematica
+	url = git@github.com:emacsmirror/ob-mathematica.git
 [submodule "ob-mermaid"]
 	path = mirror/ob-mermaid
 	url = git@github.com:emacsmirror/ob-mermaid.git
