@@ -15729,6 +15729,9 @@
 [submodule "org-password-manager"]
 	path = attic/org-password-manager
 	url = git@github.com:emacsattic/org-password-manager.git
+[submodule "org-passwords"]
+	path = mirror/org-passwords
+	url = git@github.com:emacsmirror/org-passwords.git
 [submodule "org-pdftools"]
 	path = mirror/org-pdftools
 	url = git@github.com:emacsmirror/org-pdftools.git
