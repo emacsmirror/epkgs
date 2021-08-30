@@ -15708,6 +15708,9 @@
 [submodule "org-notifications"]
 	path = mirror/org-notifications
 	url = git@github.com:emacsmirror/org-notifications.git
+[submodule "org-notify"]
+	path = mirror/org-notify
+	url = git@github.com:emacsmirror/org-notify.git
 [submodule "org-octopress"]
 	path = mirror/org-octopress
 	url = git@github.com:emacsmirror/org-octopress.git
