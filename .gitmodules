@@ -15047,6 +15047,9 @@
 	path = mirror/ob-nim
 	url = git@github.com:emacsmirror/ob-nim.git
 	branch = master
+[submodule "ob-php"]
+	path = mirror/ob-php
+	url = git@github.com:emacsmirror/ob-php.git
 [submodule "ob-prolog"]
 	path = mirror/ob-prolog
 	url = git@github.com:emacsmirror/ob-prolog.git
