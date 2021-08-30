@@ -15365,6 +15365,9 @@
 [submodule "org-assoc-tags"]
 	path = mirror/org-assoc-tags
 	url = git@github.com:emacsmirror/org-assoc-tags.git
+[submodule "org-attach-embedded-images"]
+	path = mirror/org-attach-embedded-images
+	url = git@github.com:emacsmirror/org-attach-embedded-images.git
 [submodule "org-attach-screenshot"]
 	path = mirror/org-attach-screenshot
 	url = git@github.com:emacsmirror/org-attach-screenshot.git
