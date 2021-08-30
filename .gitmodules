@@ -17693,6 +17693,9 @@
 [submodule "pungi"]
 	path = mirror/pungi
 	url = git@github.com:emacsmirror/pungi.git
+[submodule "puni"]
+	path = mirror/puni
+	url = git@github.com:emacsmirror/puni.git
 [submodule "punpun-theme"]
 	path = mirror/punpun-theme
 	url = git@github.com:emacsmirror/punpun-theme.git
