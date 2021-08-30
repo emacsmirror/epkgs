@@ -19629,6 +19629,9 @@
 [submodule "side-notes"]
 	path = mirror/side-notes
 	url = git@github.com:emacsmirror/side-notes.git
+[submodule "sidecar-locals"]
+	path = mirror/sidecar-locals
+	url = git@github.com:emacsmirror/sidecar-locals.git
 [submodule "sie"]
 	path = mirror/sie
 	url = git@github.com:emacsmirror/sie.git
