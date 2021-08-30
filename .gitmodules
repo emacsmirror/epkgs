@@ -15654,6 +15654,9 @@
 [submodule "org-lookup-dnd"]
 	path = attic/org-lookup-dnd
 	url = git@github.com:emacsattic/org-lookup-dnd.git
+[submodule "org-mac-link"]
+	path = mirror/org-mac-link
+	url = git@github.com:emacsmirror/org-mac-link.git
 [submodule "org-mac-protocol"]
 	path = attic/org-mac-protocol
 	url = git@github.com:emacsattic/org-mac-protocol.git
