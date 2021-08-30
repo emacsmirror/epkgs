@@ -15940,6 +15940,9 @@
 [submodule "org-vcard"]
 	path = mirror/org-vcard
 	url = git@github.com:emacsmirror/org-vcard.git
+[submodule "org-velocity"]
+	path = mirror/org-velocity
+	url = git@github.com:emacsmirror/org-velocity.git
 [submodule "org-watchdoc"]
 	path = mirror/org-watchdoc
 	url = git@github.com:emacsmirror/org-watchdoc.git
