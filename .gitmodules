@@ -486,9 +486,6 @@
 [submodule "amigo"]
 	path = attic/amigo
 	url = git@github.com:emacsattic/amigo.git
-[submodule "amixer"]
-	path = attic/amixer
-	url = git@github.com:emacsattic/amixer.git
 [submodule "aml-mode"]
 	path = mirror/aml-mode
 	url = git@github.com:emacsmirror/aml-mode.git
