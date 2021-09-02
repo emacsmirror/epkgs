@@ -20588,6 +20588,9 @@
 [submodule "straight"]
 	path = mirror/straight
 	url = git@github.com:emacsmirror/straight.git
+[submodule "streak"]
+	path = mirror/streak
+	url = git@github.com:emacsmirror/streak.git
 [submodule "stream"]
 	path = mirror/stream
 	url = git@github.com:emacsmirror/stream.git
