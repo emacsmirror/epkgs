@@ -23780,6 +23780,9 @@
 [submodule "zetteldeft"]
 	path = mirror/zetteldeft
 	url = git@github.com:emacsmirror/zetteldeft.git
+[submodule "zettelkasten"]
+	path = mirror/zettelkasten
+	url = git@github.com:emacsmirror/zettelkasten.git
 [submodule "zetz-mode"]
 	path = mirror/zetz-mode
 	url = git@github.com:emacsmirror/zetz-mode.git
