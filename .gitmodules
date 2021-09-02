@@ -5842,6 +5842,9 @@
 [submodule "engine-mode"]
 	path = mirror/engine-mode
 	url = git@github.com:emacsmirror/engine-mode.git
+[submodule "engrave-faces"]
+	path = mirror/engrave-faces
+	url = git@github.com:emacsmirror/engrave-faces.git
 [submodule "enh-ruby-mode"]
 	path = mirror/enh-ruby-mode
 	url = git@github.com:emacsmirror/enh-ruby-mode.git
