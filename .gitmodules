@@ -2518,7 +2518,6 @@
 [submodule "cl-format"]
 	path = mirror/cl-format
 	url = git@github.com:emacsmirror/cl-format.git
-	branch = master
 [submodule "cl-info"]
 	path = attic/cl-info
 	url = git@github.com:emacsattic/cl-info.git
