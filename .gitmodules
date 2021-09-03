@@ -6582,9 +6582,9 @@
 [submodule "evil-textobj-syntax"]
 	path = mirror/evil-textobj-syntax
 	url = git@github.com:emacsmirror/evil-textobj-syntax.git
-[submodule "evil-textobj-treesitter"]
-	path = mirror/evil-textobj-treesitter
-	url = git@github.com:emacsmirror/evil-textobj-treesitter.git
+[submodule "evil-textobj-tree-sitter"]
+	path = mirror/evil-textobj-tree-sitter
+	url = git@github.com:emacsmirror/evil-textobj-tree-sitter.git
 [submodule "evil-traces"]
 	path = mirror/evil-traces
 	url = git@github.com:emacsmirror/evil-traces.git
