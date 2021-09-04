@@ -6783,8 +6783,8 @@
 	path = attic/faith
 	url = git@github.com:emacsattic/faith.git
 [submodule "fakespace"]
-	path = mirror/fakespace
-	url = git@github.com:emacsmirror/fakespace.git
+	path = attic/fakespace
+	url = git@github.com:emacsattic/fakespace.git
 [submodule "fakir"]
 	path = mirror/fakir
 	url = git@github.com:emacsmirror/fakir.git
