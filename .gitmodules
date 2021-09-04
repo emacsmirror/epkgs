@@ -2189,8 +2189,8 @@
 	path = mirror/caskxy
 	url = git@github.com:emacsmirror/caskxy.git
 [submodule "cat-safe"]
-	path = mirror/cat-safe
-	url = git@github.com:emacsmirror/cat-safe.git
+	path = attic/cat-safe
+	url = git@github.com:emacsattic/cat-safe.git
 [submodule "catmacs"]
 	path = mirror/catmacs
 	url = git@github.com:emacsmirror/catmacs.git
