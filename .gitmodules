@@ -22560,8 +22560,8 @@
 	path = mirror/visual-fill-column
 	url = git@github.com:emacsmirror/visual-fill-column.git
 [submodule "visual-indentation-mode"]
-	path = mirror/visual-indentation-mode
-	url = git@github.com:emacsmirror/visual-indentation-mode.git
+	path = attic/visual-indentation-mode
+	url = git@github.com:emacsattic/visual-indentation-mode.git
 [submodule "visual-regexp"]
 	path = mirror/visual-regexp
 	url = git@github.com:emacsmirror/visual-regexp.git
