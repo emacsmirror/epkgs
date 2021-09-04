@@ -11681,8 +11681,8 @@
 	url = git@github.com:emacsmirror/js-import.git
 	branch = master
 [submodule "js-lookup"]
-	path = mirror/js-lookup
-	url = git@github.com:emacsmirror/js-lookup.git
+	path = attic/js-lookup
+	url = git@github.com:emacsattic/js-lookup.git
 [submodule "js-react-redux-yasnippets"]
 	path = mirror/js-react-redux-yasnippets
 	url = git@github.com:emacsmirror/js-react-redux-yasnippets.git
