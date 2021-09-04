@@ -18253,8 +18253,8 @@
 	path = mirror/rdictcc
 	url = git@github.com:emacsmirror/rdictcc.git
 [submodule "rdp"]
-	path = mirror/rdp
-	url = git@github.com:emacsmirror/rdp.git
+	path = attic/rdp
+	url = git@github.com:emacsattic/rdp.git
 [submodule "rdxmk"]
 	path = mirror/rdxmk
 	url = git@github.com:emacsmirror/rdxmk.git
