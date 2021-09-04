@@ -17695,8 +17695,8 @@
 	path = attic/psgml-table
 	url = git@github.com:emacsattic/psgml-table.git
 [submodule "psl-mode"]
-	path = mirror/psl-mode
-	url = git@github.com:emacsmirror/psl-mode.git
+	path = attic/psl-mode
+	url = git@github.com:emacsattic/psl-mode.git
 [submodule "pspp-mode"]
 	path = mirror/pspp-mode
 	url = git@github.com:emacsmirror/pspp-mode.git
