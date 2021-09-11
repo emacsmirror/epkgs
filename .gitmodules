@@ -13544,6 +13544,9 @@
 [submodule "message-utils"]
 	path = attic/message-utils
 	url = git@github.com:emacsattic/message-utils.git
+[submodule "message-view-patch"]
+	path = mirror/message-view-patch
+	url = git@github.com:emacsmirror/message-view-patch.git
 [submodule "message-x"]
 	path = mirror/message-x
 	url = git@github.com:emacsmirror/message-x.git
