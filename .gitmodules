@@ -22368,6 +22368,9 @@
 [submodule "vc-fossil"]
 	path = mirror/vc-fossil
 	url = git@github.com:emacsmirror/vc-fossil.git
+[submodule "vc-got"]
+	path = mirror/vc-got
+	url = git@github.com:emacsmirror/vc-got.git
 [submodule "vc-hgcmd"]
 	path = mirror/vc-hgcmd
 	url = git@github.com:emacsmirror/vc-hgcmd.git
