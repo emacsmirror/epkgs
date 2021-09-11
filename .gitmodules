@@ -4897,6 +4897,9 @@
 [submodule "eap"]
 	path = attic/eap
 	url = git@github.com:emacsattic/eap.git
+[submodule "earthfile-mode"]
+	path = mirror/earthfile-mode
+	url = git@github.com:emacsmirror/earthfile-mode.git
 [submodule "easy-after-load"]
 	path = mirror/easy-after-load
 	url = git@github.com:emacsmirror/easy-after-load.git
