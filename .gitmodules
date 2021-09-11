@@ -17274,6 +17274,9 @@
 [submodule "poly-wdl"]
 	path = mirror/poly-wdl
 	url = git@github.com:emacsmirror/poly-wdl.git
+[submodule "polybar-sesman"]
+	path = mirror/polybar-sesman
+	url = git@github.com:emacsmirror/polybar-sesman.git
 [submodule "polymode"]
 	path = mirror/polymode
 	url = git@github.com:emacsmirror/polymode.git
