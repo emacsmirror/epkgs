@@ -18892,6 +18892,9 @@
 [submodule "rss-helper"]
 	path = attic/rss-helper
 	url = git@github.com:emacsattic/rss-helper.git
+[submodule "rsync-mode"]
+	path = mirror/rsync-mode
+	url = git@github.com:emacsmirror/rsync-mode.git
 [submodule "rt-liberation"]
 	path = mirror/rt-liberation
 	url = git@github.com:emacsmirror/rt-liberation.git
