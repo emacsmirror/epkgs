@@ -3985,6 +3985,9 @@
 [submodule "decl"]
 	path = mirror/decl
 	url = git@github.com:emacsmirror/decl.git
+[submodule "declutter"]
+	path = mirror/declutter
+	url = git@github.com:emacsmirror/declutter.git
 [submodule "dedent"]
 	path = mirror/dedent
 	url = git@github.com:emacsmirror/dedent.git
