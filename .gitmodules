@@ -912,6 +912,9 @@
 [submodule "auctex-lua"]
 	path = mirror/auctex-lua
 	url = git@github.com:emacsmirror/auctex-lua.git
+[submodule "audacious"]
+	path = mirror/audacious
+	url = git@github.com:emacsmirror/audacious.git
 [submodule "audel"]
 	path = mirror/audel
 	url = git@github.com:emacsmirror/audel.git
