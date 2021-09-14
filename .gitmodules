@@ -14558,6 +14558,9 @@
 [submodule "news-hack"]
 	path = attic/news-hack
 	url = git@github.com:emacsattic/news-hack.git
+[submodule "newspeak-mode"]
+	path = mirror/newspeak-mode
+	url = git@github.com:emacsmirror/newspeak-mode.git
 [submodule "newsticker-notify"]
 	path = mirror/newsticker-notify
 	url = git@github.com:emacsmirror/newsticker-notify.git
