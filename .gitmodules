@@ -15838,6 +15838,9 @@
 [submodule "org-ref"]
 	path = mirror/org-ref
 	url = git@github.com:emacsmirror/org-ref.git
+[submodule "org-ref-prettify"]
+	path = mirror/org-ref-prettify
+	url = git@github.com:emacsmirror/org-ref-prettify.git
 [submodule "org-repo-todo"]
 	path = mirror/org-repo-todo
 	url = git@github.com:emacsmirror/org-repo-todo.git
