@@ -9364,6 +9364,9 @@
 [submodule "hasky-stack"]
 	path = mirror/hasky-stack
 	url = git@github.com:emacsmirror/hasky-stack.git
+[submodule "hass"]
+	path = mirror/hass
+	url = git@github.com:emacsmirror/hass.git
 [submodule "haste"]
 	path = mirror/haste
 	url = git@github.com:emacsmirror/haste.git
