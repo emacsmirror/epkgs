@@ -18007,6 +18007,9 @@
 [submodule "qpdecode"]
 	path = attic/qpdecode
 	url = git@github.com:emacsattic/qpdecode.git
+[submodule "qrencode"]
+	path = mirror/qrencode
+	url = git@github.com:emacsmirror/qrencode.git
 [submodule "qs"]
 	path = attic/qs
 	url = git@github.com:emacsattic/qs.git
