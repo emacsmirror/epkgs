@@ -11996,6 +11996,9 @@
 [submodule "kfg"]
 	path = mirror/kfg
 	url = git@github.com:emacsmirror/kfg.git
+[submodule "khalel"]
+	path = mirror/khalel
+	url = git@github.com:emacsmirror/khalel.git
 [submodule "khardel"]
 	path = mirror/khardel
 	url = git@github.com:emacsmirror/khardel.git
