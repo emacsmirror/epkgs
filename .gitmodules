@@ -22060,6 +22060,9 @@
 [submodule "udev-mode"]
 	path = mirror/udev-mode
 	url = git@github.com:emacsmirror/udev-mode.git
+[submodule "ue"]
+	path = mirror/ue
+	url = git@github.com:emacsmirror/ue.git
 [submodule "uimage"]
 	path = mirror/uimage
 	url = git@github.com:emacsmirror/uimage.git
