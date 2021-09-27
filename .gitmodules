@@ -12146,6 +12146,9 @@
 [submodule "lacarte"]
 	path = mirror/lacarte
 	url = git@github.com:emacsmirror/lacarte.git
+[submodule "lacquer"]
+	path = mirror/lacquer
+	url = git@github.com:emacsmirror/lacquer.git
 [submodule "lagn"]
 	path = mirror/lagn
 	url = git@github.com:emacsmirror/lagn.git
