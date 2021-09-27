@@ -15711,6 +15711,9 @@
 [submodule "org-mobile-sync"]
 	path = mirror/org-mobile-sync
 	url = git@github.com:emacsmirror/org-mobile-sync.git
+[submodule "org-movies"]
+	path = mirror/org-movies
+	url = git@github.com:emacsmirror/org-movies.git
 [submodule "org-mru-clock"]
 	path = mirror/org-mru-clock
 	url = git@github.com:emacsmirror/org-mru-clock.git
