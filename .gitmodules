@@ -20814,6 +20814,9 @@
 [submodule "svg-clock"]
 	path = mirror/svg-clock
 	url = git@github.com:emacsmirror/svg-clock.git
+[submodule "svg-lib"]
+	path = mirror/svg-lib
+	url = git@github.com:emacsmirror/svg-lib.git
 [submodule "svg-mode-line-themes"]
 	path = mirror/svg-mode-line-themes
 	url = git@github.com:emacsmirror/svg-mode-line-themes.git
