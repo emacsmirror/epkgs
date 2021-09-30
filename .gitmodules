@@ -14424,6 +14424,9 @@
 [submodule "nand2tetris"]
 	path = mirror/nand2tetris
 	url = git@github.com:emacsmirror/nand2tetris.git
+[submodule "nano-theme"]
+	path = mirror/nano-theme
+	url = git@github.com:emacsmirror/nano-theme.git
 [submodule "nanowrimo"]
 	path = mirror/nanowrimo
 	url = git@github.com:emacsmirror/nanowrimo.git
