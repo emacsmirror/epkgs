@@ -14225,8 +14225,8 @@
 	path = mirror/multi-line
 	url = git@github.com:emacsmirror/multi-line.git
 [submodule "multi-mode"]
-	path = attic/multi-mode
-	url = git@github.com:emacsattic/multi-mode.git
+	path = mirror/multi-mode
+	url = git@github.com:emacsmirror/multi-mode.git
 [submodule "multi-mode-util"]
 	path = attic/multi-mode-util
 	url = git@github.com:emacsattic/multi-mode-util.git
