@@ -15436,6 +15436,9 @@
 [submodule "org-attach-screenshot"]
 	path = mirror/org-attach-screenshot
 	url = git@github.com:emacsmirror/org-attach-screenshot.git
+[submodule "org-auto-expand"]
+	path = mirror/org-auto-expand
+	url = git@github.com:emacsmirror/org-auto-expand.git
 [submodule "org-auto-shorten-url"]
 	path = attic/org-auto-shorten-url
 	url = git@github.com:emacsattic/org-auto-shorten-url.git
