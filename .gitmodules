@@ -12117,6 +12117,9 @@
 [submodule "kubectx-mode"]
 	path = mirror/kubectx-mode
 	url = git@github.com:emacsmirror/kubectx-mode.git
+[submodule "kubedoc"]
+	path = mirror/kubedoc
+	url = git@github.com:emacsmirror/kubedoc.git
 [submodule "kubel"]
 	path = mirror/kubel
 	url = git@github.com:emacsmirror/kubel.git
