@@ -3222,6 +3222,9 @@
 [submodule "consult"]
 	path = mirror/consult
 	url = git@github.com:emacsmirror/consult.git
+[submodule "consult-company"]
+	path = mirror/consult-company
+	url = git@github.com:emacsmirror/consult-company.git
 [submodule "consult-dir"]
 	path = mirror/consult-dir
 	url = git@github.com:emacsmirror/consult-dir.git
