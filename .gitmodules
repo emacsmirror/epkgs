@@ -7522,6 +7522,9 @@
 [submodule "flycheck-pact"]
 	path = mirror/flycheck-pact
 	url = git@github.com:emacsmirror/flycheck-pact.git
+[submodule "flycheck-php-noverify"]
+	path = mirror/flycheck-php-noverify
+	url = git@github.com:emacsmirror/flycheck-php-noverify.git
 [submodule "flycheck-pkg-config"]
 	path = mirror/flycheck-pkg-config
 	url = git@github.com:emacsmirror/flycheck-pkg-config.git
