@@ -3246,6 +3246,9 @@
 [submodule "consult-recoll"]
 	path = mirror/consult-recoll
 	url = git@github.com:emacsmirror/consult-recoll.git
+[submodule "consult-yasnippet"]
+	path = mirror/consult-yasnippet
+	url = git@github.com:emacsmirror/consult-yasnippet.git
 [submodule "contentswitch"]
 	path = mirror/contentswitch
 	url = git@github.com:emacsmirror/contentswitch.git
