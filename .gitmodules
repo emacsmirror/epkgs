@@ -21411,6 +21411,9 @@
 [submodule "text-align"]
 	path = mirror/text-align
 	url = git@github.com:emacsmirror/text-align.git
+[submodule "text-categories"]
+	path = mirror/text-categories
+	url = git@github.com:emacsmirror/text-categories.git
 [submodule "text-to-html"]
 	path = attic/text-to-html
 	url = git@github.com:emacsattic/text-to-html.git
