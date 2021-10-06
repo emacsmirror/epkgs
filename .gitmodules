@@ -8782,8 +8782,8 @@
 	path = mirror/go-add-tags
 	url = git@github.com:emacsmirror/go-add-tags.git
 [submodule "go-autocomplete"]
-	path = mirror/go-autocomplete
-	url = git@github.com:emacsmirror/go-autocomplete.git
+	path = attic/go-autocomplete
+	url = git@github.com:emacsattic/go-autocomplete.git
 [submodule "go-capf"]
 	path = attic/go-capf
 	url = git@github.com:emacsattic/go-capf.git
