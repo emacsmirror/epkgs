@@ -3017,8 +3017,8 @@
 	path = mirror/company-glsl
 	url = git@github.com:emacsmirror/company-glsl.git
 [submodule "company-go"]
-	path = mirror/company-go
-	url = git@github.com:emacsmirror/company-go.git
+	path = attic/company-go
+	url = git@github.com:emacsattic/company-go.git
 [submodule "company-inf-ruby"]
 	path = mirror/company-inf-ruby
 	url = git@github.com:emacsmirror/company-inf-ruby.git
