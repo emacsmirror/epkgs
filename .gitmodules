@@ -15407,8 +15407,7 @@
 	url = git@github.com:emacsattic/oremus.git
 [submodule "org"]
 	path = mirror/org
-	url = https://code.orgmode.org/bzg/org-mode.git
-	branch = master
+	url = git@github.com:emacsmirror/org.git
 [submodule "org-ac"]
 	path = mirror/org-ac
 	url = git@github.com:emacsmirror/org-ac.git
