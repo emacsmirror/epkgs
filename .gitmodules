@@ -1768,6 +1768,9 @@
 [submodule "boxquote"]
 	path = mirror/boxquote
 	url = git@github.com:emacsmirror/boxquote.git
+[submodule "boxy"]
+	path = mirror/boxy
+	url = git@github.com:emacsmirror/boxy.git
 [submodule "bpath"]
 	path = mirror/bpath
 	url = git@github.com:emacsmirror/bpath.git
