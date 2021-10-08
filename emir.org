@@ -25,8 +25,9 @@
   <<setup>>(emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
-| Package | Reason |
-|---------+--------|
+| Package            | Reason |
+|--------------------+--------|
+| taxy-magit-section | [[https://github.com/alphapapa/taxy.el/issues/3][#3]]     |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
