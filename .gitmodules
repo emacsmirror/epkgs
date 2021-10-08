@@ -15863,6 +15863,9 @@
 [submodule "org-readme"]
 	path = mirror/org-readme
 	url = git@github.com:emacsmirror/org-readme.git
+[submodule "org-real"]
+	path = mirror/org-real
+	url = git@github.com:emacsmirror/org-real.git
 [submodule "org-recent-headings"]
 	path = mirror/org-recent-headings
 	url = git@github.com:emacsmirror/org-recent-headings.git
