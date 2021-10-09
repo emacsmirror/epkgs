@@ -1771,6 +1771,9 @@
 [submodule "boxy"]
 	path = mirror/boxy
 	url = git@github.com:emacsmirror/boxy.git
+[submodule "boxy-headings"]
+	path = mirror/boxy-headings
+	url = git@github.com:emacsmirror/boxy-headings.git
 [submodule "boxy-headlines"]
 	path = mirror/boxy-headlines
 	url = git@github.com:emacsmirror/boxy-headlines.git
