@@ -8292,6 +8292,9 @@
 [submodule "gemini-mode"]
 	path = mirror/gemini-mode
 	url = git@github.com:emacsmirror/gemini-mode.git
+[submodule "gemini-write"]
+	path = mirror/gemini-write
+	url = git@github.com:emacsmirror/gemini-write.git
 [submodule "genauto"]
 	path = attic/genauto
 	url = git@github.com:emacsattic/genauto.git
