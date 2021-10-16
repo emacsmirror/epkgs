@@ -3331,6 +3331,9 @@
 [submodule "cosmo"]
 	path = mirror/cosmo
 	url = git@github.com:emacsmirror/cosmo.git
+[submodule "coterm"]
+	path = mirror/coterm
+	url = git@github.com:emacsmirror/coterm.git
 [submodule "couchdb"]
 	path = attic/couchdb
 	url = git@github.com:emacsattic/couchdb.git
