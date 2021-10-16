@@ -8158,6 +8158,9 @@
 [submodule "fuz"]
 	path = mirror/fuz
 	url = git@github.com:emacsmirror/fuz.git
+[submodule "fuz-bin"]
+	path = mirror/fuz-bin
+	url = git@github.com:emacsmirror/fuz-bin.git
 [submodule "fuzz"]
 	path = mirror/fuzz
 	url = git@github.com:emacsmirror/fuzz.git
