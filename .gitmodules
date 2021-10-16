@@ -5991,6 +5991,9 @@
 [submodule "erblint"]
 	path = mirror/erblint
 	url = git@github.com:emacsmirror/erblint.git
+[submodule "erc"]
+	path = mirror/erc
+	url = git@github.com:emacsmirror/erc.git
 [submodule "erc-babel"]
 	path = mirror/erc-babel
 	url = git@github.com:emacsmirror/erc-babel.git
