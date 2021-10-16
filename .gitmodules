@@ -20772,6 +20772,9 @@
 [submodule "sublime"]
 	path = attic/sublime
 	url = git@github.com:emacsattic/sublime.git
+[submodule "sublime-fuzzy"]
+	path = mirror/sublime-fuzzy
+	url = git@github.com:emacsmirror/sublime-fuzzy.git
 [submodule "sublime-themes"]
 	path = mirror/sublime-themes
 	url = git@github.com:emacsmirror/sublime-themes.git
