@@ -14451,6 +14451,9 @@
 [submodule "nand2tetris"]
 	path = mirror/nand2tetris
 	url = git@github.com:emacsmirror/nand2tetris.git
+[submodule "nano-agenda"]
+	path = mirror/nano-agenda
+	url = git@github.com:emacsmirror/nano-agenda.git
 [submodule "nano-modeline"]
 	path = mirror/nano-modeline
 	url = git@github.com:emacsmirror/nano-modeline.git
