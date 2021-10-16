@@ -4921,6 +4921,9 @@
 [submodule "eaf-browser"]
 	path = mirror/eaf-browser
 	url = git@github.com:emacsmirror/eaf-browser.git
+[submodule "eaf-pdf-viewer"]
+	path = mirror/eaf-pdf-viewer
+	url = git@github.com:emacsmirror/eaf-pdf-viewer.git
 [submodule "eap"]
 	path = attic/eap
 	url = git@github.com:emacsattic/eap.git
