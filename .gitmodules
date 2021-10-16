@@ -4930,6 +4930,9 @@
 [submodule "eaf-terminal"]
 	path = mirror/eaf-terminal
 	url = git@github.com:emacsmirror/eaf-terminal.git
+[submodule "eaf-video-player"]
+	path = mirror/eaf-video-player
+	url = git@github.com:emacsmirror/eaf-video-player.git
 [submodule "eap"]
 	path = attic/eap
 	url = git@github.com:emacsattic/eap.git
