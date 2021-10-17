@@ -20235,6 +20235,9 @@
 [submodule "soar-mode"]
 	path = mirror/soar-mode
 	url = git@github.com:emacsmirror/soar-mode.git
+[submodule "soccer"]
+	path = mirror/soccer
+	url = git@github.com:emacsmirror/soccer.git
 [submodule "socyl"]
 	path = mirror/socyl
 	url = git@github.com:emacsmirror/socyl.git
