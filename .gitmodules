@@ -23123,8 +23123,8 @@
 	path = mirror/widget-mvc
 	url = git@github.com:emacsmirror/widget-mvc.git
 [submodule "widgetjs"]
-	path = mirror/widgetjs
-	url = git@github.com:emacsmirror/widgetjs.git
+	path = attic/widgetjs
+	url = git@github.com:emacsattic/widgetjs.git
 [submodule "wiki"]
 	path = mirror/wiki
 	url = git@github.com:emacsmirror/wiki.git
