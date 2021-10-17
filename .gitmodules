@@ -23474,8 +23474,8 @@
 	path = attic/xah-math-input
 	url = git@github.com:emacsattic/xah-math-input.git
 [submodule "xah-reformat-code"]
-	path = mirror/xah-reformat-code
-	url = git@github.com:emacsmirror/xah-reformat-code.git
+	path = attic/xah-reformat-code
+	url = git@github.com:emacsattic/xah-reformat-code.git
 	branch = master
 [submodule "xah-replace-pairs"]
 	path = mirror/xah-replace-pairs
