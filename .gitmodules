@@ -23468,8 +23468,8 @@
 	path = attic/xah-get-thing
 	url = git@github.com:emacsattic/xah-get-thing.git
 [submodule "xah-lookup"]
-	path = mirror/xah-lookup
-	url = git@github.com:emacsmirror/xah-lookup.git
+	path = attic/xah-lookup
+	url = git@github.com:emacsattic/xah-lookup.git
 [submodule "xah-math-input"]
 	path = mirror/xah-math-input
 	url = git@github.com:emacsmirror/xah-math-input.git
