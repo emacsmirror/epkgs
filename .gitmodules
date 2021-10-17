@@ -23456,8 +23456,8 @@
 	url = git@github.com:emacsattic/xah-css-mode.git
 	branch = master
 [submodule "xah-elisp-mode"]
-	path = mirror/xah-elisp-mode
-	url = git@github.com:emacsmirror/xah-elisp-mode.git
+	path = attic/xah-elisp-mode
+	url = git@github.com:emacsattic/xah-elisp-mode.git
 [submodule "xah-find"]
 	path = mirror/xah-find
 	url = git@github.com:emacsmirror/xah-find.git
