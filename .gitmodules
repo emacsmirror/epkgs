@@ -23459,8 +23459,8 @@
 	path = attic/xah-elisp-mode
 	url = git@github.com:emacsattic/xah-elisp-mode.git
 [submodule "xah-find"]
-	path = mirror/xah-find
-	url = git@github.com:emacsmirror/xah-find.git
+	path = attic/xah-find
+	url = git@github.com:emacsattic/xah-find.git
 [submodule "xah-fly-keys"]
 	path = mirror/xah-fly-keys
 	url = git@github.com:emacsmirror/xah-fly-keys.git
