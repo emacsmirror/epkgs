@@ -7328,6 +7328,9 @@
 [submodule "flx-isearch"]
 	path = mirror/flx-isearch
 	url = git@github.com:emacsmirror/flx-isearch.git
+[submodule "flxy"]
+	path = mirror/flxy
+	url = git@github.com:emacsmirror/flxy.git
 [submodule "flycheck"]
 	path = mirror/flycheck
 	url = git@github.com:emacsmirror/flycheck.git
