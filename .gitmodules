@@ -10377,8 +10377,8 @@
 	path = mirror/hoa-mode
 	url = git@github.com:emacsmirror/hoa-mode.git
 [submodule "hoa-pp-mode"]
-	path = mirror/hoa-pp-mode
-	url = git@github.com:emacsmirror/hoa-pp-mode.git
+	path = attic/hoa-pp-mode
+	url = git@github.com:emacsattic/hoa-pp-mode.git
 [submodule "hobo"]
 	path = attic/hobo
 	url = git@github.com:emacsattic/hobo.git
