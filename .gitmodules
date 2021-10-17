@@ -23481,8 +23481,8 @@
 	path = attic/xah-replace-pairs
 	url = git@github.com:emacsattic/xah-replace-pairs.git
 [submodule "xahk-mode"]
-	path = mirror/xahk-mode
-	url = git@github.com:emacsmirror/xahk-mode.git
+	path = attic/xahk-mode
+	url = git@github.com:emacsattic/xahk-mode.git
 [submodule "xargs-grep"]
 	path = mirror/xargs-grep
 	url = git@github.com:emacsmirror/xargs-grep.git
