@@ -21804,6 +21804,9 @@
 [submodule "totd"]
 	path = mirror/totd
 	url = git@github.com:emacsmirror/totd.git
+[submodule "totp"]
+	path = mirror/totp
+	url = git@github.com:emacsmirror/totp.git
 [submodule "touchgrid"]
 	path = mirror/touchgrid
 	url = git@github.com:emacsmirror/touchgrid.git
