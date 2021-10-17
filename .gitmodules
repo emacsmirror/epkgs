@@ -6229,6 +6229,9 @@
 	path = mirror/eshell-up
 	url = git@github.com:emacsmirror/eshell-up.git
 	branch = master
+[submodule "eshell-vterm"]
+	path = mirror/eshell-vterm
+	url = git@github.com:emacsmirror/eshell-vterm.git
 [submodule "eshell-z"]
 	path = mirror/eshell-z
 	url = git@github.com:emacsmirror/eshell-z.git
