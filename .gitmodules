@@ -3350,6 +3350,9 @@
 	path = mirror/counsel-bbdb
 	url = git@github.com:emacsmirror/counsel-bbdb.git
 	branch = master
+[submodule "counsel-chrome-bm"]
+	path = mirror/counsel-chrome-bm
+	url = git@github.com:emacsmirror/counsel-chrome-bm.git
 [submodule "counsel-codesearch"]
 	path = mirror/counsel-codesearch
 	url = git@github.com:emacsmirror/counsel-codesearch.git
