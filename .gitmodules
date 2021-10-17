@@ -3274,6 +3274,9 @@
 [submodule "control-mode"]
 	path = mirror/control-mode
 	url = git@github.com:emacsmirror/control-mode.git
+[submodule "conventional-changelog"]
+	path = mirror/conventional-changelog
+	url = git@github.com:emacsmirror/conventional-changelog.git
 [submodule "convert-email"]
 	path = attic/convert-email
 	url = git@github.com:emacsattic/convert-email.git
