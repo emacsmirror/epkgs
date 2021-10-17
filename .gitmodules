@@ -15545,6 +15545,9 @@
 	path = mirror/org-clock-csv
 	url = git@github.com:emacsmirror/org-clock-csv.git
 	branch = master
+[submodule "org-clock-reminder"]
+	path = mirror/org-clock-reminder
+	url = git@github.com:emacsmirror/org-clock-reminder.git
 [submodule "org-clock-split"]
 	path = mirror/org-clock-split
 	url = git@github.com:emacsmirror/org-clock-split.git
