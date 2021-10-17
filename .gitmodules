@@ -23471,8 +23471,8 @@
 	path = attic/xah-lookup
 	url = git@github.com:emacsattic/xah-lookup.git
 [submodule "xah-math-input"]
-	path = mirror/xah-math-input
-	url = git@github.com:emacsmirror/xah-math-input.git
+	path = attic/xah-math-input
+	url = git@github.com:emacsattic/xah-math-input.git
 [submodule "xah-reformat-code"]
 	path = mirror/xah-reformat-code
 	url = git@github.com:emacsmirror/xah-reformat-code.git
