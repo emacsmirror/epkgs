@@ -23725,8 +23725,8 @@
 	path = mirror/yammer
 	url = git@github.com:emacsmirror/yammer.git
 [submodule "yandex-weather"]
-	path = mirror/yandex-weather
-	url = git@github.com:emacsmirror/yandex-weather.git
+	path = attic/yandex-weather
+	url = git@github.com:emacsattic/yandex-weather.git
 [submodule "yang-mode"]
 	path = mirror/yang-mode
 	url = git@github.com:emacsmirror/yang-mode.git
