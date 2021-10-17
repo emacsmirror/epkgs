@@ -23465,8 +23465,8 @@
 	path = attic/xah-fly-keys
 	url = git@github.com:emacsattic/xah-fly-keys.git
 [submodule "xah-get-thing"]
-	path = mirror/xah-get-thing
-	url = git@github.com:emacsmirror/xah-get-thing.git
+	path = attic/xah-get-thing
+	url = git@github.com:emacsattic/xah-get-thing.git
 [submodule "xah-lookup"]
 	path = mirror/xah-lookup
 	url = git@github.com:emacsmirror/xah-lookup.git
