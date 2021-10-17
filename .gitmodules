@@ -17693,8 +17693,8 @@
 	path = mirror/projector
 	url = git@github.com:emacsmirror/projector.git
 [submodule "projectur"]
-	path = mirror/projectur
-	url = git@github.com:emacsmirror/projectur.git
+	path = attic/projectur
+	url = git@github.com:emacsattic/projectur.git
 [submodule "projekt"]
 	path = mirror/projekt
 	url = git@github.com:emacsmirror/projekt.git
