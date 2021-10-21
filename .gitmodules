@@ -8627,6 +8627,9 @@
 [submodule "github-stars"]
 	path = mirror/github-stars
 	url = git@github.com:emacsmirror/github-stars.git
+[submodule "github-tags"]
+	path = mirror/github-tags
+	url = git@github.com:emacsmirror/github-tags.git
 [submodule "github-theme"]
 	path = mirror/github-theme
 	url = git@github.com:emacsmirror/github-theme.git
