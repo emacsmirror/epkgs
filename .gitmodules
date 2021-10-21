@@ -2884,6 +2884,9 @@
 	path = mirror/comint-intercept
 	url = git@github.com:emacsmirror/comint-intercept.git
 	branch = master
+[submodule "comint-mime"]
+	path = mirror/comint-mime
+	url = git@github.com:emacsmirror/comint-mime.git
 [submodule "comint-popup"]
 	path = attic/comint-popup
 	url = git@github.com:emacsattic/comint-popup.git
