@@ -4927,6 +4927,9 @@
 [submodule "eaf"]
 	path = mirror/eaf
 	url = git@github.com:emacsmirror/eaf.git
+[submodule "eaf-airshare"]
+	path = mirror/eaf-airshare
+	url = git@github.com:emacsmirror/eaf-airshare.git
 [submodule "eaf-browser"]
 	path = mirror/eaf-browser
 	url = git@github.com:emacsmirror/eaf-browser.git
