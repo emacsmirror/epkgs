@@ -3126,6 +3126,9 @@
 [submodule "compare-windows-interactively"]
 	path = attic/compare-windows-interactively
 	url = git@github.com:emacsattic/compare-windows-interactively.git
+[submodule "compat"]
+	path = mirror/compat
+	url = git@github.com:emacsmirror/compat.git
 [submodule "compdef"]
 	path = mirror/compdef
 	url = git@github.com:emacsmirror/compdef.git
