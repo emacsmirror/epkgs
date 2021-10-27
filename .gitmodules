@@ -15917,6 +15917,9 @@
 [submodule "org-re-reveal"]
 	path = mirror/org-re-reveal
 	url = git@github.com:emacsmirror/org-re-reveal.git
+[submodule "org-re-reveal-citeproc"]
+	path = mirror/org-re-reveal-citeproc
+	url = git@github.com:emacsmirror/org-re-reveal-citeproc.git
 [submodule "org-re-reveal-ref"]
 	path = mirror/org-re-reveal-ref
 	url = git@github.com:emacsmirror/org-re-reveal-ref.git
