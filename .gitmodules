@@ -2147,6 +2147,9 @@
 [submodule "cangjie"]
 	path = mirror/cangjie
 	url = git@github.com:emacsmirror/cangjie.git
+[submodule "capf-autosuggest"]
+	path = mirror/capf-autosuggest
+	url = git@github.com:emacsmirror/capf-autosuggest.git
 [submodule "capnp-mode"]
 	path = mirror/capnp-mode
 	url = git@github.com:emacsmirror/capnp-mode.git
