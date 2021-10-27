@@ -3255,6 +3255,9 @@
 [submodule "consult-notmuch"]
 	path = mirror/consult-notmuch
 	url = git@github.com:emacsmirror/consult-notmuch.git
+[submodule "consult-projectile"]
+	path = mirror/consult-projectile
+	url = git@github.com:emacsmirror/consult-projectile.git
 [submodule "consult-recoll"]
 	path = mirror/consult-recoll
 	url = git@github.com:emacsmirror/consult-recoll.git
