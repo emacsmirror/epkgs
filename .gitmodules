@@ -17692,6 +17692,9 @@
 	path = mirror/project-shells
 	url = git@github.com:emacsmirror/project-shells.git
 	branch = master
+[submodule "project-tab-groups"]
+	path = mirror/project-tab-groups
+	url = git@github.com:emacsmirror/project-tab-groups.git
 [submodule "projectile"]
 	path = mirror/projectile
 	url = git@github.com:emacsmirror/projectile.git
