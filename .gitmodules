@@ -19688,6 +19688,9 @@
 [submodule "shelldoc"]
 	path = mirror/shelldoc
 	url = git@github.com:emacsmirror/shelldoc.git
+[submodule "shelldon"]
+	path = mirror/shelldon
+	url = git@github.com:emacsmirror/shelldon.git
 [submodule "shellfm"]
 	path = attic/shellfm
 	url = git@github.com:emacsattic/shellfm.git
