@@ -22630,6 +22630,9 @@
 [submodule "vertico"]
 	path = mirror/vertico
 	url = git@github.com:emacsmirror/vertico.git
+[submodule "vertico-posframe"]
+	path = mirror/vertico-posframe
+	url = git@github.com:emacsmirror/vertico-posframe.git
 [submodule "vertigo"]
 	path = mirror/vertigo
 	url = git@github.com:emacsmirror/vertigo.git
