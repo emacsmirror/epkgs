@@ -17588,6 +17588,9 @@
 	path = mirror/prettify-greek
 	url = git@github.com:emacsmirror/prettify-greek.git
 	branch = master
+[submodule "prettify-math"]
+	path = mirror/prettify-math
+	url = git@github.com:emacsmirror/prettify-math.git
 [submodule "pretty-lambdada"]
 	path = mirror/pretty-lambdada
 	url = git@github.com:emacsmirror/pretty-lambdada.git
