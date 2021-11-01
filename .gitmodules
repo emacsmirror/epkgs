@@ -536,6 +536,9 @@
 [submodule "anchored-transpose"]
 	path = mirror/anchored-transpose
 	url = git@github.com:emacsmirror/anchored-transpose.git
+[submodule "ancient-one-dark-theme"]
+	path = mirror/ancient-one-dark-theme
+	url = git@github.com:emacsmirror/ancient-one-dark-theme.git
 [submodule "android-env"]
 	path = mirror/android-env
 	url = git@github.com:emacsmirror/android-env.git
