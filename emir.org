@@ -50,7 +50,6 @@
 | pylint              | unreachable    |
 | shell-command+      | unreachable    |
 
-
 - icicles: It freezes except when I try to investigate why it freezes.
 - cfengine-code-style, clang-format, make-mode, cython-mode: pending
   filtering improvements
