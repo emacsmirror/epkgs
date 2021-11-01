@@ -6913,6 +6913,9 @@
 [submodule "faustine"]
 	path = mirror/faustine
 	url = git@github.com:emacsmirror/faustine.git
+[submodule "fb2-reader"]
+	path = mirror/fb2-reader
+	url = git@github.com:emacsmirror/fb2-reader.git
 [submodule "fc"]
 	path = attic/fc
 	url = git@github.com:emacsattic/fc.git
