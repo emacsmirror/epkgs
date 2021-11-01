@@ -1636,6 +1636,9 @@
 [submodule "blackout"]
 	path = mirror/blackout
 	url = git@github.com:emacsmirror/blackout.git
+[submodule "blamer"]
+	path = mirror/blamer
+	url = git@github.com:emacsmirror/blamer.git
 [submodule "blank-mode"]
 	path = mirror/blank-mode
 	url = git@github.com:emacsmirror/blank-mode.git
