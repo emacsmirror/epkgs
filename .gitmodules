@@ -18018,6 +18018,9 @@
 [submodule "pyimpsort"]
 	path = mirror/pyimpsort
 	url = git@github.com:emacsmirror/pyimpsort.git
+[submodule "pyinspect"]
+	path = mirror/pyinspect
+	url = git@github.com:emacsmirror/pyinspect.git
 [submodule "pylint"]
 	path = mirror/pylint
 	url = git@github.com:emacsmirror/pylint.git
