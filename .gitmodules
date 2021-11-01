@@ -7364,6 +7364,9 @@
 [submodule "flx-isearch"]
 	path = mirror/flx-isearch
 	url = git@github.com:emacsmirror/flx-isearch.git
+[submodule "flx-rs"]
+	path = mirror/flx-rs
+	url = git@github.com:emacsmirror/flx-rs.git
 [submodule "flxy"]
 	path = mirror/flxy
 	url = git@github.com:emacsmirror/flxy.git
