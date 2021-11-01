@@ -63,14 +63,15 @@
 #+NAME: val--emir-secondary-packages
 | Secondary      | Primary |
 |----------------+---------|
-| shimbun        | w3m     |
-| merlin-ac      | merlin  |
-| merlin-company | merlin  |
-| merlin-iedit   | merlin  |
+| embark-consult | embark  |
 | counsel        | ivy     |
 | ivy-avy        | ivy     |
 | ivy-hydra      | ivy     |
 | swiper         | ivy     |
+| merlin-ac      | merlin  |
+| merlin-company | merlin  |
+| merlin-iedit   | merlin  |
+| shimbun        | w3m     |
 
 * Set ~emir--homepage-alist~
 #+NAME: set--emir--homepage-alist
