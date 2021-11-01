@@ -19728,6 +19728,9 @@
 [submodule "shen-mode"]
 	path = mirror/shen-mode
 	url = git@github.com:emacsmirror/shen-mode.git
+[submodule "shenshou"]
+	path = mirror/shenshou
+	url = git@github.com:emacsmirror/shenshou.git
 [submodule "shfmt"]
 	path = mirror/shfmt
 	url = git@github.com:emacsmirror/shfmt.git
