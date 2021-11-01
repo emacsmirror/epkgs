@@ -13137,6 +13137,9 @@
 [submodule "magit-circleci"]
 	path = mirror/magit-circleci
 	url = git@github.com:emacsmirror/magit-circleci.git
+[submodule "magit-commit-mark"]
+	path = mirror/magit-commit-mark
+	url = git@github.com:emacsmirror/magit-commit-mark.git
 [submodule "magit-commit-training-wheels"]
 	path = attic/magit-commit-training-wheels
 	url = git@github.com:emacsattic/magit-commit-training-wheels.git
