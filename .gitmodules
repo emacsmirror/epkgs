@@ -18250,6 +18250,9 @@
 [submodule "rails"]
 	path = attic/rails
 	url = git@github.com:emacsattic/rails.git
+[submodule "rails-i18n"]
+	path = mirror/rails-i18n
+	url = git@github.com:emacsmirror/rails-i18n.git
 [submodule "rails-log-mode"]
 	path = mirror/rails-log-mode
 	url = git@github.com:emacsmirror/rails-log-mode.git
