@@ -339,6 +339,9 @@
 [submodule "agchat"]
 	path = attic/agchat
 	url = git@github.com:emacsattic/agchat.git
+[submodule "agda-editor-tactics"]
+	path = mirror/agda-editor-tactics
+	url = git@github.com:emacsmirror/agda-editor-tactics.git
 [submodule "agda2-mode"]
 	path = mirror/agda2-mode
 	url = git@github.com:emacsmirror/agda2-mode.git
