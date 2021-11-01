@@ -1550,9 +1550,6 @@
 [submodule "bibslurp"]
 	path = mirror/bibslurp
 	url = git@github.com:emacsmirror/bibslurp.git
-[submodule "bibtex-actions"]
-	path = mirror/bibtex-actions
-	url = git@github.com:emacsmirror/bibtex-actions.git
 [submodule "bibtex-completion"]
 	path = mirror/bibtex-completion
 	url = git@github.com:emacsmirror/bibtex-completion.git
@@ -2521,6 +2518,9 @@
 [submodule "cisco-router-mode"]
 	path = mirror/cisco-router-mode
 	url = git@github.com:emacsmirror/cisco-router-mode.git
+[submodule "citar"]
+	path = mirror/citar
+	url = git@github.com:emacsmirror/citar.git
 [submodule "cite"]
 	path = attic/cite
 	url = git@github.com:emacsattic/cite.git
