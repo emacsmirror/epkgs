@@ -14951,8 +14951,8 @@
 	path = attic/nrnhoc
 	url = git@github.com:emacsattic/nrnhoc.git
 [submodule "nroam"]
-	path = mirror/nroam
-	url = git@github.com:emacsmirror/nroam.git
+	path = attic/nroam
+	url = git@github.com:emacsattic/nroam.git
 [submodule "nroff-filladapt"]
 	path = attic/nroff-filladapt
 	url = git@github.com:emacsattic/nroff-filladapt.git
