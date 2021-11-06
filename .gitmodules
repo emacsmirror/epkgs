@@ -22184,8 +22184,8 @@
 	path = mirror/typopunct
 	url = git@github.com:emacsmirror/typopunct.git
 [submodule "typoscript-mode"]
-	path = mirror/typoscript-mode
-	url = git@github.com:emacsmirror/typoscript-mode.git
+	path = attic/typoscript-mode
+	url = git@github.com:emacsattic/typoscript-mode.git
 	branch = master
 [submodule "u-appt"]
 	path = attic/u-appt
