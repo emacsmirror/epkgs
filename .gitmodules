@@ -18072,6 +18072,9 @@
 [submodule "python-info"]
 	path = mirror/python-info
 	url = git@github.com:emacsmirror/python-info.git
+[submodule "python-insert-docstring"]
+	path = mirror/python-insert-docstring
+	url = git@github.com:emacsmirror/python-insert-docstring.git
 [submodule "python-isort"]
 	path = mirror/python-isort
 	url = git@github.com:emacsmirror/python-isort.git
