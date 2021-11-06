@@ -9032,8 +9032,8 @@
 	url = git@github.com:emacsmirror/goose-theme.git
 	branch = master
 [submodule "gopher"]
-	path = mirror/gopher
-	url = git@github.com:emacsmirror/gopher.git
+	path = attic/gopher
+	url = git@github.com:emacsattic/gopher.git
 [submodule "gore-mode"]
 	path = mirror/gore-mode
 	url = git@github.com:emacsmirror/gore-mode.git
