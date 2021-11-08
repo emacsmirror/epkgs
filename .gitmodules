@@ -18274,6 +18274,9 @@
 [submodule "rails-log-mode"]
 	path = mirror/rails-log-mode
 	url = git@github.com:emacsmirror/rails-log-mode.git
+[submodule "rails-routes"]
+	path = mirror/rails-routes
+	url = git@github.com:emacsmirror/rails-routes.git
 [submodule "railscasts-reloaded-theme"]
 	path = mirror/railscasts-reloaded-theme
 	url = git@github.com:emacsmirror/railscasts-reloaded-theme.git
