@@ -18598,6 +18598,9 @@
 [submodule "rectangle-utils"]
 	path = mirror/rectangle-utils
 	url = git@github.com:emacsmirror/rectangle-utils.git
+[submodule "recur"]
+	path = mirror/recur
+	url = git@github.com:emacsmirror/recur.git
 [submodule "recursion-indicator"]
 	path = mirror/recursion-indicator
 	url = git@github.com:emacsmirror/recursion-indicator.git
