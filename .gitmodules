@@ -17442,6 +17442,9 @@
 	path = mirror/pomidor
 	url = git@github.com:emacsmirror/pomidor.git
 	branch = master
+[submodule "pomm"]
+	path = mirror/pomm
+	url = git@github.com:emacsmirror/pomm.git
 [submodule "pomodoro"]
 	path = mirror/pomodoro
 	url = git@github.com:emacsmirror/pomodoro.git
