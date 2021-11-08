@@ -11828,6 +11828,9 @@
 	path = mirror/json-navigator
 	url = git@github.com:emacsmirror/json-navigator.git
 	branch = master
+[submodule "json-par"]
+	path = mirror/json-par
+	url = git@github.com:emacsmirror/json-par.git
 [submodule "json-process-client"]
 	path = mirror/json-process-client
 	url = git@github.com:emacsmirror/json-process-client.git
