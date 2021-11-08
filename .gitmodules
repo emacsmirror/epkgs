@@ -15747,6 +15747,9 @@
 [submodule "org-index"]
 	path = mirror/org-index
 	url = git@github.com:emacsmirror/org-index.git
+[submodule "org-inline-anim"]
+	path = mirror/org-inline-anim
+	url = git@github.com:emacsmirror/org-inline-anim.git
 [submodule "org-inline-pdf"]
 	path = mirror/org-inline-pdf
 	url = git@github.com:emacsmirror/org-inline-pdf.git
