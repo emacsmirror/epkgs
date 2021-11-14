@@ -16009,6 +16009,9 @@
 [submodule "org-roam-timestamps"]
 	path = mirror/org-roam-timestamps
 	url = git@github.com:emacsmirror/org-roam-timestamps.git
+[submodule "org-roam-ui"]
+	path = mirror/org-roam-ui
+	url = git@github.com:emacsmirror/org-roam-ui.git
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
