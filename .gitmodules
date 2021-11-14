@@ -4275,6 +4275,9 @@
 [submodule "digitalocean-helm"]
 	path = mirror/digitalocean-helm
 	url = git@github.com:emacsmirror/digitalocean-helm.git
+[submodule "dilbert"]
+	path = mirror/dilbert
+	url = git@github.com:emacsmirror/dilbert.git
 [submodule "dim"]
 	path = mirror/dim
 	url = git@github.com:emacsmirror/dim.git
