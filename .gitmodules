@@ -23774,6 +23774,9 @@
 [submodule "xwidgets-reuse"]
 	path = mirror/xwidgets-reuse
 	url = git@github.com:emacsmirror/xwidgets-reuse.git
+[submodule "xwiki-mode"]
+	path = mirror/xwiki-mode
+	url = git@github.com:emacsmirror/xwiki-mode.git
 [submodule "xwindow-ring"]
 	path = attic/xwindow-ring
 	url = git@github.com:emacsattic/xwindow-ring.git
