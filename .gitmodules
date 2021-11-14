@@ -13576,6 +13576,9 @@
 [submodule "mcskels"]
 	path = attic/mcskels
 	url = git@github.com:emacsattic/mcskels.git
+[submodule "mct"]
+	path = mirror/mct
+	url = git@github.com:emacsmirror/mct.git
 [submodule "md-readme"]
 	path = mirror/md-readme
 	url = git@github.com:emacsmirror/md-readme.git
