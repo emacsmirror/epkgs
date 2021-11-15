@@ -22016,6 +22016,9 @@
 [submodule "tray"]
 	path = mirror/tray
 	url = git@github.com:emacsmirror/tray.git
+[submodule "tree-edit"]
+	path = mirror/tree-edit
+	url = git@github.com:emacsmirror/tree-edit.git
 [submodule "tree-mode"]
 	path = mirror/tree-mode
 	url = git@github.com:emacsmirror/tree-mode.git
