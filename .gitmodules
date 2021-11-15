@@ -9460,8 +9460,8 @@
 	path = mirror/hasklig-mode
 	url = git@github.com:emacsmirror/hasklig-mode.git
 [submodule "hasky-extensions"]
-	path = mirror/hasky-extensions
-	url = git@github.com:emacsmirror/hasky-extensions.git
+	path = attic/hasky-extensions
+	url = git@github.com:emacsattic/hasky-extensions.git
 	branch = master
 [submodule "hasky-stack"]
 	path = mirror/hasky-stack
