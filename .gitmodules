@@ -9464,8 +9464,8 @@
 	url = git@github.com:emacsattic/hasky-extensions.git
 	branch = master
 [submodule "hasky-stack"]
-	path = mirror/hasky-stack
-	url = git@github.com:emacsmirror/hasky-stack.git
+	path = attic/hasky-stack
+	url = git@github.com:emacsattic/hasky-stack.git
 [submodule "hass"]
 	path = mirror/hass
 	url = git@github.com:emacsmirror/hass.git
