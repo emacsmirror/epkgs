@@ -758,6 +758,7 @@
 | osd                  | upstream disappeared    |
 | osx-trash            | dropped by maintainer   |
 | ov                   | dropped by maintainer   |
+| ox-pandoc            | revived using fork      |
 | pager                | upstream disappeared    |
 | perl-utils           | dropped by maintainer   |
 | picolisp             | manual tarball import   |
