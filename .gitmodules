@@ -6674,9 +6674,6 @@
 [submodule "evil-traces"]
 	path = mirror/evil-traces
 	url = git@github.com:emacsmirror/evil-traces.git
-[submodule "evil-tree-edit"]
-	path = mirror/evil-tree-edit
-	url = git@github.com:emacsmirror/evil-tree-edit.git
 [submodule "evil-tutor"]
 	path = mirror/evil-tutor
 	url = git@github.com:emacsmirror/evil-tutor.git
