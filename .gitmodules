@@ -12128,6 +12128,9 @@
 [submodule "killer"]
 	path = mirror/killer
 	url = git@github.com:emacsmirror/killer.git
+[submodule "kind-icon"]
+	path = mirror/kind-icon
+	url = git@github.com:emacsmirror/kind-icon.git
 [submodule "kindle-mode"]
 	path = mirror/kindle-mode
 	url = git@github.com:emacsmirror/kindle-mode.git
