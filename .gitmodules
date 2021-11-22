@@ -19137,6 +19137,9 @@
 [submodule "ruby-interpolation"]
 	path = mirror/ruby-interpolation
 	url = git@github.com:emacsmirror/ruby-interpolation.git
+[submodule "ruby-json-to-hash"]
+	path = mirror/ruby-json-to-hash
+	url = git@github.com:emacsmirror/ruby-json-to-hash.git
 [submodule "ruby-refactor"]
 	path = mirror/ruby-refactor
 	url = git@github.com:emacsmirror/ruby-refactor.git
