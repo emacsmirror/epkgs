@@ -2153,6 +2153,9 @@
 [submodule "cangjie"]
 	path = mirror/cangjie
 	url = git@github.com:emacsmirror/cangjie.git
+[submodule "cape"]
+	path = mirror/cape
+	url = git@github.com:emacsmirror/cape.git
 [submodule "capf-autosuggest"]
 	path = mirror/capf-autosuggest
 	url = git@github.com:emacsmirror/capf-autosuggest.git
@@ -2764,6 +2767,9 @@
 [submodule "code-library"]
 	path = mirror/code-library
 	url = git@github.com:emacsmirror/code-library.git
+[submodule "code-review"]
+	path = mirror/code-review
+	url = git@github.com:emacsmirror/code-review.git
 [submodule "code-stats"]
 	path = mirror/code-stats
 	url = git@github.com:emacsmirror/code-stats.git
