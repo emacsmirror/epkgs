@@ -16731,6 +16731,9 @@
 [submodule "parseedn"]
 	path = mirror/parseedn
 	url = git@github.com:emacsmirror/parseedn.git
+[submodule "parser-generator"]
+	path = mirror/parser-generator
+	url = git@github.com:emacsmirror/parser-generator.git
 [submodule "pases"]
 	path = attic/pases
 	url = git@github.com:emacsattic/pases.git
