@@ -17624,6 +17624,9 @@
 [submodule "ppp"]
 	path = mirror/ppp
 	url = git@github.com:emacsmirror/ppp.git
+[submodule "pr-review"]
+	path = mirror/pr-review
+	url = git@github.com:emacsmirror/pr-review.git
 [submodule "prand"]
 	path = mirror/prand
 	url = git@github.com:emacsmirror/prand.git
