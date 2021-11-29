@@ -5366,6 +5366,9 @@
 [submodule "el-search"]
 	path = mirror/el-search
 	url = git@github.com:emacsmirror/el-search.git
+[submodule "el-secretario"]
+	path = mirror/el-secretario
+	url = git@github.com:emacsmirror/el-secretario.git
 [submodule "el-spec"]
 	path = mirror/el-spec
 	url = git@github.com:emacsmirror/el-spec.git
