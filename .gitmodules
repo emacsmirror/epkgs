@@ -858,6 +858,9 @@
 	path = mirror/async-await
 	url = git@github.com:emacsmirror/async-await.git
 	branch = master
+[submodule "async-backup"]
+	path = mirror/async-backup
+	url = git@github.com:emacsmirror/async-backup.git
 [submodule "async-completing-read"]
 	path = mirror/async-completing-read
 	url = git@github.com:emacsmirror/async-completing-read.git
