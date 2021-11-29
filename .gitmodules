@@ -8642,6 +8642,9 @@
 [submodule "github-clone"]
 	path = mirror/github-clone
 	url = git@github.com:emacsmirror/github-clone.git
+[submodule "github-dark-vscode-theme"]
+	path = mirror/github-dark-vscode-theme
+	url = git@github.com:emacsmirror/github-dark-vscode-theme.git
 [submodule "github-elpa"]
 	path = mirror/github-elpa
 	url = git@github.com:emacsmirror/github-elpa.git
