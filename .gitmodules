@@ -16127,6 +16127,9 @@
 [submodule "org-tracktable"]
 	path = mirror/org-tracktable
 	url = git@github.com:emacsmirror/org-tracktable.git
+[submodule "org-transclusion"]
+	path = mirror/org-transclusion
+	url = git@github.com:emacsmirror/org-transclusion.git
 [submodule "org-transform-tree-table"]
 	path = mirror/org-transform-tree-table
 	url = git@github.com:emacsmirror/org-transform-tree-table.git
