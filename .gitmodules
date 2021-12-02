@@ -8225,8 +8225,8 @@
 	path = mirror/fuz-bin
 	url = git@github.com:emacsmirror/fuz-bin.git
 [submodule "fuzz"]
-	path = mirror/fuzz
-	url = git@github.com:emacsmirror/fuzz.git
+	path = attic/fuzz
+	url = git@github.com:emacsattic/fuzz.git
 [submodule "fuzzy"]
 	path = mirror/fuzzy
 	url = git@github.com:emacsmirror/fuzzy.git
