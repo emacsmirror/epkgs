@@ -7889,6 +7889,9 @@
 [submodule "flymake-yaml"]
 	path = mirror/flymake-yaml
 	url = git@github.com:emacsmirror/flymake-yaml.git
+[submodule "flymake-yamllint"]
+	path = mirror/flymake-yamllint
+	url = git@github.com:emacsmirror/flymake-yamllint.git
 [submodule "flymd"]
 	path = mirror/flymd
 	url = git@github.com:emacsmirror/flymd.git
