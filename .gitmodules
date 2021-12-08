@@ -19185,6 +19185,9 @@
 [submodule "rufo"]
 	path = mirror/rufo
 	url = git@github.com:emacsmirror/rufo.git
+[submodule "ruled-switch-buffer"]
+	path = mirror/ruled-switch-buffer
+	url = git@github.com:emacsmirror/ruled-switch-buffer.git
 [submodule "rum-mode"]
 	path = mirror/rum-mode
 	url = git@github.com:emacsmirror/rum-mode.git
