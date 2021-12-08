@@ -8766,6 +8766,9 @@
 [submodule "gmpl-mode"]
 	path = mirror/gmpl-mode
 	url = git@github.com:emacsmirror/gmpl-mode.git
+[submodule "gmsh-mode"]
+	path = mirror/gmsh-mode
+	url = git@github.com:emacsmirror/gmsh-mode.git
 [submodule "gn-mode"]
 	path = mirror/gn-mode
 	url = git@github.com:emacsmirror/gn-mode.git
