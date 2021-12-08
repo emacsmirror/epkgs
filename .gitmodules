@@ -21899,6 +21899,9 @@
 [submodule "toggle-window"]
 	path = mirror/toggle-window
 	url = git@github.com:emacsmirror/toggle-window.git
+[submodule "tok-theme"]
+	path = mirror/tok-theme
+	url = git@github.com:emacsmirror/tok-theme.git
 [submodule "tokipona"]
 	path = attic/tokipona
 	url = git@github.com:emacsattic/tokipona.git
