@@ -18153,6 +18153,9 @@
 [submodule "python-isort"]
 	path = mirror/python-isort
 	url = git@github.com:emacsmirror/python-isort.git
+[submodule "python-mls"]
+	path = mirror/python-mls
+	url = git@github.com:emacsmirror/python-mls.git
 [submodule "python-mode"]
 	path = mirror/python-mode
 	url = git@github.com:emacsmirror/python-mode.git
