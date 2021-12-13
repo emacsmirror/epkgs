@@ -6768,6 +6768,9 @@
 [submodule "expectations-mode"]
 	path = mirror/expectations-mode
 	url = git@github.com:emacsmirror/expectations-mode.git
+[submodule "expenses"]
+	path = mirror/expenses
+	url = git@github.com:emacsmirror/expenses.git
 [submodule "explain-pause-mode"]
 	path = mirror/explain-pause-mode
 	url = git@github.com:emacsmirror/explain-pause-mode.git
