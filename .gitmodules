@@ -4480,6 +4480,9 @@
 [submodule "dirvars"]
 	path = attic/dirvars
 	url = git@github.com:emacsattic/dirvars.git
+[submodule "dirvish"]
+	path = mirror/dirvish
+	url = git@github.com:emacsmirror/dirvish.git
 [submodule "disable-mouse"]
 	path = mirror/disable-mouse
 	url = git@github.com:emacsmirror/disable-mouse.git
