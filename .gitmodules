@@ -2502,6 +2502,9 @@
 [submodule "cil-mode"]
 	path = mirror/cil-mode
 	url = git@github.com:emacsmirror/cil-mode.git
+[submodule "cilk-mode"]
+	path = mirror/cilk-mode
+	url = git@github.com:emacsmirror/cilk-mode.git
 [submodule "cinspect"]
 	path = mirror/cinspect
 	url = git@github.com:emacsmirror/cinspect.git
