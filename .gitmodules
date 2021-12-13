@@ -20032,6 +20032,9 @@
 [submodule "singlebind"]
 	path = mirror/singlebind
 	url = git@github.com:emacsmirror/singlebind.git
+[submodule "siri-shortcuts"]
+	path = mirror/siri-shortcuts
+	url = git@github.com:emacsmirror/siri-shortcuts.git
 [submodule "sis"]
 	path = mirror/sis
 	url = git@github.com:emacsmirror/sis.git
