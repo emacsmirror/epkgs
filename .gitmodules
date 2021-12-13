@@ -11023,6 +11023,9 @@
 	path = mirror/importmagic
 	url = git@github.com:emacsmirror/importmagic.git
 	branch = master
+[submodule "impostman"]
+	path = mirror/impostman
+	url = git@github.com:emacsmirror/impostman.git
 [submodule "impress"]
 	path = attic/impress
 	url = git@github.com:emacsattic/impress.git
