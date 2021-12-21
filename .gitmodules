@@ -20503,8 +20503,8 @@
 	url = git@github.com:emacsmirror/sourcerer-theme.git
 	branch = master
 [submodule "sourcetrail"]
-	path = mirror/sourcetrail
-	url = git@github.com:emacsmirror/sourcetrail.git
+	path = attic/sourcetrail
+	url = git@github.com:emacsattic/sourcetrail.git
 	branch = master
 [submodule "space-chord"]
 	path = mirror/space-chord
