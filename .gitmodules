@@ -5279,6 +5279,9 @@
 [submodule "eglot"]
 	path = mirror/eglot
 	url = git@github.com:emacsmirror/eglot.git
+[submodule "eglot-java"]
+	path = mirror/eglot-java
+	url = git@github.com:emacsmirror/eglot-java.git
 [submodule "eglot-jl"]
 	path = mirror/eglot-jl
 	url = git@github.com:emacsmirror/eglot-jl.git
