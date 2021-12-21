@@ -17785,8 +17785,8 @@
 	path = mirror/project-persist-drawer
 	url = git@github.com:emacsmirror/project-persist-drawer.git
 [submodule "project-root"]
-	path = mirror/project-root
-	url = git@github.com:emacsmirror/project-root.git
+	path = attic/project-root
+	url = git@github.com:emacsattic/project-root.git
 [submodule "project-shells"]
 	path = mirror/project-shells
 	url = git@github.com:emacsmirror/project-shells.git
