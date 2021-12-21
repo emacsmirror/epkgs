@@ -5836,8 +5836,8 @@
 	url = git@github.com:emacsmirror/emir.git
 	branch = master
 [submodule "emlib"]
-	path = mirror/emlib
-	url = git@github.com:emacsmirror/emlib.git
+	path = attic/emlib
+	url = git@github.com:emacsattic/emlib.git
 	branch = master
 [submodule "emmental"]
 	path = attic/emmental
