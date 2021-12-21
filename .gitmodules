@@ -18135,6 +18135,9 @@
 [submodule "python-cell"]
 	path = mirror/python-cell
 	url = git@github.com:emacsmirror/python-cell.git
+[submodule "python-coverage"]
+	path = mirror/python-coverage
+	url = git@github.com:emacsmirror/python-coverage.git
 [submodule "python-django"]
 	path = mirror/python-django
 	url = git@github.com:emacsmirror/python-django.git
