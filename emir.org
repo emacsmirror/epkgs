@@ -72,6 +72,16 @@
 | merlin-iedit   | merlin  |
 | shimbun        | w3m     |
 
+* Set ~emir-keep-packages~
+#+NAME: set--emir-kept-packages
+#+BEGIN_SRC emacs-lisp :var value=val--emir-kept-packages
+  <<setup>>(emir--save-variable 'emir-kept-packages value)
+#+END_SRC
+#+NAME: val--emir-kept-packages
+| Package        | Reason         |
+|----------------+----------------|
+| flycheck-julia | still on melpa |
+
 * Set ~emir--homepage-alist~
 #+NAME: set--emir--homepage-alist
 #+BEGIN_SRC emacs-lisp :var value=val--emir--homepage-alist
