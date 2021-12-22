@@ -17699,6 +17699,9 @@
 [submodule "pretty-symbols"]
 	path = mirror/pretty-symbols
 	url = git@github.com:emacsmirror/pretty-symbols.git
+[submodule "preview-dvisvgm"]
+	path = mirror/preview-dvisvgm
+	url = git@github.com:emacsmirror/preview-dvisvgm.git
 [submodule "prg-comment"]
 	path = attic/prg-comment
 	url = git@github.com:emacsattic/prg-comment.git
