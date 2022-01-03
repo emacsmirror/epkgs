@@ -13579,6 +13579,9 @@
 [submodule "matrix-client"]
 	path = attic/matrix-client
 	url = git@github.com:emacsattic/matrix-client.git
+[submodule "matrix-theme"]
+	path = mirror/matrix-theme
+	url = git@github.com:emacsmirror/matrix-theme.git
 [submodule "maude-mode"]
 	path = mirror/maude-mode
 	url = git@github.com:emacsmirror/maude-mode.git
