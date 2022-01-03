@@ -7139,6 +7139,9 @@
 [submodule "fillcode"]
 	path = mirror/fillcode
 	url = git@github.com:emacsmirror/fillcode.git
+[submodule "filldent"]
+	path = mirror/filldent
+	url = git@github.com:emacsmirror/filldent.git
 [submodule "finalize"]
 	path = mirror/finalize
 	url = git@github.com:emacsmirror/finalize.git
