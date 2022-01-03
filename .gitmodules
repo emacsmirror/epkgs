@@ -799,6 +799,9 @@
 	path = mirror/arview
 	url = git@github.com:emacsmirror/arview.git
 	branch = master
+[submodule "arxiv-mode"]
+	path = mirror/arxiv-mode
+	url = git@github.com:emacsmirror/arxiv-mode.git
 [submodule "arxiv-reader"]
 	path = attic/arxiv-reader
 	url = git@github.com:emacsattic/arxiv-reader.git
