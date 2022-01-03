@@ -3382,6 +3382,9 @@
 [submodule "counsel-ag-popup"]
 	path = mirror/counsel-ag-popup
 	url = git@github.com:emacsmirror/counsel-ag-popup.git
+[submodule "counsel-at-point"]
+	path = mirror/counsel-at-point
+	url = git@github.com:emacsmirror/counsel-at-point.git
 [submodule "counsel-bbdb"]
 	path = mirror/counsel-bbdb
 	url = git@github.com:emacsmirror/counsel-bbdb.git
