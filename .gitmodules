@@ -18703,6 +18703,9 @@
 [submodule "recursive-narrow"]
 	path = mirror/recursive-narrow
 	url = git@github.com:emacsmirror/recursive-narrow.git
+[submodule "redacted"]
+	path = mirror/redacted
+	url = git@github.com:emacsmirror/redacted.git
 [submodule "reddigg"]
 	path = mirror/reddigg
 	url = git@github.com:emacsmirror/reddigg.git
