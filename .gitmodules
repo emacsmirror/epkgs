@@ -10927,6 +10927,9 @@
 [submodule "ilisp"]
 	path = attic/ilisp
 	url = git@github.com:emacsattic/ilisp.git
+[submodule "ilist"]
+	path = mirror/ilist
+	url = git@github.com:emacsmirror/ilist.git
 [submodule "ilocate-library"]
 	path = attic/ilocate-library
 	url = git@github.com:emacsattic/ilocate-library.git
