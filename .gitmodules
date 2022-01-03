@@ -1658,6 +1658,9 @@
 	path = mirror/bliss-theme
 	url = git@github.com:emacsmirror/bliss-theme.git
 	branch = master
+[submodule "blist"]
+	path = mirror/blist
+	url = git@github.com:emacsmirror/blist.git
 [submodule "blitzmax-mode"]
 	path = mirror/blitzmax-mode
 	url = git@github.com:emacsmirror/blitzmax-mode.git
