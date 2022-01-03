@@ -17050,6 +17050,9 @@
 [submodule "perspective"]
 	path = mirror/perspective
 	url = git@github.com:emacsmirror/perspective.git
+[submodule "perspective-exwm"]
+	path = mirror/perspective-exwm
+	url = git@github.com:emacsmirror/perspective-exwm.git
 [submodule "perspeen"]
 	path = mirror/perspeen
 	url = git@github.com:emacsmirror/perspeen.git
