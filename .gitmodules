@@ -11936,6 +11936,9 @@
 [submodule "juick"]
 	path = mirror/juick
 	url = git@github.com:emacsmirror/juick.git
+[submodule "julia-formatter"]
+	path = mirror/julia-formatter
+	url = git@github.com:emacsmirror/julia-formatter.git
 [submodule "julia-mode"]
 	path = mirror/julia-mode
 	url = git@github.com:emacsmirror/julia-mode.git
