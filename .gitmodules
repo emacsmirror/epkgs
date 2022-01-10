@@ -21513,6 +21513,9 @@
 [submodule "tempbuf"]
 	path = attic/tempbuf
 	url = git@github.com:emacsattic/tempbuf.git
+[submodule "tempel"]
+	path = mirror/tempel
+	url = git@github.com:emacsmirror/tempel.git
 [submodule "template"]
 	path = attic/template
 	url = git@github.com:emacsattic/template.git
