@@ -22343,6 +22343,9 @@
 	path = attic/typoscript-mode
 	url = git@github.com:emacsattic/typoscript-mode.git
 	branch = master
+[submodule "tzc"]
+	path = mirror/tzc
+	url = git@github.com:emacsmirror/tzc.git
 [submodule "u-appt"]
 	path = attic/u-appt
 	url = git@github.com:emacsattic/u-appt.git
