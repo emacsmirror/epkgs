@@ -6835,6 +6835,9 @@
 [submodule "exwm-mff"]
 	path = mirror/exwm-mff
 	url = git@github.com:emacsmirror/exwm-mff.git
+[submodule "exwm-modeline"]
+	path = mirror/exwm-modeline
+	url = git@github.com:emacsmirror/exwm-modeline.git
 [submodule "exwm-surf"]
 	path = mirror/exwm-surf
 	url = git@github.com:emacsmirror/exwm-surf.git
