@@ -13567,7 +13567,6 @@
 [submodule "mastodon"]
 	path = mirror/mastodon
 	url = git@github.com:emacsmirror/mastodon.git
-	branch = master
 [submodule "material-theme"]
 	path = mirror/material-theme
 	url = git@github.com:emacsmirror/material-theme.git
