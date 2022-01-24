@@ -4257,6 +4257,9 @@
 [submodule "diff+"]
 	path = mirror/diff+
 	url = git@github.com:emacsmirror/diff-plus.git
+[submodule "diff-ansi"]
+	path = mirror/diff-ansi
+	url = git@github.com:emacsmirror/diff-ansi.git
 [submodule "diff-at-point"]
 	path = mirror/diff-at-point
 	url = git@github.com:emacsmirror/diff-at-point.git
