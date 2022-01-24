@@ -10148,6 +10148,9 @@
 	path = mirror/helm-tramp
 	url = git@github.com:emacsmirror/helm-tramp.git
 	branch = master
+[submodule "helm-tree-sitter"]
+	path = mirror/helm-tree-sitter
+	url = git@github.com:emacsmirror/helm-tree-sitter.git
 [submodule "helm-unicode"]
 	path = mirror/helm-unicode
 	url = git@github.com:emacsmirror/helm-unicode.git
