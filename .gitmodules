@@ -17755,6 +17755,9 @@
 [submodule "pretty-sha-path"]
 	path = mirror/pretty-sha-path
 	url = git@github.com:emacsmirror/pretty-sha-path.git
+[submodule "pretty-speedbar"]
+	path = mirror/pretty-speedbar
+	url = git@github.com:emacsmirror/pretty-speedbar.git
 [submodule "pretty-symbols"]
 	path = mirror/pretty-symbols
 	url = git@github.com:emacsmirror/pretty-symbols.git
