@@ -15111,6 +15111,9 @@
 [submodule "numbers"]
 	path = mirror/numbers
 	url = git@github.com:emacsmirror/numbers.git
+[submodule "numbex"]
+	path = mirror/numbex
+	url = git@github.com:emacsmirror/numbex.git
 [submodule "nummm-mode"]
 	path = mirror/nummm-mode
 	url = git@github.com:emacsmirror/nummm-mode.git
