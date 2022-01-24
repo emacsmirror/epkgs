@@ -829,6 +829,9 @@
 [submodule "asilea"]
 	path = mirror/asilea
 	url = git@github.com:emacsmirror/asilea.git
+[submodule "asm-blox"]
+	path = mirror/asm-blox
+	url = git@github.com:emacsmirror/asm-blox.git
 [submodule "asm56k-f-lck"]
 	path = attic/asm56k-f-lck
 	url = git@github.com:emacsattic/asm56k-f-lck.git
