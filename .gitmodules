@@ -200,6 +200,9 @@
 [submodule "accelerate"]
 	path = mirror/accelerate
 	url = git@github.com:emacsmirror/accelerate.git
+[submodule "accent"]
+	path = mirror/accent
+	url = git@github.com:emacsmirror/accent.git
 [submodule "acd"]
 	path = mirror/acd
 	url = git@github.com:emacsmirror/acd.git
