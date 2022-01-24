@@ -21282,6 +21282,9 @@
 [submodule "syntax-subword"]
 	path = mirror/syntax-subword
 	url = git@github.com:emacsmirror/syntax-subword.git
+[submodule "syntree"]
+	path = mirror/syntree
+	url = git@github.com:emacsmirror/syntree.git
 [submodule "sys"]
 	path = mirror/sys
 	url = git@github.com:emacsmirror/sys.git
