@@ -23580,6 +23580,9 @@
 [submodule "word-counter"]
 	path = attic/word-counter
 	url = git@github.com:emacsattic/word-counter.git
+[submodule "wordel"]
+	path = mirror/wordel
+	url = git@github.com:emacsmirror/wordel.git
 [submodule "wordgen"]
 	path = mirror/wordgen
 	url = git@github.com:emacsmirror/wordgen.git
