@@ -9503,6 +9503,9 @@
 [submodule "hardhat"]
 	path = mirror/hardhat
 	url = git@github.com:emacsmirror/hardhat.git
+[submodule "harpoon"]
+	path = mirror/harpoon
+	url = git@github.com:emacsmirror/harpoon.git
 [submodule "harvest"]
 	path = mirror/harvest
 	url = git@github.com:emacsmirror/harvest.git
