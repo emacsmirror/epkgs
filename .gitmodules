@@ -22601,6 +22601,9 @@
 [submodule "unkillable-scratch"]
 	path = mirror/unkillable-scratch
 	url = git@github.com:emacsmirror/unkillable-scratch.git
+[submodule "unmodified-buffer"]
+	path = mirror/unmodified-buffer
+	url = git@github.com:emacsmirror/unmodified-buffer.git
 [submodule "unmunge-general"]
 	path = attic/unmunge-general
 	url = git@github.com:emacsattic/unmunge-general.git
