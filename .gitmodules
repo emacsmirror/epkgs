@@ -15136,6 +15136,9 @@
 	path = attic/nxhtml
 	url = git@github.com:emacsattic/nxhtml.git
 	branch = master
+[submodule "nxml-uxml"]
+	path = mirror/nxml-uxml
+	url = git@github.com:emacsmirror/nxml-uxml.git
 [submodule "nyan-mode"]
 	path = mirror/nyan-mode
 	url = git@github.com:emacsmirror/nyan-mode.git
