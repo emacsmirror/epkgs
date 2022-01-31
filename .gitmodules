@@ -24212,6 +24212,9 @@
 [submodule "zimports"]
 	path = mirror/zimports
 	url = git@github.com:emacsmirror/zimports.git
+[submodule "zk"]
+	path = mirror/zk
+	url = git@github.com:emacsmirror/zk.git
 [submodule "zlc"]
 	path = mirror/zlc
 	url = git@github.com:emacsmirror/zlc.git
