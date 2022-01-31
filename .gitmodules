@@ -19292,6 +19292,9 @@
 [submodule "run-command"]
 	path = mirror/run-command
 	url = git@github.com:emacsmirror/run-command.git
+[submodule "run-command-recipes"]
+	path = mirror/run-command-recipes
+	url = git@github.com:emacsmirror/run-command-recipes.git
 [submodule "run-stuff"]
 	path = mirror/run-stuff
 	url = git@github.com:emacsmirror/run-stuff.git
