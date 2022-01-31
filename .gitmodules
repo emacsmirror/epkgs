@@ -19042,6 +19042,9 @@
 [submodule "rheeet-mail"]
 	path = attic/rheeet-mail
 	url = git@github.com:emacsattic/rheeet-mail.git
+[submodule "rhq"]
+	path = mirror/rhq
+	url = git@github.com:emacsmirror/rhq.git
 [submodule "rhtml-minor-mode"]
 	path = attic/rhtml-minor-mode
 	url = git@github.com:emacsattic/rhtml-minor-mode.git
