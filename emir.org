@@ -34,25 +34,50 @@
   <<setup>>(emir--save-variable 'emir-suspended-packages value)
 #+END_SRC
 #+NAME: val--emir-suspended-packages
-| Package             | Reason         |
-|---------------------+----------------|
-| cfengine-code-style | slow           |
-| clang-format        | extremely slow |
-| cmake-mode          | slow           |
-| cython-mode         | slow           |
-| icicles             | heisenbug      |
-| make-mode           | slow           |
-| bibliothek          | unreachable    |
-| dune                | unreachable    |
-| forecast            | unreachable    |
-| org-variable-pitch  | unreachable    |
-| paper-theme         | unreachable    |
-| pylint              | unreachable    |
-| shell-command+      | unreachable    |
+| Package              | Reason         |
+|----------------------+----------------|
+| cfengine-code-style  | slow           |
+| clang-format         | extremely slow |
+| cmake-mode           | slow           |
+| cython-mode          | slow           |
+| icicles              | heisenbug      |
+| make-mode            | slow           |
+| bibliothek           | unreachable    |
+| dune                 | unreachable    |
+| forecast             | unreachable    |
+| org-variable-pitch   | unreachable    |
+| paper-theme          | unreachable    |
+| pylint               | unreachable    |
+| shell-command+       | unreachable    |
+| amread-mode          | stardiviner    |
+| arduino-mode         | stardiviner    |
+| company-nginx        | stardiviner    |
+| edebug-inline-result | stardiviner    |
+| eldoc-overlay        | stardiviner    |
+| rainbow-fart         | stardiviner    |
+| goldendict           | stardiviner    |
+| inline-docs          | stardiviner    |
+| kiwix                | stardiviner    |
+| major-mode-icons     | stardiviner    |
+| mu4e-marker-icons    | stardiviner    |
+| ob-php               | stardiviner    |
+| ob-redis             | stardiviner    |
+| ob-sclang            | stardiviner    |
+| ob-smiles            | stardiviner    |
+| ob-spice             | stardiviner    |
+| org-kindle           | stardiviner    |
+| org-link-beautify    | stardiviner    |
+| org-seek             | stardiviner    |
+| org-tag-beautify     | stardiviner    |
+| proxy-mode           | stardiviner    |
+| sdcv                 | stardiviner    |
+| smiles-mode          | stardiviner    |
+| spice-mode           | stardiviner    |
 
 - icicles: It freezes except when I try to investigate why it freezes.
 - cfengine-code-style, clang-format, make-mode, cython-mode: pending
   filtering improvements
+- stardiviner: https://github.com/melpa/melpa/issues/7872
 
 * Set ~emir-secondary-packages~
 #+NAME: set--emir-secondary-packages
