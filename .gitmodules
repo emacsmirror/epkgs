@@ -2420,6 +2420,9 @@
 [submodule "chess"]
 	path = mirror/chess
 	url = git@github.com:emacsmirror/chess.git
+[submodule "chezmoi"]
+	path = mirror/chezmoi
+	url = git@github.com:emacsmirror/chezmoi.git
 [submodule "chicken-scheme"]
 	path = attic/chicken-scheme
 	url = git@github.com:emacsattic/chicken-scheme.git
