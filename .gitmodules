@@ -22337,6 +22337,9 @@
 [submodule "twit"]
 	path = attic/twit
 	url = git@github.com:emacsattic/twit.git
+[submodule "twitch-api"]
+	path = mirror/twitch-api
+	url = git@github.com:emacsmirror/twitch-api.git
 [submodule "twitel"]
 	path = attic/twitel
 	url = git@github.com:emacsattic/twitel.git
