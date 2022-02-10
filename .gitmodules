@@ -12241,7 +12241,6 @@
 [submodule "kiwix"]
 	path = mirror/kiwix
 	url = git@github.com:emacsmirror/kiwix.git
-	branch = master
 [submodule "kixtart-mode"]
 	path = mirror/kixtart-mode
 	url = git@github.com:emacsmirror/kixtart-mode.git
