@@ -20383,7 +20383,6 @@
 [submodule "smiles-mode"]
 	path = mirror/smiles-mode
 	url = git@github.com:emacsmirror/smiles-mode.git
-	branch = master
 [submodule "smithers"]
 	path = mirror/smithers
 	url = git@github.com:emacsmirror/smithers.git
