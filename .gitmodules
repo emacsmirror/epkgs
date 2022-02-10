@@ -20685,7 +20685,6 @@
 [submodule "spice-mode"]
 	path = mirror/spice-mode
 	url = git@github.com:emacsmirror/spice-mode.git
-	branch = master
 [submodule "spinasm-mode"]
 	path = mirror/spinasm-mode
 	url = git@github.com:emacsmirror/spinasm-mode.git
