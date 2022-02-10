@@ -16137,7 +16137,6 @@
 [submodule "org-seek"]
 	path = mirror/org-seek
 	url = git@github.com:emacsmirror/org-seek.git
-	branch = master
 [submodule "org-seenthis"]
 	path = attic/org-seenthis
 	url = git@github.com:emacsattic/org-seenthis.git
