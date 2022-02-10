@@ -11232,7 +11232,6 @@
 [submodule "inline-docs"]
 	path = mirror/inline-docs
 	url = git@github.com:emacsmirror/inline-docs.git
-	branch = master
 [submodule "inlineR"]
 	path = attic/inlineR
 	url = git@github.com:emacsattic/inlineR.git
