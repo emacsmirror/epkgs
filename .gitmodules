@@ -19629,7 +19629,6 @@
 [submodule "sdcv"]
 	path = mirror/sdcv
 	url = git@github.com:emacsmirror/sdcv.git
-	branch = master
 [submodule "sdic"]
 	path = attic/sdic
 	url = git@github.com:emacsattic/sdic.git
