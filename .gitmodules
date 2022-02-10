@@ -13407,7 +13407,6 @@
 [submodule "major-mode-icons"]
 	path = mirror/major-mode-icons
 	url = git@github.com:emacsmirror/major-mode-icons.git
-	branch = master
 [submodule "majordomo"]
 	path = attic/majordomo
 	url = git@github.com:emacsattic/majordomo.git
