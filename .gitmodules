@@ -16707,6 +16707,9 @@
 [submodule "pager-default-keybindings"]
 	path = mirror/pager-default-keybindings
 	url = git@github.com:emacsmirror/pager-default-keybindings.git
+[submodule "paimon"]
+	path = mirror/paimon
+	url = git@github.com:emacsmirror/paimon.git
 [submodule "paint"]
 	path = mirror/paint
 	url = git@github.com:emacsmirror/paint.git
