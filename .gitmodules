@@ -496,8 +496,8 @@
 	path = mirror/aml-mode
 	url = git@github.com:emacsmirror/aml-mode.git
 [submodule "ammonite-term-repl"]
-	path = mirror/ammonite-term-repl
-	url = git@github.com:emacsmirror/ammonite-term-repl.git
+	path = attic/ammonite-term-repl
+	url = git@github.com:emacsattic/ammonite-term-repl.git
 [submodule "ampc"]
 	path = mirror/ampc
 	url = git@github.com:emacsmirror/ampc.git
