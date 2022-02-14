@@ -15876,6 +15876,9 @@
 [submodule "org-journal-list"]
 	path = mirror/org-journal-list
 	url = git@github.com:emacsmirror/org-journal-list.git
+[submodule "org-journal-tags"]
+	path = mirror/org-journal-tags
+	url = git@github.com:emacsmirror/org-journal-tags.git
 [submodule "org-json"]
 	path = mirror/org-json
 	url = git@github.com:emacsmirror/org-json.git
