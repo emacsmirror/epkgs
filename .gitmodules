@@ -19487,8 +19487,8 @@
 	path = mirror/scala-mode
 	url = git@github.com:emacsmirror/scala-mode.git
 [submodule "scalariform"]
-	path = mirror/scalariform
-	url = git@github.com:emacsmirror/scalariform.git
+	path = attic/scalariform
+	url = git@github.com:emacsattic/scalariform.git
 [submodule "scan"]
 	path = mirror/scan
 	url = git@github.com:emacsmirror/scan.git
