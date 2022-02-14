@@ -15170,8 +15170,8 @@
 	path = mirror/oauth2-request
 	url = git@github.com:emacsmirror/oauth2-request.git
 [submodule "ob-ammonite"]
-	path = mirror/ob-ammonite
-	url = git@github.com:emacsmirror/ob-ammonite.git
+	path = attic/ob-ammonite
+	url = git@github.com:emacsattic/ob-ammonite.git
 [submodule "ob-applescript"]
 	path = mirror/ob-applescript
 	url = git@github.com:emacsmirror/ob-applescript.git
