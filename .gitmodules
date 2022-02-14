@@ -20119,6 +20119,9 @@
 [submodule "simplezen"]
 	path = mirror/simplezen
 	url = git@github.com:emacsmirror/simplezen.git
+[submodule "simplicity-theme"]
+	path = mirror/simplicity-theme
+	url = git@github.com:emacsmirror/simplicity-theme.git
 [submodule "sinasi"]
 	path = mirror/sinasi
 	url = git@github.com:emacsmirror/sinasi.git
