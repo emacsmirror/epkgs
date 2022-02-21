@@ -22127,6 +22127,9 @@
 [submodule "tramp-hdfs"]
 	path = mirror/tramp-hdfs
 	url = git@github.com:emacsmirror/tramp-hdfs.git
+[submodule "tramp-nspawn"]
+	path = mirror/tramp-nspawn
+	url = git@github.com:emacsmirror/tramp-nspawn.git
 [submodule "tramp-term"]
 	path = mirror/tramp-term
 	url = git@github.com:emacsmirror/tramp-term.git
