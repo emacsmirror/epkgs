@@ -23205,6 +23205,9 @@
 [submodule "wallpaper"]
 	path = mirror/wallpaper
 	url = git@github.com:emacsmirror/wallpaper.git
+[submodule "wallpreview"]
+	path = mirror/wallpreview
+	url = git@github.com:emacsmirror/wallpreview.git
 [submodule "wand"]
 	path = mirror/wand
 	url = git@github.com:emacsmirror/wand.git
