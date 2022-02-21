@@ -3800,6 +3800,9 @@
 [submodule "cycbuf"]
 	path = mirror/cycbuf
 	url = git@github.com:emacsmirror/cycbuf.git
+[submodule "cycle-at-point"]
+	path = mirror/cycle-at-point
+	url = git@github.com:emacsmirror/cycle-at-point.git
 [submodule "cycle-buffer"]
 	path = mirror/cycle-buffer
 	url = git@github.com:emacsmirror/cycle-buffer.git
