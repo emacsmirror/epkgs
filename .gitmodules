@@ -15337,6 +15337,9 @@
 [submodule "ob-sml"]
 	path = mirror/ob-sml
 	url = git@github.com:emacsmirror/ob-sml.git
+[submodule "ob-solidity"]
+	path = mirror/ob-solidity
+	url = git@github.com:emacsmirror/ob-solidity.git
 [submodule "ob-spice"]
 	path = mirror/ob-spice
 	url = git@github.com:emacsmirror/ob-spice.git
