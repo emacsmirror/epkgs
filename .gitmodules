@@ -5196,6 +5196,9 @@
 [submodule "ediprolog"]
 	path = mirror/ediprolog
 	url = git@github.com:emacsmirror/ediprolog.git
+[submodule "edit-as-format"]
+	path = mirror/edit-as-format
+	url = git@github.com:emacsmirror/edit-as-format.git
 [submodule "edit-at-point"]
 	path = attic/edit-at-point
 	url = git@github.com:emacsattic/edit-at-point.git
