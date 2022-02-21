@@ -12847,6 +12847,9 @@
 	path = mirror/literate-starter-kit
 	url = git@github.com:emacsmirror/literate-starter-kit.git
 	branch = master
+[submodule "litex-mode"]
+	path = mirror/litex-mode
+	url = git@github.com:emacsmirror/litex-mode.git
 [submodule "litprog"]
 	path = attic/litprog
 	url = git@github.com:emacsattic/litprog.git
