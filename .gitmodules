@@ -22081,6 +22081,9 @@
 [submodule "topsongs"]
 	path = mirror/topsongs
 	url = git@github.com:emacsmirror/topsongs.git
+[submodule "topspace"]
+	path = mirror/topspace
+	url = git@github.com:emacsmirror/topspace.git
 [submodule "topsy"]
 	path = mirror/topsy
 	url = git@github.com:emacsmirror/topsy.git
