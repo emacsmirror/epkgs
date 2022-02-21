@@ -16269,6 +16269,9 @@
 [submodule "org-velocity"]
 	path = mirror/org-velocity
 	url = git@github.com:emacsmirror/org-velocity.git
+[submodule "org-view-mode"]
+	path = mirror/org-view-mode
+	url = git@github.com:emacsmirror/org-view-mode.git
 [submodule "org-visibility"]
 	path = mirror/org-visibility
 	url = git@github.com:emacsmirror/org-visibility.git
