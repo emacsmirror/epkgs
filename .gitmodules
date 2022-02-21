@@ -20098,6 +20098,9 @@
 [submodule "simple-httpd"]
 	path = mirror/simple-httpd
 	url = git@github.com:emacsmirror/simple-httpd.git
+[submodule "simple-indentation"]
+	path = mirror/simple-indentation
+	url = git@github.com:emacsmirror/simple-indentation.git
 [submodule "simple-modeline"]
 	path = mirror/simple-modeline
 	url = git@github.com:emacsmirror/simple-modeline.git
