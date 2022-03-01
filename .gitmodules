@@ -14676,6 +14676,9 @@
 [submodule "narrowed-page-navigation"]
 	path = mirror/narrowed-page-navigation
 	url = git@github.com:emacsmirror/narrowed-page-navigation.git
+[submodule "narumi"]
+	path = mirror/narumi
+	url = git@github.com:emacsmirror/narumi.git
 [submodule "nash-mode"]
 	path = mirror/nash-mode
 	url = git@github.com:emacsmirror/nash-mode.git
