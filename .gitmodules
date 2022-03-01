@@ -14191,6 +14191,9 @@
 	path = mirror/morganey-mode
 	url = git@github.com:emacsmirror/morganey-mode.git
 	branch = master
+[submodule "morgentau-theme"]
+	path = mirror/morgentau-theme
+	url = git@github.com:emacsmirror/morgentau-theme.git
 [submodule "morlock"]
 	path = mirror/morlock
 	url = git@github.com:emacsmirror/morlock.git
