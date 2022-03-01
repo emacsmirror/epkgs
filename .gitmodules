@@ -23449,6 +23449,9 @@
 [submodule "whole-line-or-region"]
 	path = mirror/whole-line-or-region
 	url = git@github.com:emacsmirror/whole-line-or-region.git
+[submodule "why-this"]
+	path = mirror/why-this
+	url = git@github.com:emacsmirror/why-this.git
 [submodule "wid-edit+"]
 	path = mirror/wid-edit+
 	url = git@github.com:emacsmirror/wid-edit-plus.git
