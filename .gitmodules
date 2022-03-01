@@ -5117,6 +5117,9 @@
 [submodule "ecd"]
 	path = mirror/ecd
 	url = git@github.com:emacsmirror/ecd.git
+[submodule "echo-bar"]
+	path = mirror/echo-bar
+	url = git@github.com:emacsmirror/echo-bar.git
 [submodule "echo-bell"]
 	path = mirror/echo-bell
 	url = git@github.com:emacsmirror/echo-bell.git
