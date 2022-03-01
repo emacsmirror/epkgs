@@ -19437,6 +19437,9 @@
 [submodule "sass-mode"]
 	path = mirror/sass-mode
 	url = git@github.com:emacsmirror/sass-mode.git
+[submodule "satchel"]
+	path = mirror/satchel
+	url = git@github.com:emacsmirror/satchel.git
 [submodule "sauron"]
 	path = mirror/sauron
 	url = git@github.com:emacsmirror/sauron.git
