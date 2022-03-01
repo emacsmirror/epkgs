@@ -17764,6 +17764,9 @@
 	path = mirror/prassee-theme
 	url = git@github.com:emacsmirror/prassee-theme.git
 	branch = master
+[submodule "prefab"]
+	path = mirror/prefab
+	url = git@github.com:emacsmirror/prefab.git
 [submodule "prefixed-core"]
 	path = mirror/prefixed-core
 	url = git@github.com:emacsmirror/prefixed-core.git
