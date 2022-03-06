@@ -16629,6 +16629,9 @@
 [submodule "ox-ssh"]
 	path = mirror/ox-ssh
 	url = git@github.com:emacsmirror/ox-ssh.git
+[submodule "ox-texinfo+"]
+	path = attic/ox-texinfo+
+	url = git@github.com:emacsattic/ox-texinfo-plus.git
 [submodule "ox-textile"]
 	path = mirror/ox-textile
 	url = git@github.com:emacsmirror/ox-textile.git
