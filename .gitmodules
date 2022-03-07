@@ -12344,6 +12344,9 @@
 [submodule "kurecolor"]
 	path = mirror/kurecolor
 	url = git@github.com:emacsmirror/kurecolor.git
+[submodule "kuronami-theme"]
+	path = mirror/kuronami-theme
+	url = git@github.com:emacsmirror/kuronami-theme.git
 [submodule "kv"]
 	path = mirror/kv
 	url = git@github.com:emacsmirror/kv.git
