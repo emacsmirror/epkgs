@@ -16161,6 +16161,9 @@
 [submodule "org-roam-ui"]
 	path = mirror/org-roam-ui
 	url = git@github.com:emacsmirror/org-roam-ui.git
+[submodule "org-ros"]
+	path = mirror/org-ros
+	url = git@github.com:emacsmirror/org-ros.git
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
@@ -18389,6 +18392,9 @@
 [submodule "quarter-plane"]
 	path = mirror/quarter-plane
 	url = git@github.com:emacsmirror/quarter-plane.git
+[submodule "quarto-mode"]
+	path = mirror/quarto-mode
+	url = git@github.com:emacsmirror/quarto-mode.git
 [submodule "quasi-monochrome-theme"]
 	path = mirror/quasi-monochrome-theme
 	url = git@github.com:emacsmirror/quasi-monochrome-theme.git
@@ -24399,6 +24405,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "org-ros"]
-	path = mirror/org-ros
-	url = git@github.com:emacsmirror/org-ros.git
