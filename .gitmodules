@@ -8727,6 +8727,9 @@
 [submodule "github-issues"]
 	path = attic/github-issues
 	url = git@github.com:emacsattic/github-issues.git
+[submodule "github-linguist"]
+	path = mirror/github-linguist
+	url = git@github.com:emacsmirror/github-linguist.git
 [submodule "github-modern-theme"]
 	path = mirror/github-modern-theme
 	url = git@github.com:emacsmirror/github-modern-theme.git
