@@ -4136,6 +4136,9 @@
 [submodule "demangle-mode"]
 	path = mirror/demangle-mode
 	url = git@github.com:emacsmirror/demangle-mode.git
+[submodule "demap"]
+	path = mirror/demap
+	url = git@github.com:emacsmirror/demap.git
 [submodule "demo-it"]
 	path = mirror/demo-it
 	url = git@github.com:emacsmirror/demo-it.git
