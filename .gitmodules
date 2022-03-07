@@ -16416,6 +16416,9 @@
 	path = mirror/osd
 	url = git@github.com:emacsmirror/osd.git
 	branch = master
+[submodule "osm"]
+	path = mirror/osm
+	url = git@github.com:emacsmirror/osm.git
 [submodule "osm-mode"]
 	path = mirror/osm-mode
 	url = git@github.com:emacsmirror/osm-mode.git
