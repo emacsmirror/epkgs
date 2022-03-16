@@ -15014,6 +15014,9 @@
 [submodule "nord-theme"]
 	path = mirror/nord-theme
 	url = git@github.com:emacsmirror/nord-theme.git
+[submodule "norns"]
+	path = mirror/norns
+	url = git@github.com:emacsmirror/norns.git
 [submodule "northcode-theme"]
 	path = mirror/northcode-theme
 	url = git@github.com:emacsmirror/northcode-theme.git
