@@ -18336,6 +18336,9 @@
 [submodule "pyvenv"]
 	path = mirror/pyvenv
 	url = git@github.com:emacsmirror/pyvenv.git
+[submodule "pyvenv-auto"]
+	path = mirror/pyvenv-auto
+	url = git@github.com:emacsmirror/pyvenv-auto.git
 [submodule "q-mode"]
 	path = mirror/q-mode
 	url = git@github.com:emacsmirror/q-mode.git
