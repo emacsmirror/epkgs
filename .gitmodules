@@ -12274,12 +12274,12 @@
 [submodule "klere-theme"]
 	path = mirror/klere-theme
 	url = git@github.com:emacsmirror/klere-theme.git
-[submodule "kmacro-mc"]
-	path = mirror/kmacro-mc
-	url = git@github.com:emacsmirror/kmacro-mc.git
 [submodule "kmacro-ring-list"]
 	path = attic/kmacro-ring-list
 	url = git@github.com:emacsattic/kmacro-ring-list.git
+[submodule "kmacro-x"]
+	path = mirror/kmacro-x
+	url = git@github.com:emacsmirror/kmacro-x.git
 [submodule "kmb"]
 	path = mirror/kmb
 	url = git@github.com:emacsmirror/kmb.git
