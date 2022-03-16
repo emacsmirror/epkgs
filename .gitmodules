@@ -20224,6 +20224,9 @@
 [submodule "skeletor"]
 	path = mirror/skeletor
 	url = git@github.com:emacsmirror/skeletor.git
+[submodule "skerrick"]
+	path = mirror/skerrick
+	url = git@github.com:emacsmirror/skerrick.git
 [submodule "sketch-mode"]
 	path = mirror/sketch-mode
 	url = git@github.com:emacsmirror/sketch-mode.git
