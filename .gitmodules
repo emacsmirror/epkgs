@@ -4564,6 +4564,9 @@
 	path = mirror/display-theme
 	url = git@github.com:emacsmirror/display-theme.git
 	branch = master
+[submodule "display-wttr"]
+	path = mirror/display-wttr
+	url = git@github.com:emacsmirror/display-wttr.git
 [submodule "disptime"]
 	path = attic/disptime
 	url = git@github.com:emacsattic/disptime.git
