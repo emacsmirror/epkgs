@@ -12983,6 +12983,9 @@
 [submodule "lognav-mode"]
 	path = mirror/lognav-mode
 	url = git@github.com:emacsmirror/lognav-mode.git
+[submodule "logos"]
+	path = mirror/logos
+	url = git@github.com:emacsmirror/logos.git
 [submodule "logpad"]
 	path = mirror/logpad
 	url = git@github.com:emacsmirror/logpad.git
