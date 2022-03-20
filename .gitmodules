@@ -411,6 +411,9 @@
 [submodule "alert-termux"]
 	path = mirror/alert-termux
 	url = git@github.com:emacsmirror/alert-termux.git
+[submodule "alert-toast"]
+	path = mirror/alert-toast
+	url = git@github.com:emacsmirror/alert-toast.git
 [submodule "algorithms"]
 	path = mirror/algorithms
 	url = git@github.com:emacsmirror/algorithms.git
