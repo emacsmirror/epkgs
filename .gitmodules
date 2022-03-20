@@ -17840,6 +17840,9 @@
 	path = mirror/prettier-js
 	url = git@github.com:emacsmirror/prettier-js.git
 	branch = master
+[submodule "prettier-rc"]
+	path = mirror/prettier-rc
+	url = git@github.com:emacsmirror/prettier-rc.git
 [submodule "prettify-greek"]
 	path = mirror/prettify-greek
 	url = git@github.com:emacsmirror/prettify-greek.git
