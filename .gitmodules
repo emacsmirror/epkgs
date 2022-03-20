@@ -3382,6 +3382,9 @@
 [submodule "corfu"]
 	path = mirror/corfu
 	url = git@github.com:emacsmirror/corfu.git
+[submodule "corfu-doc"]
+	path = mirror/corfu-doc
+	url = git@github.com:emacsmirror/corfu-doc.git
 [submodule "coroutine"]
 	path = mirror/coroutine
 	url = git@github.com:emacsmirror/coroutine.git
