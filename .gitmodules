@@ -15354,6 +15354,9 @@
 [submodule "ob-php"]
 	path = mirror/ob-php
 	url = git@github.com:emacsmirror/ob-php.git
+[submodule "ob-powershell"]
+	path = mirror/ob-powershell
+	url = git@github.com:emacsmirror/ob-powershell.git
 [submodule "ob-prolog"]
 	path = mirror/ob-prolog
 	url = git@github.com:emacsmirror/ob-prolog.git
