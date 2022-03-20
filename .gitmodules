@@ -1045,6 +1045,9 @@
 [submodule "auto-correct"]
 	path = mirror/auto-correct
 	url = git@github.com:emacsmirror/auto-correct.git
+[submodule "auto-dark"]
+	path = mirror/auto-dark
+	url = git@github.com:emacsmirror/auto-dark.git
 [submodule "auto-define"]
 	path = attic/auto-define
 	url = git@github.com:emacsattic/auto-define.git
