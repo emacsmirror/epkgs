@@ -15257,6 +15257,9 @@
 [submodule "ob-coffeescript"]
 	path = mirror/ob-coffeescript
 	url = git@github.com:emacsmirror/ob-coffeescript.git
+[submodule "ob-compile"]
+	path = mirror/ob-compile
+	url = git@github.com:emacsmirror/ob-compile.git
 [submodule "ob-crystal"]
 	path = mirror/ob-crystal
 	url = git@github.com:emacsmirror/ob-crystal.git
