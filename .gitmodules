@@ -7909,6 +7909,9 @@
 	path = mirror/flymake-lua
 	url = git@github.com:emacsmirror/flymake-lua.git
 	branch = master
+[submodule "flymake-markdownlint"]
+	path = mirror/flymake-markdownlint
+	url = git@github.com:emacsmirror/flymake-markdownlint.git
 [submodule "flymake-nasm"]
 	path = mirror/flymake-nasm
 	url = git@github.com:emacsmirror/flymake-nasm.git
