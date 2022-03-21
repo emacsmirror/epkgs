@@ -16938,8 +16938,8 @@
 	path = mirror/password-store-otp
 	url = git@github.com:emacsmirror/password-store-otp.git
 [submodule "password-vault"]
-	path = attic/password-vault
-	url = git@github.com:emacsattic/password-vault.git
+	path = mirror/password-vault
+	url = git@github.com:emacsmirror/password-vault.git
 [submodule "paste"]
 	path = mirror/paste
 	url = git@github.com:emacsmirror/paste.git
