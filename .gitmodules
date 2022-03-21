@@ -20989,6 +20989,9 @@
 [submodule "stardict"]
 	path = mirror/stardict
 	url = git@github.com:emacsmirror/stardict.git
+[submodule "starlit-theme"]
+	path = mirror/starlit-theme
+	url = git@github.com:emacsmirror/starlit-theme.git
 [submodule "start-menu"]
 	path = mirror/start-menu
 	url = git@github.com:emacsmirror/start-menu.git
