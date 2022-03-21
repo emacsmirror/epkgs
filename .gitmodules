@@ -15200,8 +15200,8 @@
 	path = mirror/nyan-mode
 	url = git@github.com:emacsmirror/nyan-mode.git
 [submodule "nyan-prompt"]
-	path = mirror/nyan-prompt
-	url = git@github.com:emacsmirror/nyan-prompt.git
+	path = attic/nyan-prompt
+	url = git@github.com:emacsattic/nyan-prompt.git
 [submodule "nyx-theme"]
 	path = mirror/nyx-theme
 	url = git@github.com:emacsmirror/nyx-theme.git
