@@ -6103,8 +6103,8 @@
 	url = git@github.com:emacsmirror/epresent.git
 	branch = master
 [submodule "eprime-mode"]
-	path = mirror/eprime-mode
-	url = git@github.com:emacsmirror/eprime-mode.git
+	path = attic/eprime-mode
+	url = git@github.com:emacsattic/eprime-mode.git
 [submodule "eproject"]
 	path = mirror/eproject
 	url = git@github.com:emacsmirror/eproject.git
