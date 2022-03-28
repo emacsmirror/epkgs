@@ -15461,6 +15461,9 @@
 [submodule "objed"]
 	path = mirror/objed
 	url = git@github.com:emacsmirror/objed.git
+[submodule "oblivion-theme"]
+	path = mirror/oblivion-theme
+	url = git@github.com:emacsmirror/oblivion-theme.git
 [submodule "obsidian-theme"]
 	path = mirror/obsidian-theme
 	url = git@github.com:emacsmirror/obsidian-theme.git
