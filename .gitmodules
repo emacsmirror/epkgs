@@ -15238,6 +15238,9 @@
 [submodule "oauth2-request"]
 	path = mirror/oauth2-request
 	url = git@github.com:emacsmirror/oauth2-request.git
+[submodule "ob-ada-spark"]
+	path = mirror/ob-ada-spark
+	url = git@github.com:emacsmirror/ob-ada-spark.git
 [submodule "ob-ammonite"]
 	path = attic/ob-ammonite
 	url = git@github.com:emacsattic/ob-ammonite.git
