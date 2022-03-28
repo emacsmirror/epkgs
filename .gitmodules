@@ -5572,6 +5572,9 @@
 [submodule "elfeed-score"]
 	path = mirror/elfeed-score
 	url = git@github.com:emacsmirror/elfeed-score.git
+[submodule "elfeed-summary"]
+	path = mirror/elfeed-summary
+	url = git@github.com:emacsmirror/elfeed-summary.git
 [submodule "elforth"]
 	path = mirror/elforth
 	url = git@github.com:emacsmirror/elforth.git
