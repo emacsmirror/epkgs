@@ -2236,6 +2236,9 @@
 [submodule "catmacs"]
 	path = mirror/catmacs
 	url = git@github.com:emacsmirror/catmacs.git
+[submodule "catppuccin-theme"]
+	path = mirror/catppuccin-theme
+	url = git@github.com:emacsmirror/catppuccin-theme.git
 [submodule "cbm"]
 	path = mirror/cbm
 	url = git@github.com:emacsmirror/cbm.git
