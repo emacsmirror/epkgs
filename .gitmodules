@@ -22304,6 +22304,9 @@
 [submodule "translate"]
 	path = attic/translate
 	url = git@github.com:emacsattic/translate.git
+[submodule "translate-mode"]
+	path = mirror/translate-mode
+	url = git@github.com:emacsmirror/translate-mode.git
 [submodule "transmission"]
 	path = mirror/transmission
 	url = git@github.com:emacsmirror/transmission.git
