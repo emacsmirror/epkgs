@@ -15252,6 +15252,9 @@
 	path = mirror/ob-async
 	url = git@github.com:emacsmirror/ob-async.git
 	branch = master
+[submodule "ob-bitfield"]
+	path = mirror/ob-bitfield
+	url = git@github.com:emacsmirror/ob-bitfield.git
 [submodule "ob-blockdiag"]
 	path = mirror/ob-blockdiag
 	url = git@github.com:emacsmirror/ob-blockdiag.git
