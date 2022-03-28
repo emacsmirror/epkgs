@@ -18130,6 +18130,9 @@
 	path = mirror/pug-mode
 	url = git@github.com:emacsmirror/pug-mode.git
 	branch = master
+[submodule "pulsar"]
+	path = mirror/pulsar
+	url = git@github.com:emacsmirror/pulsar.git
 [submodule "pulseaudio"]
 	path = mirror/pulseaudio
 	url = git@github.com:emacsmirror/pulseaudio.git
