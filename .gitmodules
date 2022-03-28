@@ -15301,6 +15301,9 @@
 	path = mirror/ob-diagrams
 	url = git@github.com:emacsmirror/ob-diagrams.git
 	branch = master
+[submodule "ob-dsq"]
+	path = mirror/ob-dsq
+	url = git@github.com:emacsmirror/ob-dsq.git
 [submodule "ob-elixir"]
 	path = mirror/ob-elixir
 	url = git@github.com:emacsmirror/ob-elixir.git
