@@ -6361,6 +6361,9 @@
 [submodule "eshell-z"]
 	path = mirror/eshell-z
 	url = git@github.com:emacsmirror/eshell-z.git
+[submodule "eslint-disable-rule"]
+	path = mirror/eslint-disable-rule
+	url = git@github.com:emacsmirror/eslint-disable-rule.git
 [submodule "eslint-fix"]
 	path = mirror/eslint-fix
 	url = git@github.com:emacsmirror/eslint-fix.git
