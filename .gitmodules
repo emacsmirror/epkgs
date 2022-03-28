@@ -7878,6 +7878,9 @@
 [submodule "flymake-grammarly"]
 	path = mirror/flymake-grammarly
 	url = git@github.com:emacsmirror/flymake-grammarly.git
+[submodule "flymake-hadolint"]
+	path = mirror/flymake-hadolint
+	url = git@github.com:emacsmirror/flymake-hadolint.git
 [submodule "flymake-haml"]
 	path = mirror/flymake-haml
 	url = git@github.com:emacsmirror/flymake-haml.git
