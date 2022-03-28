@@ -8898,6 +8898,9 @@
 [submodule "gnu-elpa-keyring-update"]
 	path = mirror/gnu-elpa-keyring-update
 	url = git@github.com:emacsmirror/gnu-elpa-keyring-update.git
+[submodule "gnu-indent"]
+	path = mirror/gnu-indent
+	url = git@github.com:emacsmirror/gnu-indent.git
 [submodule "gnugo"]
 	path = mirror/gnugo
 	url = git@github.com:emacsmirror/gnugo.git
