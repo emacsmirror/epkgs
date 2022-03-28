@@ -21892,6 +21892,9 @@
 [submodule "textmenu"]
 	path = attic/textmenu
 	url = git@github.com:emacsattic/textmenu.git
+[submodule "textsize"]
+	path = mirror/textsize
+	url = git@github.com:emacsmirror/textsize.git
 [submodule "textsnip"]
 	path = mirror/textsnip
 	url = git@github.com:emacsmirror/textsnip.git
