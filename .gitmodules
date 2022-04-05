@@ -21534,6 +21534,9 @@
 [submodule "tabs"]
 	path = attic/tabs
 	url = git@github.com:emacsattic/tabs.git
+[submodule "tabspaces"]
+	path = mirror/tabspaces
+	url = git@github.com:emacsmirror/tabspaces.git
 [submodule "tabula-rasa"]
 	path = mirror/tabula-rasa
 	url = git@github.com:emacsmirror/tabula-rasa.git
