@@ -17922,6 +17922,9 @@
 [submodule "private"]
 	path = mirror/private
 	url = git@github.com:emacsmirror/private.git
+[submodule "private-comments-mode"]
+	path = mirror/private-comments-mode
+	url = git@github.com:emacsmirror/private-comments-mode.git
 [submodule "private-diary"]
 	path = mirror/private-diary
 	url = git@github.com:emacsmirror/private-diary.git
