@@ -6374,6 +6374,9 @@
 	path = mirror/eslint-fix
 	url = git@github.com:emacsmirror/eslint-fix.git
 	branch = master
+[submodule "eslint-rc"]
+	path = mirror/eslint-rc
+	url = git@github.com:emacsmirror/eslint-rc.git
 [submodule "eslintd-fix"]
 	path = mirror/eslintd-fix
 	url = git@github.com:emacsmirror/eslintd-fix.git
