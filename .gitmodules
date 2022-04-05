@@ -19992,6 +19992,9 @@
 [submodule "shampoo"]
 	path = mirror/shampoo
 	url = git@github.com:emacsmirror/shampoo.git
+[submodule "shanty-themes"]
+	path = mirror/shanty-themes
+	url = git@github.com:emacsmirror/shanty-themes.git
 [submodule "share2computer"]
 	path = mirror/share2computer
 	url = git@github.com:emacsmirror/share2computer.git
