@@ -3309,6 +3309,9 @@
 [submodule "consult-notmuch"]
 	path = mirror/consult-notmuch
 	url = git@github.com:emacsmirror/consult-notmuch.git
+[submodule "consult-org-roam"]
+	path = mirror/consult-org-roam
+	url = git@github.com:emacsmirror/consult-org-roam.git
 [submodule "consult-project-extra"]
 	path = mirror/consult-project-extra
 	url = git@github.com:emacsmirror/consult-project-extra.git
