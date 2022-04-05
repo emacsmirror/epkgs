@@ -5410,6 +5410,9 @@
 [submodule "el-expectations"]
 	path = mirror/el-expectations
 	url = git@github.com:emacsmirror/el-expectations.git
+[submodule "el-fetch"]
+	path = mirror/el-fetch
+	url = git@github.com:emacsmirror/el-fetch.git
 [submodule "el-fly-indent-mode"]
 	path = mirror/el-fly-indent-mode
 	url = git@github.com:emacsmirror/el-fly-indent-mode.git
