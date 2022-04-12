@@ -12737,6 +12737,9 @@
 [submodule "lilypond-hook"]
 	path = mirror/lilypond-hook
 	url = git@github.com:emacsmirror/lilypond-hook.git
+[submodule "lin"]
+	path = mirror/lin
+	url = git@github.com:emacsmirror/lin.git
 [submodule "line-comment-banner"]
 	path = mirror/line-comment-banner
 	url = git@github.com:emacsmirror/line-comment-banner.git
