@@ -22328,6 +22328,9 @@
 [submodule "transient"]
 	path = mirror/transient
 	url = git@github.com:emacsmirror/transient.git
+[submodule "transient-cycles"]
+	path = mirror/transient-cycles
+	url = git@github.com:emacsmirror/transient-cycles.git
 [submodule "transient-dwim"]
 	path = mirror/transient-dwim
 	url = git@github.com:emacsmirror/transient-dwim.git
