@@ -23370,6 +23370,9 @@
 [submodule "wakib-keys"]
 	path = mirror/wakib-keys
 	url = git@github.com:emacsmirror/wakib-keys.git
+[submodule "wal-mode"]
+	path = mirror/wal-mode
+	url = git@github.com:emacsmirror/wal-mode.git
 [submodule "walkclj"]
 	path = mirror/walkclj
 	url = git@github.com:emacsmirror/walkclj.git
