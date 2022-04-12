@@ -16644,6 +16644,9 @@
 	path = mirror/ox-gfm
 	url = git@github.com:emacsmirror/ox-gfm.git
 	branch = master
+[submodule "ox-gist"]
+	path = mirror/ox-gist
+	url = git@github.com:emacsmirror/ox-gist.git
 [submodule "ox-haunt"]
 	path = mirror/ox-haunt
 	url = git@github.com:emacsmirror/ox-haunt.git
