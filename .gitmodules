@@ -22935,6 +22935,9 @@
 [submodule "valign"]
 	path = mirror/valign
 	url = git@github.com:emacsmirror/valign.git
+[submodule "vampyricdark-theme"]
+	path = mirror/vampyricdark-theme
+	url = git@github.com:emacsmirror/vampyricdark-theme.git
 [submodule "variant-abbc"]
 	path = attic/variant-abbc
 	url = git@github.com:emacsattic/variant-abbc.git
