@@ -22206,6 +22206,9 @@
 [submodule "tok-theme"]
 	path = mirror/tok-theme
 	url = git@github.com:emacsmirror/tok-theme.git
+[submodule "tokei"]
+	path = mirror/tokei
+	url = git@github.com:emacsmirror/tokei.git
 [submodule "tokipona"]
 	path = attic/tokipona
 	url = git@github.com:emacsattic/tokipona.git
