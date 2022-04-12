@@ -4320,6 +4320,9 @@
 [submodule "diffstat"]
 	path = mirror/diffstat
 	url = git@github.com:emacsmirror/diffstat.git
+[submodule "diffsync"]
+	path = mirror/diffsync
+	url = git@github.com:emacsmirror/diffsync.git
 [submodule "diffview"]
 	path = mirror/diffview
 	url = git@github.com:emacsmirror/diffview.git
