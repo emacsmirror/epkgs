@@ -7838,6 +7838,9 @@
 [submodule "flymake-coffee"]
 	path = mirror/flymake-coffee
 	url = git@github.com:emacsmirror/flymake-coffee.git
+[submodule "flymake-collection"]
+	path = mirror/flymake-collection
+	url = git@github.com:emacsmirror/flymake-collection.git
 [submodule "flymake-cppcheck"]
 	path = attic/flymake-cppcheck
 	url = git@github.com:emacsattic/flymake-cppcheck.git
@@ -7966,9 +7969,6 @@
 [submodule "flymake-racket"]
 	path = mirror/flymake-racket
 	url = git@github.com:emacsmirror/flymake-racket.git
-[submodule "flymake-rest"]
-	path = mirror/flymake-rest
-	url = git@github.com:emacsmirror/flymake-rest.git
 [submodule "flymake-ruby"]
 	path = mirror/flymake-ruby
 	url = git@github.com:emacsmirror/flymake-ruby.git
