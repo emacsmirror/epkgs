@@ -17645,6 +17645,9 @@
 [submodule "pointback"]
 	path = attic/pointback
 	url = git@github.com:emacsattic/pointback.git
+[submodule "poke"]
+	path = mirror/poke
+	url = git@github.com:emacsmirror/poke.git
 [submodule "poke-line"]
 	path = mirror/poke-line
 	url = git@github.com:emacsmirror/poke-line.git
