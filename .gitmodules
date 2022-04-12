@@ -15772,7 +15772,6 @@
 [submodule "org-board"]
 	path = mirror/org-board
 	url = git@github.com:emacsmirror/org-board.git
-	branch = master
 [submodule "org-bom"]
 	path = mirror/org-bom
 	url = git@github.com:emacsmirror/org-bom.git
