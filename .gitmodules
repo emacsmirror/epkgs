@@ -17651,6 +17651,9 @@
 [submodule "poke-line"]
 	path = mirror/poke-line
 	url = git@github.com:emacsmirror/poke-line.git
+[submodule "poke-mode"]
+	path = mirror/poke-mode
+	url = git@github.com:emacsmirror/poke-mode.git
 [submodule "poker"]
 	path = mirror/poker
 	url = git@github.com:emacsmirror/poker.git
