@@ -2639,6 +2639,9 @@
 [submodule "climdoc"]
 	path = attic/climdoc
 	url = git@github.com:emacsattic/climdoc.git
+[submodule "clingo-mode"]
+	path = mirror/clingo-mode
+	url = git@github.com:emacsmirror/clingo-mode.git
 [submodule "clip2org"]
 	path = mirror/clip2org
 	url = git@github.com:emacsmirror/clip2org.git
