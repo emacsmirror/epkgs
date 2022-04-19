@@ -23840,6 +23840,9 @@
 [submodule "wordpress-mode"]
 	path = mirror/wordpress-mode
 	url = git@github.com:emacsmirror/wordpress-mode.git
+[submodule "wordreference"]
+	path = mirror/wordreference
+	url = git@github.com:emacsmirror/wordreference.git
 [submodule "words-in-elisp-symbols"]
 	path = attic/words-in-elisp-symbols
 	url = git@github.com:emacsattic/words-in-elisp-symbols.git
