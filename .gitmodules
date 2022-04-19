@@ -12703,6 +12703,9 @@
 [submodule "libgit"]
 	path = mirror/libgit
 	url = git@github.com:emacsmirror/libgit.git
+[submodule "liblouis"]
+	path = mirror/liblouis
+	url = git@github.com:emacsmirror/liblouis.git
 [submodule "libmpdee"]
 	path = mirror/libmpdee
 	url = git@github.com:emacsmirror/libmpdee.git
