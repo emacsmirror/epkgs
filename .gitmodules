@@ -21113,6 +21113,9 @@
 	path = mirror/stem-english
 	url = git@github.com:emacsmirror/stem-english.git
 	branch = master
+[submodule "stem-reading-mode"]
+	path = mirror/stem-reading-mode
+	url = git@github.com:emacsmirror/stem-reading-mode.git
 [submodule "steno"]
 	path = mirror/steno
 	url = git@github.com:emacsmirror/steno.git
