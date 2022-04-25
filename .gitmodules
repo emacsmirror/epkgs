@@ -3787,6 +3787,9 @@
 [submodule "cursor-test"]
 	path = mirror/cursor-test
 	url = git@github.com:emacsmirror/cursor-test.git
+[submodule "cursory"]
+	path = mirror/cursory
+	url = git@github.com:emacsmirror/cursory.git
 [submodule "cus-directory"]
 	path = attic/cus-directory
 	url = git@github.com:emacsattic/cus-directory.git
