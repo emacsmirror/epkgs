@@ -21609,6 +21609,9 @@
 [submodule "tal-mode"]
 	path = mirror/tal-mode
 	url = git@github.com:emacsmirror/tal-mode.git
+[submodule "talonscript-mode"]
+	path = mirror/talonscript-mode
+	url = git@github.com:emacsmirror/talonscript-mode.git
 [submodule "tango-2-theme"]
 	path = mirror/tango-2-theme
 	url = git@github.com:emacsmirror/tango-2-theme.git
