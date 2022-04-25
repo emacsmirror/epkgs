@@ -22151,6 +22151,9 @@
 [submodule "tmmofl-x"]
 	path = attic/tmmofl-x
 	url = git@github.com:emacsattic/tmmofl-x.git
+[submodule "tmr"]
+	path = mirror/tmr
+	url = git@github.com:emacsmirror/tmr.git
 [submodule "tmt-mode"]
 	path = mirror/tmt-mode
 	url = git@github.com:emacsmirror/tmt-mode.git
