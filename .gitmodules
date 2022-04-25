@@ -7978,6 +7978,9 @@
 [submodule "flymake-racket"]
 	path = mirror/flymake-racket
 	url = git@github.com:emacsmirror/flymake-racket.git
+[submodule "flymake-rakudo"]
+	path = mirror/flymake-rakudo
+	url = git@github.com:emacsmirror/flymake-rakudo.git
 [submodule "flymake-ruby"]
 	path = mirror/flymake-ruby
 	url = git@github.com:emacsmirror/flymake-ruby.git
