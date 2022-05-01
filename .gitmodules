@@ -19911,6 +19911,9 @@
 	path = mirror/sendto
 	url = git@github.com:emacsmirror/sendto.git
 	branch = master
+[submodule "sensei"]
+	path = mirror/sensei
+	url = git@github.com:emacsmirror/sensei.git
 [submodule "sensitive"]
 	path = mirror/sensitive
 	url = git@github.com:emacsmirror/sensitive.git
