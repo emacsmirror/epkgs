@@ -3309,6 +3309,9 @@
 [submodule "consult-ghq"]
 	path = mirror/consult-ghq
 	url = git@github.com:emacsmirror/consult-ghq.git
+[submodule "consult-ls-git"]
+	path = mirror/consult-ls-git
+	url = git@github.com:emacsmirror/consult-ls-git.git
 [submodule "consult-lsp"]
 	path = mirror/consult-lsp
 	url = git@github.com:emacsmirror/consult-lsp.git
