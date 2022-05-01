@@ -22942,6 +22942,9 @@
 [submodule "uwu-theme"]
 	path = mirror/uwu-theme
 	url = git@github.com:emacsmirror/uwu-theme.git
+[submodule "uxntal-mode"]
+	path = mirror/uxntal-mode
+	url = git@github.com:emacsmirror/uxntal-mode.git
 [submodule "uzumaki"]
 	path = mirror/uzumaki
 	url = git@github.com:emacsmirror/uzumaki.git
