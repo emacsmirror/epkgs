@@ -8117,6 +8117,9 @@
 [submodule "font-utils"]
 	path = mirror/font-utils
 	url = git@github.com:emacsmirror/font-utils.git
+[submodule "fontaine"]
+	path = mirror/fontaine
+	url = git@github.com:emacsmirror/fontaine.git
 [submodule "fontawesome"]
 	path = mirror/fontawesome
 	url = git@github.com:emacsmirror/fontawesome.git
