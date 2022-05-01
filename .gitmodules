@@ -9437,6 +9437,9 @@
 	path = mirror/gtags
 	url = git@github.com:emacsmirror/gtags.git
 	branch = master
+[submodule "gtags-mode"]
+	path = mirror/gtags-mode
+	url = git@github.com:emacsmirror/gtags-mode.git
 [submodule "gtk-look"]
 	path = attic/gtk-look
 	url = git@github.com:emacsattic/gtk-look.git
