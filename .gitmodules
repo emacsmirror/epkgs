@@ -13314,6 +13314,9 @@
 [submodule "maces-game"]
 	path = mirror/maces-game
 	url = git@github.com:emacsmirror/maces-game.git
+[submodule "macports"]
+	path = mirror/macports
+	url = git@github.com:emacsmirror/macports.git
 [submodule "macro-math"]
 	path = mirror/macro-math
 	url = git@github.com:emacsmirror/macro-math.git
