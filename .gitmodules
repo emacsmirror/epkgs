@@ -23613,6 +23613,9 @@
 [submodule "which-key-posframe"]
 	path = mirror/which-key-posframe
 	url = git@github.com:emacsmirror/which-key-posframe.git
+[submodule "whiley-mode"]
+	path = mirror/whiley-mode
+	url = git@github.com:emacsmirror/whiley-mode.git
 [submodule "whine"]
 	path = attic/whine
 	url = git@github.com:emacsattic/whine.git
