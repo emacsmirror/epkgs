@@ -20950,6 +20950,9 @@
 [submodule "sql-beeline"]
 	path = mirror/sql-beeline
 	url = git@github.com:emacsmirror/sql-beeline.git
+[submodule "sql-cassandra"]
+	path = mirror/sql-cassandra
+	url = git@github.com:emacsmirror/sql-cassandra.git
 [submodule "sql-clickhouse"]
 	path = mirror/sql-clickhouse
 	url = git@github.com:emacsmirror/sql-clickhouse.git
