@@ -23912,6 +23912,9 @@
 [submodule "worklog"]
 	path = mirror/worklog
 	url = git@github.com:emacsmirror/worklog.git
+[submodule "workroom"]
+	path = mirror/workroom
+	url = git@github.com:emacsmirror/workroom.git
 [submodule "worktracker"]
 	path = attic/worktracker
 	url = git@github.com:emacsattic/worktracker.git
