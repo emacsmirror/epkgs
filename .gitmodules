@@ -22259,6 +22259,9 @@
 [submodule "tomatinho"]
 	path = mirror/tomatinho
 	url = git@github.com:emacsmirror/tomatinho.git
+[submodule "tomelr"]
+	path = mirror/tomelr
+	url = git@github.com:emacsmirror/tomelr.git
 [submodule "toml"]
 	path = mirror/toml
 	url = git@github.com:emacsmirror/toml.git
