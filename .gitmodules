@@ -3760,6 +3760,9 @@
 [submodule "cuda-mode"]
 	path = mirror/cuda-mode
 	url = git@github.com:emacsmirror/cuda-mode.git
+[submodule "cue-mode"]
+	path = mirror/cue-mode
+	url = git@github.com:emacsmirror/cue-mode.git
 [submodule "cui-about-me"]
 	path = attic/cui-about-me
 	url = git@github.com:emacsattic/cui-about-me.git
