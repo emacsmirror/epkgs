@@ -14843,6 +14843,9 @@
 [submodule "neato-graph-bar"]
 	path = mirror/neato-graph-bar
 	url = git@github.com:emacsmirror/neato-graph-bar.git
+[submodule "neil"]
+	path = mirror/neil
+	url = git@github.com:emacsmirror/neil.git
 [submodule "nemerle"]
 	path = mirror/nemerle
 	url = git@github.com:emacsmirror/nemerle.git
