@@ -12603,6 +12603,9 @@
 [submodule "ldraw-mode"]
 	path = attic/ldraw-mode
 	url = git@github.com:emacsattic/ldraw-mode.git
+[submodule "le-thesaurus"]
+	path = mirror/le-thesaurus
+	url = git@github.com:emacsmirror/le-thesaurus.git
 [submodule "leaf"]
 	path = mirror/leaf
 	url = git@github.com:emacsmirror/leaf.git
