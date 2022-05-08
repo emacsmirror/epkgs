@@ -6824,6 +6824,9 @@
 [submodule "evm"]
 	path = mirror/evm
 	url = git@github.com:emacsmirror/evm.git
+[submodule "evm-mode"]
+	path = mirror/evm-mode
+	url = git@github.com:emacsmirror/evm-mode.git
 [submodule "ewal"]
 	path = mirror/ewal
 	url = git@github.com:emacsmirror/ewal.git
