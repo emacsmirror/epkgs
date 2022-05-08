@@ -3558,6 +3558,9 @@
 [submodule "cpu-sos"]
 	path = mirror/cpu-sos
 	url = git@github.com:emacsmirror/cpu-sos.git
+[submodule "cpupower"]
+	path = mirror/cpupower
+	url = git@github.com:emacsmirror/cpupower.git
 [submodule "cql-mode"]
 	path = mirror/cql-mode
 	url = git@github.com:emacsmirror/cql-mode.git
