@@ -18060,6 +18060,9 @@
 [submodule "project-root"]
 	path = attic/project-root
 	url = git@github.com:emacsattic/project-root.git
+[submodule "project-rootfile"]
+	path = mirror/project-rootfile
+	url = git@github.com:emacsmirror/project-rootfile.git
 [submodule "project-shells"]
 	path = mirror/project-shells
 	url = git@github.com:emacsmirror/project-shells.git
