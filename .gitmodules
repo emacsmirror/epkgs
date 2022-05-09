@@ -20781,6 +20781,9 @@
 [submodule "sorter"]
 	path = attic/sorter
 	url = git@github.com:emacsattic/sorter.git
+[submodule "sortie"]
+	path = mirror/sortie
+	url = git@github.com:emacsmirror/sortie.git
 [submodule "sos"]
 	path = attic/sos
 	url = git@github.com:emacsattic/sos.git
