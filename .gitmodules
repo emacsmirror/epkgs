@@ -19716,6 +19716,9 @@
 [submodule "scheme48"]
 	path = attic/scheme48
 	url = git@github.com:emacsattic/scheme48.git
+[submodule "scholar-import"]
+	path = mirror/scholar-import
+	url = git@github.com:emacsmirror/scholar-import.git
 [submodule "school-points-off"]
 	path = mirror/school-points-off
 	url = git@github.com:emacsmirror/school-points-off.git
