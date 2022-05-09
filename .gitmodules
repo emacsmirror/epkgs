@@ -20358,6 +20358,9 @@
 [submodule "sisu-mode"]
 	path = mirror/sisu-mode
 	url = git@github.com:emacsmirror/sisu-mode.git
+[submodule "sisyphus"]
+	path = mirror/sisyphus
+	url = git@github.com:emacsmirror/sisyphus.git
 [submodule "ska-skel-matlab"]
 	path = mirror/ska-skel-matlab
 	url = git@github.com:emacsmirror/ska-skel-matlab.git
