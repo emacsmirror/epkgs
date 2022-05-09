@@ -16748,6 +16748,9 @@
 [submodule "ox-reveal"]
 	path = mirror/ox-reveal
 	url = git@github.com:emacsmirror/ox-reveal.git
+[submodule "ox-review"]
+	path = mirror/ox-review
+	url = git@github.com:emacsmirror/ox-review.git
 [submodule "ox-rfc"]
 	path = mirror/ox-rfc
 	url = git@github.com:emacsmirror/ox-rfc.git
