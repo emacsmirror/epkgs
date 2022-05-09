@@ -22151,6 +22151,9 @@
 	path = mirror/timp
 	url = git@github.com:emacsmirror/timp.git
 	branch = master
+[submodule "timu-rouge-theme"]
+	path = mirror/timu-rouge-theme
+	url = git@github.com:emacsmirror/timu-rouge-theme.git
 [submodule "timu-spacegrey-theme"]
 	path = mirror/timu-spacegrey-theme
 	url = git@github.com:emacsmirror/timu-spacegrey-theme.git
