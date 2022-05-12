@@ -11383,8 +11383,8 @@
 	path = mirror/interaction-log
 	url = git@github.com:emacsmirror/interaction-log.git
 [submodule "interleave"]
-	path = mirror/interleave
-	url = git@github.com:emacsmirror/interleave.git
+	path = attic/interleave
+	url = git@github.com:emacsattic/interleave.git
 [submodule "intero"]
 	path = attic/intero
 	url = git@github.com:emacsattic/intero.git
