@@ -4296,9 +4296,6 @@
 [submodule "dictem"]
 	path = mirror/dictem
 	url = git@github.com:emacsmirror/dictem.git
-[submodule "dictionary"]
-	path = mirror/dictionary
-	url = git@github.com:emacsmirror/dictionary.git
 [submodule "didyoumean"]
 	path = mirror/didyoumean
 	url = git@github.com:emacsmirror/didyoumean.git
@@ -10408,10 +10405,6 @@
 [submodule "hier-imenu"]
 	path = attic/hier-imenu
 	url = git@github.com:emacsattic/hier-imenu.git
-[submodule "hierarchy"]
-	path = mirror/hierarchy
-	url = git@github.com:emacsmirror/hierarchy.git
-	branch = master
 [submodule "highlight"]
 	path = mirror/highlight
 	url = git@github.com:emacsmirror/highlight.git

@@ -16,7 +16,7 @@
 * Set ~emir-emacs-reference~
 #+NAME: set--emir-emacs-reference
 #+BEGIN_SRC emacs-lisp
-  <<setup>>(emir--save-variable 'emir-emacs-reference "emacs-27.1")
+  <<setup>>(emir--save-variable 'emir-emacs-reference "emacs-28.1")
 #+END_SRC
 
 * Set ~emir-pending-packages~
@@ -25,8 +25,12 @@
   <<setup>>(emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
-| Package | Reason |
-|---------+--------|
+| Package    | Reason                        |
+|------------+-------------------------------|
+| connection | Don't add; part of dictionary |
+| dictionary | Don't add; part of Emacs 28.1 |
+| hierarchy  | Don't add; part of Emacs 28.1 |
+| link       | Don't add; part of dictionary |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
