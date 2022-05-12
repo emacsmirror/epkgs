@@ -24461,8 +24461,8 @@
 	url = git@github.com:emacsmirror/zeitgeist.git
 	branch = master
 [submodule "zel"]
-	path = mirror/zel
-	url = git@github.com:emacsmirror/zel.git
+	path = attic/zel
+	url = git@github.com:emacsattic/zel.git
 [submodule "zen-and-art-theme"]
 	path = mirror/zen-and-art-theme
 	url = git@github.com:emacsmirror/zen-and-art-theme.git
