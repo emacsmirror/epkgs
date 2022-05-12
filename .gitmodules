@@ -17627,6 +17627,9 @@
 [submodule "plural"]
 	path = mirror/plural
 	url = git@github.com:emacsmirror/plural.git
+[submodule "plz"]
+	path = mirror/plz
+	url = git@github.com:emacsmirror/plz.git
 [submodule "pmd"]
 	path = mirror/pmd
 	url = git@github.com:emacsmirror/pmd.git
