@@ -19610,8 +19610,8 @@
 	path = attic/sandbox
 	url = git@github.com:emacsattic/sandbox.git
 [submodule "sane-term"]
-	path = mirror/sane-term
-	url = git@github.com:emacsmirror/sane-term.git
+	path = attic/sane-term
+	url = git@github.com:emacsattic/sane-term.git
 [submodule "sas"]
 	path = attic/sas
 	url = git@github.com:emacsattic/sas.git
