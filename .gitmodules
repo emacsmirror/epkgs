@@ -13218,8 +13218,8 @@
 	url = git@github.com:emacsattic/lsp-python.git
 	branch = master
 [submodule "lsp-python-ms"]
-	path = mirror/lsp-python-ms
-	url = git@github.com:emacsmirror/lsp-python-ms.git
+	path = attic/lsp-python-ms
+	url = git@github.com:emacsattic/lsp-python-ms.git
 [submodule "lsp-rescript"]
 	path = mirror/lsp-rescript
 	url = git@github.com:emacsmirror/lsp-rescript.git
