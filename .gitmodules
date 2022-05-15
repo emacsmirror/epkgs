@@ -2488,6 +2488,9 @@
 [submodule "chronometrist-goal"]
 	path = mirror/chronometrist-goal
 	url = git@github.com:emacsmirror/chronometrist-goal.git
+[submodule "chronometrist-key-values"]
+	path = mirror/chronometrist-key-values
+	url = git@github.com:emacsmirror/chronometrist-key-values.git
 [submodule "chronos"]
 	path = mirror/chronos
 	url = git@github.com:emacsmirror/chronos.git
