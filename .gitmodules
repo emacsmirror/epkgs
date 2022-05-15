@@ -805,6 +805,9 @@
 	path = mirror/arview
 	url = git@github.com:emacsmirror/arview.git
 	branch = master
+[submodule "arxiv-citation"]
+	path = mirror/arxiv-citation
+	url = git@github.com:emacsmirror/arxiv-citation.git
 [submodule "arxiv-mode"]
 	path = mirror/arxiv-mode
 	url = git@github.com:emacsmirror/arxiv-mode.git
