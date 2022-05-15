@@ -15925,6 +15925,9 @@
 	path = mirror/org-easy-img-insert
 	url = git@github.com:emacsmirror/org-easy-img-insert.git
 	branch = master
+[submodule "org-edit-indirect"]
+	path = mirror/org-edit-indirect
+	url = git@github.com:emacsmirror/org-edit-indirect.git
 [submodule "org-edit-latex"]
 	path = mirror/org-edit-latex
 	url = git@github.com:emacsmirror/org-edit-latex.git
