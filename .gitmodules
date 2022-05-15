@@ -21032,6 +21032,9 @@
 [submodule "sql-transform"]
 	path = mirror/sql-transform
 	url = git@github.com:emacsmirror/sql-transform.git
+[submodule "sql-trino"]
+	path = mirror/sql-trino
+	url = git@github.com:emacsmirror/sql-trino.git
 [submodule "sql-with-placeholders"]
 	path = mirror/sql-with-placeholders
 	url = git@github.com:emacsmirror/sql-with-placeholders.git
