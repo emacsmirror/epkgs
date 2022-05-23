@@ -25,12 +25,13 @@
   <<setup>>(emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
-| Package    | Reason                        |
-|------------+-------------------------------|
-| connection | Don't add; part of dictionary |
-| dictionary | Don't add; part of Emacs 28.1 |
-| hierarchy  | Don't add; part of Emacs 28.1 |
-| link       | Don't add; part of dictionary |
+| Package    | Reason                         |
+|------------+--------------------------------|
+| connection | Don't add; part of dictionary  |
+| dictionary | Don't add; part of Emacs 28.1  |
+| dtache     | Don't add; renamed to detached |
+| hierarchy  | Don't add; part of Emacs 28.1  |
+| link       | Don't add; part of dictionary  |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
