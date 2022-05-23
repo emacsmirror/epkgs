@@ -4214,6 +4214,9 @@
 [submodule "desktop-registry"]
 	path = mirror/desktop-registry
 	url = git@github.com:emacsmirror/desktop-registry.git
+[submodule "detached"]
+	path = mirror/detached
+	url = git@github.com:emacsmirror/detached.git
 [submodule "detour"]
 	path = mirror/detour
 	url = git@github.com:emacsmirror/detour.git
@@ -4894,9 +4897,6 @@
 [submodule "dsvn"]
 	path = mirror/dsvn
 	url = git@github.com:emacsmirror/dsvn.git
-[submodule "dtache"]
-	path = mirror/dtache
-	url = git@github.com:emacsmirror/dtache.git
 [submodule "dtb-mode"]
 	path = mirror/dtb-mode
 	url = git@github.com:emacsmirror/dtb-mode.git
