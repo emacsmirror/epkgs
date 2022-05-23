@@ -2699,6 +2699,9 @@
 [submodule "clocker"]
 	path = mirror/clocker
 	url = git@github.com:emacsmirror/clocker.git
+[submodule "clockodo"]
+	path = mirror/clockodo
+	url = git@github.com:emacsmirror/clockodo.git
 [submodule "clojars"]
 	path = mirror/clojars
 	url = git@github.com:emacsmirror/clojars.git
