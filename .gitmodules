@@ -21078,6 +21078,9 @@
 [submodule "srfi"]
 	path = mirror/srfi
 	url = git@github.com:emacsmirror/srfi.git
+[submodule "srht"]
+	path = mirror/srht
+	url = git@github.com:emacsmirror/srht.git
 [submodule "srv"]
 	path = mirror/srv
 	url = git@github.com:emacsmirror/srv.git
