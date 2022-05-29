@@ -28,7 +28,6 @@
 | Package    | Reason                                                    |
 |------------+-----------------------------------------------------------|
 | connection | Don't add; part of upstream dictionary but not Emacs 28.1 |
-| dtache     | Don't add; renamed to detached                            |
 | link       | Don't add; part of upstream dictionary but not Emacs 28.1 |
 
 * Set ~emir-suspended-packages~
