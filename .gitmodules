@@ -21412,6 +21412,9 @@
 [submodule "svg-tag-mode"]
 	path = mirror/svg-tag-mode
 	url = git@github.com:emacsmirror/svg-tag-mode.git
+[submodule "svgo"]
+	path = mirror/svgo
+	url = git@github.com:emacsmirror/svgo.git
 [submodule "svnwrapper"]
 	path = mirror/svnwrapper
 	url = git@github.com:emacsmirror/svnwrapper.git
