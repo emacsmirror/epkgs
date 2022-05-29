@@ -7508,9 +7508,6 @@
 [submodule "flx"]
 	path = mirror/flx
 	url = git@github.com:emacsmirror/flx.git
-[submodule "flx-completion"]
-	path = mirror/flx-completion
-	url = git@github.com:emacsmirror/flx-completion.git
 [submodule "flx-isearch"]
 	path = mirror/flx-isearch
 	url = git@github.com:emacsmirror/flx-isearch.git
@@ -8368,6 +8365,9 @@
 [submodule "furl"]
 	path = mirror/furl
 	url = git@github.com:emacsmirror/furl.git
+[submodule "fussy"]
+	path = mirror/fussy
+	url = git@github.com:emacsmirror/fussy.git
 [submodule "futhark-mode"]
 	path = mirror/futhark-mode
 	url = git@github.com:emacsmirror/futhark-mode.git
