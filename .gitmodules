@@ -12520,6 +12520,9 @@
 [submodule "later-do"]
 	path = mirror/later-do
 	url = git@github.com:emacsmirror/later-do.git
+[submodule "latex-change-env"]
+	path = mirror/latex-change-env
+	url = git@github.com:emacsmirror/latex-change-env.git
 [submodule "latex-doc"]
 	path = attic/latex-doc
 	url = git@github.com:emacsattic/latex-doc.git
