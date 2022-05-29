@@ -683,6 +683,7 @@
 | ac-etags             | dropped by maintainer   |
 | ac-ispell            | dropped by maintainer   |
 | ac-racer             | dropped by maintainer   |
+| adoc-mode            | upstream unresponsive   |
 | ansible-doc          | dropped by maintainer   |
 | anzu                 | dropped by maintainer   |
 | applescript-mode     | dropped by maintainer   |
