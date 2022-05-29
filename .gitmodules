@@ -14931,6 +14931,9 @@
 [submodule "nf-procmail-mode"]
 	path = attic/nf-procmail-mode
 	url = git@github.com:emacsattic/nf-procmail-mode.git
+[submodule "nftables-mode"]
+	path = mirror/nftables-mode
+	url = git@github.com:emacsmirror/nftables-mode.git
 [submodule "ng2-mode"]
 	path = mirror/ng2-mode
 	url = git@github.com:emacsmirror/ng2-mode.git
