@@ -11372,6 +11372,9 @@
 [submodule "inspec2bibtex"]
 	path = attic/inspec2bibtex
 	url = git@github.com:emacsattic/inspec2bibtex.git
+[submodule "inspector"]
+	path = mirror/inspector
+	url = git@github.com:emacsmirror/inspector.git
 [submodule "install"]
 	path = mirror/install
 	url = git@github.com:emacsmirror/install.git
