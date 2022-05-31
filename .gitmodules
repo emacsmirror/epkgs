@@ -8281,6 +8281,9 @@
 [submodule "friendly-tramp-path"]
 	path = mirror/friendly-tramp-path
 	url = git@github.com:emacsmirror/friendly-tramp-path.git
+[submodule "frimacs"]
+	path = mirror/frimacs
+	url = git@github.com:emacsmirror/frimacs.git
 [submodule "fringe-current-line"]
 	path = mirror/fringe-current-line
 	url = git@github.com:emacsmirror/fringe-current-line.git
