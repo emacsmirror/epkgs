@@ -15892,6 +15892,9 @@
 	path = mirror/org-commentary
 	url = git@github.com:emacsmirror/org-commentary.git
 	branch = master
+[submodule "org-contacts"]
+	path = mirror/org-contacts
+	url = git@github.com:emacsmirror/org-contacts.git
 [submodule "org-context"]
 	path = mirror/org-context
 	url = git@github.com:emacsmirror/org-context.git
