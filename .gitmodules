@@ -8419,6 +8419,9 @@
 [submodule "fzf"]
 	path = mirror/fzf
 	url = git@github.com:emacsmirror/fzf.git
+[submodule "fzf-native"]
+	path = mirror/fzf-native
+	url = git@github.com:emacsmirror/fzf-native.git
 [submodule "ga"]
 	path = mirror/ga
 	url = git@github.com:emacsmirror/ga.git
