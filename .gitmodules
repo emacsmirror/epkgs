@@ -11366,6 +11366,9 @@
 [submodule "insert-kaomoji"]
 	path = mirror/insert-kaomoji
 	url = git@github.com:emacsmirror/insert-kaomoji.git
+[submodule "insert-random"]
+	path = mirror/insert-random
+	url = git@github.com:emacsmirror/insert-random.git
 [submodule "insert-shebang"]
 	path = mirror/insert-shebang
 	url = git@github.com:emacsmirror/insert-shebang.git
