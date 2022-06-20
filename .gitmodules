@@ -17935,6 +17935,9 @@
 [submodule "pp-c-l"]
 	path = mirror/pp-c-l
 	url = git@github.com:emacsmirror/pp-c-l.git
+[submodule "ppcompile"]
+	path = mirror/ppcompile
+	url = git@github.com:emacsmirror/ppcompile.git
 [submodule "ppd-sr-speedbar"]
 	path = mirror/ppd-sr-speedbar
 	url = git@github.com:emacsmirror/ppd-sr-speedbar.git
