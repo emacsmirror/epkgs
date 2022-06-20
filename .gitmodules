@@ -376,6 +376,9 @@
 [submodule "aio"]
 	path = mirror/aio
 	url = git@github.com:emacsmirror/aio.git
+[submodule "aircon-theme"]
+	path = mirror/aircon-theme
+	url = git@github.com:emacsmirror/aircon-theme.git
 [submodule "airline-themes"]
 	path = mirror/airline-themes
 	url = git@github.com:emacsmirror/airline-themes.git
