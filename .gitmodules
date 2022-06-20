@@ -20669,6 +20669,9 @@
 [submodule "smithers"]
 	path = mirror/smithers
 	url = git@github.com:emacsmirror/smithers.git
+[submodule "smithy-mode"]
+	path = mirror/smithy-mode
+	url = git@github.com:emacsmirror/smithy-mode.git
 [submodule "sml-basis"]
 	path = mirror/sml-basis
 	url = git@github.com:emacsmirror/sml-basis.git
