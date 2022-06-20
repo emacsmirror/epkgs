@@ -2210,6 +2210,9 @@
 [submodule "cargo-mode"]
 	path = mirror/cargo-mode
 	url = git@github.com:emacsmirror/cargo-mode.git
+[submodule "cargo-transient"]
+	path = mirror/cargo-transient
+	url = git@github.com:emacsmirror/cargo-transient.git
 [submodule "caroline-theme"]
 	path = mirror/caroline-theme
 	url = git@github.com:emacsmirror/caroline-theme.git
