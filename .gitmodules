@@ -604,6 +604,9 @@
 	path = mirror/ansible-vault
 	url = git@github.com:emacsmirror/ansible-vault.git
 	branch = master
+[submodule "ansilove"]
+	path = mirror/ansilove
+	url = git@github.com:emacsmirror/ansilove.git
 [submodule "ansys-mod"]
 	path = mirror/ansys-mod
 	url = git@github.com:emacsmirror/ansys-mod.git
