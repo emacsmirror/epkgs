@@ -12832,6 +12832,9 @@
 [submodule "linguistic"]
 	path = mirror/linguistic
 	url = git@github.com:emacsmirror/linguistic.git
+[submodule "lingva"]
+	path = mirror/lingva
+	url = git@github.com:emacsmirror/lingva.git
 [submodule "link-hint"]
 	path = mirror/link-hint
 	url = git@github.com:emacsmirror/link-hint.git
