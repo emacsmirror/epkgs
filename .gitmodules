@@ -12094,8 +12094,8 @@
 	path = attic/judge-indent
 	url = git@github.com:emacsattic/judge-indent.git
 [submodule "juick"]
-	path = mirror/juick
-	url = git@github.com:emacsmirror/juick.git
+	path = attic/juick
+	url = git@github.com:emacsattic/juick.git
 [submodule "julia-formatter"]
 	path = mirror/julia-formatter
 	url = git@github.com:emacsmirror/julia-formatter.git
