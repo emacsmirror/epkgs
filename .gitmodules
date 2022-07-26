@@ -22631,6 +22631,9 @@
 [submodule "tree-sitter-indent"]
 	path = mirror/tree-sitter-indent
 	url = git@github.com:emacsmirror/tree-sitter-indent.git
+[submodule "tree-sitter-ispell"]
+	path = mirror/tree-sitter-ispell
+	url = git@github.com:emacsmirror/tree-sitter-ispell.git
 [submodule "tree-sitter-langs"]
 	path = mirror/tree-sitter-langs
 	url = git@github.com:emacsmirror/tree-sitter-langs.git
