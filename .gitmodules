@@ -5935,6 +5935,9 @@
 [submodule "embark"]
 	path = mirror/embark
 	url = git@github.com:emacsmirror/embark.git
+[submodule "embark-vc"]
+	path = mirror/embark-vc
+	url = git@github.com:emacsmirror/embark-vc.git
 [submodule "embeddedchangelog"]
 	path = mirror/embeddedchangelog
 	url = git@github.com:emacsmirror/embeddedchangelog.git
