@@ -21732,6 +21732,9 @@
 [submodule "ta"]
 	path = mirror/ta
 	url = git@github.com:emacsmirror/ta.git
+[submodule "tab-bar-buffers"]
+	path = mirror/tab-bar-buffers
+	url = git@github.com:emacsmirror/tab-bar-buffers.git
 [submodule "tab-bar-echo-area"]
 	path = mirror/tab-bar-echo-area
 	url = git@github.com:emacsmirror/tab-bar-echo-area.git
