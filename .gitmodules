@@ -6937,6 +6937,9 @@
 [submodule "external-abook"]
 	path = mirror/external-abook
 	url = git@github.com:emacsmirror/external-abook.git
+[submodule "external-dict"]
+	path = mirror/external-dict
+	url = git@github.com:emacsmirror/external-dict.git
 [submodule "extmap"]
 	path = mirror/extmap
 	url = git@github.com:emacsmirror/extmap.git
