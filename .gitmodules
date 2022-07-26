@@ -1484,6 +1484,9 @@
 [submodule "beatnik"]
 	path = attic/beatnik
 	url = git@github.com:emacsattic/beatnik.git
+[submodule "bech32"]
+	path = mirror/bech32
+	url = git@github.com:emacsmirror/bech32.git
 [submodule "beeminder"]
 	path = mirror/beeminder
 	url = git@github.com:emacsmirror/beeminder.git
