@@ -16101,6 +16101,9 @@
 [submodule "org-hyde"]
 	path = mirror/org-hyde
 	url = git@github.com:emacsmirror/org-hyde.git
+[submodule "org-hyperscheduler"]
+	path = mirror/org-hyperscheduler
+	url = git@github.com:emacsmirror/org-hyperscheduler.git
 [submodule "org-id-cleanup"]
 	path = mirror/org-id-cleanup
 	url = git@github.com:emacsmirror/org-id-cleanup.git
