@@ -4196,6 +4196,9 @@
 [submodule "deno-fmt"]
 	path = mirror/deno-fmt
 	url = git@github.com:emacsmirror/deno-fmt.git
+[submodule "denote"]
+	path = mirror/denote
+	url = git@github.com:emacsmirror/denote.git
 [submodule "descr-text+"]
 	path = mirror/descr-text+
 	url = git@github.com:emacsmirror/descr-text-plus.git
