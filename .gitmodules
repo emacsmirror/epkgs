@@ -20390,6 +20390,9 @@
 [submodule "sideline-flycheck"]
 	path = mirror/sideline-flycheck
 	url = git@github.com:emacsmirror/sideline-flycheck.git
+[submodule "sideline-lsp"]
+	path = mirror/sideline-lsp
+	url = git@github.com:emacsmirror/sideline-lsp.git
 [submodule "sie"]
 	path = mirror/sie
 	url = git@github.com:emacsmirror/sie.git
