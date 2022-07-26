@@ -14763,6 +14763,9 @@
 [submodule "mxf-view"]
 	path = mirror/mxf-view
 	url = git@github.com:emacsmirror/mxf-view.git
+[submodule "my-repo-pins"]
+	path = mirror/my-repo-pins
+	url = git@github.com:emacsmirror/my-repo-pins.git
 [submodule "myanmar-input-methods"]
 	path = mirror/myanmar-input-methods
 	url = git@github.com:emacsmirror/myanmar-input-methods.git
