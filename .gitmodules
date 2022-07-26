@@ -13222,6 +13222,9 @@
 [submodule "lsl-mode"]
 	path = attic/lsl-mode
 	url = git@github.com:emacsattic/lsl-mode.git
+[submodule "lsp-cfn"]
+	path = mirror/lsp-cfn
+	url = git@github.com:emacsmirror/lsp-cfn.git
 [submodule "lsp-dart"]
 	path = mirror/lsp-dart
 	url = git@github.com:emacsmirror/lsp-dart.git
