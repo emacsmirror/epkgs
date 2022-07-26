@@ -14061,6 +14061,9 @@
 [submodule "mimetypes"]
 	path = mirror/mimetypes
 	url = git@github.com:emacsmirror/mimetypes.git
+[submodule "mindre-theme"]
+	path = mirror/mindre-theme
+	url = git@github.com:emacsmirror/mindre-theme.git
 [submodule "mine-sweeper-auto"]
 	path = attic/mine-sweeper-auto
 	url = git@github.com:emacsattic/mine-sweeper-auto.git
