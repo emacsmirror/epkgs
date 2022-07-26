@@ -5005,6 +5005,9 @@
 [submodule "dwim-find"]
 	path = attic/dwim-find
 	url = git@github.com:emacsattic/dwim-find.git
+[submodule "dwim-shell-command"]
+	path = mirror/dwim-shell-command
+	url = git@github.com:emacsmirror/dwim-shell-command.git
 [submodule "dyalog-mode"]
 	path = mirror/dyalog-mode
 	url = git@github.com:emacsmirror/dyalog-mode.git
