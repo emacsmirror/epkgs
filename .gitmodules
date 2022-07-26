@@ -24701,6 +24701,9 @@
 [submodule "zk"]
 	path = mirror/zk
 	url = git@github.com:emacsmirror/zk.git
+[submodule "zk-luhmann"]
+	path = mirror/zk-luhmann
+	url = git@github.com:emacsmirror/zk-luhmann.git
 [submodule "zlc"]
 	path = mirror/zlc
 	url = git@github.com:emacsmirror/zlc.git
