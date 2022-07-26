@@ -21126,6 +21126,9 @@
 	path = mirror/spu
 	url = git@github.com:emacsmirror/spu.git
 	branch = master
+[submodule "sq"]
+	path = mirror/sq
+	url = git@github.com:emacsmirror/sq.git
 [submodule "sql-beeline"]
 	path = mirror/sql-beeline
 	url = git@github.com:emacsmirror/sql-beeline.git
