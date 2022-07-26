@@ -21823,6 +21823,9 @@
 	path = mirror/tango-plus-theme
 	url = git@github.com:emacsmirror/tango-plus-theme.git
 	branch = master
+[submodule "tangonov-theme"]
+	path = mirror/tangonov-theme
+	url = git@github.com:emacsmirror/tangonov-theme.git
 [submodule "tangotango-theme"]
 	path = mirror/tangotango-theme
 	url = git@github.com:emacsmirror/tangotango-theme.git
