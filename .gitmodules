@@ -13747,6 +13747,9 @@
 [submodule "markdown-preview-mode"]
 	path = mirror/markdown-preview-mode
 	url = git@github.com:emacsmirror/markdown-preview-mode.git
+[submodule "markdown-soma"]
+	path = mirror/markdown-soma
+	url = git@github.com:emacsmirror/markdown-soma.git
 [submodule "markdown-toc"]
 	path = mirror/markdown-toc
 	url = git@github.com:emacsmirror/markdown-toc.git
