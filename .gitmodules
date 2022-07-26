@@ -14809,6 +14809,9 @@
 [submodule "n4js"]
 	path = mirror/n4js
 	url = git@github.com:emacsmirror/n4js.git
+[submodule "naga-theme"]
+	path = mirror/naga-theme
+	url = git@github.com:emacsmirror/naga-theme.git
 [submodule "naked"]
 	path = mirror/naked
 	url = git@github.com:emacsmirror/naked.git
