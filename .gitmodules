@@ -12102,6 +12102,9 @@
 [submodule "json-snatcher"]
 	path = mirror/json-snatcher
 	url = git@github.com:emacsmirror/json-snatcher.git
+[submodule "jsonian"]
+	path = mirror/jsonian
+	url = git@github.com:emacsmirror/jsonian.git
 [submodule "jsonl"]
 	path = mirror/jsonl
 	url = git@github.com:emacsmirror/jsonl.git
