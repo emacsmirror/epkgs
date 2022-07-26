@@ -19483,6 +19483,9 @@
 [submodule "robe"]
 	path = mirror/robe
 	url = git@github.com:emacsmirror/robe.git
+[submodule "robot-log"]
+	path = mirror/robot-log
+	url = git@github.com:emacsmirror/robot-log.git
 [submodule "robot-mode"]
 	path = mirror/robot-mode
 	url = git@github.com:emacsmirror/robot-mode.git
