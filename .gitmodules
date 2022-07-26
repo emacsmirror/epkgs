@@ -9447,6 +9447,9 @@
 [submodule "gresreg"]
 	path = attic/gresreg
 	url = git@github.com:emacsattic/gresreg.git
+[submodule "grey-paper-theme"]
+	path = mirror/grey-paper-theme
+	url = git@github.com:emacsmirror/grey-paper-theme.git
 [submodule "greymatters-theme"]
 	path = mirror/greymatters-theme
 	url = git@github.com:emacsmirror/greymatters-theme.git
