@@ -1484,9 +1484,6 @@
 [submodule "beatnik"]
 	path = attic/beatnik
 	url = git@github.com:emacsattic/beatnik.git
-[submodule "bech32"]
-	path = mirror/bech32
-	url = git@github.com:emacsmirror/bech32.git
 [submodule "beeminder"]
 	path = mirror/beeminder
 	url = git@github.com:emacsmirror/beeminder.git
@@ -2210,6 +2207,9 @@
 [submodule "carbon-now-sh"]
 	path = mirror/carbon-now-sh
 	url = git@github.com:emacsmirror/carbon-now-sh.git
+[submodule "cardano-tx"]
+	path = mirror/cardano-tx
+	url = git@github.com:emacsmirror/cardano-tx.git
 [submodule "cargo"]
 	path = mirror/cargo
 	url = git@github.com:emacsmirror/cargo.git
