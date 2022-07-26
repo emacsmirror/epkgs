@@ -19225,6 +19225,9 @@
 [submodule "repdet"]
 	path = mirror/repdet
 	url = git@github.com:emacsmirror/repdet.git
+[submodule "repeat-help"]
+	path = mirror/repeat-help
+	url = git@github.com:emacsmirror/repeat-help.git
 [submodule "repeat-insert"]
 	path = attic/repeat-insert
 	url = git@github.com:emacsattic/repeat-insert.git
