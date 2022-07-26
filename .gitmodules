@@ -4452,6 +4452,9 @@
 [submodule "dired-du"]
 	path = mirror/dired-du
 	url = git@github.com:emacsmirror/dired-du.git
+[submodule "dired-duplicates"]
+	path = mirror/dired-duplicates
+	url = git@github.com:emacsmirror/dired-duplicates.git
 [submodule "dired-dups"]
 	path = mirror/dired-dups
 	url = git@github.com:emacsmirror/dired-dups.git
