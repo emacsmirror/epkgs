@@ -19375,6 +19375,9 @@
 	path = mirror/rg
 	url = git@github.com:emacsmirror/rg.git
 	branch = master
+[submodule "rgb"]
+	path = mirror/rgb
+	url = git@github.com:emacsmirror/rgb.git
 [submodule "rheeet-mail"]
 	path = attic/rheeet-mail
 	url = git@github.com:emacsattic/rheeet-mail.git
