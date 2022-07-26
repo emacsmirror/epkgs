@@ -17627,6 +17627,9 @@
 [submodule "pipenv"]
 	path = mirror/pipenv
 	url = git@github.com:emacsmirror/pipenv.git
+[submodule "pipewire"]
+	path = mirror/pipewire
+	url = git@github.com:emacsmirror/pipewire.git
 [submodule "pippel"]
 	path = mirror/pippel
 	url = git@github.com:emacsmirror/pippel.git
