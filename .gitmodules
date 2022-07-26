@@ -17618,6 +17618,9 @@
 	path = mirror/pinyinlib
 	url = git@github.com:emacsmirror/pinyinlib.git
 	branch = master
+[submodule "pip-frame"]
+	path = mirror/pip-frame
+	url = git@github.com:emacsmirror/pip-frame.git
 [submodule "pip-requirements"]
 	path = mirror/pip-requirements
 	url = git@github.com:emacsmirror/pip-requirements.git
