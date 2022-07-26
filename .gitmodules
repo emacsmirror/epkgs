@@ -7055,6 +7055,9 @@
 [submodule "fancy-battery"]
 	path = mirror/fancy-battery
 	url = git@github.com:emacsmirror/fancy-battery.git
+[submodule "fancy-compilation"]
+	path = mirror/fancy-compilation
+	url = git@github.com:emacsmirror/fancy-compilation.git
 [submodule "fancy-dabbrev"]
 	path = mirror/fancy-dabbrev
 	url = git@github.com:emacsmirror/fancy-dabbrev.git
