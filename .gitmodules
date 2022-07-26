@@ -20381,6 +20381,9 @@
 [submodule "sidecar-locals"]
 	path = mirror/sidecar-locals
 	url = git@github.com:emacsmirror/sidecar-locals.git
+[submodule "sideline"]
+	path = mirror/sideline
+	url = git@github.com:emacsmirror/sideline.git
 [submodule "sie"]
 	path = mirror/sie
 	url = git@github.com:emacsmirror/sie.git
