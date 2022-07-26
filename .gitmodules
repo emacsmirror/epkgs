@@ -20384,6 +20384,9 @@
 [submodule "sideline"]
 	path = mirror/sideline
 	url = git@github.com:emacsmirror/sideline.git
+[submodule "sideline-blame"]
+	path = mirror/sideline-blame
+	url = git@github.com:emacsmirror/sideline-blame.git
 [submodule "sie"]
 	path = mirror/sie
 	url = git@github.com:emacsmirror/sie.git
