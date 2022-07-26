@@ -2702,6 +2702,9 @@
 [submodule "cljsbuild-mode"]
 	path = mirror/cljsbuild-mode
 	url = git@github.com:emacsmirror/cljsbuild-mode.git
+[submodule "cljstyle-format"]
+	path = mirror/cljstyle-format
+	url = git@github.com:emacsmirror/cljstyle-format.git
 [submodule "clmemo"]
 	path = mirror/clmemo
 	url = git@github.com:emacsmirror/clmemo.git
