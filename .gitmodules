@@ -13310,6 +13310,9 @@
 [submodule "lsp-scala"]
 	path = attic/lsp-scala
 	url = git@github.com:emacsattic/lsp-scala.git
+[submodule "lsp-scheme"]
+	path = mirror/lsp-scheme
+	url = git@github.com:emacsmirror/lsp-scheme.git
 [submodule "lsp-sh"]
 	path = attic/lsp-sh
 	url = git@github.com:emacsattic/lsp-sh.git
