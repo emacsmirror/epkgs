@@ -15474,6 +15474,9 @@
 [submodule "ob-fsharp"]
 	path = mirror/ob-fsharp
 	url = git@github.com:emacsmirror/ob-fsharp.git
+[submodule "ob-git-permalink"]
+	path = mirror/ob-git-permalink
+	url = git@github.com:emacsmirror/ob-git-permalink.git
 [submodule "ob-go"]
 	path = mirror/ob-go
 	url = git@github.com:emacsmirror/ob-go.git
