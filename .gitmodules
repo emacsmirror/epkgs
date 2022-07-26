@@ -3388,6 +3388,9 @@
 [submodule "cook-mode"]
 	path = mirror/cook-mode
 	url = git@github.com:emacsmirror/cook-mode.git
+[submodule "cool-mode"]
+	path = mirror/cool-mode
+	url = git@github.com:emacsmirror/cool-mode.git
 [submodule "copy-as-format"]
 	path = mirror/copy-as-format
 	url = git@github.com:emacsmirror/copy-as-format.git
