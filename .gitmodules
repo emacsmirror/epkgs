@@ -24482,6 +24482,9 @@
 [submodule "yaml-path"]
 	path = attic/yaml-path
 	url = git@github.com:emacsattic/yaml-path.git
+[submodule "yaml-pro"]
+	path = mirror/yaml-pro
+	url = git@github.com:emacsmirror/yaml-pro.git
 [submodule "yaml-tomato"]
 	path = mirror/yaml-tomato
 	url = git@github.com:emacsmirror/yaml-tomato.git
