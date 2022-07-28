@@ -23779,8 +23779,8 @@
 	path = mirror/wedge-ws
 	url = git@github.com:emacsmirror/wedge-ws.git
 [submodule "weechat"]
-	path = mirror/weechat
-	url = git@github.com:emacsmirror/weechat.git
+	path = attic/weechat
+	url = git@github.com:emacsattic/weechat.git
 [submodule "weechat-alert"]
 	path = mirror/weechat-alert
 	url = git@github.com:emacsmirror/weechat-alert.git
