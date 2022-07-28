@@ -4679,8 +4679,8 @@
 	path = mirror/django-manage
 	url = git@github.com:emacsmirror/django-manage.git
 [submodule "django-mode"]
-	path = mirror/django-mode
-	url = git@github.com:emacsmirror/django-mode.git
+	path = attic/django-mode
+	url = git@github.com:emacsattic/django-mode.git
 [submodule "django-theme"]
 	path = mirror/django-theme
 	url = git@github.com:emacsmirror/django-theme.git
