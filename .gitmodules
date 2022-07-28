@@ -19884,7 +19884,6 @@
 [submodule "scratch"]
 	path = mirror/scratch
 	url = git@github.com:emacsmirror/scratch.git
-	branch = master
 [submodule "scratch-comment"]
 	path = mirror/scratch-comment
 	url = git@github.com:emacsmirror/scratch-comment.git
