@@ -21275,8 +21275,8 @@
 	path = attic/starteam
 	url = git@github.com:emacsattic/starteam.git
 [submodule "startproject"]
-	path = mirror/startproject
-	url = git@github.com:emacsmirror/startproject.git
+	path = attic/startproject
+	url = git@github.com:emacsattic/startproject.git
 [submodule "startup-file-name-history"]
 	path = attic/startup-file-name-history
 	url = git@github.com:emacsattic/startup-file-name-history.git
