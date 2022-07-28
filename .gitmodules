@@ -18460,8 +18460,8 @@
 	path = mirror/pyenv-mode
 	url = git@github.com:emacsmirror/pyenv-mode.git
 [submodule "pyenv-mode-auto"]
-	path = mirror/pyenv-mode-auto
-	url = git@github.com:emacsmirror/pyenv-mode-auto.git
+	path = attic/pyenv-mode-auto
+	url = git@github.com:emacsattic/pyenv-mode-auto.git
 [submodule "pyfmt"]
 	path = attic/pyfmt
 	url = git@github.com:emacsattic/pyfmt.git
