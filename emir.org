@@ -44,13 +44,6 @@
 | cython-mode         | slow           |
 | icicles             | heisenbug      |
 | make-mode           | slow           |
-| bibliothek          | unreachable    |
-| dune                | unreachable    |
-| forecast            | unreachable    |
-| org-variable-pitch  | unreachable    |
-| paper-theme         | unreachable    |
-| pylint              | unreachable    |
-| shell-command+      | unreachable    |
 
 - icicles: It freezes except when I try to investigate why it freezes.
 - cfengine-code-style, clang-format, make-mode, cython-mode: pending
