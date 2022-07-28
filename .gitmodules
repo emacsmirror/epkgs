@@ -12743,8 +12743,8 @@
 	path = mirror/less
 	url = git@github.com:emacsmirror/less.git
 [submodule "less-mode"]
-	path = mirror/less-mode
-	url = git@github.com:emacsmirror/less-mode.git
+	path = attic/less-mode
+	url = git@github.com:emacsattic/less-mode.git
 [submodule "lessage"]
 	path = attic/lessage
 	url = git@github.com:emacsattic/lessage.git
