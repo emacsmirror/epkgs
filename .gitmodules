@@ -23782,8 +23782,8 @@
 	path = attic/weechat
 	url = git@github.com:emacsattic/weechat.git
 [submodule "weechat-alert"]
-	path = mirror/weechat-alert
-	url = git@github.com:emacsmirror/weechat-alert.git
+	path = attic/weechat-alert
+	url = git@github.com:emacsattic/weechat-alert.git
 	branch = master
 [submodule "weibo"]
 	path = mirror/weibo
