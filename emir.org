@@ -42,7 +42,6 @@
 | clang-format        | extremely slow |
 | cmake-mode          | slow           |
 | cython-mode         | slow           |
-| icicles             | heisenbug      |
 | make-mode           | slow           |
 
 - icicles: It freezes except when I try to investigate why it freezes.
