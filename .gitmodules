@@ -16053,6 +16053,9 @@
 	path = mirror/org-evil
 	url = git@github.com:emacsmirror/org-evil.git
 	branch = master
+[submodule "org-extra-emphasis"]
+	path = mirror/org-extra-emphasis
+	url = git@github.com:emacsmirror/org-extra-emphasis.git
 [submodule "org-fancy-priorities"]
 	path = mirror/org-fancy-priorities
 	url = git@github.com:emacsmirror/org-fancy-priorities.git
