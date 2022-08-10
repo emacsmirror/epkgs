@@ -14098,6 +14098,9 @@
 [submodule "minibuffer-cua"]
 	path = mirror/minibuffer-cua
 	url = git@github.com:emacsmirror/minibuffer-cua.git
+[submodule "minibuffer-header"]
+	path = mirror/minibuffer-header
+	url = git@github.com:emacsmirror/minibuffer-header.git
 [submodule "minibuffer-line"]
 	path = mirror/minibuffer-line
 	url = git@github.com:emacsmirror/minibuffer-line.git
