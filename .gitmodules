@@ -23796,6 +23796,9 @@
 	path = mirror/webpaste
 	url = git@github.com:emacsmirror/webpaste.git
 	branch = master
+[submodule "websearch"]
+	path = mirror/websearch
+	url = git@github.com:emacsmirror/websearch.git
 [submodule "websocket"]
 	path = mirror/websocket
 	url = git@github.com:emacsmirror/websocket.git
