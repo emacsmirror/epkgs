@@ -6072,6 +6072,9 @@
 [submodule "encrypt"]
 	path = mirror/encrypt
 	url = git@github.com:emacsmirror/encrypt.git
+[submodule "encrypt-region"]
+	path = mirror/encrypt-region
+	url = git@github.com:emacsmirror/encrypt-region.git
 [submodule "engine-mode"]
 	path = mirror/engine-mode
 	url = git@github.com:emacsmirror/engine-mode.git
