@@ -17313,6 +17313,9 @@
 	path = attic/perl-completion
 	url = git@github.com:emacsattic/perl-completion.git
 	branch = master
+[submodule "perl-doc"]
+	path = mirror/perl-doc
+	url = git@github.com:emacsmirror/perl-doc.git
 [submodule "perl-find-library"]
 	path = mirror/perl-find-library
 	url = git@github.com:emacsmirror/perl-find-library.git
