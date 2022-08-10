@@ -25,10 +25,11 @@
   <<setup>>(emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
-| Package    | Reason                                                    |
-|------------+-----------------------------------------------------------|
-| connection | Don't add; part of upstream dictionary but not Emacs 28.1 |
-| link       | Don't add; part of upstream dictionary but not Emacs 28.1 |
+| Package                       | Reason                                                    |
+|-------------------------------+-----------------------------------------------------------|
+| connection                    | Don't add; part of upstream dictionary but not Emacs 28.1 |
+| link                          | Don't add; part of upstream dictionary but not Emacs 28.1 |
+| kaleidoscope-evil-state-flash | temp                                                      |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
