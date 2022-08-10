@@ -10906,6 +10906,9 @@
 [submodule "i3"]
 	path = mirror/i3
 	url = git@github.com:emacsmirror/i3.git
+[submodule "i3bar"]
+	path = mirror/i3bar
+	url = git@github.com:emacsmirror/i3bar.git
 [submodule "i3wm"]
 	path = mirror/i3wm
 	url = git@github.com:emacsmirror/i3wm.git
