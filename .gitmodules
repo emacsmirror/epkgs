@@ -9644,6 +9644,9 @@
 [submodule "hamlet-mode"]
 	path = mirror/hamlet-mode
 	url = git@github.com:emacsmirror/hamlet-mode.git
+[submodule "hammy"]
+	path = mirror/hammy
+	url = git@github.com:emacsmirror/hammy.git
 [submodule "hamster-mode"]
 	path = attic/hamster-mode
 	url = git@github.com:emacsattic/hamster-mode.git
