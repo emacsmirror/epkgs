@@ -3342,6 +3342,9 @@
 [submodule "consult-lsp"]
 	path = mirror/consult-lsp
 	url = git@github.com:emacsmirror/consult-lsp.git
+[submodule "consult-notes"]
+	path = mirror/consult-notes
+	url = git@github.com:emacsmirror/consult-notes.git
 [submodule "consult-notmuch"]
 	path = mirror/consult-notmuch
 	url = git@github.com:emacsmirror/consult-notmuch.git
