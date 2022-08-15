@@ -10629,6 +10629,9 @@
 [submodule "hl-indent"]
 	path = mirror/hl-indent
 	url = git@github.com:emacsmirror/hl-indent.git
+[submodule "hl-indent-scope"]
+	path = mirror/hl-indent-scope
+	url = git@github.com:emacsmirror/hl-indent-scope.git
 [submodule "hl-line+"]
 	path = mirror/hl-line+
 	url = git@github.com:emacsmirror/hl-line-plus.git
