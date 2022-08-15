@@ -12840,6 +12840,9 @@
 [submodule "license-templates"]
 	path = mirror/license-templates
 	url = git@github.com:emacsmirror/license-templates.git
+[submodule "ligature"]
+	path = mirror/ligature
+	url = git@github.com:emacsmirror/ligature.git
 [submodule "ligeti"]
 	path = attic/ligeti
 	url = git@github.com:emacsattic/ligeti.git
