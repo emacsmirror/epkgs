@@ -11759,8 +11759,8 @@
 	path = mirror/jabber-chatx
 	url = git@github.com:emacsmirror/jabber-chatx.git
 [submodule "jabber-otr"]
-	path = mirror/jabber-otr
-	url = git@github.com:emacsmirror/jabber-otr.git
+	path = attic/jabber-otr
+	url = git@github.com:emacsattic/jabber-otr.git
 [submodule "jack-connect"]
 	path = mirror/jack-connect
 	url = git@github.com:emacsmirror/jack-connect.git
