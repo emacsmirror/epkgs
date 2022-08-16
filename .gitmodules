@@ -3862,6 +3862,9 @@
 [submodule "cwm-mode"]
 	path = attic/cwm-mode
 	url = git@github.com:emacsattic/cwm-mode.git
+[submodule "cyanometric-theme"]
+	path = mirror/cyanometric-theme
+	url = git@github.com:emacsmirror/cyanometric-theme.git
 [submodule "cyberpunk-2019-theme"]
 	path = mirror/cyberpunk-2019-theme
 	url = git@github.com:emacsmirror/cyberpunk-2019-theme.git
