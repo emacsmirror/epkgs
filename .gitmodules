@@ -15865,6 +15865,9 @@
 [submodule "opscode-sign"]
 	path = mirror/opscode-sign
 	url = git@github.com:emacsmirror/opscode-sign.git
+[submodule "orangey-bits-theme"]
+	path = mirror/orangey-bits-theme
+	url = git@github.com:emacsmirror/orangey-bits-theme.git
 [submodule "orca"]
 	path = mirror/orca
 	url = git@github.com:emacsmirror/orca.git
