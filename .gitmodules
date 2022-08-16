@@ -24675,8 +24675,8 @@
 	path = mirror/zeal-at-point
 	url = git@github.com:emacsmirror/zeal-at-point.git
 [submodule "zeitgeist"]
-	path = mirror/zeitgeist
-	url = git@github.com:emacsmirror/zeitgeist.git
+	path = attic/zeitgeist
+	url = git@github.com:emacsattic/zeitgeist.git
 	branch = master
 [submodule "zel"]
 	path = attic/zel
