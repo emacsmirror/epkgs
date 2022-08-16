@@ -23318,6 +23318,9 @@
 [submodule "vega-view"]
 	path = mirror/vega-view
 	url = git@github.com:emacsmirror/vega-view.git
+[submodule "vegetative-theme"]
+	path = mirror/vegetative-theme
+	url = git@github.com:emacsmirror/vegetative-theme.git
 [submodule "vel"]
 	path = attic/vel
 	url = git@github.com:emacsattic/vel.git
