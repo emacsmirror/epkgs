@@ -5369,6 +5369,9 @@
 [submodule "eev"]
 	path = mirror/eev
 	url = git@github.com:emacsmirror/eev.git
+[submodule "ef-themes"]
+	path = mirror/ef-themes
+	url = git@github.com:emacsmirror/ef-themes.git
 [submodule "efar"]
 	path = mirror/efar
 	url = git@github.com:emacsmirror/efar.git
