@@ -19767,6 +19767,9 @@
 [submodule "sailfish-scratchbox"]
 	path = mirror/sailfish-scratchbox
 	url = git@github.com:emacsmirror/sailfish-scratchbox.git
+[submodule "sakura-theme"]
+	path = mirror/sakura-theme
+	url = git@github.com:emacsmirror/sakura-theme.git
 [submodule "salesforce-utils"]
 	path = mirror/salesforce-utils
 	url = git@github.com:emacsmirror/salesforce-utils.git
