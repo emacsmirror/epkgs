@@ -817,42 +817,6 @@
 |-------------+--------+---------------|
 | pollen-mode | LGPL   | LGPL-3.0-only |
 
-* Update ~emir--archived-packages~
-#+NAME: set--emir--archived-packages
-#+BEGIN_SRC emacs-lisp
-  <<setup>>
-  (emir-gh-foreach-query
-   '(isArchived)
-   (lambda (data)
-     (customize-save-variable
-      'emir--archived-packages
-      (mapcan (pcase-lambda (`(,name . ,alist))
-                (and-let* ((archived (alist-get 'isArchived alist)))
-                  (list name)))
-              data))))
-#+END_SRC
-
-* Update ~emir--moved-packages~
-#+NAME: set--emir--moved-packages
-#+BEGIN_SRC emacs-lisp
-  <<setup>>
-  (emir-gh-foreach-query
-   '(nameWithOwner)
-   (lambda (data)
-     (customize-save-variable
-      'emir--moved-packages
-      (mapcan (pcase-lambda (`(,name . ,data))
-                (message "Checking %s..." name)
-                (let* ((pkg (epkg name))
-                       (old (concat (oref pkg upstream-user) "/"
-                                    (oref pkg upstream-name)))
-                       (new (cdr (assq 'nameWithOwner data))))
-                  (prog1 (and (not (equal new old))
-                              (list (list name old new)))
-                    (message "Checking %s...done" name))))
-              data)))))
-#+END_SRC
-
 * _
 # Local Variables:
 # indent-tabs-mode: nil
