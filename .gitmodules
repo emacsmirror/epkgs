@@ -18034,6 +18034,9 @@
 [submodule "pow"]
 	path = mirror/pow
 	url = git@github.com:emacsmirror/pow.git
+[submodule "power-mode"]
+	path = mirror/power-mode
+	url = git@github.com:emacsmirror/power-mode.git
 [submodule "powerline"]
 	path = mirror/powerline
 	url = git@github.com:emacsmirror/powerline.git
