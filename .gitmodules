@@ -7752,8 +7752,8 @@
 	url = git@github.com:emacsmirror/flycheck-joker.git
 	branch = master
 [submodule "flycheck-julia"]
-	path = mirror/flycheck-julia
-	url = git@github.com:emacsmirror/flycheck-julia.git
+	path = attic/flycheck-julia
+	url = git@github.com:emacsattic/flycheck-julia.git
 [submodule "flycheck-kotlin"]
 	path = mirror/flycheck-kotlin
 	url = git@github.com:emacsmirror/flycheck-kotlin.git
