@@ -22332,6 +22332,9 @@
 [submodule "timan"]
 	path = attic/timan
 	url = git@github.com:emacsattic/timan.git
+[submodule "time-block"]
+	path = mirror/time-block
+	url = git@github.com:emacsmirror/time-block.git
 [submodule "time-ext"]
 	path = mirror/time-ext
 	url = git@github.com:emacsmirror/time-ext.git
