@@ -2575,6 +2575,9 @@
 [submodule "citar"]
 	path = mirror/citar
 	url = git@github.com:emacsmirror/citar.git
+[submodule "citar-org-roam"]
+	path = mirror/citar-org-roam
+	url = git@github.com:emacsmirror/citar-org-roam.git
 [submodule "cite"]
 	path = attic/cite
 	url = git@github.com:emacsattic/cite.git
