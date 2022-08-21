@@ -2145,6 +2145,9 @@
 [submodule "calc-inline"]
 	path = mirror/calc-inline
 	url = git@github.com:emacsmirror/calc-inline.git
+[submodule "calc-prog-utils"]
+	path = mirror/calc-prog-utils
+	url = git@github.com:emacsmirror/calc-prog-utils.git
 [submodule "calendar+"]
 	path = mirror/calendar+
 	url = git@github.com:emacsmirror/calendar-plus.git
