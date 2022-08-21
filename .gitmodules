@@ -2848,6 +2848,9 @@
 [submodule "codesearch"]
 	path = mirror/codesearch
 	url = git@github.com:emacsmirror/codesearch.git
+[submodule "codespaces"]
+	path = mirror/codespaces
+	url = git@github.com:emacsmirror/codespaces.git
 [submodule "codethumb"]
 	path = mirror/codethumb
 	url = git@github.com:emacsmirror/codethumb.git
