@@ -76,6 +76,23 @@
 |----------------+----------------|
 | flycheck-julia | still on melpa |
 
+* Set ~emir-keep-packages~
+#+NAME: set--emir-repo-sharing-packages
+#+BEGIN_SRC emacs-lisp :var value=val--emir-repo-sharing-packages
+  <<setup>>(emir--save-variable 'emir-repo-sharing-packages value)
+#+END_SRC
+#+NAME: val--emir-repo-sharing-packages
+| Package            | Note                     |
+|--------------------+--------------------------|
+| taxy               | different branch         |
+| taxy-magit-section | different branch         |
+| bibliothek         | all-in-one by cadadr     |
+| forecast           | all-in-one by cadadr     |
+| org-variable-pitch | all-in-one by cadadr     |
+| paper-theme        | all-in-one by cadadr     |
+| autotest           | all-in-one by zenspider  |
+| toggle             | all-in-one  by zenspider |
+
 * Set ~emir--homepage-alist~
 #+NAME: set--emir--homepage-alist
 #+BEGIN_SRC emacs-lisp :var value=val--emir--homepage-alist
