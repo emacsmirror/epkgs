@@ -4817,9 +4817,6 @@
 [submodule "dom5"]
 	path = attic/dom5
 	url = git@github.com:emacsattic/dom5.git
-[submodule "doneburn-theme"]
-	path = mirror/doneburn-theme
-	url = git@github.com:emacsmirror/doneburn-theme.git
 [submodule "doom"]
 	path = mirror/doom
 	url = git@github.com:emacsmirror/doom.git
