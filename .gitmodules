@@ -13922,6 +13922,9 @@
 [submodule "media-files"]
 	path = attic/media-files
 	url = git@github.com:emacsattic/media-files.git
+[submodule "media-thumbnail"]
+	path = mirror/media-thumbnail
+	url = git@github.com:emacsmirror/media-thumbnail.git
 [submodule "mediawiki"]
 	path = mirror/mediawiki
 	url = git@github.com:emacsmirror/mediawiki.git
