@@ -15961,6 +15961,9 @@
 	path = mirror/org-bookmark-heading
 	url = git@github.com:emacsmirror/org-bookmark-heading.git
 	branch = master
+[submodule "org-bookmarks-extractor"]
+	path = mirror/org-bookmarks-extractor
+	url = git@github.com:emacsmirror/org-bookmarks-extractor.git
 [submodule "org-books"]
 	path = mirror/org-books
 	url = git@github.com:emacsmirror/org-books.git
