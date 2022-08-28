@@ -11532,8 +11532,8 @@
 	path = mirror/iplayer
 	url = git@github.com:emacsmirror/iplayer.git
 [submodule "ipp"]
-	path = attic/ipp
-	url = git@github.com:emacsattic/ipp.git
+	path = mirror/ipp
+	url = git@github.com:emacsmirror/ipp.git
 [submodule "ipretty"]
 	path = mirror/ipretty
 	url = git@github.com:emacsmirror/ipretty.git
