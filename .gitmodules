@@ -2338,6 +2338,9 @@
 [submodule "cerbere"]
 	path = mirror/cerbere
 	url = git@github.com:emacsmirror/cerbere.git
+[submodule "cern-ldap"]
+	path = mirror/cern-ldap
+	url = git@github.com:emacsmirror/cern-ldap.git
 [submodule "cern-root-mode"]
 	path = mirror/cern-root-mode
 	url = git@github.com:emacsmirror/cern-root-mode.git
