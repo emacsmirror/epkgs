@@ -13950,7 +13950,6 @@
 [submodule "melancholy-theme"]
 	path = mirror/melancholy-theme
 	url = git@github.com:emacsmirror/melancholy-theme.git
-	branch = master
 [submodule "mellow-theme"]
 	path = mirror/mellow-theme
 	url = git@github.com:emacsmirror/mellow-theme.git
