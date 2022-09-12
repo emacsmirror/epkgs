@@ -11998,6 +11998,9 @@
 [submodule "jist"]
 	path = mirror/jist
 	url = git@github.com:emacsmirror/jist.git
+[submodule "jit-lock-stealth-progress"]
+	path = mirror/jit-lock-stealth-progress
+	url = git@github.com:emacsmirror/jit-lock-stealth-progress.git
 [submodule "jknav"]
 	path = mirror/jknav
 	url = git@github.com:emacsmirror/jknav.git
