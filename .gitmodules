@@ -8210,6 +8210,9 @@
 [submodule "fontsloth"]
 	path = mirror/fontsloth
 	url = git@github.com:emacsmirror/fontsloth.git
+[submodule "for"]
+	path = mirror/for
+	url = git@github.com:emacsmirror/for.git
 [submodule "forecast"]
 	path = mirror/forecast
 	url = git@github.com:emacsmirror/forecast.git
