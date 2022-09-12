@@ -19822,6 +19822,9 @@
 [submodule "salt-mode"]
 	path = mirror/salt-mode
 	url = git@github.com:emacsmirror/salt-mode.git
+[submodule "samskritam"]
+	path = mirror/samskritam
+	url = git@github.com:emacsmirror/samskritam.git
 [submodule "sandbox"]
 	path = attic/sandbox
 	url = git@github.com:emacsattic/sandbox.git
