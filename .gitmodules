@@ -13849,6 +13849,9 @@
 [submodule "math-symbols"]
 	path = mirror/math-symbols
 	url = git@github.com:emacsmirror/math-symbols.git
+[submodule "math-tex-convert"]
+	path = mirror/math-tex-convert
+	url = git@github.com:emacsmirror/math-tex-convert.git
 [submodule "mathematica"]
 	path = attic/mathematica
 	url = git@github.com:emacsattic/mathematica.git
