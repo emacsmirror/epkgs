@@ -14829,6 +14829,9 @@
 [submodule "mybuffers"]
 	path = mirror/mybuffers
 	url = git@github.com:emacsmirror/mybuffers.git
+[submodule "mybuild-mode"]
+	path = mirror/mybuild-mode
+	url = git@github.com:emacsmirror/mybuild-mode.git
 [submodule "myers"]
 	path = mirror/myers
 	url = git@github.com:emacsmirror/myers.git
