@@ -14436,6 +14436,9 @@
 [submodule "morlock"]
 	path = mirror/morlock
 	url = git@github.com:emacsmirror/morlock.git
+[submodule "mos-mode"]
+	path = mirror/mos-mode
+	url = git@github.com:emacsmirror/mos-mode.git
 [submodule "mosey"]
 	path = mirror/mosey
 	url = git@github.com:emacsmirror/mosey.git
