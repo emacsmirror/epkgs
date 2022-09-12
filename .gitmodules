@@ -24725,6 +24725,9 @@
 [submodule "ytel"]
 	path = mirror/ytel
 	url = git@github.com:emacsmirror/ytel.git
+[submodule "yul-mode"]
+	path = mirror/yul-mode
+	url = git@github.com:emacsmirror/yul-mode.git
 [submodule "z3-mode"]
 	path = mirror/z3-mode
 	url = git@github.com:emacsmirror/z3-mode.git
