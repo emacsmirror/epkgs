@@ -23137,6 +23137,9 @@
 [submodule "units"]
 	path = attic/units
 	url = git@github.com:emacsattic/units.git
+[submodule "units-mode"]
+	path = mirror/units-mode
+	url = git@github.com:emacsmirror/units-mode.git
 [submodule "universal-emotions-emoticons"]
 	path = mirror/universal-emotions-emoticons
 	url = git@github.com:emacsmirror/universal-emotions-emoticons.git
