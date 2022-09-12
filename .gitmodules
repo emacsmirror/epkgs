@@ -11391,6 +11391,9 @@
 [submodule "inheritenv"]
 	path = mirror/inheritenv
 	url = git@github.com:emacsmirror/inheritenv.git
+[submodule "ini"]
+	path = mirror/ini
+	url = git@github.com:emacsmirror/ini.git
 [submodule "ini-mode"]
 	path = mirror/ini-mode
 	url = git@github.com:emacsmirror/ini-mode.git
