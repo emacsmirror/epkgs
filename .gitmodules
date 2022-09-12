@@ -17467,6 +17467,9 @@
 [submodule "pest-mode"]
 	path = mirror/pest-mode
 	url = git@github.com:emacsmirror/pest-mode.git
+[submodule "pet"]
+	path = mirror/pet
+	url = git@github.com:emacsmirror/pet.git
 [submodule "pfuture"]
 	path = mirror/pfuture
 	url = git@github.com:emacsmirror/pfuture.git
