@@ -16582,6 +16582,9 @@
 [submodule "org-trello"]
 	path = mirror/org-trello
 	url = git@github.com:emacsmirror/org-trello.git
+[submodule "org-unique-id"]
+	path = mirror/org-unique-id
+	url = git@github.com:emacsmirror/org-unique-id.git
 [submodule "org-variable-pitch"]
 	path = mirror/org-variable-pitch
 	url = git@github.com:emacsmirror/org-variable-pitch.git
