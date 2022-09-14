@@ -13061,10 +13061,6 @@
 [submodule "literate-elisp"]
 	path = mirror/literate-elisp
 	url = git@github.com:emacsmirror/literate-elisp.git
-[submodule "literate-starter-kit"]
-	path = mirror/literate-starter-kit
-	url = git@github.com:emacsmirror/literate-starter-kit.git
-	branch = master
 [submodule "litex-mode"]
 	path = mirror/litex-mode
 	url = git@github.com:emacsmirror/litex-mode.git
