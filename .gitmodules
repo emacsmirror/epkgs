@@ -3267,8 +3267,8 @@
 	path = attic/completion-ignored-build
 	url = git@github.com:emacsattic/completion-ignored-build.git
 [submodule "completions-frame"]
-	path = mirror/completions-frame
-	url = git@github.com:emacsmirror/completions-frame.git
+	path = attic/completions-frame
+	url = git@github.com:emacsattic/completions-frame.git
 [submodule "composable"]
 	path = mirror/composable
 	url = git@github.com:emacsmirror/composable.git
