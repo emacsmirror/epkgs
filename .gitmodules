@@ -2754,7 +2754,6 @@
 [submodule "closql"]
 	path = mirror/closql
 	url = git@github.com:emacsmirror/closql.git
-	branch = master
 [submodule "closure"]
 	path = attic/closure
 	url = git@github.com:emacsattic/closure.git
