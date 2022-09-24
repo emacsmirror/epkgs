@@ -18518,6 +18518,9 @@
 [submodule "py-smart-operator"]
 	path = mirror/py-smart-operator
 	url = git@github.com:emacsmirror/py-smart-operator.git
+[submodule "py-snippets"]
+	path = mirror/py-snippets
+	url = git@github.com:emacsmirror/py-snippets.git
 [submodule "py-test"]
 	path = mirror/py-test
 	url = git@github.com:emacsmirror/py-test.git
