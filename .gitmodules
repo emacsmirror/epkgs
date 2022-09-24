@@ -17708,6 +17708,9 @@
 [submodule "pivotal-tracker"]
 	path = attic/pivotal-tracker
 	url = git@github.com:emacsattic/pivotal-tracker.git
+[submodule "pixelblaze"]
+	path = mirror/pixelblaze
+	url = git@github.com:emacsmirror/pixelblaze.git
 [submodule "pixie-mode"]
 	path = mirror/pixie-mode
 	url = git@github.com:emacsmirror/pixie-mode.git
