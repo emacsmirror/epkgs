@@ -18427,6 +18427,9 @@
 [submodule "pubmed"]
 	path = mirror/pubmed
 	url = git@github.com:emacsmirror/pubmed.git
+[submodule "pueue"]
+	path = mirror/pueue
+	url = git@github.com:emacsmirror/pueue.git
 [submodule "pug-mode"]
 	path = mirror/pug-mode
 	url = git@github.com:emacsmirror/pug-mode.git
