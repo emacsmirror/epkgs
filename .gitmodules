@@ -16051,6 +16051,9 @@
 [submodule "org-cua-dwim"]
 	path = mirror/org-cua-dwim
 	url = git@github.com:emacsmirror/org-cua-dwim.git
+[submodule "org-custom-cookies"]
+	path = mirror/org-custom-cookies
+	url = git@github.com:emacsmirror/org-custom-cookies.git
 [submodule "org-d20"]
 	path = mirror/org-d20
 	url = git@github.com:emacsmirror/org-d20.git
