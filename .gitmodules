@@ -8083,6 +8083,9 @@
 	path = mirror/flymake-solidity
 	url = git@github.com:emacsmirror/flymake-solidity.git
 	branch = master
+[submodule "flymake-sqlfluff"]
+	path = mirror/flymake-sqlfluff
+	url = git@github.com:emacsmirror/flymake-sqlfluff.git
 [submodule "flymake-swi-prolog"]
 	path = mirror/flymake-swi-prolog
 	url = git@github.com:emacsmirror/flymake-swi-prolog.git
