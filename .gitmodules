@@ -6916,6 +6916,9 @@
 [submodule "execline"]
 	path = mirror/execline
 	url = git@github.com:emacsmirror/execline.git
+[submodule "exercism"]
+	path = mirror/exercism
+	url = git@github.com:emacsmirror/exercism.git
 [submodule "exiftool"]
 	path = mirror/exiftool
 	url = git@github.com:emacsmirror/exiftool.git
