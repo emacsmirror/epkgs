@@ -11615,6 +11615,9 @@
 [submodule "ishl"]
 	path = attic/ishl
 	url = git@github.com:emacsattic/ishl.git
+[submodule "islisp-mode"]
+	path = mirror/islisp-mode
+	url = git@github.com:emacsmirror/islisp-mode.git
 [submodule "iso-html"]
 	path = attic/iso-html
 	url = git@github.com:emacsattic/iso-html.git
