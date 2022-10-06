@@ -22184,6 +22184,9 @@
 [submodule "terrible-template"]
 	path = mirror/terrible-template
 	url = git@github.com:emacsmirror/terrible-template.git
+[submodule "tesouro"]
+	path = mirror/tesouro
+	url = git@github.com:emacsmirror/tesouro.git
 [submodule "test"]
 	path = attic/test
 	url = git@github.com:emacsattic/test.git
