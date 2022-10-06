@@ -24412,6 +24412,9 @@
 [submodule "xiomacs"]
 	path = attic/xiomacs
 	url = git@github.com:emacsattic/xiomacs.git
+[submodule "xit-mode"]
+	path = mirror/xit-mode
+	url = git@github.com:emacsmirror/xit-mode.git
 [submodule "xkcd"]
 	path = mirror/xkcd
 	url = git@github.com:emacsmirror/xkcd.git
