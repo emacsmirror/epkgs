@@ -6549,6 +6549,9 @@
 [submodule "etc-sudoers-mode"]
 	path = mirror/etc-sudoers-mode
 	url = git@github.com:emacsmirror/etc-sudoers-mode.git
+[submodule "etd"]
+	path = mirror/etd
+	url = git@github.com:emacsmirror/etd.git
 [submodule "eterm-256color"]
 	path = mirror/eterm-256color
 	url = git@github.com:emacsmirror/eterm-256color.git
