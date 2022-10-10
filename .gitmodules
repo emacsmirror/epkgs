@@ -17363,6 +17363,9 @@
 [submodule "peano"]
 	path = attic/peano
 	url = git@github.com:emacsattic/peano.git
+[submodule "pebble-mode"]
+	path = mirror/pebble-mode
+	url = git@github.com:emacsmirror/pebble-mode.git
 [submodule "peek-mode"]
 	path = mirror/peek-mode
 	url = git@github.com:emacsmirror/peek-mode.git
