@@ -11005,6 +11005,9 @@
 [submodule "icicles-iswitchb"]
 	path = mirror/icicles-iswitchb
 	url = git@github.com:emacsmirror/icicles-iswitchb.git
+[submodule "icl-mode"]
+	path = mirror/icl-mode
+	url = git@github.com:emacsmirror/icl-mode.git
 [submodule "icmp-info"]
 	path = mirror/icmp-info
 	url = git@github.com:emacsmirror/icmp-info.git
