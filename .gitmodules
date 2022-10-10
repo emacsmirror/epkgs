@@ -754,8 +754,8 @@
 	path = mirror/arbitools
 	url = git@github.com:emacsmirror/arbitools.git
 [submodule "arc-dark-theme"]
-	path = mirror/arc-dark-theme
-	url = git@github.com:emacsmirror/arc-dark-theme.git
+	path = attic/arc-dark-theme
+	url = git@github.com:emacsattic/arc-dark-theme.git
 [submodule "arc-lzh-exe"]
 	path = attic/arc-lzh-exe
 	url = git@github.com:emacsattic/arc-lzh-exe.git
