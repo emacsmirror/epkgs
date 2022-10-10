@@ -11019,8 +11019,8 @@
 	path = mirror/icomplete-vertical
 	url = git@github.com:emacsmirror/icomplete-vertical.git
 [submodule "icons-in-terminal"]
-	path = mirror/icons-in-terminal
-	url = git@github.com:emacsmirror/icons-in-terminal.git
+	path = attic/icons-in-terminal
+	url = git@github.com:emacsattic/icons-in-terminal.git
 [submodule "icsql"]
 	path = mirror/icsql
 	url = git@github.com:emacsmirror/icsql.git
