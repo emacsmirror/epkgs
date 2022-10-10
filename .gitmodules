@@ -19615,6 +19615,9 @@
 [submodule "rope-read-mode"]
 	path = mirror/rope-read-mode
 	url = git@github.com:emacsmirror/rope-read-mode.git
+[submodule "ropgadget"]
+	path = mirror/ropgadget
+	url = git@github.com:emacsmirror/ropgadget.git
 [submodule "ros"]
 	path = mirror/ros
 	url = git@github.com:emacsmirror/ros.git
