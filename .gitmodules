@@ -10601,6 +10601,9 @@
 [submodule "highwin"]
 	path = attic/highwin
 	url = git@github.com:emacsattic/highwin.git
+[submodule "himalaya"]
+	path = mirror/himalaya
+	url = git@github.com:emacsmirror/himalaya.git
 [submodule "himark"]
 	path = attic/himark
 	url = git@github.com:emacsattic/himark.git
