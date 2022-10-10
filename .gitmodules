@@ -15540,6 +15540,9 @@
 [submodule "ob-ess-julia"]
 	path = mirror/ob-ess-julia
 	url = git@github.com:emacsmirror/ob-ess-julia.git
+[submodule "ob-ffuf"]
+	path = mirror/ob-ffuf
+	url = git@github.com:emacsmirror/ob-ffuf.git
 [submodule "ob-fsharp"]
 	path = mirror/ob-fsharp
 	url = git@github.com:emacsmirror/ob-fsharp.git
