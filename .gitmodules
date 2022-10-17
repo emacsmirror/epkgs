@@ -5927,9 +5927,6 @@
 [submodule "emacsql"]
 	path = mirror/emacsql
 	url = git@github.com:emacsmirror/emacsql.git
-[submodule "emacsql-sqlite-builtin"]
-	path = mirror/emacsql-sqlite-builtin
-	url = git@github.com:emacsmirror/emacsql-sqlite-builtin.git
 [submodule "emacsql-sqlite3"]
 	path = mirror/emacsql-sqlite3
 	url = git@github.com:emacsmirror/emacsql-sqlite3.git
