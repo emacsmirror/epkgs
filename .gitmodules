@@ -2720,6 +2720,9 @@
 [submodule "clmemo"]
 	path = mirror/clmemo
 	url = git@github.com:emacsmirror/clmemo.git
+[submodule "cloak-mode"]
+	path = mirror/cloak-mode
+	url = git@github.com:emacsmirror/cloak-mode.git
 [submodule "cloc"]
 	path = mirror/cloc
 	url = git@github.com:emacsmirror/cloc.git
