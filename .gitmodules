@@ -768,6 +768,9 @@
 [submodule "archive-downloader"]
 	path = mirror/archive-downloader
 	url = git@github.com:emacsmirror/archive-downloader.git
+[submodule "archive-phar"]
+	path = mirror/archive-phar
+	url = git@github.com:emacsmirror/archive-phar.git
 [submodule "archive-region"]
 	path = mirror/archive-region
 	url = git@github.com:emacsmirror/archive-region.git
