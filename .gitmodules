@@ -4704,6 +4704,9 @@
 [submodule "django-mode"]
 	path = attic/django-mode
 	url = git@github.com:emacsattic/django-mode.git
+[submodule "django-snippets"]
+	path = mirror/django-snippets
+	url = git@github.com:emacsmirror/django-snippets.git
 [submodule "django-theme"]
 	path = mirror/django-theme
 	url = git@github.com:emacsmirror/django-theme.git
