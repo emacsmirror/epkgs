@@ -17133,8 +17133,8 @@
 	url = git@github.com:emacsmirror/paperless.git
 	branch = master
 [submodule "paradox"]
-	path = mirror/paradox
-	url = git@github.com:emacsmirror/paradox.git
+	path = attic/paradox
+	url = git@github.com:emacsattic/paradox.git
 [submodule "parasep"]
 	path = mirror/parasep
 	url = git@github.com:emacsmirror/parasep.git
