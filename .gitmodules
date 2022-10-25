@@ -10836,12 +10836,12 @@
 	path = mirror/html2org
 	url = git@github.com:emacsmirror/html2org.git
 	branch = master
-[submodule "html5"]
-	path = mirror/html5
-	url = git@github.com:emacsmirror/html5.git
 [submodule "html5-schema"]
 	path = mirror/html5-schema
 	url = git@github.com:emacsmirror/html5-schema.git
+[submodule "html5-tok"]
+	path = mirror/html5-tok
+	url = git@github.com:emacsmirror/html5-tok.git
 [submodule "htmlize"]
 	path = mirror/htmlize
 	url = git@github.com:emacsmirror/htmlize.git
