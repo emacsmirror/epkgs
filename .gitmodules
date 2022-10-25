@@ -2518,9 +2518,6 @@
 [submodule "chruby"]
 	path = mirror/chruby
 	url = git@github.com:emacsmirror/chruby.git
-[submodule "chumpy-windows"]
-	path = mirror/chumpy-windows
-	url = git@github.com:emacsmirror/chumpy-windows.git
 [submodule "chyla-theme"]
 	path = mirror/chyla-theme
 	url = git@github.com:emacsmirror/chyla-theme.git
@@ -24083,6 +24080,9 @@
 [submodule "window-end-visible"]
 	path = mirror/window-end-visible
 	url = git@github.com:emacsmirror/window-end-visible.git
+[submodule "window-jump"]
+	path = mirror/window-jump
+	url = git@github.com:emacsmirror/window-jump.git
 [submodule "window-layout"]
 	path = mirror/window-layout
 	url = git@github.com:emacsmirror/window-layout.git
