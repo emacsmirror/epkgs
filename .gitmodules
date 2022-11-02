@@ -4008,8 +4008,8 @@
 	path = mirror/dark-souls
 	url = git@github.com:emacsmirror/dark-souls.git
 [submodule "darkburn-theme"]
-	path = mirror/darkburn-theme
-	url = git@github.com:emacsmirror/darkburn-theme.git
+	path = attic/darkburn-theme
+	url = git@github.com:emacsattic/darkburn-theme.git
 	branch = master
 [submodule "darken-text"]
 	path = mirror/darken-text
