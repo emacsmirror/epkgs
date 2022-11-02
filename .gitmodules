@@ -4760,6 +4760,9 @@
 [submodule "doc-show-inline"]
 	path = mirror/doc-show-inline
 	url = git@github.com:emacsmirror/doc-show-inline.git
+[submodule "doc-toc"]
+	path = mirror/doc-toc
+	url = git@github.com:emacsmirror/doc-toc.git
 [submodule "docbook"]
 	path = mirror/docbook
 	url = git@github.com:emacsmirror/docbook.git
