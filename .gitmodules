@@ -23194,8 +23194,8 @@
 	path = mirror/universal-emotions-emoticons
 	url = git@github.com:emacsmirror/universal-emotions-emoticons.git
 [submodule "unkillable-scratch"]
-	path = mirror/unkillable-scratch
-	url = git@github.com:emacsmirror/unkillable-scratch.git
+	path = attic/unkillable-scratch
+	url = git@github.com:emacsattic/unkillable-scratch.git
 [submodule "unmodified-buffer"]
 	path = mirror/unmodified-buffer
 	url = git@github.com:emacsmirror/unmodified-buffer.git
