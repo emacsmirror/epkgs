@@ -2036,8 +2036,8 @@
 	path = mirror/burnt-toast
 	url = git@github.com:emacsmirror/burnt-toast.git
 [submodule "bury-successful-compilation"]
-	path = mirror/bury-successful-compilation
-	url = git@github.com:emacsmirror/bury-successful-compilation.git
+	path = attic/bury-successful-compilation
+	url = git@github.com:emacsattic/bury-successful-compilation.git
 [submodule "buster-mode"]
 	path = mirror/buster-mode
 	url = git@github.com:emacsmirror/buster-mode.git
