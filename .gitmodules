@@ -6664,8 +6664,8 @@
 	path = mirror/evil-easymotion
 	url = git@github.com:emacsmirror/evil-easymotion.git
 [submodule "evil-ediff"]
-	path = mirror/evil-ediff
-	url = git@github.com:emacsmirror/evil-ediff.git
+	path = attic/evil-ediff
+	url = git@github.com:emacsattic/evil-ediff.git
 	branch = master
 [submodule "evil-elscreen"]
 	path = mirror/evil-elscreen
