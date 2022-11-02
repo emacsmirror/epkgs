@@ -23236,6 +23236,9 @@
 [submodule "url-http-ntlm"]
 	path = mirror/url-http-ntlm
 	url = git@github.com:emacsmirror/url-http-ntlm.git
+[submodule "url-scgi"]
+	path = mirror/url-scgi
+	url = git@github.com:emacsmirror/url-scgi.git
 [submodule "url-shortener"]
 	path = mirror/url-shortener
 	url = git@github.com:emacsmirror/url-shortener.git
