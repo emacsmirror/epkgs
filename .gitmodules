@@ -2242,8 +2242,8 @@
 	path = attic/caselet
 	url = git@github.com:emacsattic/caselet.git
 [submodule "cask"]
-	path = mirror/cask
-	url = git@github.com:emacsmirror/cask.git
+	path = attic/cask
+	url = git@github.com:emacsattic/cask.git
 [submodule "cask-mode"]
 	path = mirror/cask-mode
 	url = git@github.com:emacsmirror/cask-mode.git
