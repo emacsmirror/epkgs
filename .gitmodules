@@ -9016,6 +9016,9 @@
 [submodule "gn-mode"]
 	path = mirror/gn-mode
 	url = git@github.com:emacsmirror/gn-mode.git
+[submodule "gnat-compiler"]
+	path = mirror/gnat-compiler
+	url = git@github.com:emacsmirror/gnat-compiler.git
 [submodule "gneve"]
 	path = attic/gneve
 	url = git@github.com:emacsattic/gneve.git
