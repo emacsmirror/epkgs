@@ -12075,8 +12075,8 @@
 	path = attic/journal-search
 	url = git@github.com:emacsattic/journal-search.git
 [submodule "journalctl-mode"]
-	path = mirror/journalctl-mode
-	url = git@github.com:emacsmirror/journalctl-mode.git
+	path = attic/journalctl-mode
+	url = git@github.com:emacsattic/journalctl-mode.git
 [submodule "joystick"]
 	path = attic/joystick
 	url = git@github.com:emacsattic/joystick.git
