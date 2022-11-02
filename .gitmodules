@@ -16921,6 +16921,9 @@
 [submodule "ox-leanpub"]
 	path = mirror/ox-leanpub
 	url = git@github.com:emacsmirror/ox-leanpub.git
+[submodule "ox-linuxmag-fr"]
+	path = mirror/ox-linuxmag-fr
+	url = git@github.com:emacsmirror/ox-linuxmag-fr.git
 [submodule "ox-mdx-deck"]
 	path = mirror/ox-mdx-deck
 	url = git@github.com:emacsmirror/ox-mdx-deck.git
