@@ -357,6 +357,9 @@
 [submodule "aggressive-indent"]
 	path = mirror/aggressive-indent
 	url = git@github.com:emacsmirror/aggressive-indent.git
+[submodule "agitate"]
+	path = mirror/agitate
+	url = git@github.com:emacsmirror/agitate.git
 [submodule "agtags"]
 	path = mirror/agtags
 	url = git@github.com:emacsmirror/agtags.git
