@@ -9377,6 +9377,9 @@
 [submodule "gpr-mode"]
 	path = mirror/gpr-mode
 	url = git@github.com:emacsmirror/gpr-mode.git
+[submodule "gpr-query"]
+	path = mirror/gpr-query
+	url = git@github.com:emacsmirror/gpr-query.git
 [submodule "grab-and-drag"]
 	path = mirror/grab-and-drag
 	url = git@github.com:emacsmirror/grab-and-drag.git
