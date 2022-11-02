@@ -7713,8 +7713,8 @@
 	path = mirror/flycheck-golangci-lint
 	url = git@github.com:emacsmirror/flycheck-golangci-lint.git
 [submodule "flycheck-gometalinter"]
-	path = mirror/flycheck-gometalinter
-	url = git@github.com:emacsmirror/flycheck-gometalinter.git
+	path = attic/flycheck-gometalinter
+	url = git@github.com:emacsattic/flycheck-gometalinter.git
 [submodule "flycheck-google-cpplint"]
 	path = mirror/flycheck-google-cpplint
 	url = git@github.com:emacsmirror/flycheck-google-cpplint.git
