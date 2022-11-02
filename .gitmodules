@@ -4120,6 +4120,9 @@
 [submodule "dconv"]
 	path = attic/dconv
 	url = git@github.com:emacsattic/dconv.git
+[submodule "ddate"]
+	path = mirror/ddate
+	url = git@github.com:emacsmirror/ddate.git
 [submodule "ddl-mode"]
 	path = mirror/ddl-mode
 	url = git@github.com:emacsmirror/ddl-mode.git
