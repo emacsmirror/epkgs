@@ -9374,6 +9374,9 @@
 [submodule "gplusify"]
 	path = attic/gplusify
 	url = git@github.com:emacsattic/gplusify.git
+[submodule "gpr-mode"]
+	path = mirror/gpr-mode
+	url = git@github.com:emacsmirror/gpr-mode.git
 [submodule "grab-and-drag"]
 	path = mirror/grab-and-drag
 	url = git@github.com:emacsmirror/grab-and-drag.git
