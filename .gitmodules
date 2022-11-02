@@ -13447,6 +13447,9 @@
 [submodule "lusty-explorer"]
 	path = mirror/lusty-explorer
 	url = git@github.com:emacsmirror/lusty-explorer.git
+[submodule "luwak"]
+	path = mirror/luwak
+	url = git@github.com:emacsmirror/luwak.git
 [submodule "lux-mode"]
 	path = mirror/lux-mode
 	url = git@github.com:emacsmirror/lux-mode.git
