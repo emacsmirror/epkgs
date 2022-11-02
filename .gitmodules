@@ -9790,6 +9790,9 @@
 	path = mirror/hc-zenburn-theme
 	url = git@github.com:emacsmirror/hc-zenburn-theme.git
 	branch = master
+[submodule "hcel"]
+	path = mirror/hcel
+	url = git@github.com:emacsmirror/hcel.git
 [submodule "hcl-mode"]
 	path = mirror/hcl-mode
 	url = git@github.com:emacsmirror/hcl-mode.git
