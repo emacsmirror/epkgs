@@ -15333,6 +15333,9 @@
 [submodule "notmuch-bookmarks"]
 	path = mirror/notmuch-bookmarks
 	url = git@github.com:emacsmirror/notmuch-bookmarks.git
+[submodule "notmuch-indicator"]
+	path = mirror/notmuch-indicator
+	url = git@github.com:emacsmirror/notmuch-indicator.git
 [submodule "notmuch-labeler"]
 	path = mirror/notmuch-labeler
 	url = git@github.com:emacsmirror/notmuch-labeler.git
