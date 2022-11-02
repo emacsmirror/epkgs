@@ -24982,6 +24982,9 @@
 [submodule "ztree"]
 	path = mirror/ztree
 	url = git@github.com:emacsmirror/ztree.git
+[submodule "zuul"]
+	path = mirror/zuul
+	url = git@github.com:emacsmirror/zuul.git
 [submodule "zweilight-theme"]
 	path = mirror/zweilight-theme
 	url = git@github.com:emacsmirror/zweilight-theme.git
