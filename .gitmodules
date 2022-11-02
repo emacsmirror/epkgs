@@ -5986,6 +5986,9 @@
 [submodule "emdroid"]
 	path = attic/emdroid
 	url = git@github.com:emacsattic/emdroid.git
+[submodule "ement"]
+	path = mirror/ement
+	url = git@github.com:emacsmirror/ement.git
 [submodule "emeteo"]
 	path = attic/emeteo
 	url = git@github.com:emacsattic/emeteo.git
