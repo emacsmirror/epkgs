@@ -9559,6 +9559,9 @@
 [submodule "gtranslate"]
 	path = attic/gtranslate
 	url = git@github.com:emacsattic/gtranslate.git
+[submodule "guake"]
+	path = mirror/guake
+	url = git@github.com:emacsmirror/guake.git
 [submodule "guess-lang"]
 	path = attic/guess-lang
 	url = git@github.com:emacsattic/guess-lang.git
