@@ -17140,8 +17140,8 @@
 	path = mirror/palimpsest
 	url = git@github.com:emacsmirror/palimpsest.git
 [submodule "pallet"]
-	path = mirror/pallet
-	url = git@github.com:emacsmirror/pallet.git
+	path = attic/pallet
+	url = git@github.com:emacsattic/pallet.git
 [submodule "pamparam"]
 	path = mirror/pamparam
 	url = git@github.com:emacsmirror/pamparam.git
