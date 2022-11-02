@@ -4445,6 +4445,9 @@
 [submodule "dir-treeview"]
 	path = mirror/dir-treeview
 	url = git@github.com:emacsmirror/dir-treeview.git
+[submodule "dir-treeview-themes"]
+	path = mirror/dir-treeview-themes
+	url = git@github.com:emacsmirror/dir-treeview-themes.git
 [submodule "dircmp"]
 	path = mirror/dircmp
 	url = git@github.com:emacsmirror/dircmp.git
