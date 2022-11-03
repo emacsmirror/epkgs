@@ -21528,9 +21528,9 @@
 [submodule "strie"]
 	path = mirror/strie
 	url = git@github.com:emacsmirror/strie.git
-[submodule "string-edit"]
-	path = mirror/string-edit
-	url = git@github.com:emacsmirror/string-edit.git
+[submodule "string-edit-at-point"]
+	path = mirror/string-edit-at-point
+	url = git@github.com:emacsmirror/string-edit-at-point.git
 [submodule "string-fns"]
 	path = attic/string-fns
 	url = git@github.com:emacsattic/string-fns.git
