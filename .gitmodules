@@ -14242,6 +14242,9 @@
 [submodule "minsk-theme"]
 	path = mirror/minsk-theme
 	url = git@github.com:emacsmirror/minsk-theme.git
+[submodule "mint-mode"]
+	path = mirror/mint-mode
+	url = git@github.com:emacsmirror/mint-mode.git
 [submodule "mip-mode"]
 	path = mirror/mip-mode
 	url = git@github.com:emacsmirror/mip-mode.git
