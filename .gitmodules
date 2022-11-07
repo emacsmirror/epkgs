@@ -11475,6 +11475,9 @@
 [submodule "inlineR"]
 	path = attic/inlineR
 	url = git@github.com:emacsattic/inlineR.git
+[submodule "insecure-lock"]
+	path = mirror/insecure-lock
+	url = git@github.com:emacsmirror/insecure-lock.git
 [submodule "insert-char-preview"]
 	path = mirror/insert-char-preview
 	url = git@github.com:emacsmirror/insert-char-preview.git
