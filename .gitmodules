@@ -24808,6 +24808,9 @@
 [submodule "youtube-dl"]
 	path = mirror/youtube-dl
 	url = git@github.com:emacsmirror/youtube-dl.git
+[submodule "youtube-sub-extractor"]
+	path = mirror/youtube-sub-extractor
+	url = git@github.com:emacsmirror/youtube-sub-extractor.git
 [submodule "youwill"]
 	path = attic/youwill
 	url = git@github.com:emacsattic/youwill.git
