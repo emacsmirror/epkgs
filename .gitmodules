@@ -1724,6 +1724,9 @@
 [submodule "blox"]
 	path = mirror/blox
 	url = git@github.com:emacsmirror/blox.git
+[submodule "bluesound"]
+	path = mirror/bluesound
+	url = git@github.com:emacsmirror/bluesound.git
 [submodule "bluetooth"]
 	path = mirror/bluetooth
 	url = git@github.com:emacsmirror/bluetooth.git
