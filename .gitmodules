@@ -15910,6 +15910,9 @@
 [submodule "opam"]
 	path = mirror/opam
 	url = git@github.com:emacsmirror/opam.git
+[submodule "opam-switch-mode"]
+	path = mirror/opam-switch-mode
+	url = git@github.com:emacsmirror/opam-switch-mode.git
 [submodule "open-in-msvs"]
 	path = mirror/open-in-msvs
 	url = git@github.com:emacsmirror/open-in-msvs.git
