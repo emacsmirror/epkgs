@@ -22837,6 +22837,9 @@
 [submodule "trindle"]
 	path = mirror/trindle
 	url = git@github.com:emacsmirror/trindle.git
+[submodule "triples"]
+	path = mirror/triples
+	url = git@github.com:emacsmirror/triples.git
 [submodule "tron-legacy-theme"]
 	path = mirror/tron-legacy-theme
 	url = git@github.com:emacsmirror/tron-legacy-theme.git
