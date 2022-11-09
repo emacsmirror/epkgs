@@ -14448,6 +14448,9 @@
 [submodule "monorepo-cadadr"]
 	path = mirror/monorepo-cadadr
 	url = git@github.com:emacsmirror/monorepo-cadadr.git
+[submodule "monorepo-zenitani"]
+	path = mirror/monorepo-zenitani
+	url = git@github.com:emacsmirror/monorepo-zenitani.git
 [submodule "monotropic-theme"]
 	path = mirror/monotropic-theme
 	url = git@github.com:emacsmirror/monotropic-theme.git
@@ -20819,9 +20822,6 @@
 	path = mirror/smart-comment
 	url = git@github.com:emacsmirror/smart-comment.git
 	branch = master
-[submodule "smart-compile"]
-	path = mirror/smart-compile
-	url = git@github.com:emacsmirror/smart-compile.git
 [submodule "smart-cursor-color"]
 	path = mirror/smart-cursor-color
 	url = git@github.com:emacsmirror/smart-cursor-color.git
