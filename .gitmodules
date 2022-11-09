@@ -22589,9 +22589,6 @@
 [submodule "togetherly"]
 	path = mirror/togetherly
 	url = git@github.com:emacsmirror/togetherly.git
-[submodule "toggle"]
-	path = mirror/toggle
-	url = git@github.com:emacsmirror/toggle.git
 [submodule "toggle-buffer"]
 	path = attic/toggle-buffer
 	url = git@github.com:emacsattic/toggle-buffer.git
