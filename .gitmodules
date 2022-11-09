@@ -1574,9 +1574,6 @@
 [submodule "biblio-bibsonomy"]
 	path = mirror/biblio-bibsonomy
 	url = git@github.com:emacsmirror/biblio-bibsonomy.git
-[submodule "bibliothek"]
-	path = mirror/bibliothek
-	url = git@github.com:emacsmirror/bibliothek.git
 [submodule "bibretrieve"]
 	path = mirror/bibretrieve
 	url = git@github.com:emacsmirror/bibretrieve.git
@@ -8238,9 +8235,6 @@
 [submodule "for"]
 	path = mirror/for
 	url = git@github.com:emacsmirror/for.git
-[submodule "forecast"]
-	path = mirror/forecast
-	url = git@github.com:emacsmirror/forecast.git
 [submodule "foreign-regexp"]
 	path = mirror/foreign-regexp
 	url = git@github.com:emacsmirror/foreign-regexp.git
@@ -14451,6 +14445,9 @@
 	path = mirror/monokai-theme
 	url = git@github.com:emacsmirror/monokai-theme.git
 	branch = master
+[submodule "monorepo-cadadr"]
+	path = mirror/monorepo-cadadr
+	url = git@github.com:emacsmirror/monorepo-cadadr.git
 [submodule "monotropic-theme"]
 	path = mirror/monotropic-theme
 	url = git@github.com:emacsmirror/monotropic-theme.git
@@ -16656,9 +16653,6 @@
 [submodule "org-unique-id"]
 	path = mirror/org-unique-id
 	url = git@github.com:emacsmirror/org-unique-id.git
-[submodule "org-variable-pitch"]
-	path = mirror/org-variable-pitch
-	url = git@github.com:emacsmirror/org-variable-pitch.git
 [submodule "org-vcard"]
 	path = mirror/org-vcard
 	url = git@github.com:emacsmirror/org-vcard.git
@@ -17173,9 +17167,6 @@
 [submodule "pangu-spacing"]
 	path = mirror/pangu-spacing
 	url = git@github.com:emacsmirror/pangu-spacing.git
-[submodule "paper-theme"]
-	path = mirror/paper-theme
-	url = git@github.com:emacsmirror/paper-theme.git
 [submodule "paperless"]
 	path = mirror/paperless
 	url = git@github.com:emacsmirror/paperless.git
