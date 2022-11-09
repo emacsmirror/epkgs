@@ -1207,9 +1207,6 @@
 [submodule "autosmiley"]
 	path = mirror/autosmiley
 	url = git@github.com:emacsmirror/autosmiley.git
-[submodule "autotest"]
-	path = mirror/autotest
-	url = git@github.com:emacsmirror/autotest.git
 [submodule "autotetris-mode"]
 	path = mirror/autotetris-mode
 	url = git@github.com:emacsmirror/autotetris-mode.git
