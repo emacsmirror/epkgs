@@ -5893,9 +5893,6 @@
 [submodule "emacs-setup"]
 	path = attic/emacs-setup
 	url = git@github.com:emacsattic/emacs-setup.git
-[submodule "emacs-speaks-nonmem"]
-	path = mirror/emacs-speaks-nonmem
-	url = git@github.com:emacsmirror/emacs-speaks-nonmem.git
 [submodule "emacs-variants"]
 	path = attic/emacs-variants
 	url = git@github.com:emacsattic/emacs-variants.git
@@ -6482,6 +6479,9 @@
 [submodule "esmtpmail"]
 	path = attic/esmtpmail
 	url = git@github.com:emacsattic/esmtpmail.git
+[submodule "esn"]
+	path = mirror/esn
+	url = git@github.com:emacsmirror/esn.git
 [submodule "esonify"]
 	path = mirror/esonify
 	url = git@github.com:emacsmirror/esonify.git
