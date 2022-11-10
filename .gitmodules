@@ -23059,9 +23059,9 @@
 [submodule "ul"]
 	path = mirror/ul
 	url = git@github.com:emacsmirror/ul.git
-[submodule "ultratex"]
-	path = mirror/ultratex
-	url = git@github.com:emacsmirror/ultratex.git
+[submodule "ultex"]
+	path = mirror/ultex
+	url = git@github.com:emacsmirror/ultex.git
 [submodule "uml-mode"]
 	path = mirror/uml-mode
 	url = git@github.com:emacsmirror/uml-mode.git
