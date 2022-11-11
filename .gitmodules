@@ -2611,9 +2611,6 @@
 [submodule "cl-merge"]
 	path = mirror/cl-merge
 	url = git@github.com:emacsmirror/cl-merge.git
-[submodule "cl-print"]
-	path = mirror/cl-print
-	url = git@github.com:emacsmirror/cl-print.git
 [submodule "claire-mode"]
 	path = attic/claire-mode
 	url = git@github.com:emacsattic/claire-mode.git
@@ -5591,9 +5588,6 @@
 [submodule "eldo-mode"]
 	path = attic/eldo-mode
 	url = git@github.com:emacsattic/eldo-mode.git
-[submodule "eldoc"]
-	path = mirror/eldoc
-	url = git@github.com:emacsmirror/eldoc.git
 [submodule "eldoc-box"]
 	path = mirror/eldoc-box
 	url = git@github.com:emacsmirror/eldoc-box.git
@@ -6227,9 +6221,6 @@
 [submodule "erblint"]
 	path = mirror/erblint
 	url = git@github.com:emacsmirror/erblint.git
-[submodule "erc"]
-	path = mirror/erc
-	url = git@github.com:emacsmirror/erc.git
 [submodule "erc-babel"]
 	path = mirror/erc-babel
 	url = git@github.com:emacsmirror/erc-babel.git
@@ -7938,9 +7929,6 @@
 [submodule "flylisp"]
 	path = mirror/flylisp
 	url = git@github.com:emacsmirror/flylisp.git
-[submodule "flymake"]
-	path = mirror/flymake
-	url = git@github.com:emacsmirror/flymake.git
 [submodule "flymake-coffee"]
 	path = mirror/flymake-coffee
 	url = git@github.com:emacsmirror/flymake-coffee.git
@@ -12193,9 +12181,6 @@
 [submodule "jsonnet-mode"]
 	path = mirror/jsonnet-mode
 	url = git@github.com:emacsmirror/jsonnet-mode.git
-[submodule "jsonrpc"]
-	path = mirror/jsonrpc
-	url = git@github.com:emacsmirror/jsonrpc.git
 [submodule "jss"]
 	path = mirror/jss
 	url = git@github.com:emacsmirror/jss.git
@@ -12830,9 +12815,6 @@
 [submodule "lessage"]
 	path = attic/lessage
 	url = git@github.com:emacsattic/lessage.git
-[submodule "let-alist"]
-	path = mirror/let-alist
-	url = git@github.com:emacsmirror/let-alist.git
 [submodule "let-recur"]
 	path = mirror/let-recur
 	url = git@github.com:emacsmirror/let-recur.git
@@ -13770,9 +13752,6 @@
 [submodule "manued"]
 	path = mirror/manued
 	url = git@github.com:emacsmirror/manued.git
-[submodule "map"]
-	path = mirror/map
-	url = git@github.com:emacsmirror/map.git
 [submodule "map-progress"]
 	path = mirror/map-progress
 	url = git@github.com:emacsmirror/map-progress.git
@@ -15418,9 +15397,6 @@
 [submodule "nterm"]
 	path = attic/nterm
 	url = git@github.com:emacsattic/nterm.git
-[submodule "ntlm"]
-	path = mirror/ntlm
-	url = git@github.com:emacsmirror/ntlm.git
 [submodule "nu-mode"]
 	path = mirror/nu-mode
 	url = git@github.com:emacsmirror/nu-mode.git
@@ -18301,9 +18277,6 @@
 [submodule "programmer-dvorak"]
 	path = mirror/programmer-dvorak
 	url = git@github.com:emacsmirror/programmer-dvorak.git
-[submodule "project"]
-	path = mirror/project
-	url = git@github.com:emacsmirror/project.git
 [submodule "project-abbrev"]
 	path = mirror/project-abbrev
 	url = git@github.com:emacsmirror/project-abbrev.git
@@ -18679,9 +18652,6 @@
 [submodule "pytest-pdb-break"]
 	path = mirror/pytest-pdb-break
 	url = git@github.com:emacsmirror/pytest-pdb-break.git
-[submodule "python"]
-	path = mirror/python
-	url = git@github.com:emacsmirror/python.git
 [submodule "python-black"]
 	path = mirror/python-black
 	url = git@github.com:emacsmirror/python-black.git
@@ -21010,15 +20980,9 @@
 [submodule "snow"]
 	path = mirror/snow
 	url = git@github.com:emacsmirror/snow.git
-[submodule "so-long"]
-	path = mirror/so-long
-	url = git@github.com:emacsmirror/so-long.git
 [submodule "soap"]
 	path = attic/soap
 	url = git@github.com:emacsattic/soap.git
-[submodule "soap-client"]
-	path = mirror/soap-client
-	url = git@github.com:emacsmirror/soap-client.git
 [submodule "soar-mode"]
 	path = mirror/soar-mode
 	url = git@github.com:emacsmirror/soar-mode.git
@@ -21689,9 +21653,6 @@
 [submodule "svelte-mode"]
 	path = mirror/svelte-mode
 	url = git@github.com:emacsmirror/svelte-mode.git
-[submodule "svg"]
-	path = mirror/svg
-	url = git@github.com:emacsmirror/svg.git
 [submodule "svg-clock"]
 	path = mirror/svg-clock
 	url = git@github.com:emacsmirror/svg-clock.git
@@ -23482,9 +23443,6 @@
 [submodule "verify-url"]
 	path = mirror/verify-url
 	url = git@github.com:emacsmirror/verify-url.git
-[submodule "verilog-mode"]
-	path = mirror/verilog-mode
-	url = git@github.com:emacsmirror/verilog-mode.git
 [submodule "verona-mode"]
 	path = mirror/verona-mode
 	url = git@github.com:emacsmirror/verona-mode.git
@@ -24566,9 +24524,6 @@
 [submodule "xrdb-mode"]
 	path = attic/xrdb-mode
 	url = git@github.com:emacsattic/xrdb-mode.git
-[submodule "xref"]
-	path = mirror/xref
-	url = git@github.com:emacsmirror/xref.git
 [submodule "xref-js2"]
 	path = mirror/xref-js2
 	url = git@github.com:emacsmirror/xref-js2.git
