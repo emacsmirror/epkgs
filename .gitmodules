@@ -7957,6 +7957,9 @@
 [submodule "flymake-easy"]
 	path = mirror/flymake-easy
 	url = git@github.com:emacsmirror/flymake-easy.git
+[submodule "flymake-elisp-config"]
+	path = mirror/flymake-elisp-config
+	url = git@github.com:emacsmirror/flymake-elisp-config.git
 [submodule "flymake-elixir"]
 	path = mirror/flymake-elixir
 	url = git@github.com:emacsmirror/flymake-elixir.git
