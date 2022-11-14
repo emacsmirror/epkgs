@@ -18632,7 +18632,7 @@
 	url = git@github.com:emacsmirror/pyim-basedict.git
 [submodule "pyim-cangjiedict"]
 	path = mirror/pyim-cangjiedict
-	url = git@github.com:emacsmirror/pyim-cangjiedict.git
+	url = https://github.com/emacsmirror/pyim-cangjiedict
 [submodule "pyim-smzmdict"]
 	path = mirror/pyim-smzmdict
 	url = git@github.com:emacsmirror/pyim-smzmdict.git
