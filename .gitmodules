@@ -8989,6 +8989,9 @@
 [submodule "glsl-mode"]
 	path = mirror/glsl-mode
 	url = git@github.com:emacsmirror/glsl-mode.git
+[submodule "glue"]
+	path = mirror/glue
+	url = git@github.com:emacsmirror/glue.git
 [submodule "gmail-message-mode"]
 	path = mirror/gmail-message-mode
 	url = git@github.com:emacsmirror/gmail-message-mode.git
