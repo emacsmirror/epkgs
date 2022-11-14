@@ -16435,6 +16435,9 @@
 [submodule "org-radiobutton"]
 	path = mirror/org-radiobutton
 	url = git@github.com:emacsmirror/org-radiobutton.git
+[submodule "org-rainbow-tags"]
+	path = mirror/org-rainbow-tags
+	url = git@github.com:emacsmirror/org-rainbow-tags.git
 [submodule "org-random-todo"]
 	path = mirror/org-random-todo
 	url = git@github.com:emacsmirror/org-random-todo.git
