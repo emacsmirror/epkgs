@@ -13431,6 +13431,9 @@
 [submodule "lunar-mode-line"]
 	path = attic/lunar-mode-line
 	url = git@github.com:emacsattic/lunar-mode-line.git
+[submodule "lurk-mode"]
+	path = mirror/lurk-mode
+	url = git@github.com:emacsmirror/lurk-mode.git
 [submodule "lush-theme"]
 	path = mirror/lush-theme
 	url = git@github.com:emacsmirror/lush-theme.git
