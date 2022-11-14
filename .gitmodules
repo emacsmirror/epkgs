@@ -1484,6 +1484,9 @@
 [submodule "beacon"]
 	path = mirror/beacon
 	url = git@github.com:emacsmirror/beacon.git
+[submodule "beans"]
+	path = mirror/beans
+	url = git@github.com:emacsmirror/beans.git
 [submodule "beatnik"]
 	path = attic/beatnik
 	url = git@github.com:emacsattic/beatnik.git
