@@ -8946,6 +8946,9 @@
 [submodule "gitpatch"]
 	path = mirror/gitpatch
 	url = git@github.com:emacsmirror/gitpatch.git
+[submodule "gitstatus"]
+	path = mirror/gitstatus
+	url = git@github.com:emacsmirror/gitstatus.git
 [submodule "gitsum"]
 	path = mirror/gitsum
 	url = git@github.com:emacsmirror/gitsum.git
