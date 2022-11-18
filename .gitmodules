@@ -21588,6 +21588,9 @@
 	path = mirror/subatomic256-theme
 	url = git@github.com:emacsmirror/subatomic256-theme.git
 	branch = master
+[submodule "subed"]
+	path = mirror/subed
+	url = https://github.com/emacsmirror/subed
 [submodule "subedit"]
 	path = mirror/subedit
 	url = git@github.com:emacsmirror/subedit.git
