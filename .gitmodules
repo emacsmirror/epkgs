@@ -21795,6 +21795,9 @@
 [submodule "swoop"]
 	path = mirror/swoop
 	url = git@github.com:emacsmirror/swoop.git
+[submodule "swsw"]
+	path = mirror/swsw
+	url = https://github.com/emacsmirror/swsw
 [submodule "sww"]
 	path = attic/sww
 	url = git@github.com:emacsattic/sww.git
