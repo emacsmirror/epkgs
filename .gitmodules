@@ -18055,6 +18055,9 @@
 [submodule "pophint"]
 	path = mirror/pophint
 	url = git@github.com:emacsmirror/pophint.git
+[submodule "popon"]
+	path = mirror/popon
+	url = https://github.com/emacsmirror/popon
 [submodule "poporg"]
 	path = mirror/poporg
 	url = git@github.com:emacsmirror/poporg.git
