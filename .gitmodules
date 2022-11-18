@@ -9754,6 +9754,9 @@
 [submodule "haskell-tab-indent"]
 	path = mirror/haskell-tab-indent
 	url = git@github.com:emacsmirror/haskell-tab-indent.git
+[submodule "haskell-tng-mode"]
+	path = mirror/haskell-tng-mode
+	url = https://github.com/emacsmirror/haskell-tng-mode
 [submodule "hasklig-mode"]
 	path = mirror/hasklig-mode
 	url = git@github.com:emacsmirror/hasklig-mode.git
