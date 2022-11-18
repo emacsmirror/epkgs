@@ -23441,6 +23441,9 @@
 [submodule "vcomp"]
 	path = mirror/vcomp
 	url = git@github.com:emacsmirror/vcomp.git
+[submodule "vcomplete"]
+	path = mirror/vcomplete
+	url = https://github.com/emacsmirror/vcomplete
 [submodule "vcsh"]
 	path = mirror/vcsh
 	url = git@github.com:emacsmirror/vcsh.git
