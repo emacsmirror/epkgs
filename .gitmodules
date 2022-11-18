@@ -1,15 +1,3 @@
-[submodule "_gnu-elpa"]
-	path = gnu-elpa
-	url = https://git.savannah.gnu.org/git/emacs/elpa.git
-[submodule "_nongnu-elpa"]
-	path = nongnu-elpa
-	url = https://git.savannah.gnu.org/git/emacs/nongnu.git
-[submodule "_melpa"]
-	path = melpa
-	url = git@github.com:melpa/melpa.git
-[submodule "_ewiki"]
-	path = ewiki
-	url = git@github.com:emacsmirror/emacswiki.org.git
 [submodule "0blayout"]
 	path = mirror/0blayout
 	url = git@github.com:emacsmirror/0blayout.git
@@ -41,6 +29,18 @@
 [submodule "GEOS-vote"]
 	path = attic/GEOS-vote
 	url = git@github.com:emacsattic/GEOS-vote.git
+[submodule "_ewiki"]
+	path = ewiki
+	url = git@github.com:emacsmirror/emacswiki.org.git
+[submodule "_gnu-elpa"]
+	path = gnu-elpa
+	url = https://git.savannah.gnu.org/git/emacs/elpa.git
+[submodule "_melpa"]
+	path = melpa
+	url = git@github.com:melpa/melpa.git
+[submodule "_nongnu-elpa"]
+	path = nongnu-elpa
+	url = https://git.savannah.gnu.org/git/emacs/nongnu.git
 [submodule "a"]
 	path = mirror/a
 	url = git@github.com:emacsmirror/a.git
@@ -3450,6 +3450,9 @@
 [submodule "corfu-doc"]
 	path = mirror/corfu-doc
 	url = git@github.com:emacsmirror/corfu-doc.git
+[submodule "corfu-terminal"]
+	path = mirror/corfu-terminal
+	url = https://github.com/emacsmirror/corfu-terminal
 [submodule "coroutine"]
 	path = mirror/coroutine
 	url = git@github.com:emacsmirror/coroutine.git
