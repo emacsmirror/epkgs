@@ -8060,6 +8060,9 @@
 [submodule "flymake-phpcs"]
 	path = mirror/flymake-phpcs
 	url = git@github.com:emacsmirror/flymake-phpcs.git
+[submodule "flymake-popon"]
+	path = mirror/flymake-popon
+	url = https://github.com/emacsmirror/flymake-popon
 [submodule "flymake-proselint"]
 	path = mirror/flymake-proselint
 	url = git@github.com:emacsmirror/flymake-proselint.git
