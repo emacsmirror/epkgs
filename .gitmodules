@@ -18799,6 +18799,9 @@
 [submodule "qsearch"]
 	path = attic/qsearch
 	url = git@github.com:emacsattic/qsearch.git
+[submodule "qt-pro-mode"]
+	path = mirror/qt-pro-mode
+	url = https://github.com/emacsmirror/qt-pro-mode
 [submodule "qtcreator-theme"]
 	path = mirror/qtcreator-theme
 	url = git@github.com:emacsmirror/qtcreator-theme.git
