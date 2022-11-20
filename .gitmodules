@@ -10437,8 +10437,8 @@
 	path = mirror/help-find
 	url = git@github.com:emacsmirror/help-find.git
 [submodule "help-find-org-mode"]
-	path = attic/help-find-org-mode
-	url = git@github.com:emacsattic/help-find-org-mode.git
+	path = mirror/help-find-org-mode
+	url = https://github.com/emacsmirror/help-find-org-mode
 [submodule "help-fns+"]
 	path = mirror/help-fns+
 	url = git@github.com:emacsmirror/help-fns-plus.git
