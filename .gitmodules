@@ -18535,9 +18535,9 @@
 [submodule "puni"]
 	path = mirror/puni
 	url = git@github.com:emacsmirror/puni.git
-[submodule "punpun-theme"]
-	path = mirror/punpun-theme
-	url = git@github.com:emacsmirror/punpun-theme.git
+[submodule "punpun-themes"]
+	path = mirror/punpun-themes
+	url = https://github.com/emacsmirror/punpun-themes
 [submodule "punycode"]
 	path = attic/punycode
 	url = git@github.com:emacsattic/punycode.git
