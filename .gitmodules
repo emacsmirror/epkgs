@@ -7036,10 +7036,9 @@
 [submodule "ezbl"]
 	path = mirror/ezbl
 	url = git@github.com:emacsmirror/ezbl.git
-[submodule "eziam-theme"]
-	path = mirror/eziam-theme
-	url = git@github.com:emacsmirror/eziam-theme.git
-	branch = master
+[submodule "eziam-themes"]
+	path = mirror/eziam-themes
+	url = https://github.com/emacsmirror/eziam-themes
 [submodule "f"]
 	path = mirror/f
 	url = git@github.com:emacsmirror/f.git
