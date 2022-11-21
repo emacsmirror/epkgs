@@ -21078,6 +21078,9 @@
 [submodule "sonic-pi"]
 	path = mirror/sonic-pi
 	url = git@github.com:emacsmirror/sonic-pi.git
+[submodule "soong-mode"]
+	path = mirror/soong-mode
+	url = https://github.com/emacsmirror/soong-mode
 [submodule "soothe-theme"]
 	path = mirror/soothe-theme
 	url = git@github.com:emacsmirror/soothe-theme.git
