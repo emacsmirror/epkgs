@@ -3356,6 +3356,9 @@
 [submodule "consult-git-log-grep"]
 	path = mirror/consult-git-log-grep
 	url = https://github.com/emacsmirror/consult-git-log-grep
+[submodule "consult-hatena-bookmark"]
+	path = mirror/consult-hatena-bookmark
+	url = https://github.com/emacsmirror/consult-hatena-bookmark
 [submodule "consult-ls-git"]
 	path = mirror/consult-ls-git
 	url = git@github.com:emacsmirror/consult-ls-git.git
