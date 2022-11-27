@@ -9661,6 +9661,9 @@
 [submodule "h4x0r"]
 	path = attic/h4x0r
 	url = git@github.com:emacsattic/h4x0r.git
+[submodule "h5dump-mode"]
+	path = mirror/h5dump-mode
+	url = https://github.com/emacsmirror/h5dump-mode
 [submodule "habamax-theme"]
 	path = mirror/habamax-theme
 	url = git@github.com:emacsmirror/habamax-theme.git
