@@ -11845,6 +11845,9 @@
 [submodule "jabber-otr"]
 	path = attic/jabber-otr
 	url = git@github.com:emacsattic/jabber-otr.git
+[submodule "jack"]
+	path = mirror/jack
+	url = https://github.com/emacsmirror/jack
 [submodule "jack-connect"]
 	path = mirror/jack-connect
 	url = git@github.com:emacsmirror/jack-connect.git
