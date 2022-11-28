@@ -2189,6 +2189,9 @@
 [submodule "camelcase-mode"]
 	path = attic/camelcase-mode
 	url = git@github.com:emacsattic/camelcase-mode.git
+[submodule "camera"]
+	path = mirror/camera
+	url = https://github.com/emacsmirror/camera
 [submodule "caml"]
 	path = mirror/caml
 	url = git@github.com:emacsmirror/caml.git
