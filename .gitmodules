@@ -1721,6 +1721,9 @@
 [submodule "blorg"]
 	path = attic/blorg
 	url = git@github.com:emacsattic/blorg.git
+[submodule "blow"]
+	path = mirror/blow
+	url = https://github.com/emacsmirror/blow
 [submodule "blox"]
 	path = mirror/blox
 	url = git@github.com:emacsmirror/blox.git
