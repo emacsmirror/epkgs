@@ -4303,6 +4303,9 @@
 [submodule "develock"]
 	path = attic/develock
 	url = git@github.com:emacsattic/develock.git
+[submodule "devhelp"]
+	path = mirror/devhelp
+	url = https://github.com/emacsmirror/devhelp
 [submodule "devkitemacs"]
 	path = attic/devkitemacs
 	url = git@github.com:emacsattic/devkitemacs.git
