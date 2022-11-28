@@ -14219,6 +14219,9 @@
 [submodule "mini-popup"]
 	path = mirror/mini-popup
 	url = git@github.com:emacsmirror/mini-popup.git
+[submodule "minibar"]
+	path = mirror/minibar
+	url = https://github.com/emacsmirror/minibar
 [submodule "minibuf-isearch"]
 	path = mirror/minibuf-isearch
 	url = git@github.com:emacsmirror/minibuf-isearch.git
