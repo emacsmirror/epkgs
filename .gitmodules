@@ -10710,6 +10710,9 @@
 [submodule "hl-block-mode"]
 	path = mirror/hl-block-mode
 	url = git@github.com:emacsmirror/hl-block-mode.git
+[submodule "hl-column"]
+	path = mirror/hl-column
+	url = https://github.com/emacsmirror/hl-column
 [submodule "hl-defined"]
 	path = mirror/hl-defined
 	url = git@github.com:emacsmirror/hl-defined.git
