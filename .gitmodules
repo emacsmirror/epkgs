@@ -11845,6 +11845,9 @@
 	path = mirror/ivy-youtube
 	url = git@github.com:emacsmirror/ivy-youtube.git
 	branch = master
+[submodule "iwindow"]
+	path = mirror/iwindow
+	url = https://github.com/emacsmirror/iwindow
 [submodule "ix"]
 	path = mirror/ix
 	url = git@github.com:emacsmirror/ix.git
