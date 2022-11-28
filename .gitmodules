@@ -8566,6 +8566,9 @@
 [submodule "gb4e"]
 	path = attic/gb4e
 	url = git@github.com:emacsattic/gb4e.git
+[submodule "gc-buffers"]
+	path = mirror/gc-buffers
+	url = https://github.com/emacsmirror/gc-buffers
 [submodule "gcmh"]
 	path = mirror/gcmh
 	url = git@github.com:emacsmirror/gcmh.git
