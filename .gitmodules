@@ -5182,6 +5182,9 @@
 [submodule "easy-todo"]
 	path = mirror/easy-todo
 	url = git@github.com:emacsmirror/easy-todo.git
+[submodule "eat"]
+	path = mirror/eat
+	url = https://github.com/emacsmirror/eat
 [submodule "ebackup"]
 	path = attic/ebackup
 	url = git@github.com:emacsattic/ebackup.git
