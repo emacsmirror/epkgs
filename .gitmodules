@@ -20689,6 +20689,9 @@
 [submodule "sisyphus"]
 	path = mirror/sisyphus
 	url = git@github.com:emacsmirror/sisyphus.git
+[submodule "sixcolors-mode"]
+	path = mirror/sixcolors-mode
+	url = https://github.com/emacsmirror/sixcolors-mode
 [submodule "ska-skel-matlab"]
 	path = mirror/ska-skel-matlab
 	url = git@github.com:emacsmirror/ska-skel-matlab.git
