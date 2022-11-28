@@ -11902,6 +11902,9 @@
 [submodule "jar-manifest-mode"]
 	path = mirror/jar-manifest-mode
 	url = git@github.com:emacsmirror/jar-manifest-mode.git
+[submodule "jarchive"]
+	path = mirror/jarchive
+	url = https://github.com/emacsmirror/jarchive
 [submodule "jasmin"]
 	path = attic/jasmin
 	url = git@github.com:emacsattic/jasmin.git
