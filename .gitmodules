@@ -486,6 +486,9 @@
 [submodule "alt-font-menu"]
 	path = mirror/alt-font-menu
 	url = git@github.com:emacsmirror/alt-font-menu.git
+[submodule "altcaps"]
+	path = mirror/altcaps
+	url = https://github.com/emacsmirror/altcaps
 [submodule "alternative-files"]
 	path = attic/alternative-files
 	url = git@github.com:emacsattic/alternative-files.git
