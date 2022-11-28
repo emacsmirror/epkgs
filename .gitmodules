@@ -22323,6 +22323,9 @@
 [submodule "test-unit"]
 	path = attic/test-unit
 	url = git@github.com:emacsattic/test-unit.git
+[submodule "testcover-mark-line"]
+	path = mirror/testcover-mark-line
+	url = https://github.com/emacsmirror/testcover-mark-line
 [submodule "tex-math-preview"]
 	path = attic/tex-math-preview
 	url = git@github.com:emacsattic/tex-math-preview.git
