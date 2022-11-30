@@ -3951,7 +3951,7 @@
 	url = git@github.com:emacsmirror/cypher-mode.git
 [submodule "cython-mode"]
 	path = mirror/cython-mode
-	url = git@github.com:emacsmirror/cython-mode.git
+	url = https://github.com/emacsmirror/cython-mode
 [submodule "czech-holidays"]
 	path = mirror/czech-holidays
 	url = git@github.com:emacsmirror/czech-holidays.git
