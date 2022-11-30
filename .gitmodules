@@ -6079,9 +6079,6 @@
 [submodule "erc-social-graph"]
 	path = mirror/erc-social-graph
 	url = https://github.com/emacsmirror/erc-social-graph
-[submodule "erc-status-sidebar"]
-	path = attic/erc-status-sidebar
-	url = https://github.com/emacsattic/erc-status-sidebar
 [submodule "erc-terminal-notifier"]
 	path = mirror/erc-terminal-notifier
 	url = https://github.com/emacsmirror/erc-terminal-notifier
