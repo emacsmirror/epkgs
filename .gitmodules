@@ -12167,8 +12167,8 @@
 	path = mirror/kwin
 	url = https://github.com/emacsmirror/kwin
 [submodule "l"]
-	path = mirror/l
-	url = https://github.com/emacsmirror/l
+	path = attic/l
+	url = https://github.com/emacsattic/l
 [submodule "laas"]
 	path = mirror/laas
 	url = https://github.com/emacsmirror/laas
