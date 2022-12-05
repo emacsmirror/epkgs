@@ -21409,6 +21409,9 @@
 [submodule "tempel"]
 	path = mirror/tempel
 	url = https://github.com/emacsmirror/tempel
+[submodule "tempel-collection"]
+	path = mirror/tempel-collection
+	url = https://github.com/emacsmirror/tempel-collection
 [submodule "template"]
 	path = attic/template
 	url = https://github.com/emacsattic/template
