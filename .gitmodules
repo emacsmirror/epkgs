@@ -23191,6 +23191,9 @@
 [submodule "wgrep"]
 	path = mirror/wgrep
 	url = https://github.com/emacsmirror/wgrep
+[submodule "wgsl-mode"]
+	path = mirror/wgsl-mode
+	url = https://github.com/emacsmirror/wgsl-mode
 [submodule "what-domain"]
 	path = attic/what-domain
 	url = https://github.com/emacsattic/what-domain
