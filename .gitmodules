@@ -12271,6 +12271,9 @@
 [submodule "latex-symbols"]
 	path = attic/latex-symbols
 	url = https://github.com/emacsattic/latex-symbols
+[submodule "latex-table-wizard"]
+	path = mirror/latex-table-wizard
+	url = https://github.com/emacsmirror/latex-table-wizard
 [submodule "latex-toolbar"]
 	path = attic/latex-toolbar
 	url = https://github.com/emacsattic/latex-toolbar
