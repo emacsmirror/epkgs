@@ -12487,6 +12487,9 @@
 [submodule "ligature"]
 	path = mirror/ligature
 	url = https://github.com/emacsmirror/ligature
+[submodule "ligature-pragmatapro"]
+	path = mirror/ligature-pragmatapro
+	url = https://github.com/emacsmirror/ligature-pragmatapro
 [submodule "ligeti"]
 	path = attic/ligeti
 	url = https://github.com/emacsattic/ligeti
