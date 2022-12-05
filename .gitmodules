@@ -9602,8 +9602,8 @@
 	path = mirror/helm-css-scss
 	url = https://github.com/emacsmirror/helm-css-scss
 [submodule "helm-ctest"]
-	path = mirror/helm-ctest
-	url = https://github.com/emacsmirror/helm-ctest
+	path = attic/helm-ctest
+	url = https://github.com/emacsattic/helm-ctest
 [submodule "helm-dash"]
 	path = mirror/helm-dash
 	url = https://github.com/emacsmirror/helm-dash
