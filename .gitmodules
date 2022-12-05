@@ -15532,6 +15532,9 @@
 [submodule "org-caldav"]
 	path = mirror/org-caldav
 	url = https://github.com/emacsmirror/org-caldav
+[submodule "org-calibre-notes"]
+	path = mirror/org-calibre-notes
+	url = https://github.com/emacsmirror/org-calibre-notes
 [submodule "org-camp"]
 	path = attic/org-camp
 	url = https://github.com/emacsattic/org-camp
