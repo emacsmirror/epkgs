@@ -20710,6 +20710,9 @@
 [submodule "standard-dirs"]
 	path = mirror/standard-dirs
 	url = https://github.com/emacsmirror/standard-dirs
+[submodule "standard-themes"]
+	path = mirror/standard-themes
+	url = https://github.com/emacsmirror/standard-themes
 [submodule "standoff-mode"]
 	path = mirror/standoff-mode
 	url = https://github.com/emacsmirror/standoff-mode
