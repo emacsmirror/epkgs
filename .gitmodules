@@ -1750,6 +1750,9 @@
 [submodule "boron-theme"]
 	path = mirror/boron-theme
 	url = https://github.com/emacsmirror/boron-theme
+[submodule "boxes"]
+	path = mirror/boxes
+	url = https://github.com/emacsmirror/boxes
 [submodule "boxquote"]
 	path = mirror/boxquote
 	url = https://github.com/emacsmirror/boxquote
