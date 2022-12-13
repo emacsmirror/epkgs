@@ -3835,6 +3835,9 @@
 [submodule "d-mode"]
 	path = mirror/d-mode
 	url = https://github.com/emacsmirror/d-mode
+[submodule "d2-mode"]
+	path = mirror/d2-mode
+	url = https://github.com/emacsmirror/d2-mode
 [submodule "dabbrev-expand-multiple"]
 	path = mirror/dabbrev-expand-multiple
 	url = https://github.com/emacsmirror/dabbrev-expand-multiple
