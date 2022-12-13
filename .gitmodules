@@ -12052,6 +12052,9 @@
 [submodule "kill-buffers"]
 	path = attic/kill-buffers
 	url = https://github.com/emacsattic/kill-buffers
+[submodule "kill-file-path"]
+	path = mirror/kill-file-path
+	url = https://github.com/emacsmirror/kill-file-path
 [submodule "kill-or-bury-alive"]
 	path = mirror/kill-or-bury-alive
 	url = https://github.com/emacsmirror/kill-or-bury-alive
