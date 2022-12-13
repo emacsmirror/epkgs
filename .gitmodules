@@ -14074,6 +14074,9 @@
 [submodule "move-dup"]
 	path = mirror/move-dup
 	url = https://github.com/emacsmirror/move-dup
+[submodule "move-mode"]
+	path = mirror/move-mode
+	url = https://github.com/emacsmirror/move-mode
 [submodule "move-pictures"]
 	path = attic/move-pictures
 	url = https://github.com/emacsattic/move-pictures
