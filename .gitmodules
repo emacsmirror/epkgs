@@ -15814,6 +15814,9 @@
 [submodule "org-movies"]
 	path = mirror/org-movies
 	url = https://github.com/emacsmirror/org-movies
+[submodule "org-mpv-notes"]
+	path = mirror/org-mpv-notes
+	url = https://github.com/emacsmirror/org-mpv-notes
 [submodule "org-mru-clock"]
 	path = mirror/org-mru-clock
 	url = https://github.com/emacsmirror/org-mru-clock
