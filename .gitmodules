@@ -17288,8 +17288,8 @@
 	path = mirror/plisp-mode
 	url = https://github.com/emacsmirror/plisp-mode
 [submodule "plone-mode"]
-	path = mirror/plone-mode
-	url = https://github.com/emacsmirror/plone-mode
+	path = attic/plone-mode
+	url = https://github.com/emacsattic/plone-mode
 [submodule "plsense"]
 	path = mirror/plsense
 	url = https://github.com/emacsmirror/plsense
