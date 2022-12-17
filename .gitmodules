@@ -21085,6 +21085,9 @@
 [submodule "sx"]
 	path = mirror/sx
 	url = https://github.com/emacsmirror/sx
+[submodule "sxhkdrc-mode"]
+	path = mirror/sxhkdrc-mode
+	url = https://github.com/emacsmirror/sxhkdrc-mode
 [submodule "sxiv"]
 	path = mirror/sxiv
 	url = https://github.com/emacsmirror/sxiv
