@@ -20332,6 +20332,9 @@
 [submodule "snakemake-mode"]
 	path = mirror/snakemake-mode
 	url = https://github.com/emacsmirror/snakemake-mode
+[submodule "snap-indent"]
+	path = mirror/snap-indent
+	url = https://github.com/emacsmirror/snap-indent
 [submodule "snapshot-timemachine"]
 	path = mirror/snapshot-timemachine
 	url = https://github.com/emacsmirror/snapshot-timemachine
