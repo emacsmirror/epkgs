@@ -319,6 +319,9 @@
 [submodule "advogato"]
 	path = attic/advogato
 	url = https://github.com/emacsattic/advogato
+[submodule "adwaita-dark-theme"]
+	path = mirror/adwaita-dark-theme
+	url = https://github.com/emacsmirror/adwaita-dark-theme
 [submodule "aes"]
 	path = mirror/aes
 	url = https://github.com/emacsmirror/aes
