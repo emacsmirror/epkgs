@@ -1576,6 +1576,9 @@
 [submodule "bing-dict"]
 	path = mirror/bing-dict
 	url = https://github.com/emacsmirror/bing-dict
+[submodule "binky-mode"]
+	path = mirror/binky-mode
+	url = https://github.com/emacsmirror/binky-mode
 [submodule "binmove"]
 	path = mirror/binmove
 	url = https://github.com/emacsmirror/binmove
