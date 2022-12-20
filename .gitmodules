@@ -18028,6 +18028,9 @@
 [submodule "pycarddavel"]
 	path = mirror/pycarddavel
 	url = https://github.com/emacsmirror/pycarddavel
+[submodule "pyconf"]
+	path = mirror/pyconf
+	url = https://github.com/emacsmirror/pyconf
 [submodule "pycoverage"]
 	path = mirror/pycoverage
 	url = https://github.com/emacsmirror/pycoverage
