@@ -4075,6 +4075,9 @@
 [submodule "define-it"]
 	path = mirror/define-it
 	url = https://github.com/emacsmirror/define-it
+[submodule "define-scratch"]
+	path = mirror/define-scratch
+	url = https://github.com/emacsmirror/define-scratch
 [submodule "define-word"]
 	path = mirror/define-word
 	url = https://github.com/emacsmirror/define-word
