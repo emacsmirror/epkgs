@@ -19993,6 +19993,9 @@
 [submodule "simpleclip"]
 	path = mirror/simpleclip
 	url = https://github.com/emacsmirror/simpleclip
+[submodule "simplecov"]
+	path = mirror/simplecov
+	url = https://github.com/emacsmirror/simplecov
 [submodule "simplegv-mode"]
 	path = mirror/simplegv-mode
 	url = https://github.com/emacsmirror/simplegv-mode
