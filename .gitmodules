@@ -12061,6 +12061,9 @@
 [submodule "khardel"]
 	path = mirror/khardel
 	url = https://github.com/emacsmirror/khardel
+[submodule "khoj"]
+	path = mirror/khoj
+	url = https://github.com/emacsmirror/khoj
 [submodule "kibit-helper"]
 	path = mirror/kibit-helper
 	url = https://github.com/emacsmirror/kibit-helper
