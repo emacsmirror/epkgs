@@ -3238,6 +3238,9 @@
 [submodule "consult-ag"]
 	path = mirror/consult-ag
 	url = https://github.com/emacsmirror/consult-ag
+[submodule "consult-codesearch"]
+	path = mirror/consult-codesearch
+	url = https://github.com/emacsmirror/consult-codesearch
 [submodule "consult-company"]
 	path = mirror/consult-company
 	url = https://github.com/emacsmirror/consult-company
