@@ -2512,6 +2512,9 @@
 [submodule "citar"]
 	path = mirror/citar
 	url = https://github.com/emacsmirror/citar
+[submodule "citar-denote"]
+	path = mirror/citar-denote
+	url = https://github.com/emacsmirror/citar-denote
 [submodule "citar-org-roam"]
 	path = mirror/citar-org-roam
 	url = https://github.com/emacsmirror/citar-org-roam
