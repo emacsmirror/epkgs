@@ -6157,6 +6157,9 @@
 [submodule "ergore"]
 	path = mirror/ergore
 	url = https://github.com/emacsmirror/ergore
+[submodule "erk"]
+	path = mirror/erk
+	url = https://github.com/emacsmirror/erk
 [submodule "erlang"]
 	path = mirror/erlang
 	url = https://github.com/emacsmirror/erlang
