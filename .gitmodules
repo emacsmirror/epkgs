@@ -12175,6 +12175,9 @@
 [submodule "ksp-cfg-mode"]
 	path = mirror/ksp-cfg-mode
 	url = https://github.com/emacsmirror/ksp-cfg-mode
+[submodule "ksp-mode"]
+	path = mirror/ksp-mode
+	url = https://github.com/emacsmirror/ksp-mode
 [submodule "kubectx-mode"]
 	path = mirror/kubectx-mode
 	url = https://github.com/emacsmirror/kubectx-mode
