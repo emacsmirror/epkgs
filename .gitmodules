@@ -3605,8 +3605,8 @@
 	path = mirror/csharp-mode
 	url = https://github.com/emacsmirror/csharp-mode
 [submodule "csmart-mode"]
-	path = mirror/csmart-mode
-	url = https://github.com/emacsmirror/csmart-mode
+	path = attic/csmart-mode
+	url = https://github.com/emacsattic/csmart-mode
 [submodule "csound-mode"]
 	path = mirror/csound-mode
 	url = https://github.com/emacsmirror/csound-mode
