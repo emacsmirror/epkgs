@@ -15184,6 +15184,9 @@
 [submodule "ob-nim"]
 	path = mirror/ob-nim
 	url = https://github.com/emacsmirror/ob-nim
+[submodule "ob-nix"]
+	path = mirror/ob-nix
+	url = https://github.com/emacsmirror/ob-nix
 [submodule "ob-php"]
 	path = mirror/ob-php
 	url = https://github.com/emacsmirror/ob-php
