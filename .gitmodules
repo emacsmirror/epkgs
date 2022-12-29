@@ -19006,6 +19006,9 @@
 [submodule "ring+"]
 	path = mirror/ring+
 	url = https://github.com/emacsmirror/ring-plus
+[submodule "ring-mode"]
+	path = mirror/ring-mode
+	url = https://github.com/emacsmirror/ring-mode
 [submodule "rings"]
 	path = mirror/rings
 	url = https://github.com/emacsmirror/rings
