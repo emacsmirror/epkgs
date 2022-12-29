@@ -15772,6 +15772,9 @@
 [submodule "org-iv"]
 	path = mirror/org-iv
 	url = https://github.com/emacsmirror/org-iv
+[submodule "org-ivy-search"]
+	path = mirror/org-ivy-search
+	url = https://github.com/emacsmirror/org-ivy-search
 [submodule "org-jira"]
 	path = mirror/org-jira
 	url = https://github.com/emacsmirror/org-jira
