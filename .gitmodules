@@ -5536,6 +5536,9 @@
 [submodule "elim"]
 	path = attic/elim
 	url = https://github.com/emacsattic/elim
+[submodule "elisp-autofmt"]
+	path = mirror/elisp-autofmt
+	url = https://github.com/emacsmirror/elisp-autofmt
 [submodule "elisp-benchmarks"]
 	path = mirror/elisp-benchmarks
 	url = https://github.com/emacsmirror/elisp-benchmarks
