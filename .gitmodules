@@ -7438,6 +7438,9 @@
 [submodule "flycheck-demjsonlint"]
 	path = attic/flycheck-demjsonlint
 	url = https://github.com/emacsattic/flycheck-demjsonlint
+[submodule "flycheck-deno"]
+	path = mirror/flycheck-deno
+	url = https://github.com/emacsmirror/flycheck-deno
 [submodule "flycheck-dialyxir"]
 	path = mirror/flycheck-dialyxir
 	url = https://github.com/emacsmirror/flycheck-dialyxir
