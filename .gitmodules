@@ -2303,8 +2303,8 @@
 	path = mirror/cff
 	url = https://github.com/emacsmirror/cff
 [submodule "cfml-mode"]
-	path = mirror/cfml-mode
-	url = https://github.com/emacsmirror/cfml-mode
+	path = attic/cfml-mode
+	url = https://github.com/emacsattic/cfml-mode
 [submodule "cfn-mode"]
 	path = mirror/cfn-mode
 	url = https://github.com/emacsmirror/cfn-mode
