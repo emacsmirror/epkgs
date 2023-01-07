@@ -15187,6 +15187,9 @@
 [submodule "ob-nix"]
 	path = mirror/ob-nix
 	url = https://github.com/emacsmirror/ob-nix
+[submodule "ob-p5js"]
+	path = mirror/ob-p5js
+	url = https://github.com/emacsmirror/ob-p5js
 [submodule "ob-php"]
 	path = mirror/ob-php
 	url = https://github.com/emacsmirror/ob-php
