@@ -15926,8 +15926,8 @@
 	path = mirror/org-picklink
 	url = https://github.com/emacsmirror/org-picklink
 [submodule "org-pivotal"]
-	path = mirror/org-pivotal
-	url = https://github.com/emacsmirror/org-pivotal
+	path = attic/org-pivotal
+	url = https://github.com/emacsattic/org-pivotal
 [submodule "org-pomodoro"]
 	path = mirror/org-pomodoro
 	url = https://github.com/emacsmirror/org-pomodoro
