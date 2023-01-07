@@ -461,8 +461,8 @@
 	path = mirror/almost-mono-themes
 	url = https://github.com/emacsmirror/almost-mono-themes
 [submodule "alore-mode"]
-	path = mirror/alore-mode
-	url = https://github.com/emacsmirror/alore-mode
+	path = attic/alore-mode
+	url = https://github.com/emacsattic/alore-mode
 [submodule "alossage"]
 	path = attic/alossage
 	url = https://github.com/emacsattic/alossage
