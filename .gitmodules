@@ -19231,6 +19231,9 @@
 [submodule "russian-holidays"]
 	path = mirror/russian-holidays
 	url = https://github.com/emacsmirror/russian-holidays
+[submodule "russian-techwriter"]
+	path = mirror/russian-techwriter
+	url = https://github.com/emacsmirror/russian-techwriter
 [submodule "rust-auto-use"]
 	path = mirror/rust-auto-use
 	url = https://github.com/emacsmirror/rust-auto-use
