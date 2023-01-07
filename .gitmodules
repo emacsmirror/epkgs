@@ -4279,6 +4279,9 @@
 [submodule "diff-save-buffer"]
 	path = attic/diff-save-buffer
 	url = https://github.com/emacsattic/diff-save-buffer
+[submodule "diffed"]
+	path = mirror/diffed
+	url = https://github.com/emacsmirror/diffed
 [submodule "difflib"]
 	path = mirror/difflib
 	url = https://github.com/emacsmirror/difflib
@@ -4291,9 +4294,6 @@
 [submodule "diffstat"]
 	path = mirror/diffstat
 	url = https://github.com/emacsmirror/diffstat
-[submodule "diffsync"]
-	path = mirror/diffsync
-	url = https://github.com/emacsmirror/diffsync
 [submodule "diffview"]
 	path = mirror/diffview
 	url = https://github.com/emacsmirror/diffview
