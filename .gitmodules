@@ -22075,6 +22075,9 @@
 [submodule "transient-dwim"]
 	path = mirror/transient-dwim
 	url = https://github.com/emacsmirror/transient-dwim
+[submodule "transient-extras"]
+	path = mirror/transient-extras
+	url = https://github.com/emacsmirror/transient-extras
 [submodule "transient-posframe"]
 	path = mirror/transient-posframe
 	url = https://github.com/emacsmirror/transient-posframe
