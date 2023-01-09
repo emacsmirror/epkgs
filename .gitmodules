@@ -5584,6 +5584,9 @@
 [submodule "elixir-mode"]
 	path = mirror/elixir-mode
 	url = https://github.com/emacsmirror/elixir-mode
+[submodule "elixir-ts-mode"]
+	path = mirror/elixir-ts-mode
+	url = https://github.com/emacsmirror/elixir-ts-mode
 [submodule "elixir-yasnippets"]
 	path = mirror/elixir-yasnippets
 	url = https://github.com/emacsmirror/elixir-yasnippets
