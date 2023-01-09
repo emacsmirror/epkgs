@@ -9526,6 +9526,9 @@
 [submodule "hebeng"]
 	path = attic/hebeng
 	url = https://github.com/emacsattic/hebeng
+[submodule "heex-ts-mode"]
+	path = mirror/heex-ts-mode
+	url = https://github.com/emacsmirror/heex-ts-mode
 [submodule "helm"]
 	path = mirror/helm
 	url = https://github.com/emacsmirror/helm
