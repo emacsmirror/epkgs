@@ -3604,9 +3604,6 @@
 [submodule "csgo-conf-mode"]
 	path = mirror/csgo-conf-mode
 	url = https://github.com/emacsmirror/csgo-conf-mode
-[submodule "csharp-mode"]
-	path = mirror/csharp-mode
-	url = https://github.com/emacsmirror/csharp-mode
 [submodule "csmart-mode"]
 	path = attic/csmart-mode
 	url = https://github.com/emacsattic/csmart-mode
@@ -5293,9 +5290,6 @@
 [submodule "egit"]
 	path = mirror/egit
 	url = https://github.com/emacsmirror/egit
-[submodule "eglot"]
-	path = mirror/eglot
-	url = https://github.com/emacsmirror/eglot
 [submodule "eglot-java"]
 	path = mirror/eglot-java
 	url = https://github.com/emacsmirror/eglot-java
@@ -5887,9 +5881,6 @@
 [submodule "emms-state"]
 	path = mirror/emms-state
 	url = https://github.com/emacsmirror/emms-state
-[submodule "emoji"]
-	path = attic/emoji
-	url = https://github.com/emacsattic/emoji
 [submodule "emoji-cheat-sheet-plus"]
 	path = mirror/emoji-cheat-sheet-plus
 	url = https://github.com/emacsmirror/emoji-cheat-sheet-plus
@@ -16861,9 +16852,6 @@
 [submodule "pcmpl-args"]
 	path = mirror/pcmpl-args
 	url = https://github.com/emacsmirror/pcmpl-args
-[submodule "pcmpl-git"]
-	path = mirror/pcmpl-git
-	url = https://github.com/emacsmirror/pcmpl-git
 [submodule "pcmpl-homebrew"]
 	path = mirror/pcmpl-homebrew
 	url = https://github.com/emacsmirror/pcmpl-homebrew
@@ -20728,9 +20716,6 @@
 [submodule "sqlformat"]
 	path = mirror/sqlformat
 	url = https://github.com/emacsmirror/sqlformat
-[submodule "sqlite"]
-	path = mirror/sqlite
-	url = https://github.com/emacsmirror/sqlite
 [submodule "sqlite-dump"]
 	path = attic/sqlite-dump
 	url = https://github.com/emacsattic/sqlite-dump
@@ -22609,9 +22594,6 @@
 [submodule "usage-memo"]
 	path = mirror/usage-memo
 	url = https://github.com/emacsmirror/usage-memo
-[submodule "use-package"]
-	path = mirror/use-package
-	url = https://github.com/emacsmirror/use-package
 [submodule "use-package-el-get"]
 	path = mirror/use-package-el-get
 	url = https://github.com/emacsmirror/use-package-el-get
@@ -23125,9 +23107,6 @@
 [submodule "walkman"]
 	path = mirror/walkman
 	url = https://github.com/emacsmirror/walkman
-[submodule "wallpaper"]
-	path = mirror/wallpaper
-	url = https://github.com/emacsmirror/wallpaper
 [submodule "wallpreview"]
 	path = mirror/wallpreview
 	url = https://github.com/emacsmirror/wallpreview
