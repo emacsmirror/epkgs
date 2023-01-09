@@ -16222,6 +16222,9 @@
 [submodule "org-yaml"]
 	path = attic/org-yaml
 	url = https://github.com/emacsattic/org-yaml
+[submodule "org-zettelkasten"]
+	path = mirror/org-zettelkasten
+	url = https://github.com/emacsmirror/org-zettelkasten
 [submodule "org2blog"]
 	path = mirror/org2blog
 	url = https://github.com/emacsmirror/org2blog
