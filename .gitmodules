@@ -346,6 +346,9 @@
 [submodule "agda2-mode"]
 	path = mirror/agda2-mode
 	url = https://github.com/emacsmirror/agda2-mode
+[submodule "age"]
+	path = mirror/age
+	url = https://github.com/emacsmirror/age
 [submodule "aggressive-completion"]
 	path = mirror/aggressive-completion
 	url = https://github.com/emacsmirror/aggressive-completion
