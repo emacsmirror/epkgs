@@ -11986,6 +11986,9 @@
 [submodule "keg"]
 	path = mirror/keg
 	url = https://github.com/emacsmirror/keg
+[submodule "kele"]
+	path = mirror/kele
+	url = https://github.com/emacsmirror/kele
 [submodule "kerl"]
 	path = mirror/kerl
 	url = https://github.com/emacsmirror/kerl
