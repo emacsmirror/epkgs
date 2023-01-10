@@ -9278,8 +9278,8 @@
 	path = attic/gtk-look
 	url = https://github.com/emacsattic/gtk-look
 [submodule "gtk-perl"]
-	path = mirror/gtk-perl
-	url = https://github.com/emacsmirror/gtk-perl
+	path = attic/gtk-perl
+	url = https://github.com/emacsattic/gtk-perl
 [submodule "gtk-pomodoro-indicator"]
 	path = mirror/gtk-pomodoro-indicator
 	url = https://github.com/emacsmirror/gtk-pomodoro-indicator
