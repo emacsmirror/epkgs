@@ -203,8 +203,8 @@
 	path = mirror/accent
 	url = https://github.com/emacsmirror/accent
 [submodule "acd"]
-	path = mirror/acd
-	url = https://github.com/emacsmirror/acd
+	path = attic/acd
+	url = https://github.com/emacsattic/acd
 [submodule "ace-flyspell"]
 	path = mirror/ace-flyspell
 	url = https://github.com/emacsmirror/ace-flyspell
