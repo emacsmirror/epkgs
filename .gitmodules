@@ -11246,8 +11246,8 @@
 	path = mirror/iregister
 	url = https://github.com/emacsmirror/iregister
 [submodule "ireplace"]
-	path = mirror/ireplace
-	url = https://github.com/emacsmirror/ireplace
+	path = attic/ireplace
+	url = https://github.com/emacsattic/ireplace
 [submodule "iresize"]
 	path = attic/iresize
 	url = https://github.com/emacsattic/iresize
