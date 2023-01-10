@@ -17117,8 +17117,8 @@
 	path = mirror/php-cs-fixer
 	url = https://github.com/emacsmirror/php-cs-fixer
 [submodule "php-doc"]
-	path = mirror/php-doc
-	url = https://github.com/emacsmirror/php-doc
+	path = attic/php-doc
+	url = https://github.com/emacsattic/php-doc
 [submodule "php-eldoc"]
 	path = mirror/php-eldoc
 	url = https://github.com/emacsmirror/php-eldoc
