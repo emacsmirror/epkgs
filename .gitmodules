@@ -2594,8 +2594,8 @@
 	path = mirror/clhs
 	url = https://github.com/emacsmirror/clhs
 [submodule "clibpc"]
-	path = mirror/clibpc
-	url = https://github.com/emacsmirror/clibpc
+	path = attic/clibpc
+	url = https://github.com/emacsattic/clibpc
 [submodule "click-mode"]
 	path = mirror/click-mode
 	url = https://github.com/emacsmirror/click-mode
