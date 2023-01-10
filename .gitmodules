@@ -9167,8 +9167,8 @@
 	path = mirror/grayscale-theme
 	url = https://github.com/emacsmirror/grayscale-theme
 [submodule "grc"]
-	path = mirror/grc
-	url = https://github.com/emacsmirror/grc
+	path = attic/grc
+	url = https://github.com/emacsattic/grc
 [submodule "greader"]
 	path = mirror/greader
 	url = https://github.com/emacsmirror/greader
