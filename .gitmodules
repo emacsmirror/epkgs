@@ -952,6 +952,9 @@
 [submodule "aurquery"]
 	path = attic/aurquery
 	url = https://github.com/emacsattic/aurquery
+[submodule "auth-source-gopass"]
+	path = mirror/auth-source-gopass
+	url = https://github.com/emacsmirror/auth-source-gopass
 [submodule "auth-source-keytar"]
 	path = mirror/auth-source-keytar
 	url = https://github.com/emacsmirror/auth-source-keytar
