@@ -1567,6 +1567,9 @@
 [submodule "binclock"]
 	path = mirror/binclock
 	url = https://github.com/emacsmirror/binclock
+[submodule "bind-chord"]
+	path = mirror/bind-chord
+	url = https://github.com/emacsmirror/bind-chord
 [submodule "bind-map"]
 	path = mirror/bind-map
 	url = https://github.com/emacsmirror/bind-map
