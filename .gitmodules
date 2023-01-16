@@ -16279,6 +16279,9 @@
 [submodule "orgtbl-ascii-plot"]
 	path = mirror/orgtbl-ascii-plot
 	url = https://github.com/emacsmirror/orgtbl-ascii-plot
+[submodule "orgtbl-fit"]
+	path = mirror/orgtbl-fit
+	url = https://github.com/emacsmirror/orgtbl-fit
 [submodule "orgtbl-join"]
 	path = mirror/orgtbl-join
 	url = https://github.com/emacsmirror/orgtbl-join
