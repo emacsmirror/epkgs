@@ -23755,6 +23755,9 @@
 [submodule "xdg-paths"]
 	path = mirror/xdg-paths
 	url = https://github.com/emacsmirror/xdg-paths
+[submodule "xeft"]
+	path = mirror/xeft
+	url = https://github.com/emacsmirror/xeft
 [submodule "xelb"]
 	path = mirror/xelb
 	url = https://github.com/emacsmirror/xelb
