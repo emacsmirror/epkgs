@@ -18488,8 +18488,8 @@
 	path = mirror/rcirc-sound
 	url = https://github.com/emacsmirror/rcirc-sound
 [submodule "rcirc-ssh"]
-	path = mirror/rcirc-ssh
-	url = https://github.com/emacsmirror/rcirc-ssh
+	path = attic/rcirc-ssh
+	url = https://github.com/emacsattic/rcirc-ssh
 [submodule "rcirc-styles"]
 	path = mirror/rcirc-styles
 	url = https://github.com/emacsmirror/rcirc-styles
