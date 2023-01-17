@@ -17414,8 +17414,8 @@
 	path = mirror/poe-lootfilter-mode
 	url = https://github.com/emacsmirror/poe-lootfilter-mode
 [submodule "poet-client"]
-	path = mirror/poet-client
-	url = https://github.com/emacsmirror/poet-client
+	path = attic/poet-client
+	url = https://github.com/emacsattic/poet-client
 [submodule "poet-theme"]
 	path = mirror/poet-theme
 	url = https://github.com/emacsmirror/poet-theme
