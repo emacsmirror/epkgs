@@ -16858,9 +16858,6 @@
 [submodule "pcmpl-args"]
 	path = mirror/pcmpl-args
 	url = https://github.com/emacsmirror/pcmpl-args
-[submodule "pcmpl-git"]
-	path = mirror/pcmpl-git
-	url = https://github.com/emacsmirror/pcmpl-git
 [submodule "pcmpl-homebrew"]
 	path = mirror/pcmpl-homebrew
 	url = https://github.com/emacsmirror/pcmpl-homebrew
