@@ -6206,8 +6206,8 @@
 	path = mirror/ertorrent
 	url = https://github.com/emacsmirror/ertorrent
 [submodule "es"]
-	path = mirror/es
-	url = https://github.com/emacsmirror/es
+	path = attic/es
+	url = https://github.com/emacsattic/es
 [submodule "es-lib"]
 	path = mirror/es-lib
 	url = https://github.com/emacsmirror/es-lib
