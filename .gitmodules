@@ -19862,8 +19862,8 @@
 	path = mirror/shm
 	url = https://github.com/emacsmirror/shm
 [submodule "shoes-off"]
-	path = mirror/shoes-off
-	url = https://github.com/emacsmirror/shoes-off
+	path = attic/shoes-off
+	url = https://github.com/emacsattic/shoes-off
 [submodule "shop"]
 	path = attic/shop
 	url = https://github.com/emacsattic/shop
