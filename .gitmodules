@@ -20875,6 +20875,9 @@
 [submodule "sticky"]
 	path = mirror/sticky
 	url = https://github.com/emacsmirror/sticky
+[submodule "sticky-shell"]
+	path = mirror/sticky-shell
+	url = https://github.com/emacsmirror/sticky-shell
 [submodule "stickyfunc-enhance"]
 	path = mirror/stickyfunc-enhance
 	url = https://github.com/emacsmirror/stickyfunc-enhance
