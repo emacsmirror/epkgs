@@ -23293,6 +23293,9 @@
 [submodule "weyland-yutani-theme"]
 	path = mirror/weyland-yutani-theme
 	url = https://github.com/emacsmirror/weyland-yutani-theme
+[submodule "wfnames"]
+	path = mirror/wfnames
+	url = https://github.com/emacsmirror/wfnames
 [submodule "wget"]
 	path = attic/wget
 	url = https://github.com/emacsattic/wget
