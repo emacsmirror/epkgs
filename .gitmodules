@@ -6814,6 +6814,9 @@
 [submodule "eyebrowse"]
 	path = mirror/eyebrowse
 	url = https://github.com/emacsmirror/eyebrowse
+[submodule "eyebrowse-restore"]
+	path = mirror/eyebrowse-restore
+	url = https://github.com/emacsmirror/eyebrowse-restore
 [submodule "eyuml"]
 	path = mirror/eyuml
 	url = https://github.com/emacsmirror/eyuml
