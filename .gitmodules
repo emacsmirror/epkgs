@@ -23938,6 +23938,9 @@
 [submodule "ya-cppref"]
 	path = mirror/ya-cppref
 	url = https://github.com/emacsmirror/ya-cppref
+[submodule "yabaki-theme"]
+	path = mirror/yabaki-theme
+	url = https://github.com/emacsmirror/yabaki-theme
 [submodule "yabin"]
 	path = mirror/yabin
 	url = https://github.com/emacsmirror/yabin
