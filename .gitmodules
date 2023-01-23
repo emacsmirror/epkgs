@@ -11872,6 +11872,9 @@
 [submodule "julia-snail"]
 	path = mirror/julia-snail
 	url = https://github.com/emacsmirror/julia-snail
+[submodule "julia-ts-mode"]
+	path = mirror/julia-ts-mode
+	url = https://github.com/emacsmirror/julia-ts-mode
 [submodule "julia-vterm"]
 	path = mirror/julia-vterm
 	url = https://github.com/emacsmirror/julia-vterm
