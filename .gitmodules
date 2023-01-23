@@ -2584,6 +2584,9 @@
 [submodule "clean-buffers"]
 	path = mirror/clean-buffers
 	url = https://github.com/emacsmirror/clean-buffers
+[submodule "clean-kill-ring"]
+	path = mirror/clean-kill-ring
+	url = https://github.com/emacsmirror/clean-kill-ring
 [submodule "clear-text"]
 	path = mirror/clear-text
 	url = https://github.com/emacsmirror/clear-text
