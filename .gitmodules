@@ -13744,6 +13744,9 @@
 [submodule "mhc"]
 	path = mirror/mhc
 	url = https://github.com/emacsmirror/mhc
+[submodule "mic"]
+	path = mirror/mic
+	url = https://github.com/emacsmirror/mic
 [submodule "mic-paren"]
 	path = attic/mic-paren
 	url = https://github.com/emacsattic/mic-paren
