@@ -5917,6 +5917,9 @@
 [submodule "empos"]
 	path = mirror/empos
 	url = https://github.com/emacsmirror/empos
+[submodule "empv"]
+	path = mirror/empv
+	url = https://github.com/emacsmirror/empv
 [submodule "emr"]
 	path = mirror/emr
 	url = https://github.com/emacsmirror/emr
