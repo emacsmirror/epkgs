@@ -7708,6 +7708,9 @@
 [submodule "flymake-cppcheck"]
 	path = attic/flymake-cppcheck
 	url = https://github.com/emacsattic/flymake-cppcheck
+[submodule "flymake-cspell"]
+	path = mirror/flymake-cspell
+	url = https://github.com/emacsmirror/flymake-cspell
 [submodule "flymake-css"]
 	path = mirror/flymake-css
 	url = https://github.com/emacsmirror/flymake-css
