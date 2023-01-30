@@ -7346,8 +7346,8 @@
 	path = mirror/floobits
 	url = https://github.com/emacsmirror/floobits
 [submodule "flow-js2-mode"]
-	path = mirror/flow-js2-mode
-	url = https://github.com/emacsmirror/flow-js2-mode
+	path = attic/flow-js2-mode
+	url = https://github.com/emacsattic/flow-js2-mode
 [submodule "flow-minor-mode"]
 	path = mirror/flow-minor-mode
 	url = https://github.com/emacsmirror/flow-minor-mode
