@@ -7045,6 +7045,9 @@
 [submodule "file-history"]
 	path = attic/file-history
 	url = https://github.com/emacsattic/file-history
+[submodule "file-info"]
+	path = mirror/file-info
+	url = https://github.com/emacsmirror/file-info
 [submodule "file-journal"]
 	path = mirror/file-journal
 	url = https://github.com/emacsmirror/file-journal
