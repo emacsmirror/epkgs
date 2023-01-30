@@ -7846,6 +7846,9 @@
 [submodule "flymake-ruby"]
 	path = mirror/flymake-ruby
 	url = https://github.com/emacsmirror/flymake-ruby
+[submodule "flymake-ruff"]
+	path = mirror/flymake-ruff
+	url = https://github.com/emacsmirror/flymake-ruff
 [submodule "flymake-rust"]
 	path = attic/flymake-rust
 	url = https://github.com/emacsattic/flymake-rust
