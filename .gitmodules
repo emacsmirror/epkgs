@@ -20353,6 +20353,9 @@
 [submodule "smex"]
 	path = mirror/smex
 	url = https://github.com/emacsmirror/smex
+[submodule "smilefjes"]
+	path = mirror/smilefjes
+	url = https://github.com/emacsmirror/smilefjes
 [submodule "smiles-mode"]
 	path = mirror/smiles-mode
 	url = https://github.com/emacsmirror/smiles-mode
