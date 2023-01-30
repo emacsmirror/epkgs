@@ -10663,6 +10663,9 @@
 [submodule "iasm-mode"]
 	path = mirror/iasm-mode
 	url = https://github.com/emacsmirror/iasm-mode
+[submodule "ibrowse"]
+	path = mirror/ibrowse
+	url = https://github.com/emacsmirror/ibrowse
 [submodule "ibs"]
 	path = attic/ibs
 	url = https://github.com/emacsattic/ibs
