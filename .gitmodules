@@ -12205,6 +12205,9 @@
 [submodule "kotlin-mode"]
 	path = mirror/kotlin-mode
 	url = https://github.com/emacsmirror/kotlin-mode
+[submodule "kotlin-ts-mode"]
+	path = mirror/kotlin-ts-mode
+	url = https://github.com/emacsmirror/kotlin-ts-mode
 [submodule "kpm-list"]
 	path = mirror/kpm-list
 	url = https://github.com/emacsmirror/kpm-list
