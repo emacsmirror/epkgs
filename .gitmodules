@@ -19387,6 +19387,9 @@
 [submodule "sas"]
 	path = attic/sas
 	url = https://github.com/emacsattic/sas
+[submodule "sas-py"]
+	path = mirror/sas-py
+	url = https://github.com/emacsmirror/sas-py
 [submodule "sass-mode"]
 	path = mirror/sass-mode
 	url = https://github.com/emacsmirror/sass-mode
