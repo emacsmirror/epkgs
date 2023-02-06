@@ -5353,6 +5353,9 @@
 [submodule "ejson-mode"]
 	path = mirror/ejson-mode
 	url = https://github.com/emacsmirror/ejson-mode
+[submodule "ekg"]
+	path = mirror/ekg
+	url = https://github.com/emacsmirror/ekg
 [submodule "el-autoyas"]
 	path = mirror/el-autoyas
 	url = https://github.com/emacsmirror/el-autoyas
