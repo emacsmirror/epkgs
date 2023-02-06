@@ -21883,6 +21883,9 @@
 [submodule "timu-caribbean-theme"]
 	path = mirror/timu-caribbean-theme
 	url = https://github.com/emacsmirror/timu-caribbean-theme
+[submodule "timu-macos-theme"]
+	path = mirror/timu-macos-theme
+	url = https://github.com/emacsmirror/timu-macos-theme
 [submodule "timu-rouge-theme"]
 	path = mirror/timu-rouge-theme
 	url = https://github.com/emacsmirror/timu-rouge-theme
