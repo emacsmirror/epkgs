@@ -11671,6 +11671,9 @@
 [submodule "jest-test-mode"]
 	path = mirror/jest-test-mode
 	url = https://github.com/emacsmirror/jest-test-mode
+[submodule "jet"]
+	path = mirror/jet
+	url = https://github.com/emacsmirror/jet
 [submodule "jetbrains"]
 	path = mirror/jetbrains
 	url = https://github.com/emacsmirror/jetbrains
