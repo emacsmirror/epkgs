@@ -21949,6 +21949,9 @@
 [submodule "tmr"]
 	path = mirror/tmr
 	url = https://github.com/emacsmirror/tmr
+[submodule "tmsu"]
+	path = mirror/tmsu
+	url = https://github.com/emacsmirror/tmsu
 [submodule "tmt-mode"]
 	path = mirror/tmt-mode
 	url = https://github.com/emacsmirror/tmt-mode
