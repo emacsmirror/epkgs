@@ -15790,6 +15790,9 @@
 [submodule "org-gtd"]
 	path = mirror/org-gtd
 	url = https://github.com/emacsmirror/org-gtd
+[submodule "org-habit-stats"]
+	path = mirror/org-habit-stats
+	url = https://github.com/emacsmirror/org-habit-stats
 [submodule "org-helpers"]
 	path = mirror/org-helpers
 	url = https://github.com/emacsmirror/org-helpers
