@@ -7024,6 +7024,9 @@
 [submodule "ffmpeg-player"]
 	path = mirror/ffmpeg-player
 	url = https://github.com/emacsmirror/ffmpeg-player
+[submodule "ffmpeg-utils"]
+	path = mirror/ffmpeg-utils
+	url = https://github.com/emacsmirror/ffmpeg-utils
 [submodule "fic-ext-mode"]
 	path = mirror/fic-ext-mode
 	url = https://github.com/emacsmirror/fic-ext-mode
