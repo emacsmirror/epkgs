@@ -2836,6 +2836,9 @@
 [submodule "color-moccur"]
 	path = mirror/color-moccur
 	url = https://github.com/emacsmirror/color-moccur
+[submodule "color-rg"]
+	path = mirror/color-rg
+	url = https://github.com/emacsmirror/color-rg
 [submodule "color-theme"]
 	path = attic/color-theme
 	url = https://github.com/emacsattic/color-theme
