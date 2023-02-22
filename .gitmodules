@@ -22888,6 +22888,9 @@
 [submodule "verify-url"]
 	path = mirror/verify-url
 	url = https://github.com/emacsmirror/verify-url
+[submodule "verilog-ext"]
+	path = mirror/verilog-ext
+	url = https://github.com/emacsmirror/verilog-ext
 [submodule "verona-mode"]
 	path = mirror/verona-mode
 	url = https://github.com/emacsmirror/verona-mode
