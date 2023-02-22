@@ -22921,6 +22921,9 @@
 [submodule "vhdl-capf"]
 	path = mirror/vhdl-capf
 	url = https://github.com/emacsmirror/vhdl-capf
+[submodule "vhdl-ext"]
+	path = mirror/vhdl-ext
+	url = https://github.com/emacsmirror/vhdl-ext
 [submodule "vhdl-process-wave"]
 	path = mirror/vhdl-process-wave
 	url = https://github.com/emacsmirror/vhdl-process-wave
