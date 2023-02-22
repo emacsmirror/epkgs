@@ -7504,6 +7504,9 @@
 [submodule "flycheck-ensime"]
 	path = attic/flycheck-ensime
 	url = https://github.com/emacsattic/flycheck-ensime
+[submodule "flycheck-falco-rules"]
+	path = mirror/flycheck-falco-rules
+	url = https://github.com/emacsmirror/flycheck-falco-rules
 [submodule "flycheck-flawfinder"]
 	path = mirror/flycheck-flawfinder
 	url = https://github.com/emacsmirror/flycheck-flawfinder
