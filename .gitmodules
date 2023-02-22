@@ -1789,6 +1789,9 @@
 [submodule "bpr"]
 	path = mirror/bpr
 	url = https://github.com/emacsmirror/bpr
+[submodule "bqn-mode"]
+	path = mirror/bqn-mode
+	url = https://github.com/emacsmirror/bqn-mode
 [submodule "bracketed-paste"]
 	path = mirror/bracketed-paste
 	url = https://github.com/emacsmirror/bracketed-paste
