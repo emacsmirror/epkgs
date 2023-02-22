@@ -22690,9 +22690,6 @@
 [submodule "use-package-el-get"]
 	path = mirror/use-package-el-get
 	url = https://github.com/emacsmirror/use-package-el-get
-[submodule "use-package-ensure-system-package"]
-	path = mirror/use-package-ensure-system-package
-	url = https://github.com/emacsmirror/use-package-ensure-system-package
 [submodule "use-package-hydra"]
 	path = mirror/use-package-hydra
 	url = https://github.com/emacsmirror/use-package-hydra
