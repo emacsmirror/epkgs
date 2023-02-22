@@ -1453,6 +1453,9 @@
 [submodule "beatnik"]
 	path = attic/beatnik
 	url = https://github.com/emacsattic/beatnik
+[submodule "beef-mode"]
+	path = mirror/beef-mode
+	url = https://github.com/emacsmirror/beef-mode
 [submodule "beeminder"]
 	path = mirror/beeminder
 	url = https://github.com/emacsmirror/beeminder
