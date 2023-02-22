@@ -10391,8 +10391,8 @@
 	path = mirror/hl-defined
 	url = https://github.com/emacsmirror/hl-defined
 [submodule "hl-fill-column"]
-	path = mirror/hl-fill-column
-	url = https://github.com/emacsmirror/hl-fill-column
+	path = attic/hl-fill-column
+	url = https://github.com/emacsattic/hl-fill-column
 [submodule "hl-indent"]
 	path = mirror/hl-indent
 	url = https://github.com/emacsmirror/hl-indent
