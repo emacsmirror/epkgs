@@ -9170,8 +9170,8 @@
 	path = mirror/grails
 	url = https://github.com/emacsmirror/grails
 [submodule "grails-projectile-mode"]
-	path = mirror/grails-projectile-mode
-	url = https://github.com/emacsmirror/grails-projectile-mode
+	path = attic/grails-projectile-mode
+	url = https://github.com/emacsattic/grails-projectile-mode
 [submodule "grammarly"]
 	path = mirror/grammarly
 	url = https://github.com/emacsmirror/grammarly
