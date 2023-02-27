@@ -1816,6 +1816,9 @@
 [submodule "breathe"]
 	path = attic/breathe
 	url = https://github.com/emacsattic/breathe
+[submodule "brec-mode"]
+	path = mirror/brec-mode
+	url = https://github.com/emacsmirror/brec-mode
 [submodule "brf"]
 	path = mirror/brf
 	url = https://github.com/emacsmirror/brf
