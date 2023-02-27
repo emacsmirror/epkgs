@@ -14878,6 +14878,9 @@
 [submodule "nntwitter"]
 	path = mirror/nntwitter
 	url = https://github.com/emacsmirror/nntwitter
+[submodule "no-clown-fiesta-theme"]
+	path = mirror/no-clown-fiesta-theme
+	url = https://github.com/emacsmirror/no-clown-fiesta-theme
 [submodule "no-emoji"]
 	path = mirror/no-emoji
 	url = https://github.com/emacsmirror/no-emoji
