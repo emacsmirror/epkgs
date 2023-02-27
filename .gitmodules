@@ -12190,6 +12190,9 @@
 [submodule "kixtart-mode"]
 	path = mirror/kixtart-mode
 	url = https://github.com/emacsmirror/kixtart-mode
+[submodule "kkp"]
+	path = mirror/kkp
+	url = https://github.com/emacsmirror/kkp
 [submodule "klere-theme"]
 	path = mirror/klere-theme
 	url = https://github.com/emacsmirror/klere-theme
