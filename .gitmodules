@@ -3380,8 +3380,8 @@
 	path = mirror/corfu
 	url = https://github.com/emacsmirror/corfu
 [submodule "corfu-doc"]
-	path = mirror/corfu-doc
-	url = https://github.com/emacsmirror/corfu-doc
+	path = attic/corfu-doc
+	url = https://github.com/emacsattic/corfu-doc
 [submodule "corfu-terminal"]
 	path = mirror/corfu-terminal
 	url = https://github.com/emacsmirror/corfu-terminal
