@@ -12013,6 +12013,9 @@
 [submodule "kconfig-mode"]
 	path = mirror/kconfig-mode
 	url = https://github.com/emacsmirror/kconfig-mode
+[submodule "kconfig-ref"]
+	path = mirror/kconfig-ref
+	url = https://github.com/emacsmirror/kconfig-ref
 [submodule "kdeconnect"]
 	path = mirror/kdeconnect
 	url = https://github.com/emacsmirror/kdeconnect
