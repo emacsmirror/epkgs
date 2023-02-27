@@ -20827,6 +20827,9 @@
 [submodule "sqlup-mode"]
 	path = mirror/sqlup-mode
 	url = https://github.com/emacsmirror/sqlup-mode
+[submodule "squirrel-mode"]
+	path = mirror/squirrel-mode
+	url = https://github.com/emacsmirror/squirrel-mode
 [submodule "sr-speedbar"]
 	path = mirror/sr-speedbar
 	url = https://github.com/emacsmirror/sr-speedbar
