@@ -23263,6 +23263,9 @@
 [submodule "warp"]
 	path = attic/warp
 	url = https://github.com/emacsattic/warp
+[submodule "wasp-mode"]
+	path = mirror/wasp-mode
+	url = https://github.com/emacsmirror/wasp-mode
 [submodule "watch-buffer"]
 	path = mirror/watch-buffer
 	url = https://github.com/emacsmirror/watch-buffer
