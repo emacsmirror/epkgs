@@ -21466,6 +21466,9 @@
 [submodule "tap-mode"]
 	path = mirror/tap-mode
 	url = https://github.com/emacsmirror/tap-mode
+[submodule "tardis-theme"]
+	path = mirror/tardis-theme
+	url = https://github.com/emacsmirror/tardis-theme
 [submodule "task-mode"]
 	path = attic/task-mode
 	url = https://github.com/emacsattic/task-mode
