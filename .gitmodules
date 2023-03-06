@@ -5801,8 +5801,8 @@
 	path = mirror/emacsql
 	url = https://github.com/emacsmirror/emacsql
 [submodule "emacsql-sqlite3"]
-	path = mirror/emacsql-sqlite3
-	url = https://github.com/emacsmirror/emacsql-sqlite3
+	path = attic/emacsql-sqlite3
+	url = https://github.com/emacsattic/emacsql-sqlite3
 [submodule "emacsserver"]
 	path = attic/emacsserver
 	url = https://github.com/emacsattic/emacsserver
