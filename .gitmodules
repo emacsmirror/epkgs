@@ -11212,6 +11212,9 @@
 [submodule "inspector"]
 	path = mirror/inspector
 	url = https://github.com/emacsmirror/inspector
+[submodule "inspire"]
+	path = mirror/inspire
+	url = https://github.com/emacsmirror/inspire
 [submodule "install"]
 	path = mirror/install
 	url = https://github.com/emacsmirror/install
