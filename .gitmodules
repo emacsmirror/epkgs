@@ -19547,8 +19547,8 @@
 	path = attic/scim-bridge
 	url = https://github.com/emacsattic/scim-bridge
 [submodule "scion"]
-	path = mirror/scion
-	url = https://github.com/emacsmirror/scion
+	path = attic/scion
+	url = https://github.com/emacsattic/scion
 [submodule "sclang"]
 	path = mirror/sclang
 	url = https://github.com/emacsmirror/sclang
