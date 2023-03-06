@@ -1543,6 +1543,9 @@
 [submodule "bibslurp"]
 	path = mirror/bibslurp
 	url = https://github.com/emacsmirror/bibslurp
+[submodule "bibtex-capf"]
+	path = mirror/bibtex-capf
+	url = https://github.com/emacsmirror/bibtex-capf
 [submodule "bibtex-completion"]
 	path = mirror/bibtex-completion
 	url = https://github.com/emacsmirror/bibtex-completion
