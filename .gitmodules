@@ -14095,6 +14095,9 @@
 [submodule "monky"]
 	path = mirror/monky
 	url = https://github.com/emacsmirror/monky
+[submodule "mono-complete"]
+	path = mirror/mono-complete
+	url = https://github.com/emacsmirror/mono-complete
 [submodule "monochrome-theme"]
 	path = mirror/monochrome-theme
 	url = https://github.com/emacsmirror/monochrome-theme
