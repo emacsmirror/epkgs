@@ -5671,6 +5671,9 @@
 [submodule "elpa-mirror"]
 	path = mirror/elpa-mirror
 	url = https://github.com/emacsmirror/elpa-mirror
+[submodule "elpaca"]
+	path = mirror/elpaca
+	url = https://github.com/emacsmirror/elpaca
 [submodule "elpad-client"]
 	path = mirror/elpad-client
 	url = https://github.com/emacsmirror/elpad-client
