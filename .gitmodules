@@ -14176,6 +14176,9 @@
 [submodule "morlock"]
 	path = mirror/morlock
 	url = https://github.com/emacsmirror/morlock
+[submodule "morrowind-theme"]
+	path = mirror/morrowind-theme
+	url = https://github.com/emacsmirror/morrowind-theme
 [submodule "mos-mode"]
 	path = mirror/mos-mode
 	url = https://github.com/emacsmirror/mos-mode
