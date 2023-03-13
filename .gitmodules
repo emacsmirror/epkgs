@@ -5515,6 +5515,9 @@
 [submodule "electric-operator"]
 	path = mirror/electric-operator
 	url = https://github.com/emacsmirror/electric-operator
+[submodule "electric-ospl"]
+	path = mirror/electric-ospl
+	url = https://github.com/emacsmirror/electric-ospl
 [submodule "electric-space"]
 	path = attic/electric-space
 	url = https://github.com/emacsattic/electric-space
