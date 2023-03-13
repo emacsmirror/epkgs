@@ -23785,6 +23785,9 @@
 [submodule "wrap-region"]
 	path = mirror/wrap-region
 	url = https://github.com/emacsmirror/wrap-region
+[submodule "wren-mode"]
+	path = mirror/wren-mode
+	url = https://github.com/emacsmirror/wren-mode
 [submodule "write-subdirs-el"]
 	path = attic/write-subdirs-el
 	url = https://github.com/emacsattic/write-subdirs-el
