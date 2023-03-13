@@ -6937,6 +6937,9 @@
 [submodule "fancy-narrow"]
 	path = mirror/fancy-narrow
 	url = https://github.com/emacsmirror/fancy-narrow
+[submodule "fantom-mode"]
+	path = mirror/fantom-mode
+	url = https://github.com/emacsmirror/fantom-mode
 [submodule "fantom-theme"]
 	path = mirror/fantom-theme
 	url = https://github.com/emacsmirror/fantom-theme
