@@ -1450,6 +1450,9 @@
 [submodule "beans"]
 	path = mirror/beans
 	url = https://github.com/emacsmirror/beans
+[submodule "beardbolt"]
+	path = mirror/beardbolt
+	url = https://github.com/emacsmirror/beardbolt
 [submodule "beatnik"]
 	path = attic/beatnik
 	url = https://github.com/emacsattic/beatnik
