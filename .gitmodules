@@ -16996,6 +16996,9 @@
 [submodule "pcsv"]
 	path = mirror/pcsv
 	url = https://github.com/emacsmirror/pcsv
+[submodule "pd-remote"]
+	path = mirror/pd-remote
+	url = https://github.com/emacsmirror/pd-remote
 [submodule "pdb"]
 	path = attic/pdb
 	url = https://github.com/emacsattic/pdb
