@@ -2359,6 +2359,9 @@
 [submodule "changelog-url"]
 	path = attic/changelog-url
 	url = https://github.com/emacsattic/changelog-url
+[submodule "chaos-mode"]
+	path = mirror/chaos-mode
+	url = https://github.com/emacsmirror/chaos-mode
 [submodule "chapel-mode"]
 	path = mirror/chapel-mode
 	url = https://github.com/emacsmirror/chapel-mode
