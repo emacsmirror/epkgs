@@ -17065,6 +17065,9 @@
 [submodule "perfect-margin"]
 	path = mirror/perfect-margin
 	url = https://github.com/emacsmirror/perfect-margin
+[submodule "perject"]
+	path = mirror/perject
+	url = https://github.com/emacsmirror/perject
 [submodule "perkymbf"]
 	path = attic/perkymbf
 	url = https://github.com/emacsattic/perkymbf
