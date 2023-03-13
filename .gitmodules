@@ -3199,6 +3199,9 @@
 [submodule "compile-dwim"]
 	path = mirror/compile-dwim
 	url = https://github.com/emacsmirror/compile-dwim
+[submodule "compile-multi"]
+	path = mirror/compile-multi
+	url = https://github.com/emacsmirror/compile-multi
 [submodule "compiler-explorer"]
 	path = mirror/compiler-explorer
 	url = https://github.com/emacsmirror/compiler-explorer
