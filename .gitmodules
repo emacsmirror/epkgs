@@ -19594,6 +19594,9 @@
 [submodule "sclang-snippets"]
 	path = mirror/sclang-snippets
 	url = https://github.com/emacsmirror/sclang-snippets
+[submodule "scopeline"]
+	path = mirror/scopeline
+	url = https://github.com/emacsmirror/scopeline
 [submodule "scp"]
 	path = attic/scp
 	url = https://github.com/emacsattic/scp
