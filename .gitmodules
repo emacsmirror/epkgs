@@ -12589,6 +12589,9 @@
 [submodule "lgit"]
 	path = attic/lgit
 	url = https://github.com/emacsattic/lgit
+[submodule "lgr"]
+	path = mirror/lgr
+	url = https://github.com/emacsmirror/lgr
 [submodule "lib-requires"]
 	path = mirror/lib-requires
 	url = https://github.com/emacsmirror/lib-requires
