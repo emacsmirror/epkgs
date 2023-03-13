@@ -15220,6 +15220,9 @@
 [submodule "ob-cypher"]
 	path = mirror/ob-cypher
 	url = https://github.com/emacsmirror/ob-cypher
+[submodule "ob-d2"]
+	path = mirror/ob-d2
+	url = https://github.com/emacsmirror/ob-d2
 [submodule "ob-dao"]
 	path = mirror/ob-dao
 	url = https://github.com/emacsmirror/ob-dao
