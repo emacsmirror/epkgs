@@ -13835,8 +13835,8 @@
 	path = mirror/midi-kbd
 	url = https://github.com/emacsmirror/midi-kbd
 [submodule "midje-mode"]
-	path = mirror/midje-mode
-	url = https://github.com/emacsmirror/midje-mode
+	path = attic/midje-mode
+	url = https://github.com/emacsattic/midje-mode
 [submodule "migemo"]
 	path = mirror/migemo
 	url = https://github.com/emacsmirror/migemo
