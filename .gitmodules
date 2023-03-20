@@ -12382,6 +12382,9 @@
 [submodule "languagetool"]
 	path = mirror/languagetool
 	url = https://github.com/emacsmirror/languagetool
+[submodule "lark-mode"]
+	path = mirror/lark-mode
+	url = https://github.com/emacsmirror/lark-mode
 [submodule "lastfm"]
 	path = mirror/lastfm
 	url = https://github.com/emacsmirror/lastfm
