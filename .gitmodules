@@ -9178,6 +9178,9 @@
 [submodule "gptai"]
 	path = mirror/gptai
 	url = https://github.com/emacsmirror/gptai
+[submodule "gptel"]
+	path = mirror/gptel
+	url = https://github.com/emacsmirror/gptel
 [submodule "grab-and-drag"]
 	path = mirror/grab-and-drag
 	url = https://github.com/emacsmirror/grab-and-drag
