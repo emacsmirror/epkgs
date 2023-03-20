@@ -7006,6 +7006,9 @@
 [submodule "feed-discovery"]
 	path = mirror/feed-discovery
 	url = https://github.com/emacsmirror/feed-discovery
+[submodule "feline"]
+	path = mirror/feline
+	url = https://github.com/emacsmirror/feline
 [submodule "fenc"]
 	path = mirror/fenc
 	url = https://github.com/emacsmirror/fenc
