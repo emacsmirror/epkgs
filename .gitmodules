@@ -18703,6 +18703,9 @@
 [submodule "realgud-old-debuggers"]
 	path = mirror/realgud-old-debuggers
 	url = https://github.com/emacsmirror/realgud-old-debuggers
+[submodule "realgud-pdbpp"]
+	path = mirror/realgud-pdbpp
+	url = https://github.com/emacsmirror/realgud-pdbpp
 [submodule "realgud-pry"]
 	path = mirror/realgud-pry
 	url = https://github.com/emacsmirror/realgud-pry
