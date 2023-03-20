@@ -15655,6 +15655,9 @@
 [submodule "org-agenda-property"]
 	path = mirror/org-agenda-property
 	url = https://github.com/emacsmirror/org-agenda-property
+[submodule "org-ai"]
+	path = mirror/org-ai
+	url = https://github.com/emacsmirror/org-ai
 [submodule "org-alert"]
 	path = mirror/org-alert
 	url = https://github.com/emacsmirror/org-alert
