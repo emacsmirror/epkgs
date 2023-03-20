@@ -10684,6 +10684,9 @@
 [submodule "hyperbole"]
 	path = mirror/hyperbole
 	url = https://github.com/emacsmirror/hyperbole
+[submodule "hyperdrive"]
+	path = mirror/hyperdrive
+	url = https://github.com/emacsmirror/hyperdrive
 [submodule "hyperkitty"]
 	path = mirror/hyperkitty
 	url = https://github.com/emacsmirror/hyperkitty
