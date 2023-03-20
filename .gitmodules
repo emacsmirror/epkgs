@@ -18715,6 +18715,9 @@
 [submodule "realgud-trepan-ni"]
 	path = mirror/realgud-trepan-ni
 	url = https://github.com/emacsmirror/realgud-trepan-ni
+[submodule "realgud-trepan-xpy"]
+	path = mirror/realgud-trepan-xpy
+	url = https://github.com/emacsmirror/realgud-trepan-xpy
 [submodule "really-simple-wiki"]
 	path = mirror/really-simple-wiki
 	url = https://github.com/emacsmirror/really-simple-wiki
