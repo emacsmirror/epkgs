@@ -13253,8 +13253,8 @@
 	path = mirror/magit-annex
 	url = https://github.com/emacsmirror/magit-annex
 [submodule "magit-circleci"]
-	path = mirror/magit-circleci
-	url = https://github.com/emacsmirror/magit-circleci
+	path = attic/magit-circleci
+	url = https://github.com/emacsattic/magit-circleci
 [submodule "magit-commit-mark"]
 	path = mirror/magit-commit-mark
 	url = https://github.com/emacsmirror/magit-commit-mark
