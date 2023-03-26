@@ -7366,6 +7366,9 @@
 [submodule "flatui-theme"]
 	path = mirror/flatui-theme
 	url = https://github.com/emacsmirror/flatui-theme
+[submodule "fleetish-theme"]
+	path = mirror/fleetish-theme
+	url = https://github.com/emacsmirror/fleetish-theme
 [submodule "flex-autopair"]
 	path = mirror/flex-autopair
 	url = https://github.com/emacsmirror/flex-autopair
