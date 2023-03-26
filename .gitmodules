@@ -11887,6 +11887,9 @@
 [submodule "jscs"]
 	path = mirror/jscs
 	url = https://github.com/emacsmirror/jscs
+[submodule "jsdoc"]
+	path = mirror/jsdoc
+	url = https://github.com/emacsmirror/jsdoc
 [submodule "jserial"]
 	path = attic/jserial
 	url = https://github.com/emacsattic/jserial
