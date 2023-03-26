@@ -12451,6 +12451,9 @@
 [submodule "latexdiff"]
 	path = mirror/latexdiff
 	url = https://github.com/emacsmirror/latexdiff
+[submodule "latvian-holidays"]
+	path = mirror/latvian-holidays
+	url = https://github.com/emacsmirror/latvian-holidays
 [submodule "launch"]
 	path = mirror/launch
 	url = https://github.com/emacsmirror/launch
