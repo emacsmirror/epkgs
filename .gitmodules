@@ -21274,6 +21274,9 @@
 [submodule "sway"]
 	path = mirror/sway
 	url = https://github.com/emacsmirror/sway
+[submodule "sway-lang-mode"]
+	path = mirror/sway-lang-mode
+	url = https://github.com/emacsmirror/sway-lang-mode
 [submodule "swbuff"]
 	path = attic/swbuff
 	url = https://github.com/emacsattic/swbuff
