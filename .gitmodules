@@ -16414,6 +16414,9 @@
 [submodule "orglue"]
 	path = mirror/orglue
 	url = https://github.com/emacsmirror/orglue
+[submodule "orgmdb"]
+	path = mirror/orgmdb
+	url = https://github.com/emacsmirror/orgmdb
 [submodule "orgnav"]
 	path = mirror/orgnav
 	url = https://github.com/emacsmirror/orgnav
