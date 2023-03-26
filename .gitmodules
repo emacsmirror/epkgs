@@ -15259,6 +15259,9 @@
 [submodule "ob-diagrams"]
 	path = mirror/ob-diagrams
 	url = https://github.com/emacsmirror/ob-diagrams
+[submodule "ob-drawtiming"]
+	path = mirror/ob-drawtiming
+	url = https://github.com/emacsmirror/ob-drawtiming
 [submodule "ob-dsq"]
 	path = mirror/ob-dsq
 	url = https://github.com/emacsmirror/ob-dsq
