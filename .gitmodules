@@ -15182,8 +15182,8 @@
 	path = mirror/nyx-theme
 	url = https://github.com/emacsmirror/nyx-theme
 [submodule "nz-holidays"]
-	path = mirror/nz-holidays
-	url = https://github.com/emacsmirror/nz-holidays
+	path = attic/nz-holidays
+	url = https://github.com/emacsattic/nz-holidays
 [submodule "o-blog"]
 	path = attic/o-blog
 	url = https://github.com/emacsattic/o-blog
