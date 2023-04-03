@@ -1060,6 +1060,9 @@
 [submodule "auto-document"]
 	path = mirror/auto-document
 	url = https://github.com/emacsmirror/auto-document
+[submodule "auto-header"]
+	path = mirror/auto-header
+	url = https://github.com/emacsmirror/auto-header
 [submodule "auto-highlight-symbol"]
 	path = mirror/auto-highlight-symbol
 	url = https://github.com/emacsmirror/auto-highlight-symbol
