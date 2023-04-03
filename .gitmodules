@@ -11773,6 +11773,9 @@
 [submodule "jinja2-mode"]
 	path = mirror/jinja2-mode
 	url = https://github.com/emacsmirror/jinja2-mode
+[submodule "jinx"]
+	path = mirror/jinx
+	url = https://github.com/emacsmirror/jinx
 [submodule "jira"]
 	path = mirror/jira
 	url = https://github.com/emacsmirror/jira
