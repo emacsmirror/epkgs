@@ -24097,6 +24097,9 @@
 [submodule "xref-rst"]
 	path = mirror/xref-rst
 	url = https://github.com/emacsmirror/xref-rst
+[submodule "xref-union"]
+	path = mirror/xref-union
+	url = https://github.com/emacsmirror/xref-union
 [submodule "xresources-theme"]
 	path = mirror/xresources-theme
 	url = https://github.com/emacsmirror/xresources-theme
