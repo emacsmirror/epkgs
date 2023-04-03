@@ -1465,6 +1465,9 @@
 [submodule "beeminder"]
 	path = mirror/beeminder
 	url = https://github.com/emacsmirror/beeminder
+[submodule "beframe"]
+	path = mirror/beframe
+	url = https://github.com/emacsmirror/beframe
 [submodule "beginend"]
 	path = mirror/beginend
 	url = https://github.com/emacsmirror/beginend
