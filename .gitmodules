@@ -2464,6 +2464,9 @@
 [submodule "choose"]
 	path = attic/choose
 	url = https://github.com/emacsattic/choose
+[submodule "chroma"]
+	path = mirror/chroma
+	url = https://github.com/emacsmirror/chroma
 [submodule "chronometer"]
 	path = mirror/chronometer
 	url = https://github.com/emacsmirror/chronometer
