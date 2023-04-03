@@ -2896,9 +2896,6 @@
 [submodule "colormaps"]
 	path = mirror/colormaps
 	url = https://github.com/emacsmirror/colormaps
-[submodule "colors"]
-	path = mirror/colors
-	url = https://github.com/emacsmirror/colors
 [submodule "colour-region"]
 	path = mirror/colour-region
 	url = https://github.com/emacsmirror/colour-region
