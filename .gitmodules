@@ -15637,6 +15637,9 @@
 [submodule "openpaste"]
 	path = mirror/openpaste
 	url = https://github.com/emacsmirror/openpaste
+[submodule "openpgp"]
+	path = mirror/openpgp
+	url = https://github.com/emacsmirror/openpgp
 [submodule "opensource"]
 	path = mirror/opensource
 	url = https://github.com/emacsmirror/opensource
