@@ -20266,6 +20266,9 @@
 [submodule "sisyphus"]
 	path = mirror/sisyphus
 	url = https://github.com/emacsmirror/sisyphus
+[submodule "site-lisp"]
+	path = mirror/site-lisp
+	url = https://github.com/emacsmirror/site-lisp
 [submodule "sixcolors-mode"]
 	path = mirror/sixcolors-mode
 	url = https://github.com/emacsmirror/sixcolors-mode
