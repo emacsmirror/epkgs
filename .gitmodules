@@ -14860,6 +14860,9 @@
 [submodule "niceify-info"]
 	path = mirror/niceify-info
 	url = https://github.com/emacsmirror/niceify-info
+[submodule "nickel-mode"]
+	path = mirror/nickel-mode
+	url = https://github.com/emacsmirror/nickel-mode
 [submodule "niconama"]
 	path = mirror/niconama
 	url = https://github.com/emacsmirror/niconama
