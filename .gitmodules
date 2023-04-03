@@ -18893,8 +18893,8 @@
 	path = mirror/redpen-paragraph
 	url = https://github.com/emacsmirror/redpen-paragraph
 [submodule "redprl"]
-	path = mirror/redprl
-	url = https://github.com/emacsmirror/redprl
+	path = attic/redprl
+	url = https://github.com/emacsattic/redprl
 [submodule "redshank"]
 	path = attic/redshank
 	url = https://github.com/emacsattic/redshank
