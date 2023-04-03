@@ -5543,8 +5543,8 @@
 	path = mirror/elegant-agenda-mode
 	url = https://github.com/emacsmirror/elegant-agenda-mode
 [submodule "elein"]
-	path = mirror/elein
-	url = https://github.com/emacsmirror/elein
+	path = attic/elein
+	url = https://github.com/emacsattic/elein
 [submodule "elescope"]
 	path = mirror/elescope
 	url = https://github.com/emacsmirror/elescope
