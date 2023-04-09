@@ -14791,6 +14791,9 @@
 [submodule "neotree"]
 	path = mirror/neotree
 	url = https://github.com/emacsmirror/neotree
+[submodule "nerd-icons"]
+	path = mirror/nerd-icons
+	url = https://github.com/emacsmirror/nerd-icons
 [submodule "nerdtab"]
 	path = mirror/nerdtab
 	url = https://github.com/emacsmirror/nerdtab
