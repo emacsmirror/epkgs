@@ -2230,6 +2230,9 @@
 [submodule "catppuccin-theme"]
 	path = mirror/catppuccin-theme
 	url = https://github.com/emacsmirror/catppuccin-theme
+[submodule "cats"]
+	path = mirror/cats
+	url = https://github.com/emacsmirror/cats
 [submodule "cbm"]
 	path = mirror/cbm
 	url = https://github.com/emacsmirror/cbm
