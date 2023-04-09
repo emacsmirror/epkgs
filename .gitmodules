@@ -9839,8 +9839,8 @@
 	path = mirror/helm-git
 	url = https://github.com/emacsmirror/helm-git
 [submodule "helm-git-files"]
-	path = mirror/helm-git-files
-	url = https://github.com/emacsmirror/helm-git-files
+	path = attic/helm-git-files
+	url = https://github.com/emacsattic/helm-git-files
 [submodule "helm-git-grep"]
 	path = mirror/helm-git-grep
 	url = https://github.com/emacsmirror/helm-git-grep
