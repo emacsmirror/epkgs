@@ -16327,6 +16327,9 @@
 [submodule "org-themis"]
 	path = mirror/org-themis
 	url = https://github.com/emacsmirror/org-themis
+[submodule "org-tidy"]
+	path = mirror/org-tidy
+	url = https://github.com/emacsmirror/org-tidy
 [submodule "org-time-budgets"]
 	path = mirror/org-time-budgets
 	url = https://github.com/emacsmirror/org-time-budgets
