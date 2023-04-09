@@ -9635,8 +9635,8 @@
 	path = mirror/helm-ag
 	url = https://github.com/emacsmirror/helm-ag
 [submodule "helm-ag-r"]
-	path = mirror/helm-ag-r
-	url = https://github.com/emacsmirror/helm-ag-r
+	path = attic/helm-ag-r
+	url = https://github.com/emacsattic/helm-ag-r
 [submodule "helm-anything"]
 	path = attic/helm-anything
 	url = https://github.com/emacsattic/helm-anything
