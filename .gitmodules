@@ -10052,8 +10052,8 @@
 	path = mirror/helm-rails
 	url = https://github.com/emacsmirror/helm-rails
 [submodule "helm-rb"]
-	path = mirror/helm-rb
-	url = https://github.com/emacsmirror/helm-rb
+	path = attic/helm-rb
+	url = https://github.com/emacsattic/helm-rb
 [submodule "helm-rdefs"]
 	path = mirror/helm-rdefs
 	url = https://github.com/emacsmirror/helm-rdefs
