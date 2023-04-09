@@ -9713,8 +9713,8 @@
 	path = mirror/helm-clojuredocs
 	url = https://github.com/emacsmirror/helm-clojuredocs
 [submodule "helm-cmd-t"]
-	path = mirror/helm-cmd-t
-	url = https://github.com/emacsmirror/helm-cmd-t
+	path = attic/helm-cmd-t
+	url = https://github.com/emacsattic/helm-cmd-t
 [submodule "helm-codesearch"]
 	path = mirror/helm-codesearch
 	url = https://github.com/emacsmirror/helm-codesearch
