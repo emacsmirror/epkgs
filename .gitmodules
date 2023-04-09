@@ -21358,6 +21358,9 @@
 [submodule "switch-window"]
 	path = mirror/switch-window
 	url = https://github.com/emacsmirror/switch-window
+[submodule "switchy-window"]
+	path = mirror/switchy-window
+	url = https://github.com/emacsmirror/switchy-window
 [submodule "swoop"]
 	path = mirror/swoop
 	url = https://github.com/emacsmirror/swoop
