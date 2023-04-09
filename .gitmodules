@@ -4453,6 +4453,9 @@
 [submodule "dired-git-info"]
 	path = mirror/dired-git-info
 	url = https://github.com/emacsmirror/dired-git-info
+[submodule "dired-gitignore"]
+	path = mirror/dired-gitignore
+	url = https://github.com/emacsmirror/dired-gitignore
 [submodule "dired-hacks"]
 	path = mirror/dired-hacks
 	url = https://github.com/emacsmirror/dired-hacks
