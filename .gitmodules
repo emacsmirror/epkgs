@@ -21520,6 +21520,9 @@
 [submodule "tabbar-ruler"]
 	path = mirror/tabbar-ruler
 	url = https://github.com/emacsmirror/tabbar-ruler
+[submodule "tabgo"]
+	path = mirror/tabgo
+	url = https://github.com/emacsmirror/tabgo
 [submodule "tablist"]
 	path = mirror/tablist
 	url = https://github.com/emacsmirror/tablist
