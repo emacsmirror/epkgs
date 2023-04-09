@@ -6037,6 +6037,9 @@
 [submodule "envdir"]
 	path = attic/envdir
 	url = https://github.com/emacsattic/envdir
+[submodule "environ"]
+	path = mirror/environ
+	url = https://github.com/emacsmirror/environ
 [submodule "envrc"]
 	path = mirror/envrc
 	url = https://github.com/emacsmirror/envrc
