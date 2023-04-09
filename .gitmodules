@@ -19880,8 +19880,8 @@
 	path = mirror/servant
 	url = https://github.com/emacsmirror/servant
 [submodule "serverspec"]
-	path = mirror/serverspec
-	url = https://github.com/emacsmirror/serverspec
+	path = attic/serverspec
+	url = https://github.com/emacsattic/serverspec
 [submodule "services"]
 	path = mirror/services
 	url = https://github.com/emacsmirror/services
