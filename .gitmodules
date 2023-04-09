@@ -9758,8 +9758,8 @@
 	path = mirror/helm-dired-recent-dirs
 	url = https://github.com/emacsmirror/helm-dired-recent-dirs
 [submodule "helm-dirset"]
-	path = mirror/helm-dirset
-	url = https://github.com/emacsmirror/helm-dirset
+	path = attic/helm-dirset
+	url = https://github.com/emacsattic/helm-dirset
 [submodule "helm-elscreen"]
 	path = attic/helm-elscreen
 	url = https://github.com/emacsattic/helm-elscreen
