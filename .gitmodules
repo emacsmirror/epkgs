@@ -13060,6 +13060,9 @@
 [submodule "lsl-mode"]
 	path = attic/lsl-mode
 	url = https://github.com/emacsattic/lsl-mode
+[submodule "lsp-bridge"]
+	path = mirror/lsp-bridge
+	url = https://github.com/emacsmirror/lsp-bridge
 [submodule "lsp-cfn"]
 	path = mirror/lsp-cfn
 	url = https://github.com/emacsmirror/lsp-cfn
