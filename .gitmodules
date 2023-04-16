@@ -15043,6 +15043,9 @@
 [submodule "nord-theme"]
 	path = mirror/nord-theme
 	url = https://github.com/emacsmirror/nord-theme
+[submodule "nordic-night-theme"]
+	path = mirror/nordic-night-theme
+	url = https://github.com/emacsmirror/nordic-night-theme
 [submodule "norns"]
 	path = mirror/norns
 	url = https://github.com/emacsmirror/norns
