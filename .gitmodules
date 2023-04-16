@@ -19823,8 +19823,8 @@
 	path = mirror/seeing-is-believing
 	url = https://github.com/emacsmirror/seeing-is-believing
 [submodule "seen-mode"]
-	path = mirror/seen-mode
-	url = https://github.com/emacsmirror/seen-mode
+	path = attic/seen-mode
+	url = https://github.com/emacsattic/seen-mode
 [submodule "seethru"]
 	path = mirror/seethru
 	url = https://github.com/emacsmirror/seethru
