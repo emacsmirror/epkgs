@@ -19876,6 +19876,9 @@
 [submodule "sentence-navigation"]
 	path = mirror/sentence-navigation
 	url = https://github.com/emacsmirror/sentence-navigation
+[submodule "sentex"]
+	path = mirror/sentex
+	url = https://github.com/emacsmirror/sentex
 [submodule "seognil"]
 	path = mirror/seognil
 	url = https://github.com/emacsmirror/seognil
