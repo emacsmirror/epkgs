@@ -11596,6 +11596,9 @@
 [submodule "jamar"]
 	path = mirror/jamar
 	url = https://github.com/emacsmirror/jamar
+[submodule "jami-bot"]
+	path = mirror/jami-bot
+	url = https://github.com/emacsmirror/jami-bot
 [submodule "jammer"]
 	path = mirror/jammer
 	url = https://github.com/emacsmirror/jammer
