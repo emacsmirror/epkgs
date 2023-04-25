@@ -10408,6 +10408,9 @@
 [submodule "highwin"]
 	path = attic/highwin
 	url = https://github.com/emacsattic/highwin
+[submodule "hima-theme"]
+	path = mirror/hima-theme
+	url = https://github.com/emacsmirror/hima-theme
 [submodule "himalaya"]
 	path = mirror/himalaya
 	url = https://github.com/emacsmirror/himalaya
