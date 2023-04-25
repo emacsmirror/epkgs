@@ -14812,6 +14812,9 @@
 [submodule "nerd-icons-ibuffer"]
 	path = mirror/nerd-icons-ibuffer
 	url = https://github.com/emacsmirror/nerd-icons-ibuffer
+[submodule "nerd-icons-ivy-rich"]
+	path = mirror/nerd-icons-ivy-rich
+	url = https://github.com/emacsmirror/nerd-icons-ivy-rich
 [submodule "nerdtab"]
 	path = mirror/nerdtab
 	url = https://github.com/emacsmirror/nerdtab
