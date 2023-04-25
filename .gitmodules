@@ -5918,8 +5918,8 @@
 	path = mirror/emms
 	url = https://github.com/emacsmirror/emms
 [submodule "emms-bilibili"]
-	path = mirror/emms-bilibili
-	url = https://github.com/emacsmirror/emms-bilibili
+	path = attic/emms-bilibili
+	url = https://github.com/emacsattic/emms-bilibili
 [submodule "emms-get-lyrics"]
 	path = mirror/emms-get-lyrics
 	url = https://github.com/emacsmirror/emms-get-lyrics
