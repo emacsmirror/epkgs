@@ -19171,6 +19171,9 @@
 [submodule "rewrite"]
 	path = mirror/rewrite
 	url = https://github.com/emacsmirror/rewrite
+[submodule "rewriting-pcase"]
+	path = mirror/rewriting-pcase
+	url = https://github.com/emacsmirror/rewriting-pcase
 [submodule "rexx-mode"]
 	path = attic/rexx-mode
 	url = https://github.com/emacsattic/rexx-mode
