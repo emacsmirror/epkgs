@@ -18052,6 +18052,9 @@
 [submodule "projectile-variable"]
 	path = mirror/projectile-variable
 	url = https://github.com/emacsmirror/projectile-variable
+[submodule "projection"]
+	path = mirror/projection
+	url = https://github.com/emacsmirror/projection
 [submodule "projector"]
 	path = mirror/projector
 	url = https://github.com/emacsmirror/projector
