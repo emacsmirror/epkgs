@@ -2383,6 +2383,9 @@
 [submodule "chasen"]
 	path = attic/chasen
 	url = https://github.com/emacsattic/chasen
+[submodule "chatgpt-shell"]
+	path = mirror/chatgpt-shell
+	url = https://github.com/emacsmirror/chatgpt-shell
 [submodule "chatwork"]
 	path = mirror/chatwork
 	url = https://github.com/emacsmirror/chatwork
