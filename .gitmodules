@@ -22636,6 +22636,9 @@
 [submodule "typoscript-mode"]
 	path = attic/typoscript-mode
 	url = https://github.com/emacsattic/typoscript-mode
+[submodule "typst-mode"]
+	path = mirror/typst-mode
+	url = https://github.com/emacsmirror/typst-mode
 [submodule "tzc"]
 	path = mirror/tzc
 	url = https://github.com/emacsmirror/tzc
