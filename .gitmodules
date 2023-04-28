@@ -1435,6 +1435,9 @@
 [submodule "bbdbrc"]
 	path = attic/bbdbrc
 	url = https://github.com/emacsattic/bbdbrc
+[submodule "bbww"]
+	path = mirror/bbww
+	url = https://github.com/emacsmirror/bbww
 [submodule "bbyac"]
 	path = mirror/bbyac
 	url = https://github.com/emacsmirror/bbyac
