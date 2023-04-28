@@ -22444,6 +22444,9 @@
 [submodule "treemacs"]
 	path = mirror/treemacs
 	url = https://github.com/emacsmirror/treemacs
+[submodule "treemacs-nerd-icons"]
+	path = mirror/treemacs-nerd-icons
+	url = https://github.com/emacsmirror/treemacs-nerd-icons
 [submodule "treepy"]
 	path = mirror/treepy
 	url = https://github.com/emacsmirror/treepy
