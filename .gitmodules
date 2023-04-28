@@ -15817,6 +15817,9 @@
 [submodule "org-capture-pop-frame"]
 	path = mirror/org-capture-pop-frame
 	url = https://github.com/emacsmirror/org-capture-pop-frame
+[submodule "org-change"]
+	path = mirror/org-change
+	url = https://github.com/emacsmirror/org-change
 [submodule "org-chef"]
 	path = mirror/org-chef
 	url = https://github.com/emacsmirror/org-chef
