@@ -1624,6 +1624,9 @@
 [submodule "bitly"]
 	path = attic/bitly
 	url = https://github.com/emacsattic/bitly
+[submodule "bitpack"]
+	path = mirror/bitpack
+	url = https://github.com/emacsmirror/bitpack
 [submodule "blackboard-bold-mode"]
 	path = mirror/blackboard-bold-mode
 	url = https://github.com/emacsmirror/blackboard-bold-mode
