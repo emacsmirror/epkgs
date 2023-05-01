@@ -15766,6 +15766,9 @@
 [submodule "org-arbeitszeit"]
 	path = mirror/org-arbeitszeit
 	url = https://github.com/emacsmirror/org-arbeitszeit
+[submodule "org-assistant"]
+	path = mirror/org-assistant
+	url = https://github.com/emacsmirror/org-assistant
 [submodule "org-assoc-tags"]
 	path = mirror/org-assoc-tags
 	url = https://github.com/emacsmirror/org-assoc-tags
