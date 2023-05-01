@@ -877,6 +877,9 @@
 [submodule "async-eval"]
 	path = mirror/async-eval
 	url = https://github.com/emacsmirror/async-eval
+[submodule "async-job-queue"]
+	path = mirror/async-job-queue
+	url = https://github.com/emacsmirror/async-job-queue
 [submodule "atcoder-tools"]
 	path = mirror/atcoder-tools
 	url = https://github.com/emacsmirror/atcoder-tools
