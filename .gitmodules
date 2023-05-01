@@ -14821,6 +14821,9 @@
 [submodule "nerd-icons"]
 	path = mirror/nerd-icons
 	url = https://github.com/emacsmirror/nerd-icons
+[submodule "nerd-icons-completion"]
+	path = mirror/nerd-icons-completion
+	url = https://github.com/emacsmirror/nerd-icons-completion
 [submodule "nerd-icons-dired"]
 	path = mirror/nerd-icons-dired
 	url = https://github.com/emacsmirror/nerd-icons-dired
