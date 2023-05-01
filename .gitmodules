@@ -1645,6 +1645,9 @@
 [submodule "blacken"]
 	path = mirror/blacken
 	url = https://github.com/emacsmirror/blacken
+[submodule "blackjack"]
+	path = mirror/blackjack
+	url = https://github.com/emacsmirror/blackjack
 [submodule "blackout"]
 	path = mirror/blackout
 	url = https://github.com/emacsmirror/blackout
