@@ -24550,6 +24550,9 @@
 [submodule "zone-sl"]
 	path = mirror/zone-sl
 	url = https://github.com/emacsmirror/zone-sl
+[submodule "zone-tmux-clock"]
+	path = mirror/zone-tmux-clock
+	url = https://github.com/emacsmirror/zone-tmux-clock
 [submodule "zones"]
 	path = mirror/zones
 	url = https://github.com/emacsmirror/zones
