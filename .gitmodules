@@ -18448,6 +18448,9 @@
 [submodule "python-test"]
 	path = mirror/python-test
 	url = https://github.com/emacsmirror/python-test
+[submodule "python-view-data"]
+	path = mirror/python-view-data
+	url = https://github.com/emacsmirror/python-view-data
 [submodule "python-x"]
 	path = mirror/python-x
 	url = https://github.com/emacsmirror/python-x
