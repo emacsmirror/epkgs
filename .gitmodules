@@ -22444,6 +22444,9 @@
 [submodule "tree-edit"]
 	path = mirror/tree-edit
 	url = https://github.com/emacsmirror/tree-edit
+[submodule "tree-inspector"]
+	path = mirror/tree-inspector
+	url = https://github.com/emacsmirror/tree-inspector
 [submodule "tree-mode"]
 	path = mirror/tree-mode
 	url = https://github.com/emacsmirror/tree-mode
