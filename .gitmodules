@@ -4255,6 +4255,9 @@
 [submodule "devhelp"]
 	path = mirror/devhelp
 	url = https://github.com/emacsmirror/devhelp
+[submodule "devil"]
+	path = mirror/devil
+	url = https://github.com/emacsmirror/devil
 [submodule "devkitemacs"]
 	path = attic/devkitemacs
 	url = https://github.com/emacsattic/devkitemacs
