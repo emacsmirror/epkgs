@@ -13528,6 +13528,9 @@
 [submodule "malyon"]
 	path = mirror/malyon
 	url = https://github.com/emacsmirror/malyon
+[submodule "mame"]
+	path = mirror/mame
+	url = https://github.com/emacsmirror/mame
 [submodule "man-commands"]
 	path = mirror/man-commands
 	url = https://github.com/emacsmirror/man-commands
