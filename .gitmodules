@@ -22912,6 +22912,9 @@
 [submodule "uptimes"]
 	path = mirror/uptimes
 	url = https://github.com/emacsmirror/uptimes
+[submodule "urgrep"]
+	path = mirror/urgrep
+	url = https://github.com/emacsmirror/urgrep
 [submodule "url-http-ntlm"]
 	path = mirror/url-http-ntlm
 	url = https://github.com/emacsmirror/url-http-ntlm
