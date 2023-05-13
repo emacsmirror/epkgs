@@ -22918,6 +22918,9 @@
 [submodule "url-http-ntlm"]
 	path = mirror/url-http-ntlm
 	url = https://github.com/emacsmirror/url-http-ntlm
+[submodule "url-http-oauth"]
+	path = mirror/url-http-oauth
+	url = https://github.com/emacsmirror/url-http-oauth
 [submodule "url-scgi"]
 	path = mirror/url-scgi
 	url = https://github.com/emacsmirror/url-scgi
