@@ -19117,6 +19117,9 @@
 [submodule "repeater"]
 	path = mirror/repeater
 	url = https://github.com/emacsmirror/repeater
+[submodule "repl-driven-development"]
+	path = mirror/repl-driven-development
+	url = https://github.com/emacsmirror/repl-driven-development
 [submodule "repl-toggle"]
 	path = mirror/repl-toggle
 	url = https://github.com/emacsmirror/repl-toggle
