@@ -12394,6 +12394,9 @@
 [submodule "laas"]
 	path = mirror/laas
 	url = https://github.com/emacsmirror/laas
+[submodule "lab"]
+	path = mirror/lab
+	url = https://github.com/emacsmirror/lab
 [submodule "lab-themes"]
 	path = mirror/lab-themes
 	url = https://github.com/emacsmirror/lab-themes
