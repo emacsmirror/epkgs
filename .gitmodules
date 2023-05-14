@@ -2377,6 +2377,9 @@
 [submodule "challenger-deep-theme"]
 	path = mirror/challenger-deep-theme
 	url = https://github.com/emacsmirror/challenger-deep-theme
+[submodule "champagne"]
+	path = mirror/champagne
+	url = https://github.com/emacsmirror/champagne
 [submodule "change-html-head-tail"]
 	path = attic/change-html-head-tail
 	url = https://github.com/emacsattic/change-html-head-tail
