@@ -6391,6 +6391,9 @@
 [submodule "eslintd-fix"]
 	path = mirror/eslintd-fix
 	url = https://github.com/emacsmirror/eslintd-fix
+[submodule "esmond-theme"]
+	path = mirror/esmond-theme
+	url = https://github.com/emacsmirror/esmond-theme
 [submodule "esms"]
 	path = attic/esms
 	url = https://github.com/emacsattic/esms
