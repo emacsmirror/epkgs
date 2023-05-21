@@ -2752,6 +2752,9 @@
 [submodule "clojure-snippets"]
 	path = mirror/clojure-snippets
 	url = https://github.com/emacsmirror/clojure-snippets
+[submodule "clojure-ts-mode"]
+	path = mirror/clojure-ts-mode
+	url = https://github.com/emacsmirror/clojure-ts-mode
 [submodule "clomacs"]
 	path = mirror/clomacs
 	url = https://github.com/emacsmirror/clomacs
