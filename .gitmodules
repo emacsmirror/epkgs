@@ -1009,6 +1009,9 @@
 [submodule "auto-complete-clang-objc"]
 	path = mirror/auto-complete-clang-objc
 	url = https://github.com/emacsmirror/auto-complete-clang-objc
+[submodule "auto-complete-distel"]
+	path = mirror/auto-complete-distel
+	url = https://github.com/emacsmirror/auto-complete-distel
 [submodule "auto-complete-etags"]
 	path = mirror/auto-complete-etags
 	url = https://github.com/emacsmirror/auto-complete-etags
