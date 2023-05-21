@@ -2155,6 +2155,9 @@
 [submodule "calfw-gcal"]
 	path = mirror/calfw-gcal
 	url = https://github.com/emacsmirror/calfw-gcal
+[submodule "calibre"]
+	path = mirror/calibre
+	url = https://github.com/emacsmirror/calibre
 [submodule "calibredb"]
 	path = mirror/calibredb
 	url = https://github.com/emacsmirror/calibredb
