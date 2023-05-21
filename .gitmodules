@@ -18133,6 +18133,9 @@
 [submodule "projutils"]
 	path = mirror/projutils
 	url = https://github.com/emacsmirror/projutils
+[submodule "prometheus-mode"]
+	path = mirror/prometheus-mode
+	url = https://github.com/emacsmirror/prometheus-mode
 [submodule "promise"]
 	path = mirror/promise
 	url = https://github.com/emacsmirror/promise
