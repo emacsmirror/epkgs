@@ -17170,6 +17170,9 @@
 [submodule "pdf-tools"]
 	path = mirror/pdf-tools
 	url = https://github.com/emacsmirror/pdf-tools
+[submodule "pdf-view-pagemark"]
+	path = mirror/pdf-view-pagemark
+	url = https://github.com/emacsmirror/pdf-view-pagemark
 [submodule "pdf-view-restore"]
 	path = mirror/pdf-view-restore
 	url = https://github.com/emacsmirror/pdf-view-restore
