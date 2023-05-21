@@ -5803,6 +5803,9 @@
 [submodule "eltex"]
 	path = mirror/eltex
 	url = https://github.com/emacsmirror/eltex
+[submodule "elune-theme"]
+	path = mirror/elune-theme
+	url = https://github.com/emacsmirror/elune-theme
 [submodule "elunit"]
 	path = attic/elunit
 	url = https://github.com/emacsattic/elunit
