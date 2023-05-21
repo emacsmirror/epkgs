@@ -5617,6 +5617,9 @@
 [submodule "elfeed-tube"]
 	path = mirror/elfeed-tube
 	url = https://github.com/emacsmirror/elfeed-tube
+[submodule "elfeed-webkit"]
+	path = mirror/elfeed-webkit
+	url = https://github.com/emacsmirror/elfeed-webkit
 [submodule "elforth"]
 	path = mirror/elforth
 	url = https://github.com/emacsmirror/elforth
