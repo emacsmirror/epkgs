@@ -3787,6 +3787,9 @@
 [submodule "cue-mode"]
 	path = mirror/cue-mode
 	url = https://github.com/emacsmirror/cue-mode
+[submodule "cue-sheet-mode"]
+	path = mirror/cue-sheet-mode
+	url = https://github.com/emacsmirror/cue-sheet-mode
 [submodule "cui-about-me"]
 	path = attic/cui-about-me
 	url = https://github.com/emacsattic/cui-about-me
