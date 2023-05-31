@@ -13786,6 +13786,9 @@
 [submodule "media-files"]
 	path = attic/media-files
 	url = https://github.com/emacsattic/media-files
+[submodule "media-progress"]
+	path = mirror/media-progress
+	url = https://github.com/emacsmirror/media-progress
 [submodule "media-thumbnail"]
 	path = mirror/media-thumbnail
 	url = https://github.com/emacsmirror/media-thumbnail
