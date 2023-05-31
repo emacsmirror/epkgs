@@ -7378,6 +7378,9 @@
 [submodule "fix-word"]
 	path = mirror/fix-word
 	url = https://github.com/emacsmirror/fix-word
+[submodule "fixed-page-mode"]
+	path = mirror/fixed-page-mode
+	url = https://github.com/emacsmirror/fixed-page-mode
 [submodule "fixme-mode"]
 	path = mirror/fixme-mode
 	url = https://github.com/emacsmirror/fixme-mode
