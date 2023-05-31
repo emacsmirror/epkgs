@@ -14140,6 +14140,9 @@
 [submodule "mocker"]
 	path = mirror/mocker
 	url = https://github.com/emacsmirror/mocker
+[submodule "modaled"]
+	path = mirror/modaled
+	url = https://github.com/emacsmirror/modaled
 [submodule "modalka"]
 	path = mirror/modalka
 	url = https://github.com/emacsmirror/modalka
