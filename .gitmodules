@@ -18097,6 +18097,9 @@
 [submodule "project-tab-groups"]
 	path = mirror/project-tab-groups
 	url = https://github.com/emacsmirror/project-tab-groups
+[submodule "project-treemacs"]
+	path = mirror/project-treemacs
+	url = https://github.com/emacsmirror/project-treemacs
 [submodule "projectile"]
 	path = mirror/projectile
 	url = https://github.com/emacsmirror/projectile
