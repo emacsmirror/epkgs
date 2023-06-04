@@ -8176,6 +8176,9 @@
 [submodule "foursquare"]
 	path = mirror/foursquare
 	url = https://github.com/emacsmirror/foursquare
+[submodule "fpga"]
+	path = mirror/fpga
+	url = https://github.com/emacsmirror/fpga
 [submodule "fraktur-mode"]
 	path = mirror/fraktur-mode
 	url = https://github.com/emacsmirror/fraktur-mode
