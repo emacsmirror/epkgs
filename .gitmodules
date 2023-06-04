@@ -4996,6 +4996,9 @@
 [submodule "dw"]
 	path = mirror/dw
 	url = https://github.com/emacsmirror/dw
+[submodule "dwim-coder-mode"]
+	path = mirror/dwim-coder-mode
+	url = https://github.com/emacsmirror/dwim-coder-mode
 [submodule "dwim-find"]
 	path = attic/dwim-find
 	url = https://github.com/emacsattic/dwim-find
