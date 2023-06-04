@@ -15880,6 +15880,9 @@
 [submodule "org-buffers"]
 	path = mirror/org-buffers
 	url = https://github.com/emacsmirror/org-buffers
+[submodule "org-bulletproof"]
+	path = mirror/org-bulletproof
+	url = https://github.com/emacsmirror/org-bulletproof
 [submodule "org-bullets"]
 	path = mirror/org-bullets
 	url = https://github.com/emacsmirror/org-bullets
