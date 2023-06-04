@@ -18757,6 +18757,9 @@
 [submodule "rats"]
 	path = mirror/rats
 	url = https://github.com/emacsmirror/rats
+[submodule "raycast-mode"]
+	path = mirror/raycast-mode
+	url = https://github.com/emacsmirror/raycast-mode
 [submodule "rays"]
 	path = attic/rays
 	url = https://github.com/emacsattic/rays
