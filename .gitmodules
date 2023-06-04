@@ -14434,6 +14434,9 @@
 [submodule "mpv"]
 	path = mirror/mpv
 	url = https://github.com/emacsmirror/mpv
+[submodule "mpvi"]
+	path = mirror/mpvi
+	url = https://github.com/emacsmirror/mpvi
 [submodule "mqr"]
 	path = mirror/mqr
 	url = https://github.com/emacsmirror/mqr
