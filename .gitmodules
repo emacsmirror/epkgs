@@ -12664,6 +12664,9 @@
 [submodule "leo"]
 	path = mirror/leo
 	url = https://github.com/emacsmirror/leo
+[submodule "lesim-mode"]
+	path = mirror/lesim-mode
+	url = https://github.com/emacsmirror/lesim-mode
 [submodule "less"]
 	path = mirror/less
 	url = https://github.com/emacsmirror/less
