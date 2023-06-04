@@ -20875,6 +20875,9 @@
 [submodule "spacemacs-theme"]
 	path = mirror/spacemacs-theme
 	url = https://github.com/emacsmirror/spacemacs-theme
+[submodule "spacious-padding"]
+	path = mirror/spacious-padding
+	url = https://github.com/emacsmirror/spacious-padding
 [submodule "spamfilter"]
 	path = attic/spamfilter
 	url = https://github.com/emacsattic/spamfilter
