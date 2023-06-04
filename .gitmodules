@@ -16090,6 +16090,9 @@
 [submodule "org-ivy-search"]
 	path = mirror/org-ivy-search
 	url = https://github.com/emacsmirror/org-ivy-search
+[submodule "org-jami-bot"]
+	path = mirror/org-jami-bot
+	url = https://github.com/emacsmirror/org-jami-bot
 [submodule "org-jira"]
 	path = mirror/org-jira
 	url = https://github.com/emacsmirror/org-jira
