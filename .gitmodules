@@ -21388,6 +21388,9 @@
 [submodule "suggestion-box"]
 	path = mirror/suggestion-box
 	url = https://github.com/emacsmirror/suggestion-box
+[submodule "sumibi"]
+	path = mirror/sumibi
+	url = https://github.com/emacsmirror/sumibi
 [submodule "summarye"]
 	path = attic/summarye
 	url = https://github.com/emacsattic/summarye
