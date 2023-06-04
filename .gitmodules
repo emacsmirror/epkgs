@@ -19966,6 +19966,9 @@
 [submodule "sekka"]
 	path = mirror/sekka
 	url = https://github.com/emacsmirror/sekka
+[submodule "selcand"]
+	path = mirror/selcand
+	url = https://github.com/emacsmirror/selcand
 [submodule "select-themes"]
 	path = mirror/select-themes
 	url = https://github.com/emacsmirror/select-themes
