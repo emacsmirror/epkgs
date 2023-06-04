@@ -7342,6 +7342,9 @@
 [submodule "firefox-controller"]
 	path = attic/firefox-controller
 	url = https://github.com/emacsattic/firefox-controller
+[submodule "firefox-javascript-repl"]
+	path = mirror/firefox-javascript-repl
+	url = https://github.com/emacsmirror/firefox-javascript-repl
 [submodule "firefox-remote"]
 	path = mirror/firefox-remote
 	url = https://github.com/emacsmirror/firefox-remote
