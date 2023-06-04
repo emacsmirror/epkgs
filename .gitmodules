@@ -12916,9 +12916,6 @@
 [submodule "listbuf"]
 	path = attic/listbuf
 	url = https://github.com/emacsattic/listbuf
-[submodule "listenbrainz"]
-	path = mirror/listenbrainz
-	url = https://github.com/emacsmirror/listenbrainz
 [submodule "lister"]
 	path = mirror/lister
 	url = https://github.com/emacsmirror/lister
