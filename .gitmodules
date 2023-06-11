@@ -5839,6 +5839,9 @@
 [submodule "emacs-everywhere"]
 	path = mirror/emacs-everywhere
 	url = https://github.com/emacsmirror/emacs-everywhere
+[submodule "emacs-gc-stats"]
+	path = mirror/emacs-gc-stats
+	url = https://github.com/emacsmirror/emacs-gc-stats
 [submodule "emacs-init-check"]
 	path = mirror/emacs-init-check
 	url = https://github.com/emacsmirror/emacs-init-check
