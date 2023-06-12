@@ -1951,6 +1951,9 @@
 [submodule "buffer-move"]
 	path = mirror/buffer-move
 	url = https://github.com/emacsmirror/buffer-move
+[submodule "buffer-name-relative"]
+	path = mirror/buffer-name-relative
+	url = https://github.com/emacsmirror/buffer-name-relative
 [submodule "buffer-ring"]
 	path = mirror/buffer-ring
 	url = https://github.com/emacsmirror/buffer-ring
