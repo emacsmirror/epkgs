@@ -12349,6 +12349,9 @@
 [submodule "klere-theme"]
 	path = mirror/klere-theme
 	url = https://github.com/emacsmirror/klere-theme
+[submodule "klondike"]
+	path = mirror/klondike
+	url = https://github.com/emacsmirror/klondike
 [submodule "kmacro-ring-list"]
 	path = attic/kmacro-ring-list
 	url = https://github.com/emacsattic/kmacro-ring-list
