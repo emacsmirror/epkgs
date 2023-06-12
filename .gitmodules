@@ -1186,6 +1186,9 @@
 [submodule "autopair"]
 	path = attic/autopair
 	url = https://github.com/emacsattic/autopair
+[submodule "autoscratch"]
+	path = mirror/autoscratch
+	url = https://github.com/emacsmirror/autoscratch
 [submodule "autosmiley"]
 	path = mirror/autosmiley
 	url = https://github.com/emacsmirror/autosmiley
