@@ -15307,6 +15307,9 @@
 [submodule "numwin"]
 	path = mirror/numwin
 	url = https://github.com/emacsmirror/numwin
+[submodule "nushell-mode"]
+	path = mirror/nushell-mode
+	url = https://github.com/emacsmirror/nushell-mode
 [submodule "nv-delete-back"]
 	path = mirror/nv-delete-back
 	url = https://github.com/emacsmirror/nv-delete-back
