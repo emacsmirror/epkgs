@@ -15601,6 +15601,9 @@
 [submodule "occur-x"]
 	path = mirror/occur-x
 	url = https://github.com/emacsmirror/occur-x
+[submodule "occurx-mode"]
+	path = mirror/occurx-mode
+	url = https://github.com/emacsmirror/occurx-mode
 [submodule "oceanic-theme"]
 	path = mirror/oceanic-theme
 	url = https://github.com/emacsmirror/oceanic-theme
