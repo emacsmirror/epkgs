@@ -10501,6 +10501,9 @@
 [submodule "hippie-namespace"]
 	path = mirror/hippie-namespace
 	url = https://github.com/emacsmirror/hippie-namespace
+[submodule "hippo-themes"]
+	path = mirror/hippo-themes
+	url = https://github.com/emacsmirror/hippo-themes
 [submodule "historian"]
 	path = mirror/historian
 	url = https://github.com/emacsmirror/historian
