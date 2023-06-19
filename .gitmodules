@@ -15478,6 +15478,9 @@
 [submodule "ob-latex-as-png"]
 	path = mirror/ob-latex-as-png
 	url = https://github.com/emacsmirror/ob-latex-as-png
+[submodule "ob-lesim"]
+	path = mirror/ob-lesim
+	url = https://github.com/emacsmirror/ob-lesim
 [submodule "ob-lfe"]
 	path = mirror/ob-lfe
 	url = https://github.com/emacsmirror/ob-lfe
