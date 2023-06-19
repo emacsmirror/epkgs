@@ -15148,6 +15148,9 @@
 [submodule "nofrils-acme-theme"]
 	path = mirror/nofrils-acme-theme
 	url = https://github.com/emacsmirror/nofrils-acme-theme
+[submodule "noir-mode"]
+	path = mirror/noir-mode
+	url = https://github.com/emacsmirror/noir-mode
 [submodule "noob-arrows-mode"]
 	path = mirror/noob-arrows-mode
 	url = https://github.com/emacsmirror/noob-arrows-mode
