@@ -4783,6 +4783,9 @@
 [submodule "docsetutil"]
 	path = mirror/docsetutil
 	url = https://github.com/emacsmirror/docsetutil
+[submodule "docsim"]
+	path = mirror/docsim
+	url = https://github.com/emacsmirror/docsim
 [submodule "docstr"]
 	path = mirror/docstr
 	url = https://github.com/emacsmirror/docstr
