@@ -9271,6 +9271,9 @@
 [submodule "gpr-query"]
 	path = mirror/gpr-query
 	url = https://github.com/emacsmirror/gpr-query
+[submodule "gpr-ts-mode"]
+	path = mirror/gpr-ts-mode
+	url = https://github.com/emacsmirror/gpr-ts-mode
 [submodule "gpr-yasnippets"]
 	path = mirror/gpr-yasnippets
 	url = https://github.com/emacsmirror/gpr-yasnippets
