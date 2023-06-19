@@ -1264,6 +1264,9 @@
 [submodule "ayu-theme"]
 	path = mirror/ayu-theme
 	url = https://github.com/emacsmirror/ayu-theme
+[submodule "babashka"]
+	path = mirror/babashka
+	url = https://github.com/emacsmirror/babashka
 [submodule "babel"]
 	path = mirror/babel
 	url = https://github.com/emacsmirror/babel
