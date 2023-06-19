@@ -17347,6 +17347,9 @@
 [submodule "persist"]
 	path = mirror/persist
 	url = https://github.com/emacsmirror/persist
+[submodule "persist-state"]
+	path = mirror/persist-state
+	url = https://github.com/emacsmirror/persist-state
 [submodule "persistent-overlays"]
 	path = mirror/persistent-overlays
 	url = https://github.com/emacsmirror/persistent-overlays
