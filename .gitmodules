@@ -6808,6 +6808,9 @@
 [submodule "evil-tutor-ja"]
 	path = mirror/evil-tutor-ja
 	url = https://github.com/emacsmirror/evil-tutor-ja
+[submodule "evil-tutor-sc"]
+	path = mirror/evil-tutor-sc
+	url = https://github.com/emacsmirror/evil-tutor-sc
 [submodule "evil-vimish-fold"]
 	path = mirror/evil-vimish-fold
 	url = https://github.com/emacsmirror/evil-vimish-fold
