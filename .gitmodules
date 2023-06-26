@@ -20962,6 +20962,9 @@
 [submodule "spamtrap"]
 	path = attic/spamtrap
 	url = https://github.com/emacsattic/spamtrap
+[submodule "spanish-holidays"]
+	path = mirror/spanish-holidays
+	url = https://github.com/emacsmirror/spanish-holidays
 [submodule "spark"]
 	path = mirror/spark
 	url = https://github.com/emacsmirror/spark
