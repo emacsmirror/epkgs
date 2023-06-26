@@ -18634,6 +18634,9 @@
 [submodule "quack"]
 	path = mirror/quack
 	url = https://github.com/emacsmirror/quack
+[submodule "quakec-mode"]
+	path = mirror/quakec-mode
+	url = https://github.com/emacsmirror/quakec-mode
 [submodule "quarter-plane"]
 	path = mirror/quarter-plane
 	url = https://github.com/emacsmirror/quarter-plane
