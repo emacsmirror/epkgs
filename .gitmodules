@@ -23896,6 +23896,9 @@
 [submodule "window+"]
 	path = mirror/window+
 	url = https://github.com/emacsmirror/window-plus
+[submodule "window-commander"]
+	path = mirror/window-commander
+	url = https://github.com/emacsmirror/window-commander
 [submodule "window-end-visible"]
 	path = mirror/window-end-visible
 	url = https://github.com/emacsmirror/window-end-visible
