@@ -9583,6 +9583,9 @@
 [submodule "haddoc"]
 	path = attic/haddoc
 	url = https://github.com/emacsattic/haddoc
+[submodule "haki-theme"]
+	path = mirror/haki-theme
+	url = https://github.com/emacsmirror/haki-theme
 [submodule "hal-mode"]
 	path = mirror/hal-mode
 	url = https://github.com/emacsmirror/hal-mode
