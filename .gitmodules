@@ -23110,6 +23110,9 @@
 [submodule "ushell"]
 	path = attic/ushell
 	url = https://github.com/emacsattic/ushell
+[submodule "ushin-shapes"]
+	path = mirror/ushin-shapes
+	url = https://github.com/emacsmirror/ushin-shapes
 [submodule "usql"]
 	path = attic/usql
 	url = https://github.com/emacsattic/usql
