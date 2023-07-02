@@ -14002,6 +14002,9 @@
 [submodule "micgoline"]
 	path = mirror/micgoline
 	url = https://github.com/emacsmirror/micgoline
+[submodule "micromamba"]
+	path = mirror/micromamba
+	url = https://github.com/emacsmirror/micromamba
 [submodule "midi-kbd"]
 	path = mirror/midi-kbd
 	url = https://github.com/emacsmirror/midi-kbd
