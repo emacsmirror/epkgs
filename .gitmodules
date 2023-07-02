@@ -7939,6 +7939,9 @@
 [submodule "flymake-helper"]
 	path = mirror/flymake-helper
 	url = https://github.com/emacsmirror/flymake-helper
+[submodule "flymake-hledger"]
+	path = mirror/flymake-hledger
+	url = https://github.com/emacsmirror/flymake-hledger
 [submodule "flymake-hlint"]
 	path = mirror/flymake-hlint
 	url = https://github.com/emacsmirror/flymake-hlint
