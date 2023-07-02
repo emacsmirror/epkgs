@@ -5410,6 +5410,9 @@
 [submodule "eglot-jl"]
 	path = mirror/eglot-jl
 	url = https://github.com/emacsmirror/eglot-jl
+[submodule "eglot-tempel"]
+	path = mirror/eglot-tempel
+	url = https://github.com/emacsmirror/eglot-tempel
 [submodule "ego"]
 	path = mirror/ego
 	url = https://github.com/emacsmirror/ego
