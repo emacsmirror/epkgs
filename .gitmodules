@@ -20209,6 +20209,9 @@
 [submodule "shell-command-queue"]
 	path = mirror/shell-command-queue
 	url = https://github.com/emacsmirror/shell-command-queue
+[submodule "shell-command-x"]
+	path = mirror/shell-command-x
+	url = https://github.com/emacsmirror/shell-command-x
 [submodule "shell-completion"]
 	path = mirror/shell-completion
 	url = https://github.com/emacsmirror/shell-completion
