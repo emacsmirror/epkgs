@@ -16543,6 +16543,9 @@
 [submodule "org-unique-id"]
 	path = mirror/org-unique-id
 	url = https://github.com/emacsmirror/org-unique-id
+[submodule "org-upcoming-modeline"]
+	path = mirror/org-upcoming-modeline
+	url = https://github.com/emacsmirror/org-upcoming-modeline
 [submodule "org-vcard"]
 	path = mirror/org-vcard
 	url = https://github.com/emacsmirror/org-vcard
