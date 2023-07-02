@@ -1987,6 +1987,9 @@
 [submodule "buffer-wrap"]
 	path = mirror/buffer-wrap
 	url = https://github.com/emacsmirror/buffer-wrap
+[submodule "bufferbin"]
+	path = mirror/bufferbin
+	url = https://github.com/emacsmirror/bufferbin
 [submodule "buffermenu"]
 	path = attic/buffermenu
 	url = https://github.com/emacsattic/buffermenu
