@@ -9298,6 +9298,9 @@
 [submodule "gpt"]
 	path = mirror/gpt
 	url = https://github.com/emacsmirror/gpt
+[submodule "gpt-commit"]
+	path = mirror/gpt-commit
+	url = https://github.com/emacsmirror/gpt-commit
 [submodule "gptai"]
 	path = mirror/gptai
 	url = https://github.com/emacsmirror/gptai
