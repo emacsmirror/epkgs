@@ -3355,6 +3355,9 @@
 [submodule "consult-flyspell"]
 	path = mirror/consult-flyspell
 	url = https://github.com/emacsmirror/consult-flyspell
+[submodule "consult-gh"]
+	path = mirror/consult-gh
+	url = https://github.com/emacsmirror/consult-gh
 [submodule "consult-ghq"]
 	path = mirror/consult-ghq
 	url = https://github.com/emacsmirror/consult-ghq
