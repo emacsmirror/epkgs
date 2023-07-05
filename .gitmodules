@@ -3457,6 +3457,9 @@
 [submodule "corfu"]
 	path = mirror/corfu
 	url = https://github.com/emacsmirror/corfu
+[submodule "corfu-candidate-overlay"]
+	path = mirror/corfu-candidate-overlay
+	url = https://github.com/emacsmirror/corfu-candidate-overlay
 [submodule "corfu-doc"]
 	path = attic/corfu-doc
 	url = https://github.com/emacsattic/corfu-doc
