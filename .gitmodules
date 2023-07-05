@@ -10346,8 +10346,8 @@
 	path = mirror/hercules
 	url = https://github.com/emacsmirror/hercules
 [submodule "heroku"]
-	path = attic/heroku
-	url = https://github.com/emacsattic/heroku
+	path = mirror/heroku
+	url = https://github.com/emacsmirror/heroku
 [submodule "heroku-theme"]
 	path = mirror/heroku-theme
 	url = https://github.com/emacsmirror/heroku-theme
