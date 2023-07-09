@@ -20068,6 +20068,9 @@
 [submodule "selftest"]
 	path = attic/selftest
 	url = https://github.com/emacsattic/selftest
+[submodule "semantic-thrift"]
+	path = mirror/semantic-thrift
+	url = https://github.com/emacsmirror/semantic-thrift
 [submodule "semaphore"]
 	path = mirror/semaphore
 	url = https://github.com/emacsmirror/semaphore
