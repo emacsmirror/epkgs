@@ -4543,6 +4543,9 @@
 [submodule "dired-posframe"]
 	path = mirror/dired-posframe
 	url = https://github.com/emacsmirror/dired-posframe
+[submodule "dired-preview"]
+	path = mirror/dired-preview
+	url = https://github.com/emacsmirror/dired-preview
 [submodule "dired-quick-sort"]
 	path = mirror/dired-quick-sort
 	url = https://github.com/emacsmirror/dired-quick-sort
