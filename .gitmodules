@@ -3556,6 +3556,9 @@
 [submodule "counsel-test"]
 	path = mirror/counsel-test
 	url = https://github.com/emacsmirror/counsel-test
+[submodule "counsel-toki"]
+	path = mirror/counsel-toki
+	url = https://github.com/emacsmirror/counsel-toki
 [submodule "counsel-tramp"]
 	path = mirror/counsel-tramp
 	url = https://github.com/emacsmirror/counsel-tramp
