@@ -13927,6 +13927,9 @@
 [submodule "meson-mode"]
 	path = mirror/meson-mode
 	url = https://github.com/emacsmirror/meson-mode
+[submodule "mess"]
+	path = mirror/mess
+	url = https://github.com/emacsmirror/mess
 [submodule "message-attachment-reminder"]
 	path = mirror/message-attachment-reminder
 	url = https://github.com/emacsmirror/message-attachment-reminder
