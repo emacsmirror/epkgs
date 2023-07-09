@@ -18157,6 +18157,9 @@
 [submodule "profiles"]
 	path = mirror/profiles
 	url = https://github.com/emacsmirror/profiles
+[submodule "prog-face-refine"]
+	path = mirror/prog-face-refine
+	url = https://github.com/emacsmirror/prog-face-refine
 [submodule "prog-fill"]
 	path = mirror/prog-fill
 	url = https://github.com/emacsmirror/prog-fill
