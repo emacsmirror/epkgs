@@ -23935,6 +23935,9 @@
 [submodule "wiktionary-swadesh"]
 	path = attic/wiktionary-swadesh
 	url = https://github.com/emacsattic/wiktionary-swadesh
+[submodule "wildcharm-theme"]
+	path = mirror/wildcharm-theme
+	url = https://github.com/emacsmirror/wildcharm-theme
 [submodule "wilt"]
 	path = mirror/wilt
 	url = https://github.com/emacsmirror/wilt
