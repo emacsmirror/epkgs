@@ -2026,6 +2026,9 @@
 [submodule "build-status"]
 	path = mirror/build-status
 	url = https://github.com/emacsmirror/build-status
+[submodule "buildbot"]
+	path = mirror/buildbot
+	url = https://github.com/emacsmirror/buildbot
 [submodule "bundle"]
 	path = mirror/bundle
 	url = https://github.com/emacsmirror/bundle
