@@ -22270,6 +22270,9 @@
 [submodule "tiger"]
 	path = attic/tiger
 	url = https://github.com/emacsattic/tiger
+[submodule "tiktoken"]
+	path = mirror/tiktoken
+	url = https://github.com/emacsmirror/tiktoken
 [submodule "tikz"]
 	path = mirror/tikz
 	url = https://github.com/emacsmirror/tikz
