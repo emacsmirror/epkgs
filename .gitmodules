@@ -15116,11 +15116,11 @@
 	path = attic/nmodl
 	url = https://github.com/emacsattic/nmodl
 [submodule "nndiscourse"]
-	path = mirror/nndiscourse
-	url = https://github.com/emacsmirror/nndiscourse
+	path = attic/nndiscourse
+	url = https://github.com/emacsattic/nndiscourse
 [submodule "nnhackernews"]
-	path = mirror/nnhackernews
-	url = https://github.com/emacsmirror/nnhackernews
+	path = attic/nnhackernews
+	url = https://github.com/emacsattic/nnhackernews
 [submodule "nnir-est"]
 	path = mirror/nnir-est
 	url = https://github.com/emacsmirror/nnir-est
@@ -15131,14 +15131,14 @@
 	path = mirror/nnir-spotlight
 	url = https://github.com/emacsmirror/nnir-spotlight
 [submodule "nnreddit"]
-	path = mirror/nnreddit
-	url = https://github.com/emacsmirror/nnreddit
+	path = attic/nnreddit
+	url = https://github.com/emacsattic/nnreddit
 [submodule "nntodo"]
 	path = attic/nntodo
 	url = https://github.com/emacsattic/nntodo
 [submodule "nntwitter"]
-	path = mirror/nntwitter
-	url = https://github.com/emacsmirror/nntwitter
+	path = attic/nntwitter
+	url = https://github.com/emacsattic/nntwitter
 [submodule "no-clown-fiesta-theme"]
 	path = mirror/no-clown-fiesta-theme
 	url = https://github.com/emacsmirror/no-clown-fiesta-theme
