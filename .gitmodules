@@ -2518,6 +2518,9 @@
 [submodule "choose"]
 	path = attic/choose
 	url = https://github.com/emacsattic/choose
+[submodule "chordpro-mode"]
+	path = mirror/chordpro-mode
+	url = https://github.com/emacsmirror/chordpro-mode
 [submodule "chroma"]
 	path = mirror/chroma
 	url = https://github.com/emacsmirror/chroma
