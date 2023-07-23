@@ -7570,6 +7570,9 @@
 [submodule "flycheck-bashate"]
 	path = mirror/flycheck-bashate
 	url = https://github.com/emacsmirror/flycheck-bashate
+[submodule "flycheck-buf-lint"]
+	path = mirror/flycheck-buf-lint
+	url = https://github.com/emacsmirror/flycheck-buf-lint
 [submodule "flycheck-cask"]
 	path = mirror/flycheck-cask
 	url = https://github.com/emacsmirror/flycheck-cask
