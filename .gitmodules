@@ -21787,6 +21787,9 @@
 [submodule "tablist"]
 	path = mirror/tablist
 	url = https://github.com/emacsmirror/tablist
+[submodule "tabnine"]
+	path = mirror/tabnine
+	url = https://github.com/emacsmirror/tabnine
 [submodule "tabs"]
 	path = attic/tabs
 	url = https://github.com/emacsattic/tabs
