@@ -21979,6 +21979,9 @@
 [submodule "telephone-line"]
 	path = mirror/telephone-line
 	url = https://github.com/emacsmirror/telephone-line
+[submodule "teleport"]
+	path = mirror/teleport
+	url = https://github.com/emacsmirror/teleport
 [submodule "teletext"]
 	path = mirror/teletext
 	url = https://github.com/emacsmirror/teletext
