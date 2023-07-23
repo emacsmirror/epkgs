@@ -11651,8 +11651,8 @@
 	path = mirror/ivy-pass
 	url = https://github.com/emacsmirror/ivy-pass
 [submodule "ivy-phpunit"]
-	path = mirror/ivy-phpunit
-	url = https://github.com/emacsmirror/ivy-phpunit
+	path = attic/ivy-phpunit
+	url = https://github.com/emacsattic/ivy-phpunit
 [submodule "ivy-posframe"]
 	path = mirror/ivy-posframe
 	url = https://github.com/emacsmirror/ivy-posframe
