@@ -17315,8 +17315,8 @@
 	path = mirror/peek-mode
 	url = https://github.com/emacsmirror/peek-mode
 [submodule "peep-dired"]
-	path = mirror/peep-dired
-	url = https://github.com/emacsmirror/peep-dired
+	path = attic/peep-dired
+	url = https://github.com/emacsattic/peep-dired
 [submodule "peepopen"]
 	path = attic/peepopen
 	url = https://github.com/emacsattic/peepopen
