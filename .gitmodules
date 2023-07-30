@@ -11077,6 +11077,9 @@
 [submodule "iflipb"]
 	path = mirror/iflipb
 	url = https://github.com/emacsmirror/iflipb
+[submodule "igist"]
+	path = mirror/igist
+	url = https://github.com/emacsmirror/igist
 [submodule "ignoramus"]
 	path = mirror/ignoramus
 	url = https://github.com/emacsmirror/ignoramus
