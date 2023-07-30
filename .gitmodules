@@ -3205,6 +3205,9 @@
 [submodule "company-shell"]
 	path = mirror/company-shell
 	url = https://github.com/emacsmirror/company-shell
+[submodule "company-spell"]
+	path = mirror/company-spell
+	url = https://github.com/emacsmirror/company-spell
 [submodule "company-statistics"]
 	path = mirror/company-statistics
 	url = https://github.com/emacsmirror/company-statistics
