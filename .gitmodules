@@ -15031,6 +15031,9 @@
 [submodule "nexus"]
 	path = mirror/nexus
 	url = https://github.com/emacsmirror/nexus
+[submodule "nezburn-theme"]
+	path = mirror/nezburn-theme
+	url = https://github.com/emacsmirror/nezburn-theme
 [submodule "nf-procmail-mode"]
 	path = attic/nf-procmail-mode
 	url = https://github.com/emacsattic/nf-procmail-mode
