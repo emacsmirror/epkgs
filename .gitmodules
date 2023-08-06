@@ -277,6 +277,9 @@
 [submodule "ada-ref-man"]
 	path = mirror/ada-ref-man
 	url = https://github.com/emacsmirror/ada-ref-man
+[submodule "ada-ts-mode"]
+	path = mirror/ada-ts-mode
+	url = https://github.com/emacsmirror/ada-ts-mode
 [submodule "adafruit-wisdom"]
 	path = mirror/adafruit-wisdom
 	url = https://github.com/emacsmirror/adafruit-wisdom
