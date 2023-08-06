@@ -7897,6 +7897,9 @@
 [submodule "flylisp"]
 	path = mirror/flylisp
 	url = https://github.com/emacsmirror/flylisp
+[submodule "flymake-actionlint"]
+	path = mirror/flymake-actionlint
+	url = https://github.com/emacsmirror/flymake-actionlint
 [submodule "flymake-coffee"]
 	path = mirror/flymake-coffee
 	url = https://github.com/emacsmirror/flymake-coffee
