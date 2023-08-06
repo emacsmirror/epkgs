@@ -24835,6 +24835,9 @@
 [submodule "zotero"]
 	path = mirror/zotero
 	url = https://github.com/emacsmirror/zotero
+[submodule "zotra"]
+	path = mirror/zotra
+	url = https://github.com/emacsmirror/zotra
 [submodule "zotxt"]
 	path = mirror/zotxt
 	url = https://github.com/emacsmirror/zotxt
