@@ -7570,6 +7570,9 @@
 [submodule "flycheck"]
 	path = mirror/flycheck
 	url = https://github.com/emacsmirror/flycheck
+[submodule "flycheck-actionlint"]
+	path = mirror/flycheck-actionlint
+	url = https://github.com/emacsmirror/flycheck-actionlint
 [submodule "flycheck-apertium"]
 	path = mirror/flycheck-apertium
 	url = https://github.com/emacsmirror/flycheck-apertium
