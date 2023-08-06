@@ -21016,6 +21016,9 @@
 [submodule "sourcetrail"]
 	path = attic/sourcetrail
 	url = https://github.com/emacsattic/sourcetrail
+[submodule "sozluk"]
+	path = mirror/sozluk
+	url = https://github.com/emacsmirror/sozluk
 [submodule "space-chord"]
 	path = mirror/space-chord
 	url = https://github.com/emacsmirror/space-chord
