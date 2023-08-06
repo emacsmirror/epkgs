@@ -21649,9 +21649,6 @@
 [submodule "swoop"]
 	path = mirror/swoop
 	url = https://github.com/emacsmirror/swoop
-[submodule "swsw"]
-	path = mirror/swsw
-	url = https://github.com/emacsmirror/swsw
 [submodule "sww"]
 	path = attic/sww
 	url = https://github.com/emacsattic/sww
