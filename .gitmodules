@@ -8050,6 +8050,9 @@
 [submodule "flymake-rakudo"]
 	path = mirror/flymake-rakudo
 	url = https://github.com/emacsmirror/flymake-rakudo
+[submodule "flymake-relint"]
+	path = mirror/flymake-relint
+	url = https://github.com/emacsmirror/flymake-relint
 [submodule "flymake-ruby"]
 	path = mirror/flymake-ruby
 	url = https://github.com/emacsmirror/flymake-ruby
