@@ -1627,6 +1627,9 @@
 [submodule "binmove"]
 	path = mirror/binmove
 	url = https://github.com/emacsmirror/binmove
+[submodule "biome"]
+	path = mirror/biome
+	url = https://github.com/emacsmirror/biome
 [submodule "birds-of-paradise-plus-theme"]
 	path = mirror/birds-of-paradise-plus-theme
 	url = https://github.com/emacsmirror/birds-of-paradise-plus-theme
