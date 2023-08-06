@@ -7126,6 +7126,9 @@
 [submodule "feature-mode"]
 	path = mirror/feature-mode
 	url = https://github.com/emacsmirror/feature-mode
+[submodule "fedi"]
+	path = mirror/fedi
+	url = https://github.com/emacsmirror/fedi
 [submodule "feebleline"]
 	path = mirror/feebleline
 	url = https://github.com/emacsmirror/feebleline
