@@ -1,5 +1,5 @@
 /.dir-locals-2.el
 /epkg.rev
-/epkg.sqlite
-/epkg.sqlite-journal
+/epkg.db
+/epkg.db-journal
 /stats
