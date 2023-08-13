@@ -17590,6 +17590,9 @@
 [submodule "phpcbf"]
 	path = attic/phpcbf
 	url = https://github.com/emacsattic/phpcbf
+[submodule "phpinspect"]
+	path = mirror/phpinspect
+	url = https://github.com/emacsmirror/phpinspect
 [submodule "phps-mode"]
 	path = mirror/phps-mode
 	url = https://github.com/emacsmirror/phps-mode
