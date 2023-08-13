@@ -571,6 +571,9 @@
 [submodule "anki-editor"]
 	path = mirror/anki-editor
 	url = https://github.com/emacsmirror/anki-editor
+[submodule "anki-editor-view"]
+	path = mirror/anki-editor-view
+	url = https://github.com/emacsmirror/anki-editor-view
 [submodule "anki-mode"]
 	path = mirror/anki-mode
 	url = https://github.com/emacsmirror/anki-mode
