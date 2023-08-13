@@ -10669,6 +10669,9 @@
 [submodule "holiday-pascha-etc"]
 	path = mirror/holiday-pascha-etc
 	url = https://github.com/emacsmirror/holiday-pascha-etc
+[submodule "holo-layer"]
+	path = mirror/holo-layer
+	url = https://github.com/emacsmirror/holo-layer
 [submodule "holy-books"]
 	path = mirror/holy-books
 	url = https://github.com/emacsmirror/holy-books
