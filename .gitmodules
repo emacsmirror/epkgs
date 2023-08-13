@@ -1687,6 +1687,9 @@
 [submodule "blink-extras"]
 	path = attic/blink-extras
 	url = https://github.com/emacsattic/blink-extras
+[submodule "blink-search"]
+	path = mirror/blink-search
+	url = https://github.com/emacsmirror/blink-search
 [submodule "blip"]
 	path = attic/blip
 	url = https://github.com/emacsattic/blip
