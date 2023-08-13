@@ -18253,6 +18253,9 @@
 [submodule "project-tab-groups"]
 	path = mirror/project-tab-groups
 	url = https://github.com/emacsmirror/project-tab-groups
+[submodule "project-tasks"]
+	path = mirror/project-tasks
+	url = https://github.com/emacsmirror/project-tasks
 [submodule "project-treemacs"]
 	path = mirror/project-treemacs
 	url = https://github.com/emacsmirror/project-treemacs
