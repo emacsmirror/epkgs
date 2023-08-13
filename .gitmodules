@@ -20980,6 +20980,9 @@
 [submodule "sort+"]
 	path = mirror/sort+
 	url = https://github.com/emacsmirror/sort-plus
+[submodule "sort-tab"]
+	path = mirror/sort-tab
+	url = https://github.com/emacsmirror/sort-tab
 [submodule "sort-words"]
 	path = mirror/sort-words
 	url = https://github.com/emacsmirror/sort-words
