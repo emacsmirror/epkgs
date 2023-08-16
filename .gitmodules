@@ -16381,9 +16381,9 @@
 [submodule "org-preview-html"]
 	path = mirror/org-preview-html
 	url = https://github.com/emacsmirror/org-preview-html
-[submodule "org-projectile"]
-	path = mirror/org-projectile
-	url = https://github.com/emacsmirror/org-projectile
+[submodule "org-project-capture"]
+	path = mirror/org-project-capture
+	url = https://github.com/emacsmirror/org-project-capture
 [submodule "org-protocol-github-lines"]
 	path = mirror/org-protocol-github-lines
 	url = https://github.com/emacsmirror/org-protocol-github-lines
