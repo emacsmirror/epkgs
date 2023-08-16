@@ -1,6 +1,9 @@
 [submodule "0blayout"]
 	path = mirror/0blayout
 	url = https://github.com/emacsmirror/0blayout
+[submodule "0x0"]
+	path = mirror/0x0
+	url = https://github.com/emacsmirror/0x0
 [submodule "0xc"]
 	path = mirror/0xc
 	url = https://github.com/emacsmirror/0xc
