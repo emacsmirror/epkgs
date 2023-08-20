@@ -7741,6 +7741,9 @@
 [submodule "flycheck-hdevtools"]
 	path = mirror/flycheck-hdevtools
 	url = https://github.com/emacsmirror/flycheck-hdevtools
+[submodule "flycheck-hl-todo"]
+	path = mirror/flycheck-hl-todo
+	url = https://github.com/emacsmirror/flycheck-hl-todo
 [submodule "flycheck-hledger"]
 	path = mirror/flycheck-hledger
 	url = https://github.com/emacsmirror/flycheck-hledger
