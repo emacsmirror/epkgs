@@ -21736,6 +21736,9 @@
 [submodule "symbols-mode"]
 	path = mirror/symbols-mode
 	url = https://github.com/emacsmirror/symbols-mode
+[submodule "symbols-outline"]
+	path = mirror/symbols-outline
+	url = https://github.com/emacsmirror/symbols-outline
 [submodule "symbolword-mode"]
 	path = mirror/symbolword-mode
 	url = https://github.com/emacsmirror/symbolword-mode
