@@ -5416,6 +5416,9 @@
 [submodule "efar"]
 	path = mirror/efar
 	url = https://github.com/emacsmirror/efar
+[submodule "eff"]
+	path = mirror/eff
+	url = https://github.com/emacsmirror/eff
 [submodule "efine"]
 	path = attic/efine
 	url = https://github.com/emacsattic/efine
