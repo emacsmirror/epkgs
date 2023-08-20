@@ -6931,6 +6931,9 @@
 [submodule "explain-pause-mode"]
 	path = mirror/explain-pause-mode
 	url = https://github.com/emacsmirror/explain-pause-mode
+[submodule "expreg"]
+	path = mirror/expreg
+	url = https://github.com/emacsmirror/expreg
 [submodule "express"]
 	path = mirror/express
 	url = https://github.com/emacsmirror/express
