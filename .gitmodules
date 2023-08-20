@@ -4894,6 +4894,9 @@
 [submodule "dot-emacs-helper"]
 	path = mirror/dot-emacs-helper
 	url = https://github.com/emacsmirror/dot-emacs-helper
+[submodule "dot-env"]
+	path = mirror/dot-env
+	url = https://github.com/emacsmirror/dot-env
 [submodule "dot-mode"]
 	path = mirror/dot-mode
 	url = https://github.com/emacsmirror/dot-mode
