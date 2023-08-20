@@ -1762,6 +1762,9 @@
 [submodule "bnfc"]
 	path = mirror/bnfc
 	url = https://github.com/emacsmirror/bnfc
+[submodule "boa-ide"]
+	path = mirror/boa-ide
+	url = https://github.com/emacsmirror/boa-ide
 [submodule "bog"]
 	path = mirror/bog
 	url = https://github.com/emacsmirror/bog
