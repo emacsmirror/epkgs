@@ -24643,6 +24643,9 @@
 [submodule "yasnippet"]
 	path = mirror/yasnippet
 	url = https://github.com/emacsmirror/yasnippet
+[submodule "yasnippet-capf"]
+	path = mirror/yasnippet-capf
+	url = https://github.com/emacsmirror/yasnippet-capf
 [submodule "yasnippet-classic-snippets"]
 	path = mirror/yasnippet-classic-snippets
 	url = https://github.com/emacsmirror/yasnippet-classic-snippets
