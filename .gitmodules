@@ -23206,6 +23206,9 @@
 [submodule "urlenc"]
 	path = mirror/urlenc
 	url = https://github.com/emacsmirror/urlenc
+[submodule "ursa-ts-mode"]
+	path = mirror/ursa-ts-mode
+	url = https://github.com/emacsmirror/ursa-ts-mode
 [submodule "urscript-mode"]
 	path = mirror/urscript-mode
 	url = https://github.com/emacsmirror/urscript-mode
