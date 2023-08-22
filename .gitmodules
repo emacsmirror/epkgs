@@ -15148,6 +15148,9 @@
 [submodule "nix-modeline"]
 	path = mirror/nix-modeline
 	url = https://github.com/emacsmirror/nix-modeline
+[submodule "nix-ts-mode"]
+	path = mirror/nix-ts-mode
+	url = https://github.com/emacsmirror/nix-ts-mode
 [submodule "nix-update"]
 	path = mirror/nix-update
 	url = https://github.com/emacsmirror/nix-update
