@@ -4379,8 +4379,8 @@
 	path = mirror/diatheke
 	url = https://github.com/emacsmirror/diatheke
 [submodule "dic-lookup-w3m"]
-	path = mirror/dic-lookup-w3m
-	url = https://github.com/emacsmirror/dic-lookup-w3m
+	path = attic/dic-lookup-w3m
+	url = https://github.com/emacsattic/dic-lookup-w3m
 [submodule "dict-tree"]
 	path = mirror/dict-tree
 	url = https://github.com/emacsmirror/dict-tree
