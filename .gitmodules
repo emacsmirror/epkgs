@@ -20873,8 +20873,8 @@
 	path = mirror/sml-mode
 	url = https://github.com/emacsmirror/sml-mode
 [submodule "sml-modeline"]
-	path = mirror/sml-modeline
-	url = https://github.com/emacsmirror/sml-modeline
+	path = attic/sml-modeline
+	url = https://github.com/emacsattic/sml-modeline
 [submodule "smmry"]
 	path = mirror/smmry
 	url = https://github.com/emacsmirror/smmry
