@@ -20225,8 +20225,8 @@
 	path = mirror/sesman
 	url = https://github.com/emacsmirror/sesman
 [submodule "session"]
-	path = mirror/session
-	url = https://github.com/emacsmirror/session
+	path = attic/session
+	url = https://github.com/emacsattic/session
 [submodule "session-async"]
 	path = mirror/session-async
 	url = https://github.com/emacsmirror/session-async
