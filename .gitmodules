@@ -11041,6 +11041,9 @@
 [submodule "ido-better-flex"]
 	path = mirror/ido-better-flex
 	url = https://github.com/emacsmirror/ido-better-flex
+[submodule "ido-choose-function"]
+	path = mirror/ido-choose-function
+	url = https://github.com/emacsmirror/ido-choose-function
 [submodule "ido-clever-match"]
 	path = attic/ido-clever-match
 	url = https://github.com/emacsattic/ido-clever-match
