@@ -21292,6 +21292,9 @@
 [submodule "sqlup-mode"]
 	path = mirror/sqlup-mode
 	url = https://github.com/emacsmirror/sqlup-mode
+[submodule "sqorm"]
+	path = mirror/sqorm
+	url = https://github.com/emacsmirror/sqorm
 [submodule "squirrel-mode"]
 	path = mirror/squirrel-mode
 	url = https://github.com/emacsmirror/squirrel-mode
