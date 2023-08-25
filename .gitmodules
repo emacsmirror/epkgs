@@ -5516,8 +5516,8 @@
 	path = mirror/el-autoyas
 	url = https://github.com/emacsmirror/el-autoyas
 [submodule "el-expectations"]
-	path = mirror/el-expectations
-	url = https://github.com/emacsmirror/el-expectations
+	path = attic/el-expectations
+	url = https://github.com/emacsattic/el-expectations
 [submodule "el-fetch"]
 	path = mirror/el-fetch
 	url = https://github.com/emacsmirror/el-fetch
