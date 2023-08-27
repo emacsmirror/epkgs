@@ -4777,6 +4777,9 @@
 [submodule "dna-mode"]
 	path = mirror/dna-mode
 	url = https://github.com/emacsmirror/dna-mode
+[submodule "do-at-point"]
+	path = mirror/do-at-point
+	url = https://github.com/emacsmirror/do-at-point
 [submodule "do-not-edit"]
 	path = mirror/do-not-edit
 	url = https://github.com/emacsmirror/do-not-edit
