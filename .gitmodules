@@ -16693,6 +16693,9 @@
 [submodule "org-wunderlist"]
 	path = attic/org-wunderlist
 	url = https://github.com/emacsattic/org-wunderlist
+[submodule "org-xlatex"]
+	path = mirror/org-xlatex
+	url = https://github.com/emacsmirror/org-xlatex
 [submodule "org-yaml"]
 	path = attic/org-yaml
 	url = https://github.com/emacsattic/org-yaml
