@@ -12058,6 +12058,9 @@
 [submodule "jq-mode"]
 	path = mirror/jq-mode
 	url = https://github.com/emacsmirror/jq-mode
+[submodule "jq-ts-mode"]
+	path = mirror/jq-ts-mode
+	url = https://github.com/emacsmirror/jq-ts-mode
 [submodule "jquery-doc"]
 	path = mirror/jquery-doc
 	url = https://github.com/emacsmirror/jquery-doc
