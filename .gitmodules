@@ -4264,6 +4264,9 @@
 [submodule "deno-fmt"]
 	path = mirror/deno-fmt
 	url = https://github.com/emacsmirror/deno-fmt
+[submodule "deno-ts-mode"]
+	path = mirror/deno-ts-mode
+	url = https://github.com/emacsmirror/deno-ts-mode
 [submodule "denote"]
 	path = mirror/denote
 	url = https://github.com/emacsmirror/denote
