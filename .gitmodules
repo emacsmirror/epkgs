@@ -2269,6 +2269,9 @@
 [submodule "caselet"]
 	path = attic/caselet
 	url = https://github.com/emacsattic/caselet
+[submodule "caser"]
+	path = mirror/caser
+	url = https://github.com/emacsmirror/caser
 [submodule "cask"]
 	path = attic/cask
 	url = https://github.com/emacsattic/cask
