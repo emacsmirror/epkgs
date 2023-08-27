@@ -11239,6 +11239,9 @@
 [submodule "immaterial-theme"]
 	path = mirror/immaterial-theme
 	url = https://github.com/emacsmirror/immaterial-theme
+[submodule "immersive-translate"]
+	path = mirror/immersive-translate
+	url = https://github.com/emacsmirror/immersive-translate
 [submodule "immigrant"]
 	path = attic/immigrant
 	url = https://github.com/emacsattic/immigrant
