@@ -20788,6 +20788,9 @@
 [submodule "smart-dash"]
 	path = mirror/smart-dash
 	url = https://github.com/emacsmirror/smart-dash
+[submodule "smart-delete"]
+	path = mirror/smart-delete
+	url = https://github.com/emacsmirror/smart-delete
 [submodule "smart-dnd"]
 	path = mirror/smart-dnd
 	url = https://github.com/emacsmirror/smart-dnd
