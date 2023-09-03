@@ -15295,6 +15295,9 @@
 [submodule "noir-mode"]
 	path = mirror/noir-mode
 	url = https://github.com/emacsmirror/noir-mode
+[submodule "noir-ts-mode"]
+	path = mirror/noir-ts-mode
+	url = https://github.com/emacsmirror/noir-ts-mode
 [submodule "noob-arrows-mode"]
 	path = mirror/noob-arrows-mode
 	url = https://github.com/emacsmirror/noob-arrows-mode
