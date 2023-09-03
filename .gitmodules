@@ -4210,6 +4210,9 @@
 [submodule "default-text-scale"]
 	path = mirror/default-text-scale
 	url = https://github.com/emacsmirror/default-text-scale
+[submodule "defcapture"]
+	path = mirror/defcapture
+	url = https://github.com/emacsmirror/defcapture
 [submodule "deferred"]
 	path = mirror/deferred
 	url = https://github.com/emacsmirror/deferred
