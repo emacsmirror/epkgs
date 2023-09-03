@@ -1147,6 +1147,9 @@
 [submodule "auto-show-doc"]
 	path = attic/auto-show-doc
 	url = https://github.com/emacsattic/auto-show-doc
+[submodule "auto-sort-mode"]
+	path = mirror/auto-sort-mode
+	url = https://github.com/emacsmirror/auto-sort-mode
 [submodule "auto-sudoedit"]
 	path = mirror/auto-sudoedit
 	url = https://github.com/emacsmirror/auto-sudoedit
