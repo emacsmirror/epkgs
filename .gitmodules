@@ -12514,6 +12514,9 @@
 [submodule "konoha-mode"]
 	path = mirror/konoha-mode
 	url = https://github.com/emacsmirror/konoha-mode
+[submodule "koopa-mode"]
+	path = mirror/koopa-mode
+	url = https://github.com/emacsmirror/koopa-mode
 [submodule "kooten-theme"]
 	path = mirror/kooten-theme
 	url = https://github.com/emacsmirror/kooten-theme
