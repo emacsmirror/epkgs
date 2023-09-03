@@ -5050,6 +5050,9 @@
 [submodule "dune-format"]
 	path = mirror/dune-format
 	url = https://github.com/emacsmirror/dune-format
+[submodule "duplexer"]
+	path = mirror/duplexer
+	url = https://github.com/emacsmirror/duplexer
 [submodule "duplicate-line"]
 	path = attic/duplicate-line
 	url = https://github.com/emacsattic/duplicate-line
