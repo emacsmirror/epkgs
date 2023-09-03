@@ -21682,6 +21682,9 @@
 [submodule "swadesh-numbers"]
 	path = attic/swadesh-numbers
 	url = https://github.com/emacsattic/swadesh-numbers
+[submodule "swagg"]
+	path = mirror/swagg
+	url = https://github.com/emacsmirror/swagg
 [submodule "swagger-to-org"]
 	path = mirror/swagger-to-org
 	url = https://github.com/emacsmirror/swagger-to-org
