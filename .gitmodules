@@ -4450,6 +4450,9 @@
 [submodule "diffstat"]
 	path = mirror/diffstat
 	url = https://github.com/emacsmirror/diffstat
+[submodule "difftastic"]
+	path = mirror/difftastic
+	url = https://github.com/emacsmirror/difftastic
 [submodule "diffview"]
 	path = mirror/diffview
 	url = https://github.com/emacsmirror/diffview
