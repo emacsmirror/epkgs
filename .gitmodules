@@ -8017,6 +8017,9 @@
 [submodule "flymake-grammarly"]
 	path = mirror/flymake-grammarly
 	url = https://github.com/emacsmirror/flymake-grammarly
+[submodule "flymake-guile"]
+	path = mirror/flymake-guile
+	url = https://github.com/emacsmirror/flymake-guile
 [submodule "flymake-hadolint"]
 	path = mirror/flymake-hadolint
 	url = https://github.com/emacsmirror/flymake-hadolint
