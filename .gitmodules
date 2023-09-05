@@ -12808,6 +12808,9 @@
 [submodule "lein"]
 	path = attic/lein
 	url = https://github.com/emacsattic/lein
+[submodule "lem"]
+	path = mirror/lem
+	url = https://github.com/emacsmirror/lem
 [submodule "lemon-mode"]
 	path = mirror/lemon-mode
 	url = https://github.com/emacsmirror/lemon-mode
