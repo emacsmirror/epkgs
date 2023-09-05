@@ -1874,8 +1874,8 @@
 	path = mirror/brazilian-holidays
 	url = https://github.com/emacsmirror/brazilian-holidays
 [submodule "breadcrumb"]
-	path = attic/breadcrumb
-	url = https://github.com/emacsattic/breadcrumb
+	path = mirror/breadcrumb
+	url = https://github.com/emacsmirror/breadcrumb
 [submodule "breathe"]
 	path = attic/breathe
 	url = https://github.com/emacsattic/breathe
