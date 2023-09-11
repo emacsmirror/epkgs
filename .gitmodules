@@ -22804,6 +22804,9 @@
 [submodule "tree-sitter-langs"]
 	path = mirror/tree-sitter-langs
 	url = https://github.com/emacsmirror/tree-sitter-langs
+[submodule "treebundel"]
+	path = mirror/treebundel
+	url = https://github.com/emacsmirror/treebundel
 [submodule "treefactor"]
 	path = mirror/treefactor
 	url = https://github.com/emacsmirror/treefactor
