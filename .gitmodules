@@ -463,6 +463,9 @@
 [submodule "all-the-icons-ivy-rich"]
 	path = mirror/all-the-icons-ivy-rich
 	url = https://github.com/emacsmirror/all-the-icons-ivy-rich
+[submodule "all-the-icons-nerd-fonts"]
+	path = mirror/all-the-icons-nerd-fonts
+	url = https://github.com/emacsmirror/all-the-icons-nerd-fonts
 [submodule "almost-mono-themes"]
 	path = mirror/almost-mono-themes
 	url = https://github.com/emacsmirror/almost-mono-themes
