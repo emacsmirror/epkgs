@@ -23845,6 +23845,9 @@
 [submodule "wave-client"]
 	path = attic/wave-client
 	url = https://github.com/emacsattic/wave-client
+[submodule "wavedrom-mode"]
+	path = mirror/wavedrom-mode
+	url = https://github.com/emacsmirror/wavedrom-mode
 [submodule "wavefront-obj-mode"]
 	path = mirror/wavefront-obj-mode
 	url = https://github.com/emacsmirror/wavefront-obj-mode
