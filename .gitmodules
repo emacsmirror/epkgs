@@ -9454,6 +9454,9 @@
 [submodule "graphql-mode"]
 	path = mirror/graphql-mode
 	url = https://github.com/emacsmirror/graphql-mode
+[submodule "graphql-ts-mode"]
+	path = mirror/graphql-ts-mode
+	url = https://github.com/emacsmirror/graphql-ts-mode
 [submodule "graphviz-dot"]
 	path = mirror/graphviz-dot
 	url = https://github.com/emacsmirror/graphviz-dot
