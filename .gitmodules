@@ -23533,6 +23533,9 @@
 [submodule "vhdl-tools"]
 	path = mirror/vhdl-tools
 	url = https://github.com/emacsmirror/vhdl-tools
+[submodule "vhdl-ts-mode"]
+	path = mirror/vhdl-ts-mode
+	url = https://github.com/emacsmirror/vhdl-ts-mode
 [submodule "vi-dot"]
 	path = mirror/vi-dot
 	url = https://github.com/emacsmirror/vi-dot
