@@ -23491,6 +23491,9 @@
 [submodule "verilog-ext"]
 	path = mirror/verilog-ext
 	url = https://github.com/emacsmirror/verilog-ext
+[submodule "verilog-ts-mode"]
+	path = mirror/verilog-ts-mode
+	url = https://github.com/emacsmirror/verilog-ts-mode
 [submodule "verona-mode"]
 	path = mirror/verona-mode
 	url = https://github.com/emacsmirror/verona-mode
