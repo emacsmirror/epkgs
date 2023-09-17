@@ -9937,6 +9937,9 @@
 [submodule "helm-codesearch"]
 	path = mirror/helm-codesearch
 	url = https://github.com/emacsmirror/helm-codesearch
+[submodule "helm-comint"]
+	path = mirror/helm-comint
+	url = https://github.com/emacsmirror/helm-comint
 [submodule "helm-commandlinefu"]
 	path = mirror/helm-commandlinefu
 	url = https://github.com/emacsmirror/helm-commandlinefu
