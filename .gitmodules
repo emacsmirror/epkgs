@@ -23248,6 +23248,9 @@
 [submodule "universal-emotions-emoticons"]
 	path = mirror/universal-emotions-emoticons
 	url = https://github.com/emacsmirror/universal-emotions-emoticons
+[submodule "universal-sidecar"]
+	path = mirror/universal-sidecar
+	url = https://github.com/emacsmirror/universal-sidecar
 [submodule "unkillable-scratch"]
 	path = attic/unkillable-scratch
 	url = https://github.com/emacsattic/unkillable-scratch
