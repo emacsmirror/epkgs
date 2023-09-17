@@ -11560,6 +11560,9 @@
 [submodule "ios-config-mode"]
 	path = mirror/ios-config-mode
 	url = https://github.com/emacsmirror/ios-config-mode
+[submodule "iota"]
+	path = mirror/iota
+	url = https://github.com/emacsmirror/iota
 [submodule "ipa"]
 	path = mirror/ipa
 	url = https://github.com/emacsmirror/ipa
