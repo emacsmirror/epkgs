@@ -13162,6 +13162,9 @@
 [submodule "llama"]
 	path = mirror/llama
 	url = https://github.com/emacsmirror/llama
+[submodule "llama-cpp"]
+	path = mirror/llama-cpp
+	url = https://github.com/emacsmirror/llama-cpp
 [submodule "llm"]
 	path = mirror/llm
 	url = https://github.com/emacsmirror/llm
