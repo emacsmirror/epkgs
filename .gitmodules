@@ -5188,6 +5188,9 @@
 [submodule "earthfile-mode"]
 	path = mirror/earthfile-mode
 	url = https://github.com/emacsmirror/earthfile-mode
+[submodule "eask"]
+	path = mirror/eask
+	url = https://github.com/emacsmirror/eask
 [submodule "easy-after-load"]
 	path = mirror/easy-after-load
 	url = https://github.com/emacsmirror/easy-after-load
