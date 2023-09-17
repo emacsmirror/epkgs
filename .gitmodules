@@ -3925,6 +3925,9 @@
 [submodule "cyanometric-theme"]
 	path = mirror/cyanometric-theme
 	url = https://github.com/emacsmirror/cyanometric-theme
+[submodule "cybercafe-theme"]
+	path = mirror/cybercafe-theme
+	url = https://github.com/emacsmirror/cybercafe-theme
 [submodule "cyberpunk-2019-theme"]
 	path = mirror/cyberpunk-2019-theme
 	url = https://github.com/emacsmirror/cyberpunk-2019-theme
