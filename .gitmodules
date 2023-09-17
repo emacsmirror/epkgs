@@ -14278,6 +14278,9 @@
 [submodule "misc-fns"]
 	path = mirror/misc-fns
 	url = https://github.com/emacsmirror/misc-fns
+[submodule "mistty"]
+	path = mirror/mistty
+	url = https://github.com/emacsmirror/mistty
 [submodule "mix"]
 	path = mirror/mix
 	url = https://github.com/emacsmirror/mix
