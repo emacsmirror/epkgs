@@ -23869,6 +23869,9 @@
 [submodule "wasp-mode"]
 	path = mirror/wasp-mode
 	url = https://github.com/emacsmirror/wasp-mode
+[submodule "wat-ts-mode"]
+	path = mirror/wat-ts-mode
+	url = https://github.com/emacsmirror/wat-ts-mode
 [submodule "watch-buffer"]
 	path = mirror/watch-buffer
 	url = https://github.com/emacsmirror/watch-buffer
