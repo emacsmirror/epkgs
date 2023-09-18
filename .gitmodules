@@ -20776,6 +20776,9 @@
 [submodule "slime-volleyball"]
 	path = mirror/slime-volleyball
 	url = https://github.com/emacsmirror/slime-volleyball
+[submodule "slint-mode"]
+	path = mirror/slint-mode
+	url = https://github.com/emacsmirror/slint-mode
 [submodule "slirm"]
 	path = mirror/slirm
 	url = https://github.com/emacsmirror/slirm
