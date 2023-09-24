@@ -898,6 +898,9 @@
 [submodule "async-status"]
 	path = mirror/async-status
 	url = https://github.com/emacsmirror/async-status
+[submodule "asyncloop"]
+	path = mirror/asyncloop
+	url = https://github.com/emacsmirror/asyncloop
 [submodule "atcoder-tools"]
 	path = mirror/atcoder-tools
 	url = https://github.com/emacsmirror/atcoder-tools
