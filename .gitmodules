@@ -24364,6 +24364,9 @@
 [submodule "wrap-region"]
 	path = mirror/wrap-region
 	url = https://github.com/emacsmirror/wrap-region
+[submodule "wrap-search"]
+	path = mirror/wrap-search
+	url = https://github.com/emacsmirror/wrap-search
 [submodule "wren-mode"]
 	path = mirror/wren-mode
 	url = https://github.com/emacsmirror/wren-mode
