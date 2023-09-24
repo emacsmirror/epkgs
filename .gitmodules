@@ -379,6 +379,9 @@
 [submodule "ahungry-theme"]
 	path = mirror/ahungry-theme
 	url = https://github.com/emacsmirror/ahungry-theme
+[submodule "aiken-mode"]
+	path = mirror/aiken-mode
+	url = https://github.com/emacsmirror/aiken-mode
 [submodule "aio"]
 	path = mirror/aio
 	url = https://github.com/emacsmirror/aio
