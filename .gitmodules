@@ -14708,8 +14708,8 @@
 	path = mirror/mu4e-jump-to-list
 	url = https://github.com/emacsmirror/mu4e-jump-to-list
 [submodule "mu4e-maildirs-extension"]
-	path = mirror/mu4e-maildirs-extension
-	url = https://github.com/emacsmirror/mu4e-maildirs-extension
+	path = attic/mu4e-maildirs-extension
+	url = https://github.com/emacsattic/mu4e-maildirs-extension
 [submodule "mu4e-marker-icons"]
 	path = mirror/mu4e-marker-icons
 	url = https://github.com/emacsmirror/mu4e-marker-icons
