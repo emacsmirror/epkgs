@@ -14068,6 +14068,9 @@
 [submodule "mermaid-mode"]
 	path = mirror/mermaid-mode
 	url = https://github.com/emacsmirror/mermaid-mode
+[submodule "mermaid-ts-mode"]
+	path = mirror/mermaid-ts-mode
+	url = https://github.com/emacsmirror/mermaid-ts-mode
 [submodule "merriam"]
 	path = mirror/merriam
 	url = https://github.com/emacsmirror/merriam
