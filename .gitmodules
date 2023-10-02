@@ -1264,6 +1264,9 @@
 [submodule "awk-it"]
 	path = mirror/awk-it
 	url = https://github.com/emacsmirror/awk-it
+[submodule "awk-ts-mode"]
+	path = mirror/awk-ts-mode
+	url = https://github.com/emacsmirror/awk-ts-mode
 [submodule "awk-yasnippets"]
 	path = mirror/awk-yasnippets
 	url = https://github.com/emacsmirror/awk-yasnippets
