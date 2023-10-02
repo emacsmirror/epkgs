@@ -16627,6 +16627,9 @@
 [submodule "org-shoplist"]
 	path = mirror/org-shoplist
 	url = https://github.com/emacsmirror/org-shoplist
+[submodule "org-side-tree"]
+	path = mirror/org-side-tree
+	url = https://github.com/emacsmirror/org-side-tree
 [submodule "org-sidebar"]
 	path = mirror/org-sidebar
 	url = https://github.com/emacsmirror/org-sidebar
