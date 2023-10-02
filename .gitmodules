@@ -23998,6 +23998,9 @@
 [submodule "web-server"]
 	path = mirror/web-server
 	url = https://github.com/emacsmirror/web-server
+[submodule "webdriver"]
+	path = mirror/webdriver
+	url = https://github.com/emacsmirror/webdriver
 [submodule "webfeeder"]
 	path = mirror/webfeeder
 	url = https://github.com/emacsmirror/webfeeder
