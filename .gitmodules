@@ -12793,6 +12793,9 @@
 [submodule "le-thesaurus"]
 	path = mirror/le-thesaurus
 	url = https://github.com/emacsmirror/le-thesaurus
+[submodule "leader-key"]
+	path = mirror/leader-key
+	url = https://github.com/emacsmirror/leader-key
 [submodule "leaf"]
 	path = mirror/leaf
 	url = https://github.com/emacsmirror/leaf
