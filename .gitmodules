@@ -5200,6 +5200,9 @@
 [submodule "eask"]
 	path = mirror/eask
 	url = https://github.com/emacsmirror/eask
+[submodule "eask-mode"]
+	path = mirror/eask-mode
+	url = https://github.com/emacsmirror/eask-mode
 [submodule "easy-after-load"]
 	path = mirror/easy-after-load
 	url = https://github.com/emacsmirror/easy-after-load
