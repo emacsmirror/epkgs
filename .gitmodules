@@ -5713,6 +5713,9 @@
 [submodule "elfeed-autotag"]
 	path = mirror/elfeed-autotag
 	url = https://github.com/emacsmirror/elfeed-autotag
+[submodule "elfeed-curate"]
+	path = mirror/elfeed-curate
+	url = https://github.com/emacsmirror/elfeed-curate
 [submodule "elfeed-dashboard"]
 	path = mirror/elfeed-dashboard
 	url = https://github.com/emacsmirror/elfeed-dashboard
