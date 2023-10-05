@@ -1753,6 +1753,9 @@
 [submodule "blox"]
 	path = mirror/blox
 	url = https://github.com/emacsmirror/blox
+[submodule "blueprint-ts-mode"]
+	path = mirror/blueprint-ts-mode
+	url = https://github.com/emacsmirror/blueprint-ts-mode
 [submodule "bluesound"]
 	path = mirror/bluesound
 	url = https://github.com/emacsmirror/bluesound
