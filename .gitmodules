@@ -24560,8 +24560,8 @@
 	path = attic/xiomacs
 	url = https://github.com/emacsattic/xiomacs
 [submodule "xit-mode"]
-	path = mirror/xit-mode
-	url = https://github.com/emacsmirror/xit-mode
+	path = attic/xit-mode
+	url = https://github.com/emacsattic/xit-mode
 [submodule "xkcd"]
 	path = mirror/xkcd
 	url = https://github.com/emacsmirror/xkcd
