@@ -8833,6 +8833,9 @@
 [submodule "git-backup-ivy"]
 	path = mirror/git-backup-ivy
 	url = https://github.com/emacsmirror/git-backup-ivy
+[submodule "git-cliff"]
+	path = mirror/git-cliff
+	url = https://github.com/emacsmirror/git-cliff
 [submodule "git-code-review"]
 	path = mirror/git-code-review
 	url = https://github.com/emacsmirror/git-code-review
