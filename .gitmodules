@@ -22345,6 +22345,9 @@
 [submodule "test-case-mode"]
 	path = mirror/test-case-mode
 	url = https://github.com/emacsmirror/test-case-mode
+[submodule "test-cockpit"]
+	path = mirror/test-cockpit
+	url = https://github.com/emacsmirror/test-cockpit
 [submodule "test-framework"]
 	path = mirror/test-framework
 	url = https://github.com/emacsmirror/test-framework
