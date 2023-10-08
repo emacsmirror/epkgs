@@ -18613,6 +18613,9 @@
 [submodule "pulseaudio-control"]
 	path = mirror/pulseaudio-control
 	url = https://github.com/emacsmirror/pulseaudio-control
+[submodule "pumpkin-spice-theme"]
+	path = mirror/pumpkin-spice-theme
+	url = https://github.com/emacsmirror/pumpkin-spice-theme
 [submodule "punctuality-logger"]
 	path = mirror/punctuality-logger
 	url = https://github.com/emacsmirror/punctuality-logger
