@@ -12733,6 +12733,9 @@
 [submodule "latex-frame-mode"]
 	path = mirror/latex-frame-mode
 	url = https://github.com/emacsmirror/latex-frame-mode
+[submodule "latex-labeler"]
+	path = mirror/latex-labeler
+	url = https://github.com/emacsmirror/latex-labeler
 [submodule "latex-math-preview"]
 	path = mirror/latex-math-preview
 	url = https://github.com/emacsmirror/latex-math-preview
