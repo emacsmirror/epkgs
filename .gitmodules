@@ -52,6 +52,9 @@
 [submodule "aa-edit-mode"]
 	path = mirror/aa-edit-mode
 	url = https://github.com/emacsmirror/aa-edit-mode
+[submodule "aangit"]
+	path = mirror/aangit
+	url = https://github.com/emacsmirror/aangit
 [submodule "aas"]
 	path = mirror/aas
 	url = https://github.com/emacsmirror/aas
