@@ -18331,6 +18331,9 @@
 [submodule "prism"]
 	path = mirror/prism
 	url = https://github.com/emacsmirror/prism
+[submodule "prisma-ts-mode"]
+	path = mirror/prisma-ts-mode
+	url = https://github.com/emacsmirror/prisma-ts-mode
 [submodule "private"]
 	path = mirror/private
 	url = https://github.com/emacsmirror/private
