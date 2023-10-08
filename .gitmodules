@@ -4309,6 +4309,9 @@
 [submodule "denote-refs"]
 	path = mirror/denote-refs
 	url = https://github.com/emacsmirror/denote-refs
+[submodule "derl"]
+	path = mirror/derl
+	url = https://github.com/emacsmirror/derl
 [submodule "descr-text+"]
 	path = mirror/descr-text+
 	url = https://github.com/emacsmirror/descr-text-plus
