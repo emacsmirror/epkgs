@@ -8308,6 +8308,9 @@
 [submodule "form-feed"]
 	path = mirror/form-feed
 	url = https://github.com/emacsmirror/form-feed
+[submodule "form-feed-st"]
+	path = mirror/form-feed-st
+	url = https://github.com/emacsmirror/form-feed-st
 [submodule "format-all"]
 	path = mirror/format-all
 	url = https://github.com/emacsmirror/format-all
