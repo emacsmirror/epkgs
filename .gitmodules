@@ -355,6 +355,9 @@
 [submodule "age"]
 	path = mirror/age
 	url = https://github.com/emacsmirror/age
+[submodule "agenix"]
+	path = mirror/agenix
+	url = https://github.com/emacsmirror/agenix
 [submodule "aggressive-completion"]
 	path = mirror/aggressive-completion
 	url = https://github.com/emacsmirror/aggressive-completion
