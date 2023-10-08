@@ -9736,6 +9736,9 @@
 [submodule "hal-mode"]
 	path = mirror/hal-mode
 	url = https://github.com/emacsmirror/hal-mode
+[submodule "halloweenie-theme"]
+	path = mirror/halloweenie-theme
+	url = https://github.com/emacsmirror/halloweenie-theme
 [submodule "ham-mode"]
 	path = mirror/ham-mode
 	url = https://github.com/emacsmirror/ham-mode
