@@ -10942,6 +10942,9 @@
 [submodule "hungry-delete"]
 	path = mirror/hungry-delete
 	url = https://github.com/emacsmirror/hungry-delete
+[submodule "hush"]
+	path = mirror/hush
+	url = https://github.com/emacsmirror/hush
 [submodule "huskie"]
 	path = mirror/huskie
 	url = https://github.com/emacsmirror/huskie
