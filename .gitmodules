@@ -3142,6 +3142,9 @@
 [submodule "company-dict"]
 	path = mirror/company-dict
 	url = https://github.com/emacsmirror/company-dict
+[submodule "company-eask"]
+	path = mirror/company-eask
+	url = https://github.com/emacsmirror/company-eask
 [submodule "company-ebdb"]
 	path = mirror/company-ebdb
 	url = https://github.com/emacsmirror/company-ebdb
