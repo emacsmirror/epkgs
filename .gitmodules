@@ -15610,6 +15610,9 @@
 [submodule "ob-applescript"]
 	path = mirror/ob-applescript
 	url = https://github.com/emacsmirror/ob-applescript
+[submodule "ob-asymptote"]
+	path = mirror/ob-asymptote
+	url = https://github.com/emacsmirror/ob-asymptote
 [submodule "ob-async"]
 	path = mirror/ob-async
 	url = https://github.com/emacsmirror/ob-async
