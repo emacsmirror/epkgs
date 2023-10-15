@@ -5830,6 +5830,9 @@
 [submodule "ell"]
 	path = attic/ell
 	url = https://github.com/emacsattic/ell
+[submodule "ellama"]
+	path = mirror/ellama
+	url = https://github.com/emacsmirror/ellama
 [submodule "ellocate"]
 	path = mirror/ellocate
 	url = https://github.com/emacsmirror/ellocate
