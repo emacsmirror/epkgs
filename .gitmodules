@@ -5680,6 +5680,9 @@
 [submodule "eldoc-cmake"]
 	path = mirror/eldoc-cmake
 	url = https://github.com/emacsmirror/eldoc-cmake
+[submodule "eldoc-eask"]
+	path = mirror/eldoc-eask
+	url = https://github.com/emacsmirror/eldoc-eask
 [submodule "eldoc-eval"]
 	path = mirror/eldoc-eval
 	url = https://github.com/emacsmirror/eldoc-eval
