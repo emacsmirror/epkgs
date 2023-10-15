@@ -9289,6 +9289,9 @@
 [submodule "godoctor"]
 	path = mirror/godoctor
 	url = https://github.com/emacsmirror/godoctor
+[submodule "gofmt-tag"]
+	path = mirror/gofmt-tag
+	url = https://github.com/emacsmirror/gofmt-tag
 [submodule "goggles"]
 	path = mirror/goggles
 	url = https://github.com/emacsmirror/goggles
