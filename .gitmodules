@@ -13516,6 +13516,9 @@
 [submodule "lua-mode"]
 	path = mirror/lua-mode
 	url = https://github.com/emacsmirror/lua-mode
+[submodule "lua-ts-mode"]
+	path = mirror/lua-ts-mode
+	url = https://github.com/emacsmirror/lua-ts-mode
 [submodule "luarocks"]
 	path = mirror/luarocks
 	url = https://github.com/emacsmirror/luarocks
