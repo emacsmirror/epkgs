@@ -23716,6 +23716,9 @@
 [submodule "vimrc-mode"]
 	path = mirror/vimrc-mode
 	url = https://github.com/emacsmirror/vimrc-mode
+[submodule "vimscript-ts-mode"]
+	path = mirror/vimscript-ts-mode
+	url = https://github.com/emacsmirror/vimscript-ts-mode
 [submodule "vimvars"]
 	path = mirror/vimvars
 	url = https://github.com/emacsmirror/vimvars
