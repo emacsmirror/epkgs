@@ -7603,6 +7603,9 @@
 [submodule "flex-isearch"]
 	path = mirror/flex-isearch
 	url = https://github.com/emacsmirror/flex-isearch
+[submodule "flexoki-themes"]
+	path = mirror/flexoki-themes
+	url = https://github.com/emacsmirror/flexoki-themes
 [submodule "flim"]
 	path = mirror/flim
 	url = https://github.com/emacsmirror/flim
