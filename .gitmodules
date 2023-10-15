@@ -16741,6 +16741,9 @@
 [submodule "org-time-budgets"]
 	path = mirror/org-time-budgets
 	url = https://github.com/emacsmirror/org-time-budgets
+[submodule "org-timeblock"]
+	path = mirror/org-timeblock
+	url = https://github.com/emacsmirror/org-timeblock
 [submodule "org-timeline"]
 	path = mirror/org-timeline
 	url = https://github.com/emacsmirror/org-timeline
