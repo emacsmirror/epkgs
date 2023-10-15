@@ -16486,6 +16486,9 @@
 [submodule "org-nan"]
 	path = mirror/org-nan
 	url = https://github.com/emacsmirror/org-nan
+[submodule "org-newtab"]
+	path = mirror/org-newtab
+	url = https://github.com/emacsmirror/org-newtab
 [submodule "org-notebook"]
 	path = mirror/org-notebook
 	url = https://github.com/emacsmirror/org-notebook
