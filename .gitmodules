@@ -3349,6 +3349,9 @@
 [submodule "comware-router-mode"]
 	path = mirror/comware-router-mode
 	url = https://github.com/emacsmirror/comware-router-mode
+[submodule "conan"]
+	path = mirror/conan
+	url = https://github.com/emacsmirror/conan
 [submodule "conda"]
 	path = mirror/conda
 	url = https://github.com/emacsmirror/conda
