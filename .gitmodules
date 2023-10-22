@@ -7765,6 +7765,9 @@
 [submodule "flycheck-dtrace"]
 	path = mirror/flycheck-dtrace
 	url = https://github.com/emacsmirror/flycheck-dtrace
+[submodule "flycheck-eask"]
+	path = mirror/flycheck-eask
+	url = https://github.com/emacsmirror/flycheck-eask
 [submodule "flycheck-eglot"]
 	path = mirror/flycheck-eglot
 	url = https://github.com/emacsmirror/flycheck-eglot
