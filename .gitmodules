@@ -22999,6 +22999,9 @@
 [submodule "ts-mode"]
 	path = mirror/ts-mode
 	url = https://github.com/emacsmirror/ts-mode
+[submodule "tsort"]
+	path = mirror/tsort
+	url = https://github.com/emacsmirror/tsort
 [submodule "tss"]
 	path = mirror/tss
 	url = https://github.com/emacsmirror/tss
