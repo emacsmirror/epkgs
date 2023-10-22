@@ -13010,8 +13010,8 @@
 	path = attic/light-symbol
 	url = https://github.com/emacsattic/light-symbol
 [submodule "ligo-mode"]
-	path = mirror/ligo-mode
-	url = https://github.com/emacsmirror/ligo-mode
+	path = attic/ligo-mode
+	url = https://github.com/emacsattic/ligo-mode
 [submodule "lilypond"]
 	path = mirror/lilypond
 	url = https://github.com/emacsmirror/lilypond
