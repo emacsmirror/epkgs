@@ -3457,6 +3457,9 @@
 [submodule "consult-tex"]
 	path = mirror/consult-tex
 	url = https://github.com/emacsmirror/consult-tex
+[submodule "consult-todo"]
+	path = mirror/consult-todo
+	url = https://github.com/emacsmirror/consult-todo
 [submodule "consult-yasnippet"]
 	path = mirror/consult-yasnippet
 	url = https://github.com/emacsmirror/consult-yasnippet
