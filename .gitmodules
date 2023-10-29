@@ -21808,6 +21808,9 @@
 [submodule "supergenpass"]
 	path = mirror/supergenpass
 	url = https://github.com/emacsmirror/supergenpass
+[submodule "surround"]
+	path = mirror/surround
+	url = https://github.com/emacsmirror/surround
 [submodule "suscolors-theme"]
 	path = mirror/suscolors-theme
 	url = https://github.com/emacsmirror/suscolors-theme
