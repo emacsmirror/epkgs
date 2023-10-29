@@ -22708,6 +22708,9 @@
 [submodule "tmt-mode"]
 	path = mirror/tmt-mode
 	url = https://github.com/emacsmirror/tmt-mode
+[submodule "tmux-mode"]
+	path = mirror/tmux-mode
+	url = https://github.com/emacsmirror/tmux-mode
 [submodule "tmux-pane"]
 	path = mirror/tmux-pane
 	url = https://github.com/emacsmirror/tmux-pane
