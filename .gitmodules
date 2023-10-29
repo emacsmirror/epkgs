@@ -2557,6 +2557,9 @@
 [submodule "chinese-yasdcv"]
 	path = mirror/chinese-yasdcv
 	url = https://github.com/emacsmirror/chinese-yasdcv
+[submodule "chip8"]
+	path = mirror/chip8
+	url = https://github.com/emacsmirror/chip8
 [submodule "chocolate-theme"]
 	path = mirror/chocolate-theme
 	url = https://github.com/emacsmirror/chocolate-theme
