@@ -14269,6 +14269,9 @@
 [submodule "mingus"]
 	path = mirror/mingus
 	url = https://github.com/emacsmirror/mingus
+[submodule "mini-echo"]
+	path = mirror/mini-echo
+	url = https://github.com/emacsmirror/mini-echo
 [submodule "mini-frame"]
 	path = mirror/mini-frame
 	url = https://github.com/emacsmirror/mini-frame
