@@ -17683,6 +17683,9 @@
 [submodule "perspective-exwm"]
 	path = mirror/perspective-exwm
 	url = https://github.com/emacsmirror/perspective-exwm
+[submodule "perspective-project-bridge"]
+	path = mirror/perspective-project-bridge
+	url = https://github.com/emacsmirror/perspective-project-bridge
 [submodule "perspeen"]
 	path = mirror/perspeen
 	url = https://github.com/emacsmirror/perspeen
