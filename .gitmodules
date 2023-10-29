@@ -8038,6 +8038,9 @@
 [submodule "flymake-diagnostic-at-point"]
 	path = mirror/flymake-diagnostic-at-point
 	url = https://github.com/emacsmirror/flymake-diagnostic-at-point
+[submodule "flymake-eask"]
+	path = mirror/flymake-eask
+	url = https://github.com/emacsmirror/flymake-eask
 [submodule "flymake-easy"]
 	path = mirror/flymake-easy
 	url = https://github.com/emacsmirror/flymake-easy
