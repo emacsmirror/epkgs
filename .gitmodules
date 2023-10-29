@@ -22537,6 +22537,9 @@
 [submodule "thinks"]
 	path = mirror/thinks
 	url = https://github.com/emacsmirror/thinks
+[submodule "third-time"]
+	path = mirror/third-time
+	url = https://github.com/emacsmirror/third-time
 [submodule "thread-dump"]
 	path = mirror/thread-dump
 	url = https://github.com/emacsmirror/thread-dump
