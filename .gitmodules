@@ -8014,6 +8014,9 @@
 [submodule "flymake-clippy"]
 	path = mirror/flymake-clippy
 	url = https://github.com/emacsmirror/flymake-clippy
+[submodule "flymake-codespell"]
+	path = mirror/flymake-codespell
+	url = https://github.com/emacsmirror/flymake-codespell
 [submodule "flymake-coffee"]
 	path = mirror/flymake-coffee
 	url = https://github.com/emacsmirror/flymake-coffee
