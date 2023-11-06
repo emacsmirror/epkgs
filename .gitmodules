@@ -4060,6 +4060,9 @@
 [submodule "dakrone-theme"]
 	path = mirror/dakrone-theme
 	url = https://github.com/emacsmirror/dakrone-theme
+[submodule "daml-lsp"]
+	path = mirror/daml-lsp
+	url = https://github.com/emacsmirror/daml-lsp
 [submodule "danneskjold-theme"]
 	path = mirror/danneskjold-theme
 	url = https://github.com/emacsmirror/danneskjold-theme
