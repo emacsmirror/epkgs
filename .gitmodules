@@ -2035,6 +2035,9 @@
 [submodule "bufferbin"]
 	path = mirror/bufferbin
 	url = https://github.com/emacsmirror/bufferbin
+[submodule "bufferlo"]
+	path = mirror/bufferlo
+	url = https://github.com/emacsmirror/bufferlo
 [submodule "buffermenu"]
 	path = attic/buffermenu
 	url = https://github.com/emacsattic/buffermenu
