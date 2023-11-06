@@ -4063,6 +4063,9 @@
 [submodule "daml-lsp"]
 	path = mirror/daml-lsp
 	url = https://github.com/emacsmirror/daml-lsp
+[submodule "daml-mode"]
+	path = mirror/daml-mode
+	url = https://github.com/emacsmirror/daml-mode
 [submodule "danneskjold-theme"]
 	path = mirror/danneskjold-theme
 	url = https://github.com/emacsmirror/danneskjold-theme
