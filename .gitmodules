@@ -4240,6 +4240,9 @@
 [submodule "declutter"]
 	path = mirror/declutter
 	url = https://github.com/emacsmirror/declutter
+[submodule "decor"]
+	path = mirror/decor
+	url = https://github.com/emacsmirror/decor
 [submodule "dedent"]
 	path = mirror/dedent
 	url = https://github.com/emacsmirror/dedent
