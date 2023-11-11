@@ -5035,6 +5035,9 @@
 [submodule "dream-theme"]
 	path = mirror/dream-theme
 	url = https://github.com/emacsmirror/dream-theme
+[submodule "drepl"]
+	path = mirror/drepl
+	url = https://github.com/emacsmirror/drepl
 [submodule "drill-instructor"]
 	path = mirror/drill-instructor
 	url = https://github.com/emacsmirror/drill-instructor
