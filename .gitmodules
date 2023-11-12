@@ -11908,6 +11908,9 @@
 [submodule "jack-connect"]
 	path = mirror/jack-connect
 	url = https://github.com/emacsmirror/jack-connect
+[submodule "jack-ts-mode"]
+	path = mirror/jack-ts-mode
+	url = https://github.com/emacsmirror/jack-ts-mode
 [submodule "jade-mode"]
 	path = mirror/jade-mode
 	url = https://github.com/emacsmirror/jade-mode
