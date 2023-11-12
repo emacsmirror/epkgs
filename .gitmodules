@@ -13936,6 +13936,9 @@
 [submodule "mark-tools"]
 	path = mirror/mark-tools
 	url = https://github.com/emacsmirror/mark-tools
+[submodule "mark-yank"]
+	path = mirror/mark-yank
+	url = https://github.com/emacsmirror/mark-yank
 [submodule "markchars"]
 	path = mirror/markchars
 	url = https://github.com/emacsmirror/markchars
