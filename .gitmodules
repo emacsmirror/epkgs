@@ -8725,6 +8725,9 @@
 [submodule "gemini-write"]
 	path = mirror/gemini-write
 	url = https://github.com/emacsmirror/gemini-write
+[submodule "gemtext-mode"]
+	path = mirror/gemtext-mode
+	url = https://github.com/emacsmirror/gemtext-mode
 [submodule "genauto"]
 	path = attic/genauto
 	url = https://github.com/emacsattic/genauto
