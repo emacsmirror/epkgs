@@ -22096,6 +22096,9 @@
 [submodule "tab-bar-lost-commands"]
 	path = mirror/tab-bar-lost-commands
 	url = https://github.com/emacsmirror/tab-bar-lost-commands
+[submodule "tab-bar-notch"]
+	path = mirror/tab-bar-notch
+	url = https://github.com/emacsmirror/tab-bar-notch
 [submodule "tab-display"]
 	path = attic/tab-display
 	url = https://github.com/emacsattic/tab-display
