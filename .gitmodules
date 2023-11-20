@@ -19957,6 +19957,9 @@
 [submodule "rudel"]
 	path = mirror/rudel
 	url = https://github.com/emacsmirror/rudel
+[submodule "ruff-format"]
+	path = mirror/ruff-format
+	url = https://github.com/emacsmirror/ruff-format
 [submodule "rufo"]
 	path = mirror/rufo
 	url = https://github.com/emacsmirror/rufo
