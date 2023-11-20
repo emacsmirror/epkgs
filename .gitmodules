@@ -5245,6 +5245,9 @@
 [submodule "eask-mode"]
 	path = mirror/eask-mode
 	url = https://github.com/emacsmirror/eask-mode
+[submodule "easky"]
+	path = mirror/easky
+	url = https://github.com/emacsmirror/easky
 [submodule "easy-after-load"]
 	path = mirror/easy-after-load
 	url = https://github.com/emacsmirror/easy-after-load
