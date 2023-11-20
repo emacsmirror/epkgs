@@ -20443,6 +20443,9 @@
 [submodule "sequential-command"]
 	path = mirror/sequential-command
 	url = https://github.com/emacsmirror/sequential-command
+[submodule "sequential-yank"]
+	path = mirror/sequential-yank
+	url = https://github.com/emacsmirror/sequential-yank
 [submodule "seriestracker"]
 	path = mirror/seriestracker
 	url = https://github.com/emacsmirror/seriestracker
