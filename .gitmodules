@@ -23275,6 +23275,9 @@
 [submodule "uiua-mode"]
 	path = mirror/uiua-mode
 	url = https://github.com/emacsmirror/uiua-mode
+[submodule "uiua-ts-mode"]
+	path = mirror/uiua-ts-mode
+	url = https://github.com/emacsmirror/uiua-ts-mode
 [submodule "ujelly-theme"]
 	path = mirror/ujelly-theme
 	url = https://github.com/emacsmirror/ujelly-theme
