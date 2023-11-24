@@ -23272,6 +23272,9 @@
 [submodule "uimage"]
 	path = mirror/uimage
 	url = https://github.com/emacsmirror/uimage
+[submodule "uiua-mode"]
+	path = mirror/uiua-mode
+	url = https://github.com/emacsmirror/uiua-mode
 [submodule "ujelly-theme"]
 	path = mirror/ujelly-theme
 	url = https://github.com/emacsmirror/ujelly-theme
