@@ -22546,6 +22546,9 @@
 [submodule "theme-anchor"]
 	path = mirror/theme-anchor
 	url = https://github.com/emacsmirror/theme-anchor
+[submodule "theme-buffet"]
+	path = mirror/theme-buffet
+	url = https://github.com/emacsmirror/theme-buffet
 [submodule "theme-changer"]
 	path = mirror/theme-changer
 	url = https://github.com/emacsmirror/theme-changer
