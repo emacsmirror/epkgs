@@ -13534,6 +13534,9 @@
 [submodule "lsp-sh"]
 	path = attic/lsp-sh
 	url = https://github.com/emacsattic/lsp-sh
+[submodule "lsp-shader"]
+	path = mirror/lsp-shader
+	url = https://github.com/emacsmirror/lsp-shader
 [submodule "lsp-sonarlint"]
 	path = mirror/lsp-sonarlint
 	url = https://github.com/emacsmirror/lsp-sonarlint
