@@ -22951,6 +22951,9 @@
 [submodule "transcript"]
 	path = mirror/transcript
 	url = https://github.com/emacsmirror/transcript
+[submodule "transducers"]
+	path = mirror/transducers
+	url = https://github.com/emacsmirror/transducers
 [submodule "transfer-sh"]
 	path = mirror/transfer-sh
 	url = https://github.com/emacsmirror/transfer-sh
