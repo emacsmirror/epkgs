@@ -4078,6 +4078,9 @@
 [submodule "dap-mode"]
 	path = mirror/dap-mode
 	url = https://github.com/emacsmirror/dap-mode
+[submodule "dape"]
+	path = mirror/dape
+	url = https://github.com/emacsmirror/dape
 [submodule "dar"]
 	path = attic/dar
 	url = https://github.com/emacsattic/dar
