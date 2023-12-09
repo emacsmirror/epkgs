@@ -11560,6 +11560,9 @@
 [submodule "inlineR"]
 	path = attic/inlineR
 	url = https://github.com/emacsattic/inlineR
+[submodule "inputrc-mode"]
+	path = mirror/inputrc-mode
+	url = https://github.com/emacsmirror/inputrc-mode
 [submodule "insecure-lock"]
 	path = mirror/insecure-lock
 	url = https://github.com/emacsmirror/insecure-lock
