@@ -1822,6 +1822,9 @@
 [submodule "bookmark-extensions"]
 	path = attic/bookmark-extensions
 	url = https://github.com/emacsattic/bookmark-extensions
+[submodule "bookmark-frecency"]
+	path = mirror/bookmark-frecency
+	url = https://github.com/emacsmirror/bookmark-frecency
 [submodule "bookmark-in-project"]
 	path = mirror/bookmark-in-project
 	url = https://github.com/emacsmirror/bookmark-in-project
