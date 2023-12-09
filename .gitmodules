@@ -12316,6 +12316,9 @@
 [submodule "jtemplate"]
 	path = attic/jtemplate
 	url = https://github.com/emacsattic/jtemplate
+[submodule "jtsx"]
+	path = mirror/jtsx
+	url = https://github.com/emacsmirror/jtsx
 [submodule "judge-indent"]
 	path = attic/judge-indent
 	url = https://github.com/emacsattic/judge-indent
