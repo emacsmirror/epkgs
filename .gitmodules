@@ -8080,6 +8080,9 @@
 [submodule "flymake-extension"]
 	path = mirror/flymake-extension
 	url = https://github.com/emacsmirror/flymake-extension
+[submodule "flymake-fennel"]
+	path = mirror/flymake-fennel
+	url = https://github.com/emacsmirror/flymake-fennel
 [submodule "flymake-flycheck"]
 	path = mirror/flymake-flycheck
 	url = https://github.com/emacsmirror/flymake-flycheck
