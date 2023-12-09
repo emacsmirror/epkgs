@@ -14179,6 +14179,9 @@
 [submodule "merlin-eldoc"]
 	path = mirror/merlin-eldoc
 	url = https://github.com/emacsmirror/merlin-eldoc
+[submodule "mermaid-docker-mode"]
+	path = mirror/mermaid-docker-mode
+	url = https://github.com/emacsmirror/mermaid-docker-mode
 [submodule "mermaid-mode"]
 	path = mirror/mermaid-mode
 	url = https://github.com/emacsmirror/mermaid-mode
