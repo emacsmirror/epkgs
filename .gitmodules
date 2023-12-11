@@ -5071,6 +5071,9 @@
 [submodule "dtb-mode"]
 	path = mirror/dtb-mode
 	url = https://github.com/emacsmirror/dtb-mode
+[submodule "dtext-mode"]
+	path = mirror/dtext-mode
+	url = https://github.com/emacsmirror/dtext-mode
 [submodule "dtk"]
 	path = mirror/dtk
 	url = https://github.com/emacsmirror/dtk
