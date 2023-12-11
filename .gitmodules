@@ -22060,6 +22060,9 @@
 [submodule "sync-scroll"]
 	path = mirror/sync-scroll
 	url = https://github.com/emacsmirror/sync-scroll
+[submodule "syncthing"]
+	path = mirror/syncthing
+	url = https://github.com/emacsmirror/syncthing
 [submodule "syndicate"]
 	path = attic/syndicate
 	url = https://github.com/emacsattic/syndicate
