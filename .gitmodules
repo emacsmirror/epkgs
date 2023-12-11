@@ -16975,6 +16975,9 @@
 [submodule "orgnav"]
 	path = mirror/orgnav
 	url = https://github.com/emacsmirror/orgnav
+[submodule "orgnote"]
+	path = mirror/orgnote
+	url = https://github.com/emacsmirror/orgnote
 [submodule "orgrade"]
 	path = mirror/orgrade
 	url = https://github.com/emacsmirror/orgrade
