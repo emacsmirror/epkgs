@@ -11536,6 +11536,9 @@
 [submodule "ini-mode"]
 	path = mirror/ini-mode
 	url = https://github.com/emacsmirror/ini-mode
+[submodule "init-dir"]
+	path = mirror/init-dir
+	url = https://github.com/emacsmirror/init-dir
 [submodule "init-loader"]
 	path = mirror/init-loader
 	url = https://github.com/emacsmirror/init-loader
