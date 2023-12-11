@@ -16087,6 +16087,9 @@
 [submodule "on-screen"]
 	path = mirror/on-screen
 	url = https://github.com/emacsmirror/on-screen
+[submodule "one"]
+	path = mirror/one
+	url = https://github.com/emacsmirror/one
 [submodule "one-key"]
 	path = mirror/one-key
 	url = https://github.com/emacsmirror/one-key
