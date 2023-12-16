@@ -13876,6 +13876,9 @@
 [submodule "makeinfo-info"]
 	path = attic/makeinfo-info
 	url = https://github.com/emacsattic/makeinfo-info
+[submodule "makem"]
+	path = mirror/makem
+	url = https://github.com/emacsmirror/makem
 [submodule "makey"]
 	path = mirror/makey
 	url = https://github.com/emacsmirror/makey
