@@ -16195,6 +16195,9 @@
 [submodule "org-ac"]
 	path = mirror/org-ac
 	url = https://github.com/emacsmirror/org-ac
+[submodule "org-agenda-files-track"]
+	path = mirror/org-agenda-files-track
+	url = https://github.com/emacsmirror/org-agenda-files-track
 [submodule "org-agenda-property"]
 	path = mirror/org-agenda-property
 	url = https://github.com/emacsmirror/org-agenda-property
