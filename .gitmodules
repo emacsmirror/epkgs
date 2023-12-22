@@ -2947,6 +2947,9 @@
 [submodule "codic"]
 	path = mirror/codic
 	url = https://github.com/emacsmirror/codic
+[submodule "coercion"]
+	path = mirror/coercion
+	url = https://github.com/emacsmirror/coercion
 [submodule "coffee"]
 	path = attic/coffee
 	url = https://github.com/emacsattic/coffee
