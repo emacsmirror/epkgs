@@ -18353,8 +18353,8 @@
 	path = mirror/pov-mode
 	url = https://github.com/emacsmirror/pov-mode
 [submodule "pow"]
-	path = mirror/pow
-	url = https://github.com/emacsmirror/pow
+	path = attic/pow
+	url = https://github.com/emacsattic/pow
 [submodule "power-mode"]
 	path = mirror/power-mode
 	url = https://github.com/emacsmirror/power-mode
