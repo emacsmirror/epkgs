@@ -16120,6 +16120,9 @@
 [submodule "opam-switch-mode"]
 	path = mirror/opam-switch-mode
 	url = https://github.com/emacsmirror/opam-switch-mode
+[submodule "open-color"]
+	path = mirror/open-color
+	url = https://github.com/emacsmirror/open-color
 [submodule "open-in-msvs"]
 	path = mirror/open-in-msvs
 	url = https://github.com/emacsmirror/open-in-msvs
