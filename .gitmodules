@@ -1673,8 +1673,8 @@
 	path = mirror/bitbake
 	url = https://github.com/emacsmirror/bitbake
 [submodule "bitbucket"]
-	path = mirror/bitbucket
-	url = https://github.com/emacsmirror/bitbucket
+	path = attic/bitbucket
+	url = https://github.com/emacsattic/bitbucket
 [submodule "bitlbee"]
 	path = mirror/bitlbee
 	url = https://github.com/emacsmirror/bitlbee
