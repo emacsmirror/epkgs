@@ -15730,6 +15730,9 @@
 [submodule "ob-async"]
 	path = mirror/ob-async
 	url = https://github.com/emacsmirror/ob-async
+[submodule "ob-base64"]
+	path = mirror/ob-base64
+	url = https://github.com/emacsmirror/ob-base64
 [submodule "ob-bitfield"]
 	path = mirror/ob-bitfield
 	url = https://github.com/emacsmirror/ob-bitfield
