@@ -16718,8 +16718,8 @@
 	path = mirror/org-recent-headings
 	url = https://github.com/emacsmirror/org-recent-headings
 [submodule "org-recur"]
-	path = mirror/org-recur
-	url = https://github.com/emacsmirror/org-recur
+	path = attic/org-recur
+	url = https://github.com/emacsattic/org-recur
 [submodule "org-redmine"]
 	path = mirror/org-redmine
 	url = https://github.com/emacsmirror/org-redmine
