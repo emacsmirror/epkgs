@@ -15362,8 +15362,8 @@
 	path = mirror/nim-mode
 	url = https://github.com/emacsmirror/nim-mode
 [submodule "nimbus-theme"]
-	path = mirror/nimbus-theme
-	url = https://github.com/emacsmirror/nimbus-theme
+	path = attic/nimbus-theme
+	url = https://github.com/emacsattic/nimbus-theme
 [submodule "nimrod-mode"]
 	path = mirror/nimrod-mode
 	url = https://github.com/emacsmirror/nimrod-mode
