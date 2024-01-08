@@ -22420,6 +22420,9 @@
 [submodule "tempel-collection"]
 	path = mirror/tempel-collection
 	url = https://github.com/emacsmirror/tempel-collection
+[submodule "templ-ts-mode"]
+	path = mirror/templ-ts-mode
+	url = https://github.com/emacsmirror/templ-ts-mode
 [submodule "template"]
 	path = attic/template
 	url = https://github.com/emacsattic/template
