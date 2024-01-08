@@ -12409,6 +12409,9 @@
 [submodule "kag-mode"]
 	path = attic/kag-mode
 	url = https://github.com/emacsattic/kag-mode
+[submodule "kagi"]
+	path = mirror/kagi
+	url = https://github.com/emacsmirror/kagi
 [submodule "kakapo-mode"]
 	path = mirror/kakapo-mode
 	url = https://github.com/emacsmirror/kakapo-mode
