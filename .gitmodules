@@ -21037,6 +21037,9 @@
 [submodule "sly-named-readtables"]
 	path = mirror/sly-named-readtables
 	url = https://github.com/emacsmirror/sly-named-readtables
+[submodule "sly-overlay"]
+	path = mirror/sly-overlay
+	url = https://github.com/emacsmirror/sly-overlay
 [submodule "sly-quicklisp"]
 	path = mirror/sly-quicklisp
 	url = https://github.com/emacsmirror/sly-quicklisp
