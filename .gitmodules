@@ -24947,8 +24947,8 @@
 	path = attic/xwem
 	url = https://github.com/emacsattic/xwem
 [submodule "xwidgete"]
-	path = mirror/xwidgete
-	url = https://github.com/emacsmirror/xwidgete
+	path = attic/xwidgete
+	url = https://github.com/emacsattic/xwidgete
 [submodule "xwidgets-reuse"]
 	path = mirror/xwidgets-reuse
 	url = https://github.com/emacsmirror/xwidgets-reuse
