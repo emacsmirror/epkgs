@@ -21629,8 +21629,8 @@
 	path = mirror/srcery-theme
 	url = https://github.com/emacsmirror/srcery-theme
 [submodule "srefactor"]
-	path = mirror/srefactor
-	url = https://github.com/emacsmirror/srefactor
+	path = attic/srefactor
+	url = https://github.com/emacsattic/srefactor
 [submodule "srfi"]
 	path = mirror/srfi
 	url = https://github.com/emacsmirror/srfi
