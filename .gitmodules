@@ -9707,8 +9707,8 @@
 	path = mirror/gtk-pomodoro-indicator
 	url = https://github.com/emacsmirror/gtk-pomodoro-indicator
 [submodule "gtk-variant"]
-	path = mirror/gtk-variant
-	url = https://github.com/emacsmirror/gtk-variant
+	path = attic/gtk-variant
+	url = https://github.com/emacsattic/gtk-variant
 [submodule "gtranslate"]
 	path = attic/gtranslate
 	url = https://github.com/emacsattic/gtranslate
