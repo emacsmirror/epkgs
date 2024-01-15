@@ -12178,6 +12178,9 @@
 [submodule "jknav"]
 	path = mirror/jknav
 	url = https://github.com/emacsmirror/jknav
+[submodule "jmespath"]
+	path = mirror/jmespath
+	url = https://github.com/emacsmirror/jmespath
 [submodule "jmt-mode"]
 	path = mirror/jmt-mode
 	url = https://github.com/emacsmirror/jmt-mode
