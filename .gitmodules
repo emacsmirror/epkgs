@@ -6496,6 +6496,9 @@
 [submodule "ert-modeline"]
 	path = mirror/ert-modeline
 	url = https://github.com/emacsmirror/ert-modeline
+[submodule "ert-results"]
+	path = mirror/ert-results
+	url = https://github.com/emacsmirror/ert-results
 [submodule "ert-runner"]
 	path = mirror/ert-runner
 	url = https://github.com/emacsmirror/ert-runner
