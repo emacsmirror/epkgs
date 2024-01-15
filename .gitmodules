@@ -12163,6 +12163,9 @@
 [submodule "jiralib2"]
 	path = mirror/jiralib2
 	url = https://github.com/emacsmirror/jiralib2
+[submodule "jirascope"]
+	path = mirror/jirascope
+	url = https://github.com/emacsmirror/jirascope
 [submodule "jist"]
 	path = mirror/jist
 	url = https://github.com/emacsmirror/jist
