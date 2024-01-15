@@ -20236,6 +20236,9 @@
 [submodule "scala-mode"]
 	path = mirror/scala-mode
 	url = https://github.com/emacsmirror/scala-mode
+[submodule "scala-ts-mode"]
+	path = mirror/scala-ts-mode
+	url = https://github.com/emacsmirror/scala-ts-mode
 [submodule "scalariform"]
 	path = attic/scalariform
 	url = https://github.com/emacsattic/scalariform
