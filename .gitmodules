@@ -21749,8 +21749,8 @@
 	path = mirror/sticky-shell
 	url = https://github.com/emacsmirror/sticky-shell
 [submodule "stickyfunc-enhance"]
-	path = mirror/stickyfunc-enhance
-	url = https://github.com/emacsmirror/stickyfunc-enhance
+	path = attic/stickyfunc-enhance
+	url = https://github.com/emacsattic/stickyfunc-enhance
 [submodule "stimmung-themes"]
 	path = mirror/stimmung-themes
 	url = https://github.com/emacsmirror/stimmung-themes
