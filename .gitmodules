@@ -1621,6 +1621,9 @@
 [submodule "bibus"]
 	path = mirror/bibus
 	url = https://github.com/emacsmirror/bibus
+[submodule "bicep-ts-mode"]
+	path = mirror/bicep-ts-mode
+	url = https://github.com/emacsmirror/bicep-ts-mode
 [submodule "bicycle"]
 	path = mirror/bicycle
 	url = https://github.com/emacsmirror/bicycle
