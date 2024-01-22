@@ -21641,8 +21641,8 @@
 	path = mirror/srcery-theme
 	url = https://github.com/emacsmirror/srcery-theme
 [submodule "srefactor"]
-	path = attic/srefactor
-	url = https://github.com/emacsattic/srefactor
+	path = mirror/srefactor
+	url = https://github.com/emacsmirror/srefactor
 [submodule "srfi"]
 	path = mirror/srfi
 	url = https://github.com/emacsmirror/srfi
@@ -21761,8 +21761,8 @@
 	path = mirror/sticky-shell
 	url = https://github.com/emacsmirror/sticky-shell
 [submodule "stickyfunc-enhance"]
-	path = attic/stickyfunc-enhance
-	url = https://github.com/emacsattic/stickyfunc-enhance
+	path = mirror/stickyfunc-enhance
+	url = https://github.com/emacsmirror/stickyfunc-enhance
 [submodule "stimmung-themes"]
 	path = mirror/stimmung-themes
 	url = https://github.com/emacsmirror/stimmung-themes
@@ -24962,8 +24962,8 @@
 	path = attic/xwem
 	url = https://github.com/emacsattic/xwem
 [submodule "xwidgete"]
-	path = attic/xwidgete
-	url = https://github.com/emacsattic/xwidgete
+	path = mirror/xwidgete
+	url = https://github.com/emacsmirror/xwidgete
 [submodule "xwidgets-reuse"]
 	path = mirror/xwidgets-reuse
 	url = https://github.com/emacsmirror/xwidgets-reuse
