@@ -25135,6 +25135,9 @@
 [submodule "youdao-dictionary"]
 	path = mirror/youdao-dictionary
 	url = https://github.com/emacsmirror/youdao-dictionary
+[submodule "youdotcom"]
+	path = mirror/youdotcom
+	url = https://github.com/emacsmirror/youdotcom
 [submodule "youtube-dl"]
 	path = mirror/youtube-dl
 	url = https://github.com/emacsmirror/youtube-dl
