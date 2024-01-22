@@ -22984,6 +22984,9 @@
 [submodule "totp"]
 	path = mirror/totp
 	url = https://github.com/emacsmirror/totp
+[submodule "totp-auth"]
+	path = mirror/totp-auth
+	url = https://github.com/emacsmirror/totp-auth
 [submodule "touchgrid"]
 	path = mirror/touchgrid
 	url = https://github.com/emacsmirror/touchgrid
