@@ -8092,6 +8092,9 @@
 [submodule "flymake-easy"]
 	path = mirror/flymake-easy
 	url = https://github.com/emacsmirror/flymake-easy
+[submodule "flymake-eldev"]
+	path = mirror/flymake-eldev
+	url = https://github.com/emacsmirror/flymake-eldev
 [submodule "flymake-elisp-config"]
 	path = mirror/flymake-elisp-config
 	url = https://github.com/emacsmirror/flymake-elisp-config
