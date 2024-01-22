@@ -2716,6 +2716,9 @@
 [submodule "clause"]
 	path = mirror/clause
 	url = https://github.com/emacsmirror/clause
+[submodule "clay"]
+	path = mirror/clay
+	url = https://github.com/emacsmirror/clay
 [submodule "clay-mode"]
 	path = attic/clay-mode
 	url = https://github.com/emacsattic/clay-mode
