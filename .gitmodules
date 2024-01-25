@@ -7268,8 +7268,8 @@
 	path = mirror/fdlcap
 	url = https://github.com/emacsmirror/fdlcap
 [submodule "feather"]
-	path = mirror/feather
-	url = https://github.com/emacsmirror/feather
+	path = attic/feather
+	url = https://github.com/emacsattic/feather
 [submodule "feature-mode"]
 	path = mirror/feature-mode
 	url = https://github.com/emacsmirror/feature-mode
