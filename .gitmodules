@@ -17375,8 +17375,8 @@
 	path = mirror/package-loading-notifier
 	url = https://github.com/emacsmirror/package-loading-notifier
 [submodule "package-safe-delete"]
-	path = mirror/package-safe-delete
-	url = https://github.com/emacsmirror/package-safe-delete
+	path = attic/package-safe-delete
+	url = https://github.com/emacsattic/package-safe-delete
 [submodule "package-store"]
 	path = mirror/package-store
 	url = https://github.com/emacsmirror/package-store
