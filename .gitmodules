@@ -268,6 +268,9 @@
 [submodule "active-menu"]
 	path = attic/active-menu
 	url = https://github.com/emacsattic/active-menu
+[submodule "activities"]
+	path = mirror/activities
+	url = https://github.com/emacsmirror/activities
 [submodule "activity-watch-mode"]
 	path = mirror/activity-watch-mode
 	url = https://github.com/emacsmirror/activity-watch-mode
