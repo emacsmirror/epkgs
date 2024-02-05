@@ -3454,6 +3454,9 @@
 [submodule "consult-hatena-bookmark"]
 	path = mirror/consult-hatena-bookmark
 	url = https://github.com/emacsmirror/consult-hatena-bookmark
+[submodule "consult-hoogle"]
+	path = mirror/consult-hoogle
+	url = https://github.com/emacsmirror/consult-hoogle
 [submodule "consult-ls-git"]
 	path = mirror/consult-ls-git
 	url = https://github.com/emacsmirror/consult-ls-git
