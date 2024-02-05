@@ -1025,8 +1025,8 @@
 	path = attic/auto-complete-acr
 	url = https://github.com/emacsattic/auto-complete-acr
 [submodule "auto-complete-auctex"]
-	path = mirror/auto-complete-auctex
-	url = https://github.com/emacsmirror/auto-complete-auctex
+	path = attic/auto-complete-auctex
+	url = https://github.com/emacsattic/auto-complete-auctex
 [submodule "auto-complete-c-headers"]
 	path = mirror/auto-complete-c-headers
 	url = https://github.com/emacsmirror/auto-complete-c-headers
