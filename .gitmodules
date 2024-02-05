@@ -19930,6 +19930,9 @@
 [submodule "roguel-ike"]
 	path = mirror/roguel-ike
 	url = https://github.com/emacsmirror/roguel-ike
+[submodule "rom-party"]
+	path = mirror/rom-party
+	url = https://github.com/emacsmirror/rom-party
 [submodule "ron-mode"]
 	path = mirror/ron-mode
 	url = https://github.com/emacsmirror/ron-mode
