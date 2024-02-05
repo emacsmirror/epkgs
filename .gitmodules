@@ -7393,6 +7393,9 @@
 [submodule "file-template"]
 	path = mirror/file-template
 	url = https://github.com/emacsmirror/file-template
+[submodule "filechooser"]
+	path = mirror/filechooser
+	url = https://github.com/emacsmirror/filechooser
 [submodule "filelock"]
 	path = mirror/filelock
 	url = https://github.com/emacsmirror/filelock
