@@ -23642,8 +23642,8 @@
 	path = mirror/usage-memo
 	url = https://github.com/emacsmirror/usage-memo
 [submodule "use-package-el-get"]
-	path = mirror/use-package-el-get
-	url = https://github.com/emacsmirror/use-package-el-get
+	path = attic/use-package-el-get
+	url = https://github.com/emacsattic/use-package-el-get
 [submodule "use-package-hydra"]
 	path = mirror/use-package-hydra
 	url = https://github.com/emacsmirror/use-package-hydra
