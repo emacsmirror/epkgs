@@ -9187,6 +9187,9 @@
 [submodule "gnorb"]
 	path = mirror/gnorb
 	url = https://github.com/emacsmirror/gnorb
+[submodule "gnosis"]
+	path = mirror/gnosis
+	url = https://github.com/emacsmirror/gnosis
 [submodule "gntp"]
 	path = mirror/gntp
 	url = https://github.com/emacsmirror/gntp
