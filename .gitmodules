@@ -16462,6 +16462,9 @@
 [submodule "org-emms"]
 	path = mirror/org-emms
 	url = https://github.com/emacsmirror/org-emms
+[submodule "org-epa-gpg"]
+	path = mirror/org-epa-gpg
+	url = https://github.com/emacsmirror/org-epa-gpg
 [submodule "org-evil"]
 	path = mirror/org-evil
 	url = https://github.com/emacsmirror/org-evil
