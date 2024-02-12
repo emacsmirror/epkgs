@@ -16357,6 +16357,9 @@
 [submodule "org-chinese-utils"]
 	path = attic/org-chinese-utils
 	url = https://github.com/emacsattic/org-chinese-utils
+[submodule "org-cite-overlay"]
+	path = mirror/org-cite-overlay
+	url = https://github.com/emacsmirror/org-cite-overlay
 [submodule "org-cliplink"]
 	path = mirror/org-cliplink
 	url = https://github.com/emacsmirror/org-cliplink
