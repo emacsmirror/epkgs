@@ -19318,6 +19318,9 @@
 [submodule "rcirc-sound"]
 	path = mirror/rcirc-sound
 	url = https://github.com/emacsmirror/rcirc-sound
+[submodule "rcirc-sqlite"]
+	path = mirror/rcirc-sqlite
+	url = https://github.com/emacsmirror/rcirc-sqlite
 [submodule "rcirc-ssh"]
 	path = attic/rcirc-ssh
 	url = https://github.com/emacsattic/rcirc-ssh
