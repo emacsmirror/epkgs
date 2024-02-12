@@ -16420,6 +16420,9 @@
 [submodule "org-dp"]
 	path = mirror/org-dp
 	url = https://github.com/emacsmirror/org-dp
+[submodule "org-drawio"]
+	path = mirror/org-drawio
+	url = https://github.com/emacsmirror/org-drawio
 [submodule "org-drill"]
 	path = mirror/org-drill
 	url = https://github.com/emacsmirror/org-drill
