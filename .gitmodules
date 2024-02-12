@@ -4942,6 +4942,9 @@
 [submodule "doct"]
 	path = mirror/doct
 	url = https://github.com/emacsmirror/doct
+[submodule "doctest"]
+	path = mirror/doctest
+	url = https://github.com/emacsmirror/doctest
 [submodule "dogears"]
 	path = mirror/dogears
 	url = https://github.com/emacsmirror/dogears
