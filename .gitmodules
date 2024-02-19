@@ -18067,6 +18067,9 @@
 [submodule "pinyin"]
 	path = mirror/pinyin
 	url = https://github.com/emacsmirror/pinyin
+[submodule "pinyin-isearch"]
+	path = mirror/pinyin-isearch
+	url = https://github.com/emacsmirror/pinyin-isearch
 [submodule "pinyin-search"]
 	path = mirror/pinyin-search
 	url = https://github.com/emacsmirror/pinyin-search
