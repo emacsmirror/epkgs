@@ -5584,6 +5584,9 @@
 [submodule "eglot-jl"]
 	path = mirror/eglot-jl
 	url = https://github.com/emacsmirror/eglot-jl
+[submodule "eglot-signature-eldoc-talkative"]
+	path = mirror/eglot-signature-eldoc-talkative
+	url = https://github.com/emacsmirror/eglot-signature-eldoc-talkative
 [submodule "eglot-tempel"]
 	path = mirror/eglot-tempel
 	url = https://github.com/emacsmirror/eglot-tempel
