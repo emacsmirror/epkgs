@@ -2344,6 +2344,9 @@
 [submodule "cc-chainsaw"]
 	path = mirror/cc-chainsaw
 	url = https://github.com/emacsmirror/cc-chainsaw
+[submodule "cc-isearch-menu"]
+	path = mirror/cc-isearch-menu
+	url = https://github.com/emacsmirror/cc-isearch-menu
 [submodule "cc-mode+"]
 	path = mirror/cc-mode+
 	url = https://github.com/emacsmirror/cc-mode-plus
