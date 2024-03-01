@@ -17383,6 +17383,9 @@
 [submodule "pabbrev"]
 	path = mirror/pabbrev
 	url = https://github.com/emacsmirror/pabbrev
+[submodule "pacdiff"]
+	path = mirror/pacdiff
+	url = https://github.com/emacsmirror/pacdiff
 [submodule "paced"]
 	path = mirror/paced
 	url = https://github.com/emacsmirror/paced
