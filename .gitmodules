@@ -19816,6 +19816,9 @@
 [submodule "reverse-theme"]
 	path = mirror/reverse-theme
 	url = https://github.com/emacsmirror/reverse-theme
+[submodule "reverso"]
+	path = mirror/reverso
+	url = https://github.com/emacsmirror/reverso
 [submodule "revert-buffer-all"]
 	path = mirror/revert-buffer-all
 	url = https://github.com/emacsmirror/revert-buffer-all
