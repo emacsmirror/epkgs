@@ -727,6 +727,9 @@
 [submodule "aplac-mode"]
 	path = attic/aplac-mode
 	url = https://github.com/emacsattic/aplac-mode
+[submodule "app-monochrome-themes"]
+	path = mirror/app-monochrome-themes
+	url = https://github.com/emacsmirror/app-monochrome-themes
 [submodule "apparmor-mode"]
 	path = mirror/apparmor-mode
 	url = https://github.com/emacsmirror/apparmor-mode
