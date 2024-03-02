@@ -2497,6 +2497,9 @@
 [submodule "chatgpt-shell"]
 	path = mirror/chatgpt-shell
 	url = https://github.com/emacsmirror/chatgpt-shell
+[submodule "chatu"]
+	path = mirror/chatu
+	url = https://github.com/emacsmirror/chatu
 [submodule "chatwork"]
 	path = mirror/chatwork
 	url = https://github.com/emacsmirror/chatwork
