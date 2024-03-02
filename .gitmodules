@@ -6130,6 +6130,9 @@
 [submodule "embark"]
 	path = mirror/embark
 	url = https://github.com/emacsmirror/embark
+[submodule "embark-org-roam"]
+	path = mirror/embark-org-roam
+	url = https://github.com/emacsmirror/embark-org-roam
 [submodule "embark-vc"]
 	path = mirror/embark-vc
 	url = https://github.com/emacsmirror/embark-vc
