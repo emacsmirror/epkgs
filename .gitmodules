@@ -16396,6 +16396,9 @@
 [submodule "org-cliplink"]
 	path = mirror/org-cliplink
 	url = https://github.com/emacsmirror/org-cliplink
+[submodule "org-clock-agenda-daytime-mode"]
+	path = mirror/org-clock-agenda-daytime-mode
+	url = https://github.com/emacsmirror/org-clock-agenda-daytime-mode
 [submodule "org-clock-convenience"]
 	path = mirror/org-clock-convenience
 	url = https://github.com/emacsmirror/org-clock-convenience
