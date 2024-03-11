@@ -340,6 +340,9 @@
 [submodule "after-save-commands"]
 	path = attic/after-save-commands
 	url = https://github.com/emacsattic/after-save-commands
+[submodule "afterglow"]
+	path = mirror/afterglow
+	url = https://github.com/emacsmirror/afterglow
 [submodule "afternoon-theme"]
 	path = mirror/afternoon-theme
 	url = https://github.com/emacsmirror/afternoon-theme
