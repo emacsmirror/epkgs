@@ -8335,6 +8335,9 @@
 [submodule "fmailutils"]
 	path = attic/fmailutils
 	url = https://github.com/emacsattic/fmailutils
+[submodule "fmo-mode"]
+	path = mirror/fmo-mode
+	url = https://github.com/emacsmirror/fmo-mode
 [submodule "fn"]
 	path = mirror/fn
 	url = https://github.com/emacsmirror/fn
