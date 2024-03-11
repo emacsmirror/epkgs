@@ -6202,6 +6202,9 @@
 [submodule "emms-player-simple-mpv"]
 	path = mirror/emms-player-simple-mpv
 	url = https://github.com/emacsmirror/emms-player-simple-mpv
+[submodule "emms-player-spotify"]
+	path = mirror/emms-player-spotify
+	url = https://github.com/emacsmirror/emms-player-spotify
 [submodule "emms-player-streaming-fix"]
 	path = mirror/emms-player-streaming-fix
 	url = https://github.com/emacsmirror/emms-player-streaming-fix
