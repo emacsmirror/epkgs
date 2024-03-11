@@ -13801,6 +13801,9 @@
 [submodule "magit-gitflow"]
 	path = mirror/magit-gitflow
 	url = https://github.com/emacsmirror/magit-gitflow
+[submodule "magit-gptcommit"]
+	path = mirror/magit-gptcommit
+	url = https://github.com/emacsmirror/magit-gptcommit
 [submodule "magit-identities"]
 	path = attic/magit-identities
 	url = https://github.com/emacsattic/magit-identities
