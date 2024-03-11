@@ -14848,6 +14848,9 @@
 [submodule "mpdel-embark"]
 	path = mirror/mpdel-embark
 	url = https://github.com/emacsmirror/mpdel-embark
+[submodule "mpdired"]
+	path = mirror/mpdired
+	url = https://github.com/emacsmirror/mpdired
 [submodule "mpdmacs"]
 	path = mirror/mpdmacs
 	url = https://github.com/emacsmirror/mpdmacs
