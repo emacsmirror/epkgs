@@ -22418,8 +22418,8 @@
 	path = mirror/tblui
 	url = https://github.com/emacsmirror/tblui
 [submodule "tbx2org"]
-	path = mirror/tbx2org
-	url = https://github.com/emacsmirror/tbx2org
+	path = attic/tbx2org
+	url = https://github.com/emacsattic/tbx2org
 [submodule "tc"]
 	path = mirror/tc
 	url = https://github.com/emacsmirror/tc
