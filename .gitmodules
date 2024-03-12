@@ -17294,8 +17294,8 @@
 	path = mirror/ox-hugo
 	url = https://github.com/emacsmirror/ox-hugo
 [submodule "ox-impress-js"]
-	path = mirror/ox-impress-js
-	url = https://github.com/emacsmirror/ox-impress-js
+	path = attic/ox-impress-js
+	url = https://github.com/emacsattic/ox-impress-js
 [submodule "ox-ioslide"]
 	path = mirror/ox-ioslide
 	url = https://github.com/emacsmirror/ox-ioslide
