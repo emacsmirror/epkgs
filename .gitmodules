@@ -8162,8 +8162,8 @@
 	path = mirror/flymake-go-staticcheck
 	url = https://github.com/emacsmirror/flymake-go-staticcheck
 [submodule "flymake-golangci"]
-	path = mirror/flymake-golangci
-	url = https://github.com/emacsmirror/flymake-golangci
+	path = attic/flymake-golangci
+	url = https://github.com/emacsattic/flymake-golangci
 [submodule "flymake-google-cpplint"]
 	path = attic/flymake-google-cpplint
 	url = https://github.com/emacsattic/flymake-google-cpplint
