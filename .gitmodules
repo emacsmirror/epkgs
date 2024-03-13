@@ -18770,8 +18770,8 @@
 	path = mirror/protobuf-mode
 	url = https://github.com/emacsmirror/protobuf-mode
 [submodule "protobuf-ts-mode"]
-	path = mirror/protobuf-ts-mode
-	url = https://github.com/emacsmirror/protobuf-ts-mode
+	path = attic/protobuf-ts-mode
+	url = https://github.com/emacsattic/protobuf-ts-mode
 [submodule "protocols"]
 	path = mirror/protocols
 	url = https://github.com/emacsmirror/protocols
