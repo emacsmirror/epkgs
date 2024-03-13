@@ -6602,8 +6602,8 @@
 	path = mirror/eshell-info-banner
 	url = https://github.com/emacsmirror/eshell-info-banner
 [submodule "eshell-outline"]
-	path = mirror/eshell-outline
-	url = https://github.com/emacsmirror/eshell-outline
+	path = attic/eshell-outline
+	url = https://github.com/emacsattic/eshell-outline
 [submodule "eshell-prompt-extras"]
 	path = mirror/eshell-prompt-extras
 	url = https://github.com/emacsmirror/eshell-prompt-extras
