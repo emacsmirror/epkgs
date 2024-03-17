@@ -17,8 +17,8 @@
 	path = mirror/2bit
 	url = https://github.com/emacsmirror/2bit
 [submodule "4clojure"]
-	path = mirror/4clojure
-	url = https://github.com/emacsmirror/4clojure
+	path = attic/4clojure
+	url = https://github.com/emacsattic/4clojure
 [submodule "750words"]
 	path = mirror/750words
 	url = https://github.com/emacsmirror/750words
