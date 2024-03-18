@@ -21436,6 +21436,9 @@
 [submodule "soothe-theme"]
 	path = mirror/soothe-theme
 	url = https://github.com/emacsmirror/soothe-theme
+[submodule "sops"]
+	path = mirror/sops
+	url = https://github.com/emacsmirror/sops
 [submodule "sorcery-theme"]
 	path = mirror/sorcery-theme
 	url = https://github.com/emacsmirror/sorcery-theme
