@@ -5860,6 +5860,9 @@
 [submodule "elim"]
 	path = attic/elim
 	url = https://github.com/emacsattic/elim
+[submodule "elisa"]
+	path = mirror/elisa
+	url = https://github.com/emacsmirror/elisa
 [submodule "elisp-autofmt"]
 	path = mirror/elisp-autofmt
 	url = https://github.com/emacsmirror/elisp-autofmt
