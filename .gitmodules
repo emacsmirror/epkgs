@@ -21718,6 +21718,9 @@
 [submodule "sqlite-dump"]
 	path = attic/sqlite-dump
 	url = https://github.com/emacsattic/sqlite-dump
+[submodule "sqlite-mode-extras"]
+	path = mirror/sqlite-mode-extras
+	url = https://github.com/emacsmirror/sqlite-mode-extras
 [submodule "sqlite3"]
 	path = mirror/sqlite3
 	url = https://github.com/emacsmirror/sqlite3
