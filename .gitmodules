@@ -4618,6 +4618,9 @@
 [submodule "dired-atool"]
 	path = mirror/dired-atool
 	url = https://github.com/emacsmirror/dired-atool
+[submodule "dired-auto-readme"]
+	path = mirror/dired-auto-readme
+	url = https://github.com/emacsmirror/dired-auto-readme
 [submodule "dired-column-widths"]
 	path = mirror/dired-column-widths
 	url = https://github.com/emacsmirror/dired-column-widths
