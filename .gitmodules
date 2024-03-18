@@ -4672,6 +4672,9 @@
 [submodule "dired-hide-dotfiles"]
 	path = mirror/dired-hide-dotfiles
 	url = https://github.com/emacsmirror/dired-hide-dotfiles
+[submodule "dired-hist"]
+	path = mirror/dired-hist
+	url = https://github.com/emacsmirror/dired-hist
 [submodule "dired-icon"]
 	path = mirror/dired-icon
 	url = https://github.com/emacsmirror/dired-icon
