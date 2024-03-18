@@ -1930,6 +1930,9 @@
 [submodule "brightscript-mode"]
 	path = mirror/brightscript-mode
 	url = https://github.com/emacsmirror/brightscript-mode
+[submodule "bril-mode"]
+	path = mirror/bril-mode
+	url = https://github.com/emacsmirror/bril-mode
 [submodule "broadcast"]
 	path = mirror/broadcast
 	url = https://github.com/emacsmirror/broadcast
