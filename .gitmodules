@@ -20293,6 +20293,9 @@
 [submodule "satchel"]
 	path = mirror/satchel
 	url = https://github.com/emacsmirror/satchel
+[submodule "satysfi-ts-mode"]
+	path = mirror/satysfi-ts-mode
+	url = https://github.com/emacsmirror/satysfi-ts-mode
 [submodule "sauron"]
 	path = mirror/sauron
 	url = https://github.com/emacsmirror/sauron
