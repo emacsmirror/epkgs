@@ -16915,6 +16915,9 @@
 [submodule "org-site"]
 	path = attic/org-site
 	url = https://github.com/emacsattic/org-site
+[submodule "org-sliced-images"]
+	path = mirror/org-sliced-images
+	url = https://github.com/emacsmirror/org-sliced-images
 [submodule "org-snooze"]
 	path = mirror/org-snooze
 	url = https://github.com/emacsmirror/org-snooze
