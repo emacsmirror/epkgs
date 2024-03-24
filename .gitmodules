@@ -2332,6 +2332,9 @@
 [submodule "caskxy"]
 	path = mirror/caskxy
 	url = https://github.com/emacsmirror/caskxy
+[submodule "casual"]
+	path = mirror/casual
+	url = https://github.com/emacsmirror/casual
 [submodule "cat-safe"]
 	path = attic/cat-safe
 	url = https://github.com/emacsattic/cat-safe
