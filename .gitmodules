@@ -7618,6 +7618,9 @@
 [submodule "firrtl-mode"]
 	path = mirror/firrtl-mode
 	url = https://github.com/emacsmirror/firrtl-mode
+[submodule "firstly-search"]
+	path = mirror/firstly-search
+	url = https://github.com/emacsmirror/firstly-search
 [submodule "fish-completion"]
 	path = mirror/fish-completion
 	url = https://github.com/emacsmirror/fish-completion
