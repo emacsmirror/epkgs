@@ -10940,8 +10940,8 @@
 	path = mirror/home-end
 	url = https://github.com/emacsmirror/home-end
 [submodule "homebrew-mode"]
-	path = mirror/homebrew-mode
-	url = https://github.com/emacsmirror/homebrew-mode
+	path = attic/homebrew-mode
+	url = https://github.com/emacsattic/homebrew-mode
 [submodule "honcho"]
 	path = mirror/honcho
 	url = https://github.com/emacsmirror/honcho
