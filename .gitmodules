@@ -15823,6 +15823,9 @@
 [submodule "oauth2"]
 	path = mirror/oauth2
 	url = https://github.com/emacsmirror/oauth2
+[submodule "oauth2-auto"]
+	path = mirror/oauth2-auto
+	url = https://github.com/emacsmirror/oauth2-auto
 [submodule "oauth2-request"]
 	path = mirror/oauth2-request
 	url = https://github.com/emacsmirror/oauth2-request
