@@ -6731,8 +6731,8 @@
 	path = mirror/eta
 	url = https://github.com/emacsmirror/eta
 [submodule "etable"]
-	path = mirror/etable
-	url = https://github.com/emacsmirror/etable
+	path = attic/etable
+	url = https://github.com/emacsattic/etable
 [submodule "etags-select"]
 	path = mirror/etags-select
 	url = https://github.com/emacsmirror/etags-select
