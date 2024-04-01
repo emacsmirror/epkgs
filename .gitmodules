@@ -6601,6 +6601,9 @@
 [submodule "esheet"]
 	path = attic/esheet
 	url = https://github.com/emacsattic/esheet
+[submodule "eshell-atuin"]
+	path = mirror/eshell-atuin
+	url = https://github.com/emacsmirror/eshell-atuin
 [submodule "eshell-autojump"]
 	path = mirror/eshell-autojump
 	url = https://github.com/emacsmirror/eshell-autojump
