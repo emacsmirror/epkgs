@@ -2734,6 +2734,9 @@
 [submodule "clasker"]
 	path = mirror/clasker
 	url = https://github.com/emacsmirror/clasker
+[submodule "claude-shell"]
+	path = mirror/claude-shell
+	url = https://github.com/emacsmirror/claude-shell
 [submodule "clause"]
 	path = mirror/clause
 	url = https://github.com/emacsmirror/clause
