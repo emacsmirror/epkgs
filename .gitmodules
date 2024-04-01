@@ -12979,6 +12979,9 @@
 [submodule "lazy-desktop"]
 	path = attic/lazy-desktop
 	url = https://github.com/emacsattic/lazy-desktop
+[submodule "lazy-ruff"]
+	path = mirror/lazy-ruff
+	url = https://github.com/emacsmirror/lazy-ruff
 [submodule "lazy-search"]
 	path = mirror/lazy-search
 	url = https://github.com/emacsmirror/lazy-search
