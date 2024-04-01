@@ -16645,6 +16645,9 @@
 [submodule "org-latex-impatient"]
 	path = mirror/org-latex-impatient
 	url = https://github.com/emacsmirror/org-latex-impatient
+[submodule "org-linenote"]
+	path = mirror/org-linenote
+	url = https://github.com/emacsmirror/org-linenote
 [submodule "org-link-beautify"]
 	path = mirror/org-link-beautify
 	url = https://github.com/emacsmirror/org-link-beautify
