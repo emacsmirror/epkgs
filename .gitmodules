@@ -10193,8 +10193,8 @@
 	path = mirror/helm-esa
 	url = https://github.com/emacsmirror/helm-esa
 [submodule "helm-etags-plus"]
-	path = mirror/helm-etags-plus
-	url = https://github.com/emacsmirror/helm-etags-plus
+	path = attic/helm-etags-plus
+	url = https://github.com/emacsattic/helm-etags-plus
 [submodule "helm-evil-markers"]
 	path = mirror/helm-evil-markers
 	url = https://github.com/emacsmirror/helm-evil-markers
