@@ -11924,8 +11924,8 @@
 	path = mirror/ivy-clojuredocs
 	url = https://github.com/emacsmirror/ivy-clojuredocs
 [submodule "ivy-dired-history"]
-	path = mirror/ivy-dired-history
-	url = https://github.com/emacsmirror/ivy-dired-history
+	path = attic/ivy-dired-history
+	url = https://github.com/emacsattic/ivy-dired-history
 [submodule "ivy-emms"]
 	path = mirror/ivy-emms
 	url = https://github.com/emacsmirror/ivy-emms
