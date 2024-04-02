@@ -10172,8 +10172,8 @@
 	path = mirror/helm-directory
 	url = https://github.com/emacsmirror/helm-directory
 [submodule "helm-dired-history"]
-	path = mirror/helm-dired-history
-	url = https://github.com/emacsmirror/helm-dired-history
+	path = attic/helm-dired-history
+	url = https://github.com/emacsattic/helm-dired-history
 [submodule "helm-dired-recent-dirs"]
 	path = mirror/helm-dired-recent-dirs
 	url = https://github.com/emacsmirror/helm-dired-recent-dirs
