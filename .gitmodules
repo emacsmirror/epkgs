@@ -1675,6 +1675,9 @@
 [submodule "biome"]
 	path = mirror/biome
 	url = https://github.com/emacsmirror/biome
+[submodule "biomejs-format"]
+	path = mirror/biomejs-format
+	url = https://github.com/emacsmirror/biomejs-format
 [submodule "birds-of-paradise-plus-theme"]
 	path = mirror/birds-of-paradise-plus-theme
 	url = https://github.com/emacsmirror/birds-of-paradise-plus-theme
