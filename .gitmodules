@@ -1960,6 +1960,9 @@
 [submodule "browse-urn"]
 	path = mirror/browse-urn
 	url = https://github.com/emacsmirror/browse-urn
+[submodule "browser-hist"]
+	path = mirror/browser-hist
+	url = https://github.com/emacsmirror/browser-hist
 [submodule "brutalist-theme"]
 	path = mirror/brutalist-theme
 	url = https://github.com/emacsmirror/brutalist-theme
