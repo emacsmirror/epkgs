@@ -17006,8 +17006,8 @@
 	path = mirror/org-tfl
 	url = https://github.com/emacsmirror/org-tfl
 [submodule "org-themis"]
-	path = mirror/org-themis
-	url = https://github.com/emacsmirror/org-themis
+	path = attic/org-themis
+	url = https://github.com/emacsattic/org-themis
 [submodule "org-tidy"]
 	path = mirror/org-tidy
 	url = https://github.com/emacsmirror/org-tidy
