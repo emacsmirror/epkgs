@@ -17662,6 +17662,9 @@
 [submodule "password-generator"]
 	path = mirror/password-generator
 	url = https://github.com/emacsmirror/password-generator
+[submodule "password-menu"]
+	path = mirror/password-menu
+	url = https://github.com/emacsmirror/password-menu
 [submodule "password-mode"]
 	path = mirror/password-mode
 	url = https://github.com/emacsmirror/password-mode
