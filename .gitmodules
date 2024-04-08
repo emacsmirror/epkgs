@@ -17309,8 +17309,8 @@
 	path = mirror/owdriver
 	url = https://github.com/emacsmirror/owdriver
 [submodule "owl-functional-mode"]
-	path = mirror/owl-functional-mode
-	url = https://github.com/emacsmirror/owl-functional-mode
+	path = attic/owl-functional-mode
+	url = https://github.com/emacsattic/owl-functional-mode
 [submodule "ox-asciidoc"]
 	path = mirror/ox-asciidoc
 	url = https://github.com/emacsmirror/ox-asciidoc
