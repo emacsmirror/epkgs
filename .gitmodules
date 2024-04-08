@@ -6724,6 +6724,9 @@
 [submodule "ess-view-data"]
 	path = mirror/ess-view-data
 	url = https://github.com/emacsmirror/ess-view-data
+[submodule "essgd"]
+	path = mirror/essgd
+	url = https://github.com/emacsmirror/essgd
 [submodule "esup"]
 	path = mirror/esup
 	url = https://github.com/emacsmirror/esup
