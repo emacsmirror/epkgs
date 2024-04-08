@@ -14125,6 +14125,9 @@
 [submodule "markdown-toc"]
 	path = mirror/markdown-toc
 	url = https://github.com/emacsmirror/markdown-toc
+[submodule "markdown-ts-mode"]
+	path = mirror/markdown-ts-mode
+	url = https://github.com/emacsmirror/markdown-ts-mode
 [submodule "markdownfmt"]
 	path = mirror/markdownfmt
 	url = https://github.com/emacsmirror/markdownfmt
