@@ -14984,8 +14984,8 @@
 	path = mirror/mu4e-conversation
 	url = https://github.com/emacsmirror/mu4e-conversation
 [submodule "mu4e-crypto"]
-	path = mirror/mu4e-crypto
-	url = https://github.com/emacsmirror/mu4e-crypto
+	path = attic/mu4e-crypto
+	url = https://github.com/emacsattic/mu4e-crypto
 [submodule "mu4e-jump-to-list"]
 	path = mirror/mu4e-jump-to-list
 	url = https://github.com/emacsmirror/mu4e-jump-to-list
