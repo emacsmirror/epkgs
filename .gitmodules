@@ -13291,6 +13291,9 @@
 [submodule "liquidmetal"]
 	path = mirror/liquidmetal
 	url = https://github.com/emacsmirror/liquidmetal
+[submodule "lirve"]
+	path = mirror/lirve
+	url = https://github.com/emacsmirror/lirve
 [submodule "liso-theme"]
 	path = mirror/liso-theme
 	url = https://github.com/emacsmirror/liso-theme
