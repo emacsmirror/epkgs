@@ -19879,6 +19879,9 @@
 [submodule "restricto"]
 	path = mirror/restricto
 	url = https://github.com/emacsmirror/restricto
+[submodule "retraction-viewer"]
+	path = mirror/retraction-viewer
+	url = https://github.com/emacsmirror/retraction-viewer
 [submodule "retrie"]
 	path = mirror/retrie
 	url = https://github.com/emacsmirror/retrie
