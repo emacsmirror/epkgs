@@ -8260,6 +8260,9 @@
 [submodule "flymake-lua"]
 	path = mirror/flymake-lua
 	url = https://github.com/emacsmirror/flymake-lua
+[submodule "flymake-margin"]
+	path = mirror/flymake-margin
+	url = https://github.com/emacsmirror/flymake-margin
 [submodule "flymake-markdownlint"]
 	path = mirror/flymake-markdownlint
 	url = https://github.com/emacsmirror/flymake-markdownlint
