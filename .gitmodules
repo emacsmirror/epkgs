@@ -22198,6 +22198,9 @@
 [submodule "swift-playground-mode"]
 	path = mirror/swift-playground-mode
 	url = https://github.com/emacsmirror/swift-playground-mode
+[submodule "swift-ts-mode"]
+	path = mirror/swift-ts-mode
+	url = https://github.com/emacsmirror/swift-ts-mode
 [submodule "swift3-mode"]
 	path = mirror/swift3-mode
 	url = https://github.com/emacsmirror/swift3-mode
