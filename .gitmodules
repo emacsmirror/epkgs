@@ -15427,6 +15427,9 @@
 [submodule "neuron-mode"]
 	path = mirror/neuron-mode
 	url = https://github.com/emacsmirror/neuron-mode
+[submodule "neut-mode"]
+	path = mirror/neut-mode
+	url = https://github.com/emacsmirror/neut-mode
 [submodule "never-comment"]
 	path = mirror/never-comment
 	url = https://github.com/emacsmirror/never-comment
