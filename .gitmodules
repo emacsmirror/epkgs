@@ -11791,6 +11791,9 @@
 [submodule "ipcalc"]
 	path = mirror/ipcalc
 	url = https://github.com/emacsmirror/ipcalc
+[submodule "ipe"]
+	path = mirror/ipe
+	url = https://github.com/emacsmirror/ipe
 [submodule "iplayer"]
 	path = mirror/iplayer
 	url = https://github.com/emacsmirror/iplayer
