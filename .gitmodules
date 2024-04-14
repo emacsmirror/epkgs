@@ -3076,6 +3076,9 @@
 [submodule "comb"]
 	path = mirror/comb
 	url = https://github.com/emacsmirror/comb
+[submodule "combobulate"]
+	path = mirror/combobulate
+	url = https://github.com/emacsmirror/combobulate
 [submodule "comby"]
 	path = mirror/comby
 	url = https://github.com/emacsmirror/comby
