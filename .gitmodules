@@ -18226,6 +18226,9 @@
 [submodule "pkgbuild-mode"]
 	path = mirror/pkgbuild-mode
 	url = https://github.com/emacsmirror/pkgbuild-mode
+[submodule "pkl-mode"]
+	path = mirror/pkl-mode
+	url = https://github.com/emacsmirror/pkl-mode
 [submodule "placeholder"]
 	path = mirror/placeholder
 	url = https://github.com/emacsmirror/placeholder
