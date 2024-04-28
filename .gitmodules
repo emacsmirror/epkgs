@@ -6928,6 +6928,9 @@
 [submodule "evil-lisp-state"]
 	path = mirror/evil-lisp-state
 	url = https://github.com/emacsmirror/evil-lisp-state
+[submodule "evil-lispops"]
+	path = mirror/evil-lispops
+	url = https://github.com/emacsmirror/evil-lispops
 [submodule "evil-lispy"]
 	path = mirror/evil-lispy
 	url = https://github.com/emacsmirror/evil-lispy
