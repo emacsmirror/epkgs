@@ -3553,6 +3553,9 @@
 [submodule "cool-mode"]
 	path = mirror/cool-mode
 	url = https://github.com/emacsmirror/cool-mode
+[submodule "copilot"]
+	path = mirror/copilot
+	url = https://github.com/emacsmirror/copilot
 [submodule "copy-as-format"]
 	path = mirror/copy-as-format
 	url = https://github.com/emacsmirror/copy-as-format
