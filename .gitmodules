@@ -20425,6 +20425,9 @@
 [submodule "scala-mode"]
 	path = mirror/scala-mode
 	url = https://github.com/emacsmirror/scala-mode
+[submodule "scala-repl"]
+	path = mirror/scala-repl
+	url = https://github.com/emacsmirror/scala-repl
 [submodule "scala-ts-mode"]
 	path = mirror/scala-ts-mode
 	url = https://github.com/emacsmirror/scala-ts-mode
