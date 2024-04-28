@@ -3046,6 +3046,9 @@
 [submodule "color-theme-x"]
 	path = mirror/color-theme-x
 	url = https://github.com/emacsmirror/color-theme-x
+[submodule "colorful-mode"]
+	path = mirror/colorful-mode
+	url = https://github.com/emacsmirror/colorful-mode
 [submodule "colorless-themes"]
 	path = mirror/colorless-themes
 	url = https://github.com/emacsmirror/colorless-themes
