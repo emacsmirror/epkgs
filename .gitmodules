@@ -18322,6 +18322,9 @@
 [submodule "plz"]
 	path = mirror/plz
 	url = https://github.com/emacsmirror/plz
+[submodule "plz-event-source"]
+	path = mirror/plz-event-source
+	url = https://github.com/emacsmirror/plz-event-source
 [submodule "plz-see"]
 	path = mirror/plz-see
 	url = https://github.com/emacsmirror/plz-see
