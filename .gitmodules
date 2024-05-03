@@ -1510,6 +1510,9 @@
 [submodule "beacon"]
 	path = mirror/beacon
 	url = https://github.com/emacsmirror/beacon
+[submodule "beancount"]
+	path = mirror/beancount
+	url = https://github.com/emacsmirror/beancount
 [submodule "beans"]
 	path = mirror/beans
 	url = https://github.com/emacsmirror/beans
