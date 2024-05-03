@@ -2255,8 +2255,8 @@
 	path = mirror/calibredb
 	url = https://github.com/emacsmirror/calibredb
 [submodule "call-graph"]
-	path = mirror/call-graph
-	url = https://github.com/emacsmirror/call-graph
+	path = attic/call-graph
+	url = https://github.com/emacsattic/call-graph
 [submodule "calmer-forest-theme"]
 	path = mirror/calmer-forest-theme
 	url = https://github.com/emacsmirror/calmer-forest-theme
