@@ -15797,8 +15797,8 @@
 	path = mirror/num3-mode
 	url = https://github.com/emacsmirror/num3-mode
 [submodule "number"]
-	path = mirror/number
-	url = https://github.com/emacsmirror/number
+	path = attic/number
+	url = https://github.com/emacsattic/number
 [submodule "number-lock"]
 	path = mirror/number-lock
 	url = https://github.com/emacsmirror/number-lock
