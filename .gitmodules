@@ -3439,6 +3439,9 @@
 [submodule "connectivity"]
 	path = attic/connectivity
 	url = https://github.com/emacsattic/connectivity
+[submodule "conner"]
+	path = mirror/conner
+	url = https://github.com/emacsmirror/conner
 [submodule "conspire"]
 	path = attic/conspire
 	url = https://github.com/emacsattic/conspire
