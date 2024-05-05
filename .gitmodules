@@ -3538,6 +3538,9 @@
 [submodule "context-coloring"]
 	path = mirror/context-coloring
 	url = https://github.com/emacsmirror/context-coloring
+[submodule "context-transient"]
+	path = mirror/context-transient
+	url = https://github.com/emacsmirror/context-transient
 [submodule "contextual"]
 	path = mirror/contextual
 	url = https://github.com/emacsmirror/contextual
