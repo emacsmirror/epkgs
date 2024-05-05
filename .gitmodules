@@ -16441,6 +16441,9 @@
 [submodule "org-bookmark-heading"]
 	path = mirror/org-bookmark-heading
 	url = https://github.com/emacsmirror/org-bookmark-heading
+[submodule "org-bookmarks"]
+	path = mirror/org-bookmarks
+	url = https://github.com/emacsmirror/org-bookmarks
 [submodule "org-bookmarks-extractor"]
 	path = mirror/org-bookmarks-extractor
 	url = https://github.com/emacsmirror/org-bookmarks-extractor
