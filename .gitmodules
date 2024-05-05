@@ -25051,6 +25051,9 @@
 [submodule "xit-mode"]
 	path = attic/xit-mode
 	url = https://github.com/emacsattic/xit-mode
+[submodule "xkb-mode"]
+	path = mirror/xkb-mode
+	url = https://github.com/emacsmirror/xkb-mode
 [submodule "xkcd"]
 	path = mirror/xkcd
 	url = https://github.com/emacsmirror/xkcd
