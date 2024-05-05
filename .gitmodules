@@ -14482,6 +14482,9 @@
 [submodule "mindre-theme"]
 	path = mirror/mindre-theme
 	url = https://github.com/emacsmirror/mindre-theme
+[submodule "mindstream"]
+	path = mirror/mindstream
+	url = https://github.com/emacsmirror/mindstream
 [submodule "mine-sweeper-auto"]
 	path = attic/mine-sweeper-auto
 	url = https://github.com/emacsattic/mine-sweeper-auto
