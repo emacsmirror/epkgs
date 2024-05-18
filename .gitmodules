@@ -15886,6 +15886,9 @@
 [submodule "oauth2-request"]
 	path = mirror/oauth2-request
 	url = https://github.com/emacsmirror/oauth2-request
+[submodule "ob-acl2"]
+	path = mirror/ob-acl2
+	url = https://github.com/emacsmirror/ob-acl2
 [submodule "ob-ada-spark"]
 	path = mirror/ob-ada-spark
 	url = https://github.com/emacsmirror/ob-ada-spark
