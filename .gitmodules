@@ -107,8 +107,8 @@
 	path = mirror/ac-capf
 	url = https://github.com/emacsmirror/ac-capf
 [submodule "ac-cider"]
-	path = mirror/ac-cider
-	url = https://github.com/emacsmirror/ac-cider
+	path = attic/ac-cider
+	url = https://github.com/emacsattic/ac-cider
 [submodule "ac-clang"]
 	path = mirror/ac-clang
 	url = https://github.com/emacsmirror/ac-clang
