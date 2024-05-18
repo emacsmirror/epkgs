@@ -3472,6 +3472,9 @@
 [submodule "consult-dash"]
 	path = mirror/consult-dash
 	url = https://github.com/emacsmirror/consult-dash
+[submodule "consult-denote"]
+	path = mirror/consult-denote
+	url = https://github.com/emacsmirror/consult-denote
 [submodule "consult-dir"]
 	path = mirror/consult-dir
 	url = https://github.com/emacsmirror/consult-dir
