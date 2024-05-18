@@ -18763,6 +18763,9 @@
 [submodule "project-buffer-mode"]
 	path = attic/project-buffer-mode
 	url = https://github.com/emacsattic/project-buffer-mode
+[submodule "project-butler"]
+	path = mirror/project-butler
+	url = https://github.com/emacsmirror/project-butler
 [submodule "project-explorer"]
 	path = mirror/project-explorer
 	url = https://github.com/emacsmirror/project-explorer
