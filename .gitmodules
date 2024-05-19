@@ -10747,6 +10747,9 @@
 [submodule "hide-region"]
 	path = mirror/hide-region
 	url = https://github.com/emacsmirror/hide-region
+[submodule "hide-secrets"]
+	path = mirror/hide-secrets
+	url = https://github.com/emacsmirror/hide-secrets
 [submodule "hide-url"]
 	path = mirror/hide-url
 	url = https://github.com/emacsmirror/hide-url
