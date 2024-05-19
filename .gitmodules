@@ -9643,6 +9643,9 @@
 [submodule "gptel"]
 	path = mirror/gptel
 	url = https://github.com/emacsmirror/gptel
+[submodule "gpx"]
+	path = mirror/gpx
+	url = https://github.com/emacsmirror/gpx
 [submodule "grab-and-drag"]
 	path = mirror/grab-and-drag
 	url = https://github.com/emacsmirror/grab-and-drag
