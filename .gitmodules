@@ -13870,6 +13870,9 @@
 [submodule "magit-diff-flycheck"]
 	path = mirror/magit-diff-flycheck
 	url = https://github.com/emacsmirror/magit-diff-flycheck
+[submodule "magit-file-icons"]
+	path = mirror/magit-file-icons
+	url = https://github.com/emacsmirror/magit-file-icons
 [submodule "magit-filenotify"]
 	path = mirror/magit-filenotify
 	url = https://github.com/emacsmirror/magit-filenotify
