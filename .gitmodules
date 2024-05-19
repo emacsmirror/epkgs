@@ -8995,6 +8995,9 @@
 [submodule "gimps-report"]
 	path = attic/gimps-report
 	url = https://github.com/emacsattic/gimps-report
+[submodule "girly-notebook-theme"]
+	path = mirror/girly-notebook-theme
+	url = https://github.com/emacsmirror/girly-notebook-theme
 [submodule "gist"]
 	path = mirror/gist
 	url = https://github.com/emacsmirror/gist
