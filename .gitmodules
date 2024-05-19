@@ -20041,6 +20041,9 @@
 [submodule "rich-minority"]
 	path = mirror/rich-minority
 	url = https://github.com/emacsmirror/rich-minority
+[submodule "ride-mode"]
+	path = mirror/ride-mode
+	url = https://github.com/emacsmirror/ride-mode
 [submodule "riece"]
 	path = mirror/riece
 	url = https://github.com/emacsmirror/riece
