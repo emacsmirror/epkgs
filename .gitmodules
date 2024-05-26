@@ -15685,6 +15685,9 @@
 [submodule "noir-ts-mode"]
 	path = mirror/noir-ts-mode
 	url = https://github.com/emacsmirror/noir-ts-mode
+[submodule "noman"]
+	path = mirror/noman
+	url = https://github.com/emacsmirror/noman
 [submodule "non-edit-mode"]
 	path = mirror/non-edit-mode
 	url = https://github.com/emacsmirror/non-edit-mode
