@@ -21163,6 +21163,9 @@
 [submodule "singlebind"]
 	path = mirror/singlebind
 	url = https://github.com/emacsmirror/singlebind
+[submodule "sink"]
+	path = mirror/sink
+	url = https://github.com/emacsmirror/sink
 [submodule "siri-shortcuts"]
 	path = mirror/siri-shortcuts
 	url = https://github.com/emacsmirror/siri-shortcuts
