@@ -23167,6 +23167,9 @@
 [submodule "toggle-source"]
 	path = attic/toggle-source
 	url = https://github.com/emacsattic/toggle-source
+[submodule "toggle-term"]
+	path = mirror/toggle-term
+	url = https://github.com/emacsmirror/toggle-term
 [submodule "toggle-test"]
 	path = mirror/toggle-test
 	url = https://github.com/emacsmirror/toggle-test
