@@ -2344,6 +2344,9 @@
 [submodule "casual"]
 	path = mirror/casual
 	url = https://github.com/emacsmirror/casual
+[submodule "casual-avy"]
+	path = mirror/casual-avy
+	url = https://github.com/emacsmirror/casual-avy
 [submodule "casual-dired"]
 	path = mirror/casual-dired
 	url = https://github.com/emacsmirror/casual-dired
