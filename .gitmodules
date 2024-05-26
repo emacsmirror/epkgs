@@ -19027,6 +19027,9 @@
 [submodule "puppet-pi-mode"]
 	path = mirror/puppet-pi-mode
 	url = https://github.com/emacsmirror/puppet-pi-mode
+[submodule "puppet-ts-mode"]
+	path = mirror/puppet-ts-mode
+	url = https://github.com/emacsmirror/puppet-ts-mode
 [submodule "purescript-mode"]
 	path = mirror/purescript-mode
 	url = https://github.com/emacsmirror/purescript-mode
