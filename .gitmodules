@@ -7645,6 +7645,9 @@
 [submodule "fira-code-mode"]
 	path = mirror/fira-code-mode
 	url = https://github.com/emacsmirror/fira-code-mode
+[submodule "firebase-rules-mode"]
+	path = mirror/firebase-rules-mode
+	url = https://github.com/emacsmirror/firebase-rules-mode
 [submodule "firecode-theme"]
 	path = mirror/firecode-theme
 	url = https://github.com/emacsmirror/firecode-theme
