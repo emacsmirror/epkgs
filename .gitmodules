@@ -18038,8 +18038,8 @@
 	path = mirror/pgsrc
 	url = https://github.com/emacsmirror/pgsrc
 [submodule "ph"]
-	path = mirror/ph
-	url = https://github.com/emacsmirror/ph
+	path = attic/ph
+	url = https://github.com/emacsattic/ph
 [submodule "phabricator"]
 	path = mirror/phabricator
 	url = https://github.com/emacsmirror/phabricator
