@@ -12818,8 +12818,8 @@
 	path = mirror/kokopelli
 	url = https://github.com/emacsmirror/kokopelli
 [submodule "kolon-mode"]
-	path = mirror/kolon-mode
-	url = https://github.com/emacsmirror/kolon-mode
+	path = attic/kolon-mode
+	url = https://github.com/emacsattic/kolon-mode
 [submodule "konoha-mode"]
 	path = mirror/konoha-mode
 	url = https://github.com/emacsmirror/konoha-mode
