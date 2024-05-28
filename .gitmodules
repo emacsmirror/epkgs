@@ -17582,8 +17582,8 @@
 	path = mirror/package-utils
 	url = https://github.com/emacsmirror/package-utils
 [submodule "packed"]
-	path = mirror/packed
-	url = https://github.com/emacsmirror/packed
+	path = attic/packed
+	url = https://github.com/emacsattic/packed
 [submodule "pacmacs"]
 	path = mirror/pacmacs
 	url = https://github.com/emacsmirror/pacmacs
