@@ -6349,6 +6349,9 @@
 [submodule "enh-ruby-mode"]
 	path = mirror/enh-ruby-mode
 	url = https://github.com/emacsmirror/enh-ruby-mode
+[submodule "enlight"]
+	path = mirror/enlight
+	url = https://github.com/emacsmirror/enlight
 [submodule "enlightened-theme"]
 	path = mirror/enlightened-theme
 	url = https://github.com/emacsmirror/enlightened-theme
