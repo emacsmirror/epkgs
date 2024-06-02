@@ -11218,6 +11218,9 @@
 [submodule "hyperspec"]
 	path = mirror/hyperspec
 	url = https://github.com/emacsmirror/hyperspec
+[submodule "hyperstitional-themes"]
+	path = mirror/hyperstitional-themes
+	url = https://github.com/emacsmirror/hyperstitional-themes
 [submodule "hyphenate"]
 	path = attic/hyphenate
 	url = https://github.com/emacsattic/hyphenate
