@@ -25507,6 +25507,9 @@
 [submodule "zero-input"]
 	path = mirror/zero-input
 	url = https://github.com/emacsmirror/zero-input
+[submodule "zero-input-panel-posframe"]
+	path = mirror/zero-input-panel-posframe
+	url = https://github.com/emacsmirror/zero-input-panel-posframe
 [submodule "zerodark-theme"]
 	path = mirror/zerodark-theme
 	url = https://github.com/emacsmirror/zerodark-theme
