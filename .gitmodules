@@ -4738,6 +4738,9 @@
 [submodule "dired-lsi"]
 	path = mirror/dired-lsi
 	url = https://github.com/emacsmirror/dired-lsi
+[submodule "dired-open-with"]
+	path = mirror/dired-open-with
+	url = https://github.com/emacsmirror/dired-open-with
 [submodule "dired-posframe"]
 	path = mirror/dired-posframe
 	url = https://github.com/emacsmirror/dired-posframe
