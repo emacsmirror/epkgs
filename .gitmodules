@@ -21790,6 +21790,9 @@
 [submodule "splitjoin"]
 	path = mirror/splitjoin
 	url = https://github.com/emacsmirror/splitjoin
+[submodule "splunk-mode"]
+	path = mirror/splunk-mode
+	url = https://github.com/emacsmirror/splunk-mode
 [submodule "spoiler-space"]
 	path = attic/spoiler-space
 	url = https://github.com/emacsattic/spoiler-space
