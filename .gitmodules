@@ -9073,6 +9073,9 @@
 [submodule "git-grep"]
 	path = mirror/git-grep
 	url = https://github.com/emacsmirror/git-grep
+[submodule "git-grep-transient"]
+	path = mirror/git-grep-transient
+	url = https://github.com/emacsmirror/git-grep-transient
 [submodule "git-gutter"]
 	path = mirror/git-gutter
 	url = https://github.com/emacsmirror/git-gutter
