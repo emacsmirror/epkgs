@@ -3907,6 +3907,9 @@
 [submodule "csv-writer"]
 	path = attic/csv-writer
 	url = https://github.com/emacsattic/csv-writer
+[submodule "csv2ledger"]
+	path = mirror/csv2ledger
+	url = https://github.com/emacsmirror/csv2ledger
 [submodule "ct"]
 	path = mirror/ct
 	url = https://github.com/emacsmirror/ct
