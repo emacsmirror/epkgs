@@ -9058,6 +9058,9 @@
 [submodule "git-commit-training-wheels-mode"]
 	path = attic/git-commit-training-wheels-mode
 	url = https://github.com/emacsattic/git-commit-training-wheels-mode
+[submodule "git-commit-ts-mode"]
+	path = mirror/git-commit-ts-mode
+	url = https://github.com/emacsmirror/git-commit-ts-mode
 [submodule "git-dwim"]
 	path = mirror/git-dwim
 	url = https://github.com/emacsmirror/git-dwim
