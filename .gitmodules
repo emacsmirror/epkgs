@@ -18742,6 +18742,9 @@
 [submodule "preview-dvisvgm"]
 	path = mirror/preview-dvisvgm
 	url = https://github.com/emacsmirror/preview-dvisvgm
+[submodule "preview-tailor"]
+	path = mirror/preview-tailor
+	url = https://github.com/emacsmirror/preview-tailor
 [submodule "prg-comment"]
 	path = attic/prg-comment
 	url = https://github.com/emacsattic/prg-comment
