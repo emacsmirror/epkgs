@@ -961,6 +961,9 @@
 [submodule "auctex-cluttex"]
 	path = mirror/auctex-cluttex
 	url = https://github.com/emacsmirror/auctex-cluttex
+[submodule "auctex-cont-latexmk"]
+	path = mirror/auctex-cont-latexmk
+	url = https://github.com/emacsmirror/auctex-cont-latexmk
 [submodule "auctex-latexmk"]
 	path = mirror/auctex-latexmk
 	url = https://github.com/emacsmirror/auctex-latexmk
