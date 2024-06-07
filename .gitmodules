@@ -964,6 +964,9 @@
 [submodule "auctex-cont-latexmk"]
 	path = mirror/auctex-cont-latexmk
 	url = https://github.com/emacsmirror/auctex-cont-latexmk
+[submodule "auctex-label-numbers"]
+	path = mirror/auctex-label-numbers
+	url = https://github.com/emacsmirror/auctex-label-numbers
 [submodule "auctex-latexmk"]
 	path = mirror/auctex-latexmk
 	url = https://github.com/emacsmirror/auctex-latexmk
