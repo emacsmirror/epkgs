@@ -22867,6 +22867,9 @@
 [submodule "tex-math-preview"]
 	path = attic/tex-math-preview
 	url = https://github.com/emacsattic/tex-math-preview
+[submodule "tex-parens"]
+	path = mirror/tex-parens
+	url = https://github.com/emacsmirror/tex-parens
 [submodule "tex-smart-umlauts"]
 	path = mirror/tex-smart-umlauts
 	url = https://github.com/emacsmirror/tex-smart-umlauts
