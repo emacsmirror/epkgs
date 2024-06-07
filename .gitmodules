@@ -18736,6 +18736,9 @@
 [submodule "pretty-symbols"]
 	path = mirror/pretty-symbols
 	url = https://github.com/emacsmirror/pretty-symbols
+[submodule "preview-auto"]
+	path = mirror/preview-auto
+	url = https://github.com/emacsmirror/preview-auto
 [submodule "preview-dvisvgm"]
 	path = mirror/preview-dvisvgm
 	url = https://github.com/emacsmirror/preview-dvisvgm
