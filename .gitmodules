@@ -22861,6 +22861,9 @@
 [submodule "testcover-mark-line"]
 	path = mirror/testcover-mark-line
 	url = https://github.com/emacsmirror/testcover-mark-line
+[submodule "tex-item"]
+	path = mirror/tex-item
+	url = https://github.com/emacsmirror/tex-item
 [submodule "tex-math-preview"]
 	path = attic/tex-math-preview
 	url = https://github.com/emacsattic/tex-math-preview
