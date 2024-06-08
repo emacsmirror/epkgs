@@ -529,6 +529,9 @@
 [submodule "ampc"]
 	path = mirror/ampc
 	url = https://github.com/emacsmirror/ampc
+[submodule "ampl-mode"]
+	path = mirror/ampl-mode
+	url = https://github.com/emacsmirror/ampl-mode
 [submodule "ample-regexps"]
 	path = mirror/ample-regexps
 	url = https://github.com/emacsmirror/ample-regexps
