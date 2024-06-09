@@ -24895,6 +24895,9 @@
 [submodule "with-venv"]
 	path = mirror/with-venv
 	url = https://github.com/emacsmirror/with-venv
+[submodule "wiz"]
+	path = mirror/wiz
+	url = https://github.com/emacsmirror/wiz
 [submodule "wl-list"]
 	path = attic/wl-list
 	url = https://github.com/emacsattic/wl-list
