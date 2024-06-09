@@ -24223,6 +24223,9 @@
 [submodule "vim-region"]
 	path = mirror/vim-region
 	url = https://github.com/emacsmirror/vim-region
+[submodule "vim-tab-bar"]
+	path = mirror/vim-tab-bar
+	url = https://github.com/emacsmirror/vim-tab-bar
 [submodule "vimgolf"]
 	path = mirror/vimgolf
 	url = https://github.com/emacsmirror/vimgolf
