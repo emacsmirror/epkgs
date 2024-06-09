@@ -19411,6 +19411,9 @@
 [submodule "quotes"]
 	path = attic/quotes
 	url = https://github.com/emacsattic/quotes
+[submodule "qwen-chat-shell"]
+	path = mirror/qwen-chat-shell
+	url = https://github.com/emacsmirror/qwen-chat-shell
 [submodule "r-autoyas"]
 	path = mirror/r-autoyas
 	url = https://github.com/emacsmirror/r-autoyas
