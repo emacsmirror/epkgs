@@ -19864,6 +19864,9 @@
 [submodule "regression"]
 	path = attic/regression
 	url = https://github.com/emacsattic/regression
+[submodule "regswap"]
+	path = mirror/regswap
+	url = https://github.com/emacsmirror/regswap
 [submodule "related"]
 	path = mirror/related
 	url = https://github.com/emacsmirror/related
