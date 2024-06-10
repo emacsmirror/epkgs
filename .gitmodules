@@ -10649,8 +10649,8 @@
 	path = mirror/helm-tramp
 	url = https://github.com/emacsmirror/helm-tramp
 [submodule "helm-tree-sitter"]
-	path = mirror/helm-tree-sitter
-	url = https://github.com/emacsmirror/helm-tree-sitter
+	path = attic/helm-tree-sitter
+	url = https://github.com/emacsattic/helm-tree-sitter
 [submodule "helm-twitch"]
 	path = mirror/helm-twitch
 	url = https://github.com/emacsmirror/helm-twitch
@@ -19160,8 +19160,8 @@
 	path = mirror/pygen
 	url = https://github.com/emacsmirror/pygen
 [submodule "pygn-mode"]
-	path = mirror/pygn-mode
-	url = https://github.com/emacsmirror/pygn-mode
+	path = attic/pygn-mode
+	url = https://github.com/emacsattic/pygn-mode
 [submodule "pyim"]
 	path = mirror/pyim
 	url = https://github.com/emacsmirror/pyim
@@ -23429,20 +23429,20 @@
 	path = mirror/tree-mode
 	url = https://github.com/emacsmirror/tree-mode
 [submodule "tree-sitter"]
-	path = mirror/tree-sitter
-	url = https://github.com/emacsmirror/tree-sitter
+	path = attic/tree-sitter
+	url = https://github.com/emacsattic/tree-sitter
 [submodule "tree-sitter-ess-r"]
-	path = mirror/tree-sitter-ess-r
-	url = https://github.com/emacsmirror/tree-sitter-ess-r
+	path = attic/tree-sitter-ess-r
+	url = https://github.com/emacsattic/tree-sitter-ess-r
 [submodule "tree-sitter-indent"]
-	path = mirror/tree-sitter-indent
-	url = https://github.com/emacsmirror/tree-sitter-indent
+	path = attic/tree-sitter-indent
+	url = https://github.com/emacsattic/tree-sitter-indent
 [submodule "tree-sitter-ispell"]
-	path = mirror/tree-sitter-ispell
-	url = https://github.com/emacsmirror/tree-sitter-ispell
+	path = attic/tree-sitter-ispell
+	url = https://github.com/emacsattic/tree-sitter-ispell
 [submodule "tree-sitter-langs"]
-	path = mirror/tree-sitter-langs
-	url = https://github.com/emacsmirror/tree-sitter-langs
+	path = attic/tree-sitter-langs
+	url = https://github.com/emacsattic/tree-sitter-langs
 [submodule "treebundel"]
 	path = mirror/treebundel
 	url = https://github.com/emacsmirror/treebundel
