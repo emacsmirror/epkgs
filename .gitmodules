@@ -23449,6 +23449,9 @@
 [submodule "treesit-auto"]
 	path = mirror/treesit-auto
 	url = https://github.com/emacsmirror/treesit-auto
+[submodule "treesit-ispell"]
+	path = mirror/treesit-ispell
+	url = https://github.com/emacsmirror/treesit-ispell
 [submodule "treeview"]
 	path = mirror/treeview
 	url = https://github.com/emacsmirror/treeview
