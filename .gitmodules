@@ -6011,8 +6011,8 @@
 	path = mirror/elmpd
 	url = https://github.com/emacsmirror/elmpd
 [submodule "elnode"]
-	path = mirror/elnode
-	url = https://github.com/emacsmirror/elnode
+	path = attic/elnode
+	url = https://github.com/emacsattic/elnode
 [submodule "elo"]
 	path = attic/elo
 	url = https://github.com/emacsattic/elo
@@ -16907,8 +16907,8 @@
 	path = mirror/org-present
 	url = https://github.com/emacsmirror/org-present
 [submodule "org-present-remote"]
-	path = mirror/org-present-remote
-	url = https://github.com/emacsmirror/org-present-remote
+	path = attic/org-present-remote
+	url = https://github.com/emacsattic/org-present-remote
 [submodule "org-presie"]
 	path = mirror/org-presie
 	url = https://github.com/emacsmirror/org-presie
@@ -17921,8 +17921,8 @@
 	path = mirror/pebble-mode
 	url = https://github.com/emacsmirror/pebble-mode
 [submodule "peek-mode"]
-	path = mirror/peek-mode
-	url = https://github.com/emacsmirror/peek-mode
+	path = attic/peek-mode
+	url = https://github.com/emacsattic/peek-mode
 [submodule "peep-dired"]
 	path = attic/peep-dired
 	url = https://github.com/emacsattic/peep-dired
