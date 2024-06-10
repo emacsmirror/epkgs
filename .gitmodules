@@ -5971,9 +5971,6 @@
 [submodule "elixir-mode"]
 	path = mirror/elixir-mode
 	url = https://github.com/emacsmirror/elixir-mode
-[submodule "elixir-ts-mode"]
-	path = mirror/elixir-ts-mode
-	url = https://github.com/emacsmirror/elixir-ts-mode
 [submodule "elixir-yasnippets"]
 	path = mirror/elixir-yasnippets
 	url = https://github.com/emacsmirror/elixir-yasnippets
@@ -10111,9 +10108,6 @@
 [submodule "hebeng"]
 	path = attic/hebeng
 	url = https://github.com/emacsattic/hebeng
-[submodule "heex-ts-mode"]
-	path = mirror/heex-ts-mode
-	url = https://github.com/emacsmirror/heex-ts-mode
 [submodule "helm"]
 	path = mirror/helm
 	url = https://github.com/emacsmirror/helm
@@ -13795,9 +13789,6 @@
 [submodule "lua-mode"]
 	path = mirror/lua-mode
 	url = https://github.com/emacsmirror/lua-mode
-[submodule "lua-ts-mode"]
-	path = mirror/lua-ts-mode
-	url = https://github.com/emacsmirror/lua-ts-mode
 [submodule "luarocks"]
 	path = mirror/luarocks
 	url = https://github.com/emacsmirror/luarocks
@@ -17932,9 +17923,6 @@
 [submodule "peertube"]
 	path = mirror/peertube
 	url = https://github.com/emacsmirror/peertube
-[submodule "peg"]
-	path = mirror/peg
-	url = https://github.com/emacsmirror/peg
 [submodule "pelican-mode"]
 	path = mirror/pelican-mode
 	url = https://github.com/emacsmirror/pelican-mode
