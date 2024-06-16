@@ -14881,6 +14881,9 @@
 [submodule "mosey"]
 	path = mirror/mosey
 	url = https://github.com/emacsmirror/mosey
+[submodule "most-faces"]
+	path = mirror/most-faces
+	url = https://github.com/emacsmirror/most-faces
 [submodule "most-used-words"]
 	path = mirror/most-used-words
 	url = https://github.com/emacsmirror/most-used-words
