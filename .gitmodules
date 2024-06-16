@@ -13555,6 +13555,9 @@
 [submodule "lockfile-mode"]
 	path = mirror/lockfile-mode
 	url = https://github.com/emacsmirror/lockfile-mode
+[submodule "loco"]
+	path = mirror/loco
+	url = https://github.com/emacsmirror/loco
 [submodule "lodgeit"]
 	path = mirror/lodgeit
 	url = https://github.com/emacsmirror/lodgeit
