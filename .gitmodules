@@ -2362,6 +2362,9 @@
 [submodule "casual-info"]
 	path = mirror/casual-info
 	url = https://github.com/emacsmirror/casual-info
+[submodule "casual-isearch"]
+	path = mirror/casual-isearch
+	url = https://github.com/emacsmirror/casual-isearch
 [submodule "cat-safe"]
 	path = attic/cat-safe
 	url = https://github.com/emacsattic/cat-safe
@@ -2383,9 +2386,6 @@
 [submodule "cc-chainsaw"]
 	path = mirror/cc-chainsaw
 	url = https://github.com/emacsmirror/cc-chainsaw
-[submodule "cc-isearch-menu"]
-	path = mirror/cc-isearch-menu
-	url = https://github.com/emacsmirror/cc-isearch-menu
 [submodule "cc-mode+"]
 	path = mirror/cc-mode+
 	url = https://github.com/emacsmirror/cc-mode-plus
