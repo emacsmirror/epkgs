@@ -17128,6 +17128,9 @@
 [submodule "org-transclusion"]
 	path = mirror/org-transclusion
 	url = https://github.com/emacsmirror/org-transclusion
+[submodule "org-transclusion-http"]
+	path = mirror/org-transclusion-http
+	url = https://github.com/emacsmirror/org-transclusion-http
 [submodule "org-transform-tree-table"]
 	path = mirror/org-transform-tree-table
 	url = https://github.com/emacsmirror/org-transform-tree-table
