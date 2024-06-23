@@ -11857,6 +11857,9 @@
 [submodule "ios-config-mode"]
 	path = mirror/ios-config-mode
 	url = https://github.com/emacsmirror/ios-config-mode
+[submodule "iosevka-theme"]
+	path = mirror/iosevka-theme
+	url = https://github.com/emacsmirror/iosevka-theme
 [submodule "iota"]
 	path = mirror/iota
 	url = https://github.com/emacsmirror/iota
