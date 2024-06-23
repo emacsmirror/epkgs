@@ -23914,6 +23914,9 @@
 [submodule "unparen"]
 	path = mirror/unparen
 	url = https://github.com/emacsmirror/unparen
+[submodule "unspecified-theme"]
+	path = mirror/unspecified-theme
+	url = https://github.com/emacsmirror/unspecified-theme
 [submodule "untappd"]
 	path = mirror/untappd
 	url = https://github.com/emacsmirror/untappd
