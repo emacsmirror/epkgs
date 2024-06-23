@@ -14413,6 +14413,9 @@
 [submodule "meow"]
 	path = mirror/meow
 	url = https://github.com/emacsmirror/meow
+[submodule "meow-tree-sitter"]
+	path = mirror/meow-tree-sitter
+	url = https://github.com/emacsmirror/meow-tree-sitter
 [submodule "merlin"]
 	path = mirror/merlin
 	url = https://github.com/emacsmirror/merlin
