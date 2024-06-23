@@ -13459,6 +13459,9 @@
 [submodule "literate-elisp"]
 	path = mirror/literate-elisp
 	url = https://github.com/emacsmirror/literate-elisp
+[submodule "literate-scratch"]
+	path = mirror/literate-scratch
+	url = https://github.com/emacsmirror/literate-scratch
 [submodule "litex-mode"]
 	path = mirror/litex-mode
 	url = https://github.com/emacsmirror/litex-mode
