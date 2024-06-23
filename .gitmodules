@@ -8836,6 +8836,9 @@
 [submodule "gdb-shell"]
 	path = attic/gdb-shell
 	url = https://github.com/emacsattic/gdb-shell
+[submodule "gdb-x"]
+	path = mirror/gdb-x
+	url = https://github.com/emacsmirror/gdb-x
 [submodule "gds"]
 	path = attic/gds
 	url = https://github.com/emacsattic/gds
