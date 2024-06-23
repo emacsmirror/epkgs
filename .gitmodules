@@ -23275,6 +23275,9 @@
 [submodule "tommyh-theme"]
 	path = mirror/tommyh-theme
 	url = https://github.com/emacsmirror/tommyh-theme
+[submodule "tomorrow-night-deepblue-theme"]
+	path = mirror/tomorrow-night-deepblue-theme
+	url = https://github.com/emacsmirror/tomorrow-night-deepblue-theme
 [submodule "tongbu"]
 	path = mirror/tongbu
 	url = https://github.com/emacsmirror/tongbu
