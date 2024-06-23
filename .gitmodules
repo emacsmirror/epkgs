@@ -6871,6 +6871,9 @@
 [submodule "evelnote"]
 	path = mirror/evelnote
 	url = https://github.com/emacsmirror/evelnote
+[submodule "evenok"]
+	path = mirror/evenok
+	url = https://github.com/emacsmirror/evenok
 [submodule "everlasting-scratch"]
 	path = mirror/everlasting-scratch
 	url = https://github.com/emacsmirror/everlasting-scratch
