@@ -13936,6 +13936,9 @@
 [submodule "magit-gitflow"]
 	path = mirror/magit-gitflow
 	url = https://github.com/emacsmirror/magit-gitflow
+[submodule "magit-gitlab"]
+	path = mirror/magit-gitlab
+	url = https://github.com/emacsmirror/magit-gitlab
 [submodule "magit-gptcommit"]
 	path = mirror/magit-gptcommit
 	url = https://github.com/emacsmirror/magit-gptcommit
