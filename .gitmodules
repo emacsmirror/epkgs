@@ -5179,6 +5179,9 @@
 [submodule "drupal-spell"]
 	path = mirror/drupal-spell
 	url = https://github.com/emacsmirror/drupal-spell
+[submodule "dslide"]
+	path = mirror/dslide
+	url = https://github.com/emacsmirror/dslide
 [submodule "dsvn"]
 	path = mirror/dsvn
 	url = https://github.com/emacsmirror/dsvn
