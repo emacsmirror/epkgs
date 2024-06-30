@@ -19297,6 +19297,9 @@
 [submodule "pythonic"]
 	path = mirror/pythonic
 	url = https://github.com/emacsmirror/pythonic
+[submodule "pythontest"]
+	path = mirror/pythontest
+	url = https://github.com/emacsmirror/pythontest
 [submodule "pyvenv"]
 	path = mirror/pyvenv
 	url = https://github.com/emacsmirror/pyvenv
