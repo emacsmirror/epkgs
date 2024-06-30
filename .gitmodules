@@ -24703,6 +24703,9 @@
 [submodule "wgsl-mode"]
 	path = mirror/wgsl-mode
 	url = https://github.com/emacsmirror/wgsl-mode
+[submodule "whaler"]
+	path = mirror/whaler
+	url = https://github.com/emacsmirror/whaler
 [submodule "what-domain"]
 	path = attic/what-domain
 	url = https://github.com/emacsattic/what-domain
