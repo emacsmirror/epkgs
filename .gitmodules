@@ -2368,6 +2368,9 @@
 [submodule "casual-lib"]
 	path = mirror/casual-lib
 	url = https://github.com/emacsmirror/casual-lib
+[submodule "casual-suite"]
+	path = mirror/casual-suite
+	url = https://github.com/emacsmirror/casual-suite
 [submodule "cat-safe"]
 	path = attic/cat-safe
 	url = https://github.com/emacsattic/cat-safe
