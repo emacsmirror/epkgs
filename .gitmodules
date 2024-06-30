@@ -24716,8 +24716,8 @@
 	path = attic/which
 	url = https://github.com/emacsattic/which
 [submodule "which-key"]
-	path = mirror/which-key
-	url = https://github.com/emacsmirror/which-key
+	path = attic/which-key
+	url = https://github.com/emacsattic/which-key
 [submodule "which-key-posframe"]
 	path = mirror/which-key-posframe
 	url = https://github.com/emacsmirror/which-key-posframe
