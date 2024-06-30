@@ -22789,6 +22789,9 @@
 [submodule "template"]
 	path = attic/template
 	url = https://github.com/emacsattic/template
+[submodule "template-dumper"]
+	path = mirror/template-dumper
+	url = https://github.com/emacsmirror/template-dumper
 [submodule "template-overlays"]
 	path = mirror/template-overlays
 	url = https://github.com/emacsmirror/template-overlays
