@@ -23107,6 +23107,9 @@
 [submodule "timeclock-x"]
 	path = mirror/timeclock-x
 	url = https://github.com/emacsmirror/timeclock-x
+[submodule "timeout"]
+	path = mirror/timeout
+	url = https://github.com/emacsmirror/timeout
 [submodule "timer+"]
 	path = mirror/timer+
 	url = https://github.com/emacsmirror/timer-plus
