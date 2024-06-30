@@ -14965,6 +14965,9 @@
 [submodule "mowedline"]
 	path = mirror/mowedline
 	url = https://github.com/emacsmirror/mowedline
+[submodule "mowie"]
+	path = mirror/mowie
+	url = https://github.com/emacsmirror/mowie
 [submodule "moz"]
 	path = attic/moz
 	url = https://github.com/emacsattic/moz
