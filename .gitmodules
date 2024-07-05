@@ -16405,9 +16405,9 @@
 [submodule "opencc"]
 	path = mirror/opencc
 	url = https://github.com/emacsmirror/opencc
-[submodule "opencl-mode"]
-	path = mirror/opencl-mode
-	url = https://github.com/emacsmirror/opencl-mode
+[submodule "opencl-c-mode"]
+	path = mirror/opencl-c-mode
+	url = https://github.com/emacsmirror/opencl-c-mode
 [submodule "opener"]
 	path = mirror/opener
 	url = https://github.com/emacsmirror/opener
