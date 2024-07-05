@@ -20734,6 +20734,9 @@
 [submodule "sdlang-mode"]
 	path = mirror/sdlang-mode
 	url = https://github.com/emacsmirror/sdlang-mode
+[submodule "sdml-mode"]
+	path = mirror/sdml-mode
+	url = https://github.com/emacsmirror/sdml-mode
 [submodule "search-engines"]
 	path = attic/search-engines
 	url = https://github.com/emacsattic/search-engines
