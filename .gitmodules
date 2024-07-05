@@ -2359,6 +2359,9 @@
 [submodule "casual-dired"]
 	path = mirror/casual-dired
 	url = https://github.com/emacsmirror/casual-dired
+[submodule "casual-ibuffer"]
+	path = mirror/casual-ibuffer
+	url = https://github.com/emacsmirror/casual-ibuffer
 [submodule "casual-info"]
 	path = mirror/casual-info
 	url = https://github.com/emacsmirror/casual-info
