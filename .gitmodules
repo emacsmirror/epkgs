@@ -6676,6 +6676,9 @@
 [submodule "eshell-bookmark"]
 	path = mirror/eshell-bookmark
 	url = https://github.com/emacsmirror/eshell-bookmark
+[submodule "eshell-command-not-found"]
+	path = mirror/eshell-command-not-found
+	url = https://github.com/emacsmirror/eshell-command-not-found
 [submodule "eshell-did-you-mean"]
 	path = mirror/eshell-did-you-mean
 	url = https://github.com/emacsmirror/eshell-did-you-mean
