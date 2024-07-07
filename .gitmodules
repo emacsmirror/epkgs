@@ -24415,6 +24415,9 @@
 [submodule "vterm"]
 	path = mirror/vterm
 	url = https://github.com/emacsmirror/vterm
+[submodule "vterm-hotkey"]
+	path = mirror/vterm-hotkey
+	url = https://github.com/emacsmirror/vterm-hotkey
 [submodule "vterm-toggle"]
 	path = mirror/vterm-toggle
 	url = https://github.com/emacsmirror/vterm-toggle
