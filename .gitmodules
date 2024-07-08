@@ -2659,6 +2659,9 @@
 [submodule "chruby"]
 	path = mirror/chruby
 	url = https://github.com/emacsmirror/chruby
+[submodule "chyla-dark-theme"]
+	path = mirror/chyla-dark-theme
+	url = https://github.com/emacsmirror/chyla-dark-theme
 [submodule "chyla-theme"]
 	path = mirror/chyla-theme
 	url = https://github.com/emacsmirror/chyla-theme
