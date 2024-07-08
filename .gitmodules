@@ -2767,6 +2767,9 @@
 [submodule "clang-format+"]
 	path = mirror/clang-format+
 	url = https://github.com/emacsmirror/clang-format-plus
+[submodule "clang-format-lite"]
+	path = mirror/clang-format-lite
+	url = https://github.com/emacsmirror/clang-format-lite
 [submodule "clang-lookup"]
 	path = mirror/clang-lookup
 	url = https://github.com/emacsmirror/clang-lookup
