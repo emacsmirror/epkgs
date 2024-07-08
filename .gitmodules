@@ -5830,6 +5830,9 @@
 [submodule "elcouch"]
 	path = mirror/elcouch
 	url = https://github.com/emacsmirror/elcouch
+[submodule "elcute"]
+	path = mirror/elcute
+	url = https://github.com/emacsmirror/elcute
 [submodule "eldav"]
 	path = attic/eldav
 	url = https://github.com/emacsattic/eldav
