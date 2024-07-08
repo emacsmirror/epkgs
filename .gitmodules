@@ -21067,6 +21067,9 @@
 [submodule "short-lambda"]
 	path = attic/short-lambda
 	url = https://github.com/emacsattic/short-lambda
+[submodule "shortcuts-mode"]
+	path = mirror/shortcuts-mode
+	url = https://github.com/emacsmirror/shortcuts-mode
 [submodule "shoulda"]
 	path = mirror/shoulda
 	url = https://github.com/emacsmirror/shoulda
