@@ -5510,8 +5510,8 @@
 	path = mirror/edb
 	url = https://github.com/emacsmirror/edb
 [submodule "edbc"]
-	path = mirror/edbc
-	url = https://github.com/emacsmirror/edbc
+	path = attic/edbc
+	url = https://github.com/emacsattic/edbc
 [submodule "edbi"]
 	path = mirror/edbi
 	url = https://github.com/emacsmirror/edbi
