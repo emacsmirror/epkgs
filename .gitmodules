@@ -3196,6 +3196,9 @@
 [submodule "common-lisp-snippets"]
 	path = mirror/common-lisp-snippets
 	url = https://github.com/emacsmirror/common-lisp-snippets
+[submodule "communinfo"]
+	path = mirror/communinfo
+	url = https://github.com/emacsmirror/communinfo
 [submodule "compact-docstrings"]
 	path = mirror/compact-docstrings
 	url = https://github.com/emacsmirror/compact-docstrings
