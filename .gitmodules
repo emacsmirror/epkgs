@@ -2371,6 +2371,9 @@
 [submodule "casual-lib"]
 	path = mirror/casual-lib
 	url = https://github.com/emacsmirror/casual-lib
+[submodule "casual-re-builder"]
+	path = mirror/casual-re-builder
+	url = https://github.com/emacsmirror/casual-re-builder
 [submodule "casual-suite"]
 	path = mirror/casual-suite
 	url = https://github.com/emacsmirror/casual-suite
