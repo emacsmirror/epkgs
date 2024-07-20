@@ -4039,6 +4039,9 @@
 [submodule "cursor-test"]
 	path = mirror/cursor-test
 	url = https://github.com/emacsmirror/cursor-test
+[submodule "cursor-undo"]
+	path = mirror/cursor-undo
+	url = https://github.com/emacsmirror/cursor-undo
 [submodule "cursory"]
 	path = mirror/cursory
 	url = https://github.com/emacsmirror/cursory
