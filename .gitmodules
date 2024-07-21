@@ -7033,6 +7033,9 @@
 [submodule "evil-multiedit"]
 	path = mirror/evil-multiedit
 	url = https://github.com/emacsmirror/evil-multiedit
+[submodule "evil-neo"]
+	path = mirror/evil-neo
+	url = https://github.com/emacsmirror/evil-neo
 [submodule "evil-nerd-commenter"]
 	path = mirror/evil-nerd-commenter
 	url = https://github.com/emacsmirror/evil-nerd-commenter
