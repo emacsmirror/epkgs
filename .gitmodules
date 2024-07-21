@@ -10603,6 +10603,9 @@
 [submodule "helm-rhythmbox"]
 	path = mirror/helm-rhythmbox
 	url = https://github.com/emacsmirror/helm-rhythmbox
+[submodule "helm-roam"]
+	path = mirror/helm-roam
+	url = https://github.com/emacsmirror/helm-roam
 [submodule "helm-robe"]
 	path = mirror/helm-robe
 	url = https://github.com/emacsmirror/helm-robe
