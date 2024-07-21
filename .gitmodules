@@ -19693,6 +19693,9 @@
 [submodule "readline-complete"]
 	path = mirror/readline-complete
 	url = https://github.com/emacsmirror/readline-complete
+[submodule "ready-player"]
+	path = mirror/ready-player
+	url = https://github.com/emacsmirror/ready-player
 [submodule "real-auto-save"]
 	path = mirror/real-auto-save
 	url = https://github.com/emacsmirror/real-auto-save
