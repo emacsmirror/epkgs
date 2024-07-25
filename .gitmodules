@@ -15667,6 +15667,9 @@
 [submodule "nix-update"]
 	path = mirror/nix-update
 	url = https://github.com/emacsmirror/nix-update
+[submodule "nixfmt"]
+	path = mirror/nixfmt
+	url = https://github.com/emacsmirror/nixfmt
 [submodule "nixos-options"]
 	path = mirror/nixos-options
 	url = https://github.com/emacsmirror/nixos-options
