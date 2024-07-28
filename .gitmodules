@@ -259,6 +259,9 @@
 [submodule "acme-theme"]
 	path = mirror/acme-theme
 	url = https://github.com/emacsmirror/acme-theme
+[submodule "act-mode"]
+	path = mirror/act-mode
+	url = https://github.com/emacsmirror/act-mode
 [submodule "actionscript-mode"]
 	path = mirror/actionscript-mode
 	url = https://github.com/emacsmirror/actionscript-mode
