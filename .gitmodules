@@ -2356,6 +2356,9 @@
 [submodule "casual-avy"]
 	path = mirror/casual-avy
 	url = https://github.com/emacsmirror/casual-avy
+[submodule "casual-bookmarks"]
+	path = mirror/casual-bookmarks
+	url = https://github.com/emacsmirror/casual-bookmarks
 [submodule "casual-calc"]
 	path = mirror/casual-calc
 	url = https://github.com/emacsmirror/casual-calc
