@@ -10156,6 +10156,9 @@
 [submodule "hebeng"]
 	path = attic/hebeng
 	url = https://github.com/emacsattic/hebeng
+[submodule "helix-theme"]
+	path = mirror/helix-theme
+	url = https://github.com/emacsmirror/helix-theme
 [submodule "helm"]
 	path = mirror/helm
 	url = https://github.com/emacsmirror/helm
