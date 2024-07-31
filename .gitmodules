@@ -13502,8 +13502,8 @@
 	path = mirror/litanize
 	url = https://github.com/emacsmirror/litanize
 [submodule "litecoin-ticker"]
-	path = mirror/litecoin-ticker
-	url = https://github.com/emacsmirror/litecoin-ticker
+	path = attic/litecoin-ticker
+	url = https://github.com/emacsattic/litecoin-ticker
 [submodule "literal-string"]
 	path = mirror/literal-string
 	url = https://github.com/emacsmirror/literal-string
