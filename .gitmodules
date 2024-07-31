@@ -23711,8 +23711,8 @@
 	path = attic/two-mode-mode
 	url = https://github.com/emacsattic/two-mode-mode
 [submodule "twtxt"]
-	path = attic/twtxt
-	url = https://github.com/emacsattic/twtxt
+	path = mirror/twtxt
+	url = https://github.com/emacsmirror/twtxt
 [submodule "tx-mode"]
 	path = mirror/tx-mode
 	url = https://github.com/emacsmirror/tx-mode
