@@ -17840,8 +17840,8 @@
 	path = mirror/pass
 	url = https://github.com/emacsmirror/pass
 [submodule "passmm"]
-	path = mirror/passmm
-	url = https://github.com/emacsmirror/passmm
+	path = attic/passmm
+	url = https://github.com/emacsattic/passmm
 [submodule "passthword"]
 	path = attic/passthword
 	url = https://github.com/emacsattic/passthword
