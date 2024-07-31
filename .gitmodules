@@ -25463,8 +25463,8 @@
 	path = mirror/yaml-tomato
 	url = https://github.com/emacsmirror/yaml-tomato
 [submodule "yammer"]
-	path = mirror/yammer
-	url = https://github.com/emacsmirror/yammer
+	path = attic/yammer
+	url = https://github.com/emacsattic/yammer
 [submodule "yandex-weather"]
 	path = attic/yandex-weather
 	url = https://github.com/emacsattic/yandex-weather
