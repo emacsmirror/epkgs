@@ -5431,6 +5431,9 @@
 [submodule "easy-todo"]
 	path = mirror/easy-todo
 	url = https://github.com/emacsmirror/easy-todo
+[submodule "easysession"]
+	path = mirror/easysession
+	url = https://github.com/emacsmirror/easysession
 [submodule "eat"]
 	path = mirror/eat
 	url = https://github.com/emacsmirror/eat
