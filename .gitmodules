@@ -6113,8 +6113,8 @@
 	path = mirror/elscreen-fr
 	url = https://github.com/emacsmirror/elscreen-fr
 [submodule "elscreen-mew"]
-	path = mirror/elscreen-mew
-	url = https://github.com/emacsmirror/elscreen-mew
+	path = attic/elscreen-mew
+	url = https://github.com/emacsattic/elscreen-mew
 [submodule "elscreen-multi-term"]
 	path = mirror/elscreen-multi-term
 	url = https://github.com/emacsmirror/elscreen-multi-term
