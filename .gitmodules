@@ -9230,8 +9230,8 @@
 	path = mirror/github-linguist
 	url = https://github.com/emacsmirror/github-linguist
 [submodule "github-modern-theme"]
-	path = mirror/github-modern-theme
-	url = https://github.com/emacsmirror/github-modern-theme
+	path = attic/github-modern-theme
+	url = https://github.com/emacsattic/github-modern-theme
 [submodule "github-notifier"]
 	path = mirror/github-notifier
 	url = https://github.com/emacsmirror/github-notifier
