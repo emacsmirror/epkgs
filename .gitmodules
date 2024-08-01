@@ -25781,8 +25781,8 @@
 	path = mirror/zuul
 	url = https://github.com/emacsmirror/zuul
 [submodule "zweilight-theme"]
-	path = mirror/zweilight-theme
-	url = https://github.com/emacsmirror/zweilight-theme
+	path = attic/zweilight-theme
+	url = https://github.com/emacsattic/zweilight-theme
 [submodule "zwiebel"]
 	path = mirror/zwiebel
 	url = https://github.com/emacsmirror/zwiebel
