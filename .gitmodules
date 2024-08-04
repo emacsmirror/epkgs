@@ -17446,6 +17446,9 @@
 [submodule "outline+"]
 	path = mirror/outline+
 	url = https://github.com/emacsmirror/outline-plus
+[submodule "outline-indent"]
+	path = mirror/outline-indent
+	url = https://github.com/emacsmirror/outline-indent
 [submodule "outline-m"]
 	path = attic/outline-m
 	url = https://github.com/emacsattic/outline-m
