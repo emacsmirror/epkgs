@@ -12943,6 +12943,9 @@
 [submodule "kubectx-mode"]
 	path = mirror/kubectx-mode
 	url = https://github.com/emacsmirror/kubectx-mode
+[submodule "kubed"]
+	path = mirror/kubed
+	url = https://github.com/emacsmirror/kubed
 [submodule "kubedoc"]
 	path = mirror/kubedoc
 	url = https://github.com/emacsmirror/kubedoc
