@@ -23815,6 +23815,9 @@
 [submodule "ul"]
 	path = mirror/ul
 	url = https://github.com/emacsmirror/ul
+[submodule "ulisp-mode"]
+	path = mirror/ulisp-mode
+	url = https://github.com/emacsmirror/ulisp-mode
 [submodule "ulisp-repl"]
 	path = mirror/ulisp-repl
 	url = https://github.com/emacsmirror/ulisp-repl
