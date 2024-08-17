@@ -22907,8 +22907,8 @@
 	path = mirror/termbright-theme
 	url = https://github.com/emacsmirror/termbright-theme
 [submodule "terminal-focus-reporting"]
-	path = mirror/terminal-focus-reporting
-	url = https://github.com/emacsmirror/terminal-focus-reporting
+	path = attic/terminal-focus-reporting
+	url = https://github.com/emacsattic/terminal-focus-reporting
 [submodule "terminal-here"]
 	path = mirror/terminal-here
 	url = https://github.com/emacsmirror/terminal-here
