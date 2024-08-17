@@ -17576,8 +17576,8 @@
 	path = mirror/ox-pandoc
 	url = https://github.com/emacsmirror/ox-pandoc
 [submodule "ox-pukiwiki"]
-	path = mirror/ox-pukiwiki
-	url = https://github.com/emacsmirror/ox-pukiwiki
+	path = attic/ox-pukiwiki
+	url = https://github.com/emacsattic/ox-pukiwiki
 [submodule "ox-qmd"]
 	path = mirror/ox-qmd
 	url = https://github.com/emacsmirror/ox-qmd
