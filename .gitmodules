@@ -16564,6 +16564,9 @@
 [submodule "org-auto-tangle"]
 	path = mirror/org-auto-tangle
 	url = https://github.com/emacsmirror/org-auto-tangle
+[submodule "org-autoexport"]
+	path = mirror/org-autoexport
+	url = https://github.com/emacsmirror/org-autoexport
 [submodule "org-autolist"]
 	path = mirror/org-autolist
 	url = https://github.com/emacsmirror/org-autolist
