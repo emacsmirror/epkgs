@@ -18583,6 +18583,9 @@
 [submodule "poly-erb"]
 	path = mirror/poly-erb
 	url = https://github.com/emacsmirror/poly-erb
+[submodule "poly-gams"]
+	path = mirror/poly-gams
+	url = https://github.com/emacsmirror/poly-gams
 [submodule "poly-markdown"]
 	path = mirror/poly-markdown
 	url = https://github.com/emacsmirror/poly-markdown
