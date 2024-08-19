@@ -4678,6 +4678,9 @@
 [submodule "dionysos"]
 	path = mirror/dionysos
 	url = https://github.com/emacsmirror/dionysos
+[submodule "dir-config"]
+	path = mirror/dir-config
+	url = https://github.com/emacsmirror/dir-config
 [submodule "dir-locals"]
 	path = attic/dir-locals
 	url = https://github.com/emacsattic/dir-locals
