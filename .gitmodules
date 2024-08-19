@@ -9307,6 +9307,9 @@
 [submodule "gle-mode"]
 	path = mirror/gle-mode
 	url = https://github.com/emacsmirror/gle-mode
+[submodule "gleam-ts-mode"]
+	path = mirror/gleam-ts-mode
+	url = https://github.com/emacsmirror/gleam-ts-mode
 [submodule "glimpse"]
 	path = mirror/glimpse
 	url = https://github.com/emacsmirror/glimpse
