@@ -13726,6 +13726,9 @@
 [submodule "lox-mode"]
 	path = mirror/lox-mode
 	url = https://github.com/emacsmirror/lox-mode
+[submodule "lox-ts-mode"]
+	path = mirror/lox-ts-mode
+	url = https://github.com/emacsmirror/lox-ts-mode
 [submodule "lpc-mode"]
 	path = attic/lpc-mode
 	url = https://github.com/emacsattic/lpc-mode
