@@ -17878,6 +17878,9 @@
 [submodule "password-store"]
 	path = mirror/password-store
 	url = https://github.com/emacsmirror/password-store
+[submodule "password-store-menu"]
+	path = mirror/password-store-menu
+	url = https://github.com/emacsmirror/password-store-menu
 [submodule "password-store-otp"]
 	path = mirror/password-store-otp
 	url = https://github.com/emacsmirror/password-store-otp
