@@ -21920,8 +21920,8 @@
 	path = mirror/spinner
 	url = https://github.com/emacsmirror/spinner
 [submodule "spiral"]
-	path = mirror/spiral
-	url = https://github.com/emacsmirror/spiral
+	path = attic/spiral
+	url = https://github.com/emacsattic/spiral
 [submodule "split-root"]
 	path = mirror/split-root
 	url = https://github.com/emacsmirror/split-root
