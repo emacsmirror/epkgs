@@ -20299,6 +20299,9 @@
 [submodule "robots-txt-mode"]
 	path = mirror/robots-txt-mode
 	url = https://github.com/emacsmirror/robots-txt-mode
+[submodule "roc-ts-mode"]
+	path = mirror/roc-ts-mode
+	url = https://github.com/emacsmirror/roc-ts-mode
 [submodule "roguel-ike"]
 	path = mirror/roguel-ike
 	url = https://github.com/emacsmirror/roguel-ike
