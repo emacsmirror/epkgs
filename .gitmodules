@@ -829,6 +829,9 @@
 [submodule "arscanner"]
 	path = attic/arscanner
 	url = https://github.com/emacsattic/arscanner
+[submodule "arscript-mode"]
+	path = mirror/arscript-mode
+	url = https://github.com/emacsmirror/arscript-mode
 [submodule "artbollocks-mode"]
 	path = mirror/artbollocks-mode
 	url = https://github.com/emacsmirror/artbollocks-mode
