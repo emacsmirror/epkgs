@@ -17470,6 +17470,9 @@
 [submodule "otp"]
 	path = attic/otp
 	url = https://github.com/emacsattic/otp
+[submodule "otpp"]
+	path = mirror/otpp
+	url = https://github.com/emacsmirror/otpp
 [submodule "outline+"]
 	path = mirror/outline+
 	url = https://github.com/emacsmirror/outline-plus
