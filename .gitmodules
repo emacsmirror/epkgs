@@ -2356,6 +2356,9 @@
 [submodule "caskxy"]
 	path = mirror/caskxy
 	url = https://github.com/emacsmirror/caskxy
+[submodule "casual-agenda"]
+	path = mirror/casual-agenda
+	url = https://github.com/emacsmirror/casual-agenda
 [submodule "casual-avy"]
 	path = mirror/casual-avy
 	url = https://github.com/emacsmirror/casual-avy
