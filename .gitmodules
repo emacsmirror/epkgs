@@ -8239,6 +8239,9 @@
 [submodule "flymake-actionlint"]
 	path = mirror/flymake-actionlint
 	url = https://github.com/emacsmirror/flymake-actionlint
+[submodule "flymake-bashate"]
+	path = mirror/flymake-bashate
+	url = https://github.com/emacsmirror/flymake-bashate
 [submodule "flymake-clippy"]
 	path = mirror/flymake-clippy
 	url = https://github.com/emacsmirror/flymake-clippy
