@@ -21157,6 +21157,9 @@
 [submodule "show-eol"]
 	path = mirror/show-eol
 	url = https://github.com/emacsmirror/show-eol
+[submodule "show-font"]
+	path = mirror/show-font
+	url = https://github.com/emacsmirror/show-font
 [submodule "show-font-mode"]
 	path = mirror/show-font-mode
 	url = https://github.com/emacsmirror/show-font-mode
