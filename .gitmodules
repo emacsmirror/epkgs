@@ -2389,6 +2389,9 @@
 [submodule "casual-suite"]
 	path = mirror/casual-suite
 	url = https://github.com/emacsmirror/casual-suite
+[submodule "casual-symbol-overlay"]
+	path = mirror/casual-symbol-overlay
+	url = https://github.com/emacsmirror/casual-symbol-overlay
 [submodule "cat-safe"]
 	path = attic/cat-safe
 	url = https://github.com/emacsattic/cat-safe
