@@ -10111,6 +10111,9 @@
 [submodule "haskell-tng-mode"]
 	path = mirror/haskell-tng-mode
 	url = https://github.com/emacsmirror/haskell-tng-mode
+[submodule "haskell-ts-mode"]
+	path = mirror/haskell-ts-mode
+	url = https://github.com/emacsmirror/haskell-ts-mode
 [submodule "hasklig-mode"]
 	path = mirror/hasklig-mode
 	url = https://github.com/emacsmirror/hasklig-mode
