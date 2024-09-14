@@ -12685,6 +12685,9 @@
 [submodule "kana"]
 	path = mirror/kana
 	url = https://github.com/emacsmirror/kana
+[submodule "kanagawa-themes"]
+	path = mirror/kanagawa-themes
+	url = https://github.com/emacsmirror/kanagawa-themes
 [submodule "kanban"]
 	path = mirror/kanban
 	url = https://github.com/emacsmirror/kanban
