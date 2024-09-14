@@ -22999,6 +22999,9 @@
 [submodule "test-framework"]
 	path = mirror/test-framework
 	url = https://github.com/emacsmirror/test-framework
+[submodule "test-hdl"]
+	path = mirror/test-hdl
+	url = https://github.com/emacsmirror/test-hdl
 [submodule "test-kitchen"]
 	path = attic/test-kitchen
 	url = https://github.com/emacsattic/test-kitchen
