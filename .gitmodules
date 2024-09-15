@@ -16972,6 +16972,9 @@
 [submodule "org-node"]
 	path = mirror/org-node
 	url = https://github.com/emacsmirror/org-node
+[submodule "org-node-fakeroam"]
+	path = mirror/org-node-fakeroam
+	url = https://github.com/emacsmirror/org-node-fakeroam
 [submodule "org-notebook"]
 	path = mirror/org-notebook
 	url = https://github.com/emacsmirror/org-notebook
