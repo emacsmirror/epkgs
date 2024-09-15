@@ -16441,6 +16441,9 @@
 [submodule "omtose-phellack-theme"]
 	path = mirror/omtose-phellack-theme
 	url = https://github.com/emacsmirror/omtose-phellack-theme
+[submodule "on"]
+	path = mirror/on
+	url = https://github.com/emacsmirror/on
 [submodule "on-parens"]
 	path = mirror/on-parens
 	url = https://github.com/emacsmirror/on-parens
