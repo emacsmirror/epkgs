@@ -8956,6 +8956,9 @@
 [submodule "geiser-mit"]
 	path = mirror/geiser-mit
 	url = https://github.com/emacsmirror/geiser-mit
+[submodule "geiser-overlay"]
+	path = mirror/geiser-overlay
+	url = https://github.com/emacsmirror/geiser-overlay
 [submodule "geiser-racket"]
 	path = mirror/geiser-racket
 	url = https://github.com/emacsmirror/geiser-racket
