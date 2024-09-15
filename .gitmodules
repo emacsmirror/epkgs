@@ -19267,6 +19267,9 @@
 [submodule "py-test"]
 	path = mirror/py-test
 	url = https://github.com/emacsmirror/py-test
+[submodule "py-vterm-interaction"]
+	path = mirror/py-vterm-interaction
+	url = https://github.com/emacsmirror/py-vterm-interaction
 [submodule "py-yapf"]
 	path = mirror/py-yapf
 	url = https://github.com/emacsmirror/py-yapf
