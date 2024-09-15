@@ -6172,6 +6172,9 @@
 [submodule "elx"]
 	path = mirror/elx
 	url = https://github.com/emacsmirror/elx
+[submodule "elysium"]
+	path = mirror/elysium
+	url = https://github.com/emacsmirror/elysium
 [submodule "em-joc"]
 	path = attic/em-joc
 	url = https://github.com/emacsattic/em-joc
