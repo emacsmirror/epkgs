@@ -895,6 +895,9 @@
 [submodule "astro-ts-mode"]
 	path = mirror/astro-ts-mode
 	url = https://github.com/emacsmirror/astro-ts-mode
+[submodule "astute"]
+	path = mirror/astute
+	url = https://github.com/emacsmirror/astute
 [submodule "astyle"]
 	path = mirror/astyle
 	url = https://github.com/emacsmirror/astyle
