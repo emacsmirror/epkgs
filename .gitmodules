@@ -9328,6 +9328,9 @@
 [submodule "glade-mode"]
 	path = mirror/glade-mode
 	url = https://github.com/emacsmirror/glade-mode
+[submodule "glass-tty-theme"]
+	path = mirror/glass-tty-theme
+	url = https://github.com/emacsmirror/glass-tty-theme
 [submodule "gle-mode"]
 	path = mirror/gle-mode
 	url = https://github.com/emacsmirror/gle-mode
