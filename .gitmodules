@@ -8266,6 +8266,9 @@
 [submodule "flymake-actionlint"]
 	path = mirror/flymake-actionlint
 	url = https://github.com/emacsmirror/flymake-actionlint
+[submodule "flymake-ansible-lint"]
+	path = mirror/flymake-ansible-lint
+	url = https://github.com/emacsmirror/flymake-ansible-lint
 [submodule "flymake-bashate"]
 	path = mirror/flymake-bashate
 	url = https://github.com/emacsmirror/flymake-bashate
