@@ -5848,6 +5848,9 @@
 [submodule "el-tools"]
 	path = attic/el-tools
 	url = https://github.com/emacsattic/el-tools
+[submodule "el-who"]
+	path = mirror/el-who
+	url = https://github.com/emacsmirror/el-who
 [submodule "el-x"]
 	path = attic/el-x
 	url = https://github.com/emacsattic/el-x
