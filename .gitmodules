@@ -5281,6 +5281,9 @@
 [submodule "dune-format"]
 	path = mirror/dune-format
 	url = https://github.com/emacsmirror/dune-format
+[submodule "dup-transform"]
+	path = mirror/dup-transform
+	url = https://github.com/emacsmirror/dup-transform
 [submodule "duplexer"]
 	path = mirror/duplexer
 	url = https://github.com/emacsmirror/duplexer
