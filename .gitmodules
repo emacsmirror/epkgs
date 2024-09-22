@@ -11698,6 +11698,9 @@
 [submodule "includeme"]
 	path = mirror/includeme
 	url = https://github.com/emacsmirror/includeme
+[submodule "incus-tramp"]
+	path = mirror/incus-tramp
+	url = https://github.com/emacsmirror/incus-tramp
 [submodule "indent-control"]
 	path = mirror/indent-control
 	url = https://github.com/emacsmirror/indent-control
