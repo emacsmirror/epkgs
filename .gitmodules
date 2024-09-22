@@ -6664,6 +6664,9 @@
 [submodule "eros"]
 	path = mirror/eros
 	url = https://github.com/emacsmirror/eros
+[submodule "eros-inspector"]
+	path = mirror/eros-inspector
+	url = https://github.com/emacsmirror/eros-inspector
 [submodule "erp"]
 	path = attic/erp
 	url = https://github.com/emacsattic/erp
