@@ -4336,6 +4336,9 @@
 [submodule "dbk"]
 	path = attic/dbk
 	url = https://github.com/emacsattic/dbk
+[submodule "dbml-mode"]
+	path = mirror/dbml-mode
+	url = https://github.com/emacsmirror/dbml-mode
 [submodule "dbus-codegen"]
 	path = mirror/dbus-codegen
 	url = https://github.com/emacsmirror/dbus-codegen
