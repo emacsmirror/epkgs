@@ -23815,6 +23815,9 @@
 [submodule "tx-mode"]
 	path = mirror/tx-mode
 	url = https://github.com/emacsmirror/tx-mode
+[submodule "txl"]
+	path = mirror/txl
+	url = https://github.com/emacsmirror/txl
 [submodule "type-test"]
 	path = mirror/type-test
 	url = https://github.com/emacsmirror/type-test
