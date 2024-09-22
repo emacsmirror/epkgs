@@ -11701,6 +11701,9 @@
 [submodule "incus-tramp"]
 	path = mirror/incus-tramp
 	url = https://github.com/emacsmirror/incus-tramp
+[submodule "indent-bars"]
+	path = mirror/indent-bars
+	url = https://github.com/emacsmirror/indent-bars
 [submodule "indent-control"]
 	path = mirror/indent-control
 	url = https://github.com/emacsmirror/indent-control
