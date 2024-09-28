@@ -25792,6 +25792,9 @@
 [submodule "zig-mode"]
 	path = mirror/zig-mode
 	url = https://github.com/emacsmirror/zig-mode
+[submodule "zig-ts-mode"]
+	path = mirror/zig-ts-mode
+	url = https://github.com/emacsmirror/zig-ts-mode
 [submodule "zim-wiki-mode"]
 	path = mirror/zim-wiki-mode
 	url = https://github.com/emacsmirror/zim-wiki-mode
