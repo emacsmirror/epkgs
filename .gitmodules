@@ -16462,9 +16462,6 @@
 [submodule "omnisharp"]
 	path = mirror/omnisharp
 	url = https://github.com/emacsmirror/omnisharp
-[submodule "omtose-phellack-theme"]
-	path = mirror/omtose-phellack-theme
-	url = https://github.com/emacsmirror/omtose-phellack-theme
 [submodule "on"]
 	path = mirror/on
 	url = https://github.com/emacsmirror/on
@@ -25903,3 +25900,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = https://github.com/emacsmirror/zzz-to-char
+[submodule "omtose-phellack-themes"]
+	path = mirror/omtose-phellack-themes
+	url = https://github.com/emacsmirror/omtose-phellack-themes
