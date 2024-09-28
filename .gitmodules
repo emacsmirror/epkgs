@@ -11323,6 +11323,9 @@
 [submodule "hyperdrive"]
 	path = mirror/hyperdrive
 	url = https://github.com/emacsmirror/hyperdrive
+[submodule "hyperdrive-org-transclusion"]
+	path = mirror/hyperdrive-org-transclusion
+	url = https://github.com/emacsmirror/hyperdrive-org-transclusion
 [submodule "hyperkitty"]
 	path = mirror/hyperkitty
 	url = https://github.com/emacsmirror/hyperkitty
@@ -16462,6 +16465,9 @@
 [submodule "omnisharp"]
 	path = mirror/omnisharp
 	url = https://github.com/emacsmirror/omnisharp
+[submodule "omtose-phellack-themes"]
+	path = mirror/omtose-phellack-themes
+	url = https://github.com/emacsmirror/omtose-phellack-themes
 [submodule "on"]
 	path = mirror/on
 	url = https://github.com/emacsmirror/on
@@ -25900,6 +25906,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = https://github.com/emacsmirror/zzz-to-char
-[submodule "omtose-phellack-themes"]
-	path = mirror/omtose-phellack-themes
-	url = https://github.com/emacsmirror/omtose-phellack-themes
