@@ -12703,6 +12703,9 @@
 [submodule "jvm-mode"]
 	path = mirror/jvm-mode
 	url = https://github.com/emacsmirror/jvm-mode
+[submodule "jwt"]
+	path = mirror/jwt
+	url = https://github.com/emacsmirror/jwt
 [submodule "k8s-mode"]
 	path = mirror/k8s-mode
 	url = https://github.com/emacsmirror/k8s-mode
