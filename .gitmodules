@@ -23488,6 +23488,9 @@
 [submodule "tornado-template-mode"]
 	path = mirror/tornado-template-mode
 	url = https://github.com/emacsmirror/tornado-template-mode
+[submodule "torrent-mode"]
+	path = mirror/torrent-mode
+	url = https://github.com/emacsmirror/torrent-mode
 [submodule "torus"]
 	path = mirror/torus
 	url = https://github.com/emacsmirror/torus
