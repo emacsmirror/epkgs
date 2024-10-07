@@ -3682,6 +3682,9 @@
 [submodule "corral"]
 	path = mirror/corral
 	url = https://github.com/emacsmirror/corral
+[submodule "corsair"]
+	path = mirror/corsair
+	url = https://github.com/emacsmirror/corsair
 [submodule "cort"]
 	path = mirror/cort
 	url = https://github.com/emacsmirror/cort
