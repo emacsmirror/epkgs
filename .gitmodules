@@ -8278,6 +8278,9 @@
 [submodule "flymake-bashate"]
 	path = mirror/flymake-bashate
 	url = https://github.com/emacsmirror/flymake-bashate
+[submodule "flymake-biome"]
+	path = mirror/flymake-biome
+	url = https://github.com/emacsmirror/flymake-biome
 [submodule "flymake-clippy"]
 	path = mirror/flymake-clippy
 	url = https://github.com/emacsmirror/flymake-clippy
