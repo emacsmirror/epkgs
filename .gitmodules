@@ -24256,6 +24256,9 @@
 [submodule "variant-abbc"]
 	path = attic/variant-abbc
 	url = https://github.com/emacsattic/variant-abbc
+[submodule "varuga"]
+	path = mirror/varuga
+	url = https://github.com/emacsmirror/varuga
 [submodule "vbasense"]
 	path = mirror/vbasense
 	url = https://github.com/emacsmirror/vbasense
