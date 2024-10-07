@@ -9019,6 +9019,9 @@
 [submodule "generic-text"]
 	path = attic/generic-text
 	url = https://github.com/emacsattic/generic-text
+[submodule "genexpr-mode"]
+	path = mirror/genexpr-mode
+	url = https://github.com/emacsmirror/genexpr-mode
 [submodule "genrnc"]
 	path = mirror/genrnc
 	url = https://github.com/emacsmirror/genrnc
