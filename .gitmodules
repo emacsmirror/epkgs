@@ -1708,6 +1708,9 @@
 [submodule "bitbake"]
 	path = mirror/bitbake
 	url = https://github.com/emacsmirror/bitbake
+[submodule "bitbake-ts-mode"]
+	path = mirror/bitbake-ts-mode
+	url = https://github.com/emacsmirror/bitbake-ts-mode
 [submodule "bitbucket"]
 	path = attic/bitbucket
 	url = https://github.com/emacsattic/bitbucket
