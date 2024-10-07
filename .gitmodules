@@ -4841,8 +4841,8 @@
 	path = mirror/dired-sidebar
 	url = https://github.com/emacsmirror/dired-sidebar
 [submodule "dired-single"]
-	path = mirror/dired-single
-	url = https://github.com/emacsmirror/dired-single
+	path = attic/dired-single
+	url = https://github.com/emacsattic/dired-single
 [submodule "dired-sort-menu"]
 	path = mirror/dired-sort-menu
 	url = https://github.com/emacsmirror/dired-sort-menu
