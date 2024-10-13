@@ -3634,6 +3634,9 @@
 [submodule "copilot"]
 	path = mirror/copilot
 	url = https://github.com/emacsmirror/copilot
+[submodule "copilot-chat"]
+	path = mirror/copilot-chat
+	url = https://github.com/emacsmirror/copilot-chat
 [submodule "copy-as-format"]
 	path = mirror/copy-as-format
 	url = https://github.com/emacsmirror/copy-as-format
