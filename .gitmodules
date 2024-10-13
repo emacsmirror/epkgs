@@ -21715,6 +21715,9 @@
 [submodule "sml-modeline"]
 	path = attic/sml-modeline
 	url = https://github.com/emacsattic/sml-modeline
+[submodule "sml-ts-mode"]
+	path = mirror/sml-ts-mode
+	url = https://github.com/emacsmirror/sml-ts-mode
 [submodule "smlfmt"]
 	path = mirror/smlfmt
 	url = https://github.com/emacsmirror/smlfmt
