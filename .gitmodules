@@ -25177,6 +25177,9 @@
 [submodule "wolfram-mode"]
 	path = mirror/wolfram-mode
 	url = https://github.com/emacsmirror/wolfram-mode
+[submodule "wollok-mode"]
+	path = mirror/wollok-mode
+	url = https://github.com/emacsmirror/wollok-mode
 [submodule "wonderland"]
 	path = mirror/wonderland
 	url = https://github.com/emacsmirror/wonderland
