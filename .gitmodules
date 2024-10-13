@@ -24076,6 +24076,9 @@
 [submodule "unify-opening"]
 	path = mirror/unify-opening
 	url = https://github.com/emacsmirror/unify-opening
+[submodule "uniline"]
+	path = mirror/uniline
+	url = https://github.com/emacsmirror/uniline
 [submodule "unipoint"]
 	path = mirror/unipoint
 	url = https://github.com/emacsmirror/unipoint
