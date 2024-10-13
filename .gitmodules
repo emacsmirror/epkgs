@@ -16897,6 +16897,9 @@
 [submodule "org-inline-pdf"]
 	path = mirror/org-inline-pdf
 	url = https://github.com/emacsmirror/org-inline-pdf
+[submodule "org-inline-pdfcomment"]
+	path = mirror/org-inline-pdfcomment
+	url = https://github.com/emacsmirror/org-inline-pdfcomment
 [submodule "org-iv"]
 	path = mirror/org-iv
 	url = https://github.com/emacsmirror/org-iv
