@@ -23539,6 +23539,9 @@
 [submodule "toxi-theme"]
 	path = mirror/toxi-theme
 	url = https://github.com/emacsmirror/toxi-theme
+[submodule "tp"]
+	path = mirror/tp
+	url = https://github.com/emacsmirror/tp
 [submodule "tpum"]
 	path = attic/tpum
 	url = https://github.com/emacsattic/tpum
