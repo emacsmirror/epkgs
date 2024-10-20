@@ -18737,8 +18737,8 @@
 	path = attic/pop-help-mode
 	url = https://github.com/emacsattic/pop-help-mode
 [submodule "pop-mode"]
-	path = mirror/pop-mode
-	url = https://github.com/emacsmirror/pop-mode
+	path = attic/pop-mode
+	url = https://github.com/emacsattic/pop-mode
 [submodule "popbiff"]
 	path = mirror/popbiff
 	url = https://github.com/emacsmirror/popbiff
