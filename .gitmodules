@@ -18734,8 +18734,8 @@
 	path = mirror/ponylang-mode
 	url = https://github.com/emacsmirror/ponylang-mode
 [submodule "pop-help-mode"]
-	path = mirror/pop-help-mode
-	url = https://github.com/emacsmirror/pop-help-mode
+	path = attic/pop-help-mode
+	url = https://github.com/emacsattic/pop-help-mode
 [submodule "pop-mode"]
 	path = mirror/pop-mode
 	url = https://github.com/emacsmirror/pop-mode
