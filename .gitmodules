@@ -11789,8 +11789,8 @@
 	path = mirror/inf-ruby-bond
 	url = https://github.com/emacsmirror/inf-ruby-bond
 [submodule "inferior-pop-mode"]
-	path = mirror/inferior-pop-mode
-	url = https://github.com/emacsmirror/inferior-pop-mode
+	path = attic/inferior-pop-mode
+	url = https://github.com/emacsattic/inferior-pop-mode
 [submodule "inferior-spim"]
 	path = attic/inferior-spim
 	url = https://github.com/emacsattic/inferior-spim
