@@ -13265,8 +13265,8 @@
 	path = mirror/leaf-tree
 	url = https://github.com/emacsmirror/leaf-tree
 [submodule "lean-mode"]
-	path = mirror/lean-mode
-	url = https://github.com/emacsmirror/lean-mode
+	path = attic/lean-mode
+	url = https://github.com/emacsattic/lean-mode
 [submodule "leanote"]
 	path = mirror/leanote
 	url = https://github.com/emacsmirror/leanote
@@ -25667,8 +25667,8 @@
 	path = mirror/yasnippet-classic-snippets
 	url = https://github.com/emacsmirror/yasnippet-classic-snippets
 [submodule "yasnippet-lean"]
-	path = mirror/yasnippet-lean
-	url = https://github.com/emacsmirror/yasnippet-lean
+	path = attic/yasnippet-lean
+	url = https://github.com/emacsattic/yasnippet-lean
 [submodule "yasnippet-snippets"]
 	path = mirror/yasnippet-snippets
 	url = https://github.com/emacsmirror/yasnippet-snippets
