@@ -12712,6 +12712,9 @@
 [submodule "just-mode"]
 	path = mirror/just-mode
 	url = https://github.com/emacsmirror/just-mode
+[submodule "just-ts-mode"]
+	path = mirror/just-ts-mode
+	url = https://github.com/emacsmirror/just-ts-mode
 [submodule "justl"]
 	path = mirror/justl
 	url = https://github.com/emacsmirror/justl
