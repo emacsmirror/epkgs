@@ -2362,39 +2362,12 @@
 [submodule "caskxy"]
 	path = mirror/caskxy
 	url = https://github.com/emacsmirror/caskxy
-[submodule "casual-agenda"]
-	path = mirror/casual-agenda
-	url = https://github.com/emacsmirror/casual-agenda
+[submodule "casual"]
+	path = mirror/casual
+	url = https://github.com/emacsmirror/casual
 [submodule "casual-avy"]
 	path = mirror/casual-avy
 	url = https://github.com/emacsmirror/casual-avy
-[submodule "casual-bookmarks"]
-	path = mirror/casual-bookmarks
-	url = https://github.com/emacsmirror/casual-bookmarks
-[submodule "casual-calc"]
-	path = mirror/casual-calc
-	url = https://github.com/emacsmirror/casual-calc
-[submodule "casual-dired"]
-	path = mirror/casual-dired
-	url = https://github.com/emacsmirror/casual-dired
-[submodule "casual-editkit"]
-	path = mirror/casual-editkit
-	url = https://github.com/emacsmirror/casual-editkit
-[submodule "casual-ibuffer"]
-	path = mirror/casual-ibuffer
-	url = https://github.com/emacsmirror/casual-ibuffer
-[submodule "casual-info"]
-	path = mirror/casual-info
-	url = https://github.com/emacsmirror/casual-info
-[submodule "casual-isearch"]
-	path = mirror/casual-isearch
-	url = https://github.com/emacsmirror/casual-isearch
-[submodule "casual-lib"]
-	path = mirror/casual-lib
-	url = https://github.com/emacsmirror/casual-lib
-[submodule "casual-re-builder"]
-	path = mirror/casual-re-builder
-	url = https://github.com/emacsmirror/casual-re-builder
 [submodule "casual-suite"]
 	path = mirror/casual-suite
 	url = https://github.com/emacsmirror/casual-suite
