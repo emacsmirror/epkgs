@@ -14395,6 +14395,9 @@
 [submodule "mathematica"]
 	path = attic/mathematica
 	url = https://github.com/emacsattic/mathematica
+[submodule "mathjax"]
+	path = mirror/mathjax
+	url = https://github.com/emacsmirror/mathjax
 [submodule "matlab-mode"]
 	path = mirror/matlab-mode
 	url = https://github.com/emacsmirror/matlab-mode
