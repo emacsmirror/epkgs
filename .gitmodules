@@ -24520,6 +24520,9 @@
 [submodule "visual-regexp-steroids"]
 	path = mirror/visual-regexp-steroids
 	url = https://github.com/emacsmirror/visual-regexp-steroids
+[submodule "visual-replace"]
+	path = mirror/visual-replace
+	url = https://github.com/emacsmirror/visual-replace
 [submodule "vkill"]
 	path = attic/vkill
 	url = https://github.com/emacsattic/vkill
