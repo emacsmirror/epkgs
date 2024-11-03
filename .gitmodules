@@ -5251,6 +5251,9 @@
 [submodule "dumb-jump"]
 	path = mirror/dumb-jump
 	url = https://github.com/emacsmirror/dumb-jump
+[submodule "dumber-jump"]
+	path = mirror/dumber-jump
+	url = https://github.com/emacsmirror/dumber-jump
 [submodule "dumbparens"]
 	path = mirror/dumbparens
 	url = https://github.com/emacsmirror/dumbparens
