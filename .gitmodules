@@ -2779,6 +2779,9 @@
 [submodule "claude-shell"]
 	path = mirror/claude-shell
 	url = https://github.com/emacsmirror/claude-shell
+[submodule "claudia"]
+	path = mirror/claudia
+	url = https://github.com/emacsmirror/claudia
 [submodule "clause"]
 	path = mirror/clause
 	url = https://github.com/emacsmirror/clause
