@@ -2977,6 +2977,9 @@
 [submodule "cobra-mode"]
 	path = mirror/cobra-mode
 	url = https://github.com/emacsmirror/cobra-mode
+[submodule "coc-dc"]
+	path = mirror/coc-dc
+	url = https://github.com/emacsmirror/coc-dc
 [submodule "cocol"]
 	path = attic/cocol
 	url = https://github.com/emacsattic/cocol
