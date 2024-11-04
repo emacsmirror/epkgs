@@ -22717,6 +22717,9 @@
 [submodule "tabbar-ruler"]
 	path = mirror/tabbar-ruler
 	url = https://github.com/emacsmirror/tabbar-ruler
+[submodule "tabby"]
+	path = mirror/tabby
+	url = https://github.com/emacsmirror/tabby
 [submodule "tabby-mode"]
 	path = mirror/tabby-mode
 	url = https://github.com/emacsmirror/tabby-mode
