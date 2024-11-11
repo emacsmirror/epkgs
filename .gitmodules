@@ -5803,6 +5803,9 @@
 [submodule "el-init-viewer"]
 	path = mirror/el-init-viewer
 	url = https://github.com/emacsmirror/el-init-viewer
+[submodule "el-job"]
+	path = mirror/el-job
+	url = https://github.com/emacsmirror/el-job
 [submodule "el-markup"]
 	path = mirror/el-markup
 	url = https://github.com/emacsmirror/el-markup
