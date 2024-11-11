@@ -11824,6 +11824,9 @@
 [submodule "inheritenv"]
 	path = mirror/inheritenv
 	url = https://github.com/emacsmirror/inheritenv
+[submodule "inhibit-mouse"]
+	path = mirror/inhibit-mouse
+	url = https://github.com/emacsmirror/inhibit-mouse
 [submodule "ini"]
 	path = mirror/ini
 	url = https://github.com/emacsmirror/ini
