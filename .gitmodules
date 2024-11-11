@@ -19888,6 +19888,9 @@
 [submodule "rec-mode"]
 	path = mirror/rec-mode
 	url = https://github.com/emacsmirror/rec-mode
+[submodule "recall"]
+	path = mirror/recall
+	url = https://github.com/emacsmirror/recall
 [submodule "recaptcha"]
 	path = mirror/recaptcha
 	url = https://github.com/emacsmirror/recaptcha
