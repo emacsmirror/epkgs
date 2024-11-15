@@ -5659,9 +5659,9 @@
 [submodule "edom"]
 	path = attic/edom
 	url = https://github.com/emacsattic/edom
-[submodule "edts"]
-	path = mirror/edts
-	url = https://github.com/emacsmirror/edts
+[submodule "edts-mode"]
+	path = mirror/edts-mode
+	url = https://github.com/emacsmirror/edts-mode
 [submodule "edwina"]
 	path = mirror/edwina
 	url = https://github.com/emacsmirror/edwina
