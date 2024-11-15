@@ -21157,6 +21157,9 @@
 [submodule "shell-history"]
 	path = mirror/shell-history
 	url = https://github.com/emacsmirror/shell-history
+[submodule "shell-maker"]
+	path = mirror/shell-maker
+	url = https://github.com/emacsmirror/shell-maker
 [submodule "shell-plus"]
 	path = attic/shell-plus
 	url = https://github.com/emacsattic/shell-plus
