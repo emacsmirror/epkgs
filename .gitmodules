@@ -4189,6 +4189,9 @@
 [submodule "dakrone-theme"]
 	path = mirror/dakrone-theme
 	url = https://github.com/emacsmirror/dakrone-theme
+[submodule "dall-e-shell"]
+	path = mirror/dall-e-shell
+	url = https://github.com/emacsmirror/dall-e-shell
 [submodule "daml-lsp"]
 	path = mirror/daml-lsp
 	url = https://github.com/emacsmirror/daml-lsp
