@@ -1672,6 +1672,9 @@
 [submodule "bind"]
 	path = mirror/bind
 	url = https://github.com/emacsmirror/bind
+[submodule "bind-chord"]
+	path = mirror/bind-chord
+	url = https://github.com/emacsmirror/bind-chord
 [submodule "bind-map"]
 	path = mirror/bind-map
 	url = https://github.com/emacsmirror/bind-map
