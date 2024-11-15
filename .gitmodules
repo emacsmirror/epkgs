@@ -16159,6 +16159,9 @@
 [submodule "ob-d2"]
 	path = mirror/ob-d2
 	url = https://github.com/emacsmirror/ob-d2
+[submodule "ob-dall-e-shell"]
+	path = mirror/ob-dall-e-shell
+	url = https://github.com/emacsmirror/ob-dall-e-shell
 [submodule "ob-dao"]
 	path = mirror/ob-dao
 	url = https://github.com/emacsmirror/ob-dao
