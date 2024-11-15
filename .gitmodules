@@ -16132,6 +16132,9 @@
 [submodule "ob-cfengine3"]
 	path = mirror/ob-cfengine3
 	url = https://github.com/emacsmirror/ob-cfengine3
+[submodule "ob-chatgpt-shell"]
+	path = mirror/ob-chatgpt-shell
+	url = https://github.com/emacsmirror/ob-chatgpt-shell
 [submodule "ob-clojure-literate"]
 	path = attic/ob-clojure-literate
 	url = https://github.com/emacsattic/ob-clojure-literate
