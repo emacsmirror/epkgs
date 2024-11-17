@@ -3421,6 +3421,9 @@
 [submodule "compile-"]
 	path = mirror/compile-
 	url = https://github.com/emacsmirror/compile-
+[submodule "compile-angel"]
+	path = mirror/compile-angel
+	url = https://github.com/emacsmirror/compile-angel
 [submodule "compile-bookmarks"]
 	path = mirror/compile-bookmarks
 	url = https://github.com/emacsmirror/compile-bookmarks
