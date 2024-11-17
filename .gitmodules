@@ -18598,6 +18598,9 @@
 [submodule "plugin"]
 	path = attic/plugin
 	url = https://github.com/emacsattic/plugin
+[submodule "plumber"]
+	path = mirror/plumber
+	url = https://github.com/emacsmirror/plumber
 [submodule "plunger"]
 	path = attic/plunger
 	url = https://github.com/emacsattic/plunger
