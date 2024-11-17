@@ -19600,6 +19600,9 @@
 [submodule "quick-preview"]
 	path = attic/quick-preview
 	url = https://github.com/emacsattic/quick-preview
+[submodule "quick-sdcv"]
+	path = mirror/quick-sdcv
+	url = https://github.com/emacsmirror/quick-sdcv
 [submodule "quick-shell-keybind"]
 	path = mirror/quick-shell-keybind
 	url = https://github.com/emacsmirror/quick-shell-keybind
