@@ -6949,6 +6949,9 @@
 [submodule "evalator-clojure"]
 	path = mirror/evalator-clojure
 	url = https://github.com/emacsmirror/evalator-clojure
+[submodule "evangelion-theme"]
+	path = mirror/evangelion-theme
+	url = https://github.com/emacsmirror/evangelion-theme
 [submodule "eve-mode"]
 	path = mirror/eve-mode
 	url = https://github.com/emacsmirror/eve-mode
