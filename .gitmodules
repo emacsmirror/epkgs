@@ -4933,6 +4933,9 @@
 [submodule "display-wttr"]
 	path = mirror/display-wttr
 	url = https://github.com/emacsmirror/display-wttr
+[submodule "disproject"]
+	path = mirror/disproject
+	url = https://github.com/emacsmirror/disproject
 [submodule "disptime"]
 	path = attic/disptime
 	url = https://github.com/emacsattic/disptime
