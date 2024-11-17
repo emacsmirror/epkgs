@@ -14671,6 +14671,9 @@
 [submodule "mhc"]
 	path = mirror/mhc
 	url = https://github.com/emacsmirror/mhc
+[submodule "miasma-theme"]
+	path = mirror/miasma-theme
+	url = https://github.com/emacsmirror/miasma-theme
 [submodule "mic"]
 	path = mirror/mic
 	url = https://github.com/emacsmirror/mic
