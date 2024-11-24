@@ -25805,8 +25805,8 @@
 	path = mirror/ytdl
 	url = https://github.com/emacsmirror/ytdl
 [submodule "ytel"]
-	path = mirror/ytel
-	url = https://github.com/emacsmirror/ytel
+	path = attic/ytel
+	url = https://github.com/emacsattic/ytel
 [submodule "yuck-mode"]
 	path = mirror/yuck-mode
 	url = https://github.com/emacsmirror/yuck-mode
