@@ -16663,6 +16663,9 @@
 [submodule "org-auto-expand"]
 	path = mirror/org-auto-expand
 	url = https://github.com/emacsmirror/org-auto-expand
+[submodule "org-auto-export-pandoc"]
+	path = mirror/org-auto-export-pandoc
+	url = https://github.com/emacsmirror/org-auto-export-pandoc
 [submodule "org-auto-shorten-url"]
 	path = attic/org-auto-shorten-url
 	url = https://github.com/emacsattic/org-auto-shorten-url
