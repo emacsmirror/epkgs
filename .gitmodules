@@ -11681,8 +11681,8 @@
 	path = mirror/imgbb
 	url = https://github.com/emacsmirror/imgbb
 [submodule "imgur"]
-	path = attic/imgur
-	url = https://github.com/emacsattic/imgur
+	path = mirror/imgur
+	url = https://github.com/emacsmirror/imgur
 [submodule "immaterial-theme"]
 	path = mirror/immaterial-theme
 	url = https://github.com/emacsmirror/immaterial-theme
