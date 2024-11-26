@@ -7223,8 +7223,8 @@
 	path = mirror/evimodeline
 	url = https://github.com/emacsmirror/evimodeline
 [submodule "evm"]
-	path = mirror/evm
-	url = https://github.com/emacsmirror/evm
+	path = attic/evm
+	url = https://github.com/emacsattic/evm
 [submodule "evm-mode"]
 	path = mirror/evm-mode
 	url = https://github.com/emacsmirror/evm-mode
