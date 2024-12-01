@@ -752,8 +752,8 @@
 	path = mirror/application
 	url = https://github.com/emacsmirror/application
 [submodule "aproject"]
-	path = mirror/aproject
-	url = https://github.com/emacsmirror/aproject
+	path = attic/aproject
+	url = https://github.com/emacsattic/aproject
 [submodule "apropos+"]
 	path = mirror/apropos+
 	url = https://github.com/emacsmirror/apropos-plus
