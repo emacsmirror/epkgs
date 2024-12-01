@@ -22771,6 +22771,9 @@
 [submodule "tab-jump-out"]
 	path = mirror/tab-jump-out
 	url = https://github.com/emacsmirror/tab-jump-out
+[submodule "tab-line-nerd-icons"]
+	path = mirror/tab-line-nerd-icons
+	url = https://github.com/emacsmirror/tab-line-nerd-icons
 [submodule "tabbar"]
 	path = mirror/tabbar
 	url = https://github.com/emacsmirror/tabbar
