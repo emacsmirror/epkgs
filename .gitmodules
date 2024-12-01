@@ -6439,6 +6439,9 @@
 [submodule "enh-ruby-mode"]
 	path = mirror/enh-ruby-mode
 	url = https://github.com/emacsmirror/enh-ruby-mode
+[submodule "enhanced-evil-paredit"]
+	path = mirror/enhanced-evil-paredit
+	url = https://github.com/emacsmirror/enhanced-evil-paredit
 [submodule "enlight"]
 	path = mirror/enlight
 	url = https://github.com/emacsmirror/enlight
