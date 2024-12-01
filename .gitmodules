@@ -14785,6 +14785,9 @@
 [submodule "minizinc-mode"]
 	path = mirror/minizinc-mode
 	url = https://github.com/emacsmirror/minizinc-mode
+[submodule "minizinc-ts-mode"]
+	path = mirror/minizinc-ts-mode
+	url = https://github.com/emacsmirror/minizinc-ts-mode
 [submodule "minor-map"]
 	path = attic/minor-map
 	url = https://github.com/emacsattic/minor-map
