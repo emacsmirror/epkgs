@@ -22342,6 +22342,9 @@
 [submodule "sticky"]
 	path = mirror/sticky
 	url = https://github.com/emacsmirror/sticky
+[submodule "sticky-scroll-mode"]
+	path = mirror/sticky-scroll-mode
+	url = https://github.com/emacsmirror/sticky-scroll-mode
 [submodule "sticky-shell"]
 	path = mirror/sticky-shell
 	url = https://github.com/emacsmirror/sticky-shell
