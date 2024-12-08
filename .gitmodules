@@ -4759,9 +4759,6 @@
 [submodule "dired-extension"]
 	path = mirror/dired-extension
 	url = https://github.com/emacsmirror/dired-extension
-[submodule "dired-fdclone"]
-	path = mirror/dired-fdclone
-	url = https://github.com/emacsmirror/dired-fdclone
 [submodule "dired-filetype-face"]
 	path = mirror/dired-filetype-face
 	url = https://github.com/emacsmirror/dired-filetype-face
@@ -4861,6 +4858,9 @@
 [submodule "diredc"]
 	path = mirror/diredc
 	url = https://github.com/emacsmirror/diredc
+[submodule "diredfd"]
+	path = mirror/diredfd
+	url = https://github.com/emacsmirror/diredfd
 [submodule "diredfl"]
 	path = mirror/diredfl
 	url = https://github.com/emacsmirror/diredfl
