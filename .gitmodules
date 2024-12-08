@@ -2068,6 +2068,9 @@
 [submodule "buffer-stack"]
 	path = mirror/buffer-stack
 	url = https://github.com/emacsmirror/buffer-stack
+[submodule "buffer-terminator"]
+	path = mirror/buffer-terminator
+	url = https://github.com/emacsmirror/buffer-terminator
 [submodule "buffer-thumbnail"]
 	path = attic/buffer-thumbnail
 	url = https://github.com/emacsattic/buffer-thumbnail
