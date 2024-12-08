@@ -7435,6 +7435,9 @@
 [submodule "fancy-narrow"]
 	path = mirror/fancy-narrow
 	url = https://github.com/emacsmirror/fancy-narrow
+[submodule "fancy-urls-menu"]
+	path = mirror/fancy-urls-menu
+	url = https://github.com/emacsmirror/fancy-urls-menu
 [submodule "fantom-mode"]
 	path = mirror/fantom-mode
 	url = https://github.com/emacsmirror/fantom-mode
