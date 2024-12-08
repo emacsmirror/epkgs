@@ -23677,6 +23677,9 @@
 [submodule "transfer-sh"]
 	path = mirror/transfer-sh
 	url = https://github.com/emacsmirror/transfer-sh
+[submodule "transform-symbol-at-point"]
+	path = mirror/transform-symbol-at-point
+	url = https://github.com/emacsmirror/transform-symbol-at-point
 [submodule "transient"]
 	path = mirror/transient
 	url = https://github.com/emacsmirror/transient
