@@ -5725,6 +5725,9 @@
 [submodule "egit"]
 	path = mirror/egit
 	url = https://github.com/emacsmirror/egit
+[submodule "eglot-inactive-regions"]
+	path = mirror/eglot-inactive-regions
+	url = https://github.com/emacsmirror/eglot-inactive-regions
 [submodule "eglot-java"]
 	path = mirror/eglot-java
 	url = https://github.com/emacsmirror/eglot-java
