@@ -22039,6 +22039,9 @@
 [submodule "speedread"]
 	path = attic/speedread
 	url = https://github.com/emacsattic/speedread
+[submodule "speedrect"]
+	path = mirror/speedrect
+	url = https://github.com/emacsmirror/speedrect
 [submodule "spell-fu"]
 	path = mirror/spell-fu
 	url = https://github.com/emacsmirror/spell-fu
