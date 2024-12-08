@@ -15754,6 +15754,9 @@
 [submodule "nhexl-mode"]
 	path = mirror/nhexl-mode
 	url = https://github.com/emacsmirror/nhexl-mode
+[submodule "nice-org-html"]
+	path = mirror/nice-org-html
+	url = https://github.com/emacsmirror/nice-org-html
 [submodule "niceify-info"]
 	path = mirror/niceify-info
 	url = https://github.com/emacsmirror/niceify-info
