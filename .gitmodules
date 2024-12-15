@@ -5914,6 +5914,9 @@
 [submodule "eldoc-cmake"]
 	path = mirror/eldoc-cmake
 	url = https://github.com/emacsmirror/eldoc-cmake
+[submodule "eldoc-diffstat"]
+	path = mirror/eldoc-diffstat
+	url = https://github.com/emacsmirror/eldoc-diffstat
 [submodule "eldoc-eask"]
 	path = mirror/eldoc-eask
 	url = https://github.com/emacsmirror/eldoc-eask
