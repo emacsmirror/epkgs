@@ -4048,6 +4048,9 @@
 [submodule "current-story"]
 	path = mirror/current-story
 	url = https://github.com/emacsmirror/current-story
+[submodule "current-window-only"]
+	path = mirror/current-window-only
+	url = https://github.com/emacsmirror/current-window-only
 [submodule "current-word-highlight"]
 	path = mirror/current-word-highlight
 	url = https://github.com/emacsmirror/current-word-highlight
