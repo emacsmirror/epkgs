@@ -3583,6 +3583,9 @@
 [submodule "consult-todo"]
 	path = mirror/consult-todo
 	url = https://github.com/emacsmirror/consult-todo
+[submodule "consult-vc-modified-files"]
+	path = mirror/consult-vc-modified-files
+	url = https://github.com/emacsmirror/consult-vc-modified-files
 [submodule "consult-yasnippet"]
 	path = mirror/consult-yasnippet
 	url = https://github.com/emacsmirror/consult-yasnippet
