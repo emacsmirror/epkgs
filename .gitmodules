@@ -23146,6 +23146,9 @@
 [submodule "terraform-doc"]
 	path = mirror/terraform-doc
 	url = https://github.com/emacsmirror/terraform-doc
+[submodule "terraform-docs"]
+	path = mirror/terraform-docs
+	url = https://github.com/emacsmirror/terraform-docs
 [submodule "terraform-mode"]
 	path = mirror/terraform-mode
 	url = https://github.com/emacsmirror/terraform-mode
