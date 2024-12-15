@@ -13285,6 +13285,9 @@
 [submodule "ldraw-mode"]
 	path = attic/ldraw-mode
 	url = https://github.com/emacsattic/ldraw-mode
+[submodule "le-gpt"]
+	path = mirror/le-gpt
+	url = https://github.com/emacsmirror/le-gpt
 [submodule "le-thesaurus"]
 	path = mirror/le-thesaurus
 	url = https://github.com/emacsmirror/le-thesaurus
