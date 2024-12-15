@@ -12607,6 +12607,9 @@
 [submodule "js-lookup"]
 	path = attic/js-lookup
 	url = https://github.com/emacsattic/js-lookup
+[submodule "js-pkg-mode"]
+	path = mirror/js-pkg-mode
+	url = https://github.com/emacsmirror/js-pkg-mode
 [submodule "js-react-redux-yasnippets"]
 	path = mirror/js-react-redux-yasnippets
 	url = https://github.com/emacsmirror/js-react-redux-yasnippets
