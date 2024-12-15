@@ -11068,6 +11068,9 @@
 [submodule "hindent"]
 	path = mirror/hindent
 	url = https://github.com/emacsmirror/hindent
+[submodule "hindu-calendar"]
+	path = mirror/hindu-calendar
+	url = https://github.com/emacsmirror/hindu-calendar
 [submodule "hippie-exp-ext"]
 	path = mirror/hippie-exp-ext
 	url = https://github.com/emacsmirror/hippie-exp-ext
