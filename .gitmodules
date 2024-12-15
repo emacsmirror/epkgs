@@ -2483,8 +2483,8 @@
 	path = mirror/cexp
 	url = https://github.com/emacsmirror/cexp
 [submodule "ceylon-mode"]
-	path = mirror/ceylon-mode
-	url = https://github.com/emacsmirror/ceylon-mode
+	path = attic/ceylon-mode
+	url = https://github.com/emacsattic/ceylon-mode
 [submodule "cfengine-code-style"]
 	path = mirror/cfengine-code-style
 	url = https://github.com/emacsmirror/cfengine-code-style
