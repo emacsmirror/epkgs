@@ -7688,8 +7688,8 @@
 	path = mirror/filldent
 	url = https://github.com/emacsmirror/filldent
 [submodule "finalize"]
-	path = mirror/finalize
-	url = https://github.com/emacsmirror/finalize
+	path = attic/finalize
+	url = https://github.com/emacsattic/finalize
 [submodule "find-by-pinyin-dired"]
 	path = mirror/find-by-pinyin-dired
 	url = https://github.com/emacsmirror/find-by-pinyin-dired
