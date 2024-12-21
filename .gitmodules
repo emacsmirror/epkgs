@@ -4609,6 +4609,9 @@
 [submodule "dic-lookup-w3m"]
 	path = attic/dic-lookup-w3m
 	url = https://github.com/emacsattic/dic-lookup-w3m
+[submodule "dicom"]
+	path = mirror/dicom
+	url = https://github.com/emacsmirror/dicom
 [submodule "dict-tree"]
 	path = mirror/dict-tree
 	url = https://github.com/emacsmirror/dict-tree
