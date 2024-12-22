@@ -1877,8 +1877,8 @@
 	path = attic/bookmark-search
 	url = https://github.com/emacsattic/bookmark-search
 [submodule "bookmark-view"]
-	path = mirror/bookmark-view
-	url = https://github.com/emacsmirror/bookmark-view
+	path = attic/bookmark-view
+	url = https://github.com/emacsattic/bookmark-view
 [submodule "bool-flip"]
 	path = mirror/bool-flip
 	url = https://github.com/emacsmirror/bool-flip
