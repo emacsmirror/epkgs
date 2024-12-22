@@ -13928,8 +13928,8 @@
 	path = mirror/lsp-origami
 	url = https://github.com/emacsmirror/lsp-origami
 [submodule "lsp-p4"]
-	path = mirror/lsp-p4
-	url = https://github.com/emacsmirror/lsp-p4
+	path = attic/lsp-p4
+	url = https://github.com/emacsattic/lsp-p4
 [submodule "lsp-pascal"]
 	path = mirror/lsp-pascal
 	url = https://github.com/emacsmirror/lsp-pascal
