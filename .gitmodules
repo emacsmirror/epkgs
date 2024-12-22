@@ -10202,8 +10202,8 @@
 	path = mirror/haskell-ts-mode
 	url = https://github.com/emacsmirror/haskell-ts-mode
 [submodule "hasklig-mode"]
-	path = mirror/hasklig-mode
-	url = https://github.com/emacsmirror/hasklig-mode
+	path = attic/hasklig-mode
+	url = https://github.com/emacsattic/hasklig-mode
 [submodule "hasky-extensions"]
 	path = attic/hasky-extensions
 	url = https://github.com/emacsattic/hasky-extensions
