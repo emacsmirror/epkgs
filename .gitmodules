@@ -17833,6 +17833,9 @@
 [submodule "p4-16-mode"]
 	path = mirror/p4-16-mode
 	url = https://github.com/emacsmirror/p4-16-mode
+[submodule "p4-ts-mode"]
+	path = mirror/p4-ts-mode
+	url = https://github.com/emacsmirror/p4-ts-mode
 [submodule "p4pymarshal"]
 	path = attic/p4pymarshal
 	url = https://github.com/emacsattic/p4pymarshal
