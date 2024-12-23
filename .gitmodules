@@ -16426,6 +16426,9 @@
 [submodule "obsidian-theme"]
 	path = mirror/obsidian-theme
 	url = https://github.com/emacsmirror/obsidian-theme
+[submodule "ocaml-eglot"]
+	path = mirror/ocaml-eglot
+	url = https://github.com/emacsmirror/ocaml-eglot
 [submodule "ocaml-ts-mode"]
 	path = mirror/ocaml-ts-mode
 	url = https://github.com/emacsmirror/ocaml-ts-mode
