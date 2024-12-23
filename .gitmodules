@@ -22708,6 +22708,9 @@
 [submodule "symbol-overlay"]
 	path = mirror/symbol-overlay
 	url = https://github.com/emacsmirror/symbol-overlay
+[submodule "symbol-overlay-mc"]
+	path = mirror/symbol-overlay-mc
+	url = https://github.com/emacsmirror/symbol-overlay-mc
 [submodule "symbolist"]
 	path = mirror/symbolist
 	url = https://github.com/emacsmirror/symbolist
