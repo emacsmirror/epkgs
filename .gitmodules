@@ -24349,6 +24349,9 @@
 [submodule "uuidgen"]
 	path = mirror/uuidgen
 	url = https://github.com/emacsmirror/uuidgen
+[submodule "uv-mode"]
+	path = mirror/uv-mode
+	url = https://github.com/emacsmirror/uv-mode
 [submodule "uwu-theme"]
 	path = mirror/uwu-theme
 	url = https://github.com/emacsmirror/uwu-theme
