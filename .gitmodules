@@ -12961,6 +12961,9 @@
 [submodule "kill-buffers"]
 	path = attic/kill-buffers
 	url = https://github.com/emacsattic/kill-buffers
+[submodule "kill-dollar-mode"]
+	path = mirror/kill-dollar-mode
+	url = https://github.com/emacsmirror/kill-dollar-mode
 [submodule "kill-file-path"]
 	path = mirror/kill-file-path
 	url = https://github.com/emacsmirror/kill-file-path
