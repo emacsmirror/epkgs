@@ -20653,6 +20653,9 @@
 [submodule "rusewiki"]
 	path = mirror/rusewiki
 	url = https://github.com/emacsmirror/rusewiki
+[submodule "russian-calendar"]
+	path = mirror/russian-calendar
+	url = https://github.com/emacsmirror/russian-calendar
 [submodule "russian-holidays"]
 	path = mirror/russian-holidays
 	url = https://github.com/emacsmirror/russian-holidays
