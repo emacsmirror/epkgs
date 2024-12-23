@@ -14926,6 +14926,9 @@
 [submodule "mobdebug-mode"]
 	path = mirror/mobdebug-mode
 	url = https://github.com/emacsmirror/mobdebug-mode
+[submodule "moc"]
+	path = mirror/moc
+	url = https://github.com/emacsmirror/moc
 [submodule "moccur-edit"]
 	path = attic/moccur-edit
 	url = https://github.com/emacsattic/moccur-edit
