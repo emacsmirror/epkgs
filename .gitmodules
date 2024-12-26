@@ -11398,6 +11398,9 @@
 [submodule "hyphenate"]
 	path = attic/hyphenate
 	url = https://github.com/emacsattic/hyphenate
+[submodule "hyprlang-ts-mode"]
+	path = mirror/hyprlang-ts-mode
+	url = https://github.com/emacsmirror/hyprlang-ts-mode
 [submodule "i-ching"]
 	path = mirror/i-ching
 	url = https://github.com/emacsmirror/i-ching
