@@ -21058,6 +21058,9 @@
 [submodule "selected-window-accent-mode"]
 	path = mirror/selected-window-accent-mode
 	url = https://github.com/emacsmirror/selected-window-accent-mode
+[submodule "selected-window-contrast"]
+	path = mirror/selected-window-contrast
+	url = https://github.com/emacsmirror/selected-window-contrast
 [submodule "selectric-mode"]
 	path = mirror/selectric-mode
 	url = https://github.com/emacsmirror/selectric-mode
