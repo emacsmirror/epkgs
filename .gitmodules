@@ -18895,6 +18895,9 @@
 [submodule "portage"]
 	path = mirror/portage
 	url = https://github.com/emacsmirror/portage
+[submodule "portage-modes"]
+	path = mirror/portage-modes
+	url = https://github.com/emacsmirror/portage-modes
 [submodule "portage-navi"]
 	path = mirror/portage-navi
 	url = https://github.com/emacsmirror/portage-navi
