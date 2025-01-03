@@ -11683,9 +11683,6 @@
 [submodule "imapua"]
 	path = mirror/imapua
 	url = https://github.com/emacsmirror/imapua
-[submodule "imaxima"]
-	path = attic/imaxima
-	url = https://github.com/emacsattic/imaxima
 [submodule "imbot"]
 	path = mirror/imbot
 	url = https://github.com/emacsmirror/imbot
