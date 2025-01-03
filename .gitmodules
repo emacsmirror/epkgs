@@ -23938,6 +23938,9 @@
 [submodule "turnip"]
 	path = mirror/turnip
 	url = https://github.com/emacsmirror/turnip
+[submodule "turtles"]
+	path = mirror/turtles
+	url = https://github.com/emacsmirror/turtles
 [submodule "twiddle"]
 	path = attic/twiddle
 	url = https://github.com/emacsattic/twiddle
