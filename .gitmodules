@@ -13837,6 +13837,9 @@
 [submodule "loopy"]
 	path = mirror/loopy
 	url = https://github.com/emacsmirror/loopy
+[submodule "loopy-dash"]
+	path = mirror/loopy-dash
+	url = https://github.com/emacsmirror/loopy-dash
 [submodule "lorem-ipsum"]
 	path = mirror/lorem-ipsum
 	url = https://github.com/emacsmirror/lorem-ipsum
