@@ -20503,6 +20503,9 @@
 [submodule "rom-party"]
 	path = mirror/rom-party
 	url = https://github.com/emacsmirror/rom-party
+[submodule "romanian-holidays"]
+	path = mirror/romanian-holidays
+	url = https://github.com/emacsmirror/romanian-holidays
 [submodule "ron-mode"]
 	path = mirror/ron-mode
 	url = https://github.com/emacsmirror/ron-mode
