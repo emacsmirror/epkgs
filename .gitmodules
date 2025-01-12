@@ -11134,6 +11134,9 @@
 [submodule "hl-line+"]
 	path = mirror/hl-line+
 	url = https://github.com/emacsmirror/hl-line-plus
+[submodule "hl-printf"]
+	path = mirror/hl-printf
+	url = https://github.com/emacsmirror/hl-printf
 [submodule "hl-prog-extra"]
 	path = mirror/hl-prog-extra
 	url = https://github.com/emacsmirror/hl-prog-extra
