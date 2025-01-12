@@ -88,6 +88,9 @@
 [submodule "abyss-theme"]
 	path = mirror/abyss-theme
 	url = https://github.com/emacsmirror/abyss-theme
+[submodule "ac-R"]
+	path = mirror/ac-R
+	url = https://github.com/emacsmirror/ac-R
 [submodule "ac-alchemist"]
 	path = mirror/ac-alchemist
 	url = https://github.com/emacsmirror/ac-alchemist
@@ -178,9 +181,6 @@
 [submodule "ac-php"]
 	path = mirror/ac-php
 	url = https://github.com/emacsmirror/ac-php
-[submodule "ac-r"]
-	path = mirror/ac-r
-	url = https://github.com/emacsmirror/ac-r
 [submodule "ac-racer"]
 	path = mirror/ac-racer
 	url = https://github.com/emacsmirror/ac-racer
