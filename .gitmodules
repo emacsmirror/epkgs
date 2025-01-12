@@ -28,6 +28,9 @@
 [submodule "GEOS-vote"]
 	path = attic/GEOS-vote
 	url = https://github.com/emacsattic/GEOS-vote
+[submodule "MRU-yank"]
+	path = mirror/MRU-yank
+	url = https://github.com/emacsmirror/MRU-yank
 [submodule "_ewiki"]
 	path = ewiki
 	url = https://github.com/emacsmirror/emacswiki.org
@@ -15238,9 +15241,6 @@
 [submodule "mqtt-mode"]
 	path = mirror/mqtt-mode
 	url = https://github.com/emacsmirror/mqtt-mode
-[submodule "mru-yank"]
-	path = mirror/mru-yank
-	url = https://github.com/emacsmirror/mru-yank
 [submodule "ms-python"]
 	path = attic/ms-python
 	url = https://github.com/emacsattic/ms-python
