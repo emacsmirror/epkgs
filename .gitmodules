@@ -18187,6 +18187,9 @@
 [submodule "pde"]
 	path = attic/pde
 	url = https://github.com/emacsattic/pde
+[submodule "pdf-meta-edit"]
+	path = mirror/pdf-meta-edit
+	url = https://github.com/emacsmirror/pdf-meta-edit
 [submodule "pdf-tools"]
 	path = mirror/pdf-tools
 	url = https://github.com/emacsmirror/pdf-tools
