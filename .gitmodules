@@ -3151,6 +3151,9 @@
 [submodule "comicscript"]
 	path = mirror/comicscript
 	url = https://github.com/emacsmirror/comicscript
+[submodule "comint-histories"]
+	path = mirror/comint-histories
+	url = https://github.com/emacsmirror/comint-histories
 [submodule "comint-hyperlink"]
 	path = mirror/comint-hyperlink
 	url = https://github.com/emacsmirror/comint-hyperlink
