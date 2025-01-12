@@ -280,6 +280,9 @@
 [submodule "activity-watch-mode"]
 	path = mirror/activity-watch-mode
 	url = https://github.com/emacsmirror/activity-watch-mode
+[submodule "acton-mode"]
+	path = mirror/acton-mode
+	url = https://github.com/emacsmirror/acton-mode
 [submodule "actr-mode"]
 	path = attic/actr-mode
 	url = https://github.com/emacsattic/actr-mode
