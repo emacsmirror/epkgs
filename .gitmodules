@@ -5351,8 +5351,8 @@
 	path = mirror/dynamic-graphs
 	url = https://github.com/emacsmirror/dynamic-graphs
 [submodule "dynamic-ring"]
-	path = mirror/dynamic-ring
-	url = https://github.com/emacsmirror/dynamic-ring
+	path = attic/dynamic-ring
+	url = https://github.com/emacsattic/dynamic-ring
 [submodule "dynamic-ruler"]
 	path = mirror/dynamic-ruler
 	url = https://github.com/emacsmirror/dynamic-ruler
