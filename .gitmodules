@@ -13999,6 +13999,9 @@
 [submodule "lsp-vue"]
 	path = attic/lsp-vue
 	url = https://github.com/emacsattic/lsp-vue
+[submodule "lte"]
+	path = mirror/lte
+	url = https://github.com/emacsmirror/lte
 [submodule "ltsv"]
 	path = mirror/ltsv
 	url = https://github.com/emacsmirror/ltsv
