@@ -15707,8 +15707,8 @@
 	path = attic/nesc
 	url = https://github.com/emacsattic/nesc
 [submodule "netease-cloud-music"]
-	path = mirror/netease-cloud-music
-	url = https://github.com/emacsmirror/netease-cloud-music
+	path = attic/netease-cloud-music
+	url = https://github.com/emacsattic/netease-cloud-music
 [submodule "netease-music"]
 	path = mirror/netease-music
 	url = https://github.com/emacsmirror/netease-music
