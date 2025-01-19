@@ -15142,6 +15142,9 @@
 [submodule "motion-mode"]
 	path = mirror/motion-mode
 	url = https://github.com/emacsmirror/motion-mode
+[submodule "motion-selection-mode"]
+	path = mirror/motion-selection-mode
+	url = https://github.com/emacsmirror/motion-selection-mode
 [submodule "mouse+"]
 	path = mirror/mouse+
 	url = https://github.com/emacsmirror/mouse-plus
