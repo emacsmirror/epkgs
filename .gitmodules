@@ -1285,6 +1285,9 @@
 [submodule "avy"]
 	path = mirror/avy
 	url = https://github.com/emacsmirror/avy
+[submodule "avy-act"]
+	path = mirror/avy-act
+	url = https://github.com/emacsmirror/avy-act
 [submodule "avy-flycheck"]
 	path = mirror/avy-flycheck
 	url = https://github.com/emacsmirror/avy-flycheck
