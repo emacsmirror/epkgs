@@ -23881,6 +23881,9 @@
 [submodule "tron-legacy-theme"]
 	path = mirror/tron-legacy-theme
 	url = https://github.com/emacsmirror/tron-legacy-theme
+[submodule "trope-mode"]
+	path = mirror/trope-mode
+	url = https://github.com/emacsmirror/trope-mode
 [submodule "trr"]
 	path = mirror/trr
 	url = https://github.com/emacsmirror/trr
