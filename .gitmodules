@@ -20861,8 +20861,8 @@
 	path = mirror/scad-mode
 	url = https://github.com/emacsmirror/scad-mode
 [submodule "scad-preview"]
-	path = mirror/scad-preview
-	url = https://github.com/emacsmirror/scad-preview
+	path = attic/scad-preview
+	url = https://github.com/emacsattic/scad-preview
 [submodule "scala-mode"]
 	path = mirror/scala-mode
 	url = https://github.com/emacsmirror/scala-mode
