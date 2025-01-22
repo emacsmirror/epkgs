@@ -2069,8 +2069,8 @@
 	path = mirror/buffer-name-relative
 	url = https://github.com/emacsmirror/buffer-name-relative
 [submodule "buffer-ring"]
-	path = attic/buffer-ring
-	url = https://github.com/emacsattic/buffer-ring
+	path = mirror/buffer-ring
+	url = https://github.com/emacsmirror/buffer-ring
 [submodule "buffer-sets"]
 	path = mirror/buffer-sets
 	url = https://github.com/emacsmirror/buffer-sets
