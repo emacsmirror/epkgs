@@ -13777,6 +13777,9 @@
 [submodule "loco"]
 	path = mirror/loco
 	url = https://github.com/emacsmirror/loco
+[submodule "locs-and-refs"]
+	path = mirror/locs-and-refs
+	url = https://github.com/emacsmirror/locs-and-refs
 [submodule "lodgeit"]
 	path = mirror/lodgeit
 	url = https://github.com/emacsmirror/lodgeit
