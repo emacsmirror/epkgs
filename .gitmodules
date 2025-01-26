@@ -14866,6 +14866,9 @@
 [submodule "mint-mode"]
 	path = mirror/mint-mode
 	url = https://github.com/emacsmirror/mint-mode
+[submodule "minuet"]
+	path = mirror/minuet
+	url = https://github.com/emacsmirror/minuet
 [submodule "mip-mode"]
 	path = mirror/mip-mode
 	url = https://github.com/emacsmirror/mip-mode
