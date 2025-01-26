@@ -25651,6 +25651,9 @@
 [submodule "xmlgen"]
 	path = mirror/xmlgen
 	url = https://github.com/emacsmirror/xmlgen
+[submodule "xmltokf"]
+	path = mirror/xmltokf
+	url = https://github.com/emacsmirror/xmltokf
 [submodule "xmlunicode"]
 	path = mirror/xmlunicode
 	url = https://github.com/emacsmirror/xmlunicode
