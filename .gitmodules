@@ -24040,6 +24040,9 @@
 [submodule "typescript-mode"]
 	path = mirror/typescript-mode
 	url = https://github.com/emacsmirror/typescript-mode
+[submodule "typespec-ts-mode"]
+	path = mirror/typespec-ts-mode
+	url = https://github.com/emacsmirror/typespec-ts-mode
 [submodule "typewriter-roll-mode"]
 	path = mirror/typewriter-roll-mode
 	url = https://github.com/emacsmirror/typewriter-roll-mode
