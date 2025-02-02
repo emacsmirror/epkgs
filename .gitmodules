@@ -52,6 +52,9 @@
 [submodule "a2ps-multibyte"]
 	path = mirror/a2ps-multibyte
 	url = https://github.com/emacsmirror/a2ps-multibyte
+[submodule "a68-mode"]
+	path = mirror/a68-mode
+	url = https://github.com/emacsmirror/a68-mode
 [submodule "aa-edit-mode"]
 	path = mirror/aa-edit-mode
 	url = https://github.com/emacsmirror/aa-edit-mode
