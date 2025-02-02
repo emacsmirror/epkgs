@@ -22438,6 +22438,9 @@
 [submodule "stickyfunc-enhance"]
 	path = mirror/stickyfunc-enhance
 	url = https://github.com/emacsmirror/stickyfunc-enhance
+[submodule "stillness-mode"]
+	path = mirror/stillness-mode
+	url = https://github.com/emacsmirror/stillness-mode
 [submodule "stimmung-themes"]
 	path = mirror/stimmung-themes
 	url = https://github.com/emacsmirror/stimmung-themes
