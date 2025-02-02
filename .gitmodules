@@ -18529,6 +18529,9 @@
 [submodule "piem"]
 	path = mirror/piem
 	url = https://github.com/emacsmirror/piem
+[submodule "pif"]
+	path = mirror/pif
+	url = https://github.com/emacsmirror/pif
 [submodule "pig-mode"]
 	path = mirror/pig-mode
 	url = https://github.com/emacsmirror/pig-mode
