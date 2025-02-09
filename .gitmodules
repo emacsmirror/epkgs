@@ -6706,6 +6706,9 @@
 [submodule "erlang-dired-mode"]
 	path = attic/erlang-dired-mode
 	url = https://github.com/emacsattic/erlang-dired-mode
+[submodule "erlang-ts"]
+	path = mirror/erlang-ts
+	url = https://github.com/emacsmirror/erlang-ts
 [submodule "erlstack-mode"]
 	path = mirror/erlstack-mode
 	url = https://github.com/emacsmirror/erlstack-mode
