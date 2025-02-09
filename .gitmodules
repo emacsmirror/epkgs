@@ -1033,6 +1033,9 @@
 [submodule "auth-source-xoauth2"]
 	path = mirror/auth-source-xoauth2
 	url = https://github.com/emacsmirror/auth-source-xoauth2
+[submodule "auth-source-xoauth2-plugin"]
+	path = mirror/auth-source-xoauth2-plugin
+	url = https://github.com/emacsmirror/auth-source-xoauth2-plugin
 [submodule "auto-arg-mode"]
 	path = attic/auto-arg-mode
 	url = https://github.com/emacsattic/auto-arg-mode
