@@ -24739,9 +24739,6 @@
 [submodule "vlc"]
 	path = mirror/vlc
 	url = https://github.com/emacsmirror/vlc
-[submodule "vlf"]
-	path = mirror/vlf
-	url = https://github.com/emacsmirror/vlf
 [submodule "vline"]
 	path = mirror/vline
 	url = https://github.com/emacsmirror/vline
