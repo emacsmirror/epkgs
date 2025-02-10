@@ -16978,6 +16978,9 @@
 [submodule "org-gnome-calendar"]
 	path = attic/org-gnome-calendar
 	url = https://github.com/emacsattic/org-gnome-calendar
+[submodule "org-gnosis"]
+	path = mirror/org-gnosis
+	url = https://github.com/emacsmirror/org-gnosis
 [submodule "org-grep"]
 	path = mirror/org-grep
 	url = https://github.com/emacsmirror/org-grep
