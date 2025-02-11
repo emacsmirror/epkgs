@@ -6452,8 +6452,8 @@
 	path = attic/emuds
 	url = https://github.com/emacsattic/emuds
 [submodule "emux"]
-	path = mirror/emux
-	url = https://github.com/emacsmirror/emux
+	path = attic/emux
+	url = https://github.com/emacsattic/emux
 [submodule "encap"]
 	path = attic/encap
 	url = https://github.com/emacsattic/encap
