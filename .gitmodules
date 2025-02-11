@@ -14297,8 +14297,8 @@
 	path = attic/main-line
 	url = https://github.com/emacsattic/main-line
 [submodule "majapahit-themes"]
-	path = mirror/majapahit-themes
-	url = https://github.com/emacsmirror/majapahit-themes
+	path = attic/majapahit-themes
+	url = https://github.com/emacsattic/majapahit-themes
 [submodule "major-mode-hydra"]
 	path = mirror/major-mode-hydra
 	url = https://github.com/emacsmirror/major-mode-hydra
