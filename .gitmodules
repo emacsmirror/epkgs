@@ -15698,8 +15698,8 @@
 	path = attic/nclose
 	url = https://github.com/emacsattic/nclose
 [submodule "ne2wm"]
-	path = mirror/ne2wm
-	url = https://github.com/emacsmirror/ne2wm
+	path = attic/ne2wm
+	url = https://github.com/emacsattic/ne2wm
 [submodule "neato-graph-bar"]
 	path = mirror/neato-graph-bar
 	url = https://github.com/emacsmirror/neato-graph-bar
