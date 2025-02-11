@@ -15677,8 +15677,8 @@
 	path = mirror/navigel
 	url = https://github.com/emacsmirror/navigel
 [submodule "navorski"]
-	path = mirror/navorski
-	url = https://github.com/emacsmirror/navorski
+	path = attic/navorski
+	url = https://github.com/emacsattic/navorski
 [submodule "naysayer-theme"]
 	path = mirror/naysayer-theme
 	url = https://github.com/emacsmirror/naysayer-theme
