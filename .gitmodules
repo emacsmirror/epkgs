@@ -24032,11 +24032,11 @@
 	path = attic/twitel
 	url = https://github.com/emacsattic/twitel
 [submodule "twittering-dframe"]
-	path = mirror/twittering-dframe
-	url = https://github.com/emacsmirror/twittering-dframe
+	path = attic/twittering-dframe
+	url = https://github.com/emacsattic/twittering-dframe
 [submodule "twittering-mode"]
-	path = mirror/twittering-mode
-	url = https://github.com/emacsmirror/twittering-mode
+	path = attic/twittering-mode
+	url = https://github.com/emacsattic/twittering-mode
 [submodule "two-mode-mode"]
 	path = attic/two-mode-mode
 	url = https://github.com/emacsattic/two-mode-mode
