@@ -19775,8 +19775,8 @@
 	path = mirror/racket-mode
 	url = https://github.com/emacsmirror/racket-mode
 [submodule "radio"]
-	path = attic/radio
-	url = https://github.com/emacsattic/radio
+	path = mirror/radio
+	url = https://github.com/emacsmirror/radio
 [submodule "rails"]
 	path = attic/rails
 	url = https://github.com/emacsattic/rails
