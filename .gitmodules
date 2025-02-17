@@ -18310,6 +18310,9 @@
 [submodule "perl-quote"]
 	path = mirror/perl-quote
 	url = https://github.com/emacsmirror/perl-quote
+[submodule "perl-ts-mode"]
+	path = mirror/perl-ts-mode
+	url = https://github.com/emacsmirror/perl-ts-mode
 [submodule "perl-use-utf8-coding"]
 	path = mirror/perl-use-utf8-coding
 	url = https://github.com/emacsmirror/perl-use-utf8-coding
