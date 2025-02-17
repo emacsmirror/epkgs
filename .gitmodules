@@ -24103,6 +24103,9 @@
 [submodule "typst-mode"]
 	path = attic/typst-mode
 	url = https://github.com/emacsattic/typst-mode
+[submodule "typst-ts-mode"]
+	path = mirror/typst-ts-mode
+	url = https://github.com/emacsmirror/typst-ts-mode
 [submodule "tzc"]
 	path = mirror/tzc
 	url = https://github.com/emacsmirror/tzc
