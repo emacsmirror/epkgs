@@ -10243,6 +10243,9 @@
 [submodule "hatena-group-keyword-mode"]
 	path = attic/hatena-group-keyword-mode
 	url = https://github.com/emacsattic/hatena-group-keyword-mode
+[submodule "hatty"]
+	path = mirror/hatty
+	url = https://github.com/emacsmirror/hatty
 [submodule "haxe-imports"]
 	path = mirror/haxe-imports
 	url = https://github.com/emacsmirror/haxe-imports
