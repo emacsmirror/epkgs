@@ -21490,6 +21490,9 @@
 [submodule "sideline-blame"]
 	path = mirror/sideline-blame
 	url = https://github.com/emacsmirror/sideline-blame
+[submodule "sideline-eglot"]
+	path = mirror/sideline-eglot
+	url = https://github.com/emacsmirror/sideline-eglot
 [submodule "sideline-flycheck"]
 	path = mirror/sideline-flycheck
 	url = https://github.com/emacsmirror/sideline-flycheck
