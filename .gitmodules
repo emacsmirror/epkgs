@@ -16381,6 +16381,9 @@
 [submodule "ob-php"]
 	path = mirror/ob-php
 	url = https://github.com/emacsmirror/ob-php
+[submodule "ob-pic"]
+	path = mirror/ob-pic
+	url = https://github.com/emacsmirror/ob-pic
 [submodule "ob-powershell"]
 	path = mirror/ob-powershell
 	url = https://github.com/emacsmirror/ob-powershell
