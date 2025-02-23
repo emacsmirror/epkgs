@@ -15935,8 +15935,8 @@
 	path = attic/nntwitter
 	url = https://github.com/emacsattic/nntwitter
 [submodule "no-clown-fiesta-theme"]
-	path = mirror/no-clown-fiesta-theme
-	url = https://github.com/emacsmirror/no-clown-fiesta-theme
+	path = attic/no-clown-fiesta-theme
+	url = https://github.com/emacsattic/no-clown-fiesta-theme
 [submodule "no-emoji"]
 	path = mirror/no-emoji
 	url = https://github.com/emacsmirror/no-emoji
