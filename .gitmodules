@@ -16591,6 +16591,9 @@
 [submodule "olivetti"]
 	path = mirror/olivetti
 	url = https://github.com/emacsmirror/olivetti
+[submodule "ollama-buddy"]
+	path = mirror/ollama-buddy
+	url = https://github.com/emacsmirror/ollama-buddy
 [submodule "om-mode"]
 	path = mirror/om-mode
 	url = https://github.com/emacsmirror/om-mode
