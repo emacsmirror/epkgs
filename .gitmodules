@@ -1957,6 +1957,9 @@
 [submodule "bravegnuworld-mode"]
 	path = attic/bravegnuworld-mode
 	url = https://github.com/emacsattic/bravegnuworld-mode
+[submodule "bray"]
+	path = mirror/bray
+	url = https://github.com/emacsmirror/bray
 [submodule "brazilian-holidays"]
 	path = mirror/brazilian-holidays
 	url = https://github.com/emacsmirror/brazilian-holidays
