@@ -9859,6 +9859,9 @@
 [submodule "gptel-aibo"]
 	path = mirror/gptel-aibo
 	url = https://github.com/emacsmirror/gptel-aibo
+[submodule "gptel-fn-complete"]
+	path = mirror/gptel-fn-complete
+	url = https://github.com/emacsmirror/gptel-fn-complete
 [submodule "gpx"]
 	path = mirror/gpx
 	url = https://github.com/emacsmirror/gpx
