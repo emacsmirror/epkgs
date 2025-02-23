@@ -71,8 +71,8 @@
 	path = mirror/abbrev-complete
 	url = https://github.com/emacsmirror/abbrev-complete
 [submodule "abbrev-sort"]
-	path = mirror/abbrev-sort
-	url = https://github.com/emacsmirror/abbrev-sort
+	path = attic/abbrev-sort
+	url = https://github.com/emacsattic/abbrev-sort
 [submodule "abc-mode"]
 	path = mirror/abc-mode
 	url = https://github.com/emacsmirror/abc-mode
@@ -332,8 +332,8 @@
 	path = mirror/adoc-mode
 	url = https://github.com/emacsmirror/adoc-mode
 [submodule "adv-random-sig"]
-	path = mirror/adv-random-sig
-	url = https://github.com/emacsmirror/adv-random-sig
+	path = attic/adv-random-sig
+	url = https://github.com/emacsattic/adv-random-sig
 [submodule "advice-patch"]
 	path = mirror/advice-patch
 	url = https://github.com/emacsmirror/advice-patch
@@ -449,8 +449,8 @@
 	path = mirror/alert-toast
 	url = https://github.com/emacsmirror/alert-toast
 [submodule "algorithms"]
-	path = mirror/algorithms
-	url = https://github.com/emacsmirror/algorithms
+	path = attic/algorithms
+	url = https://github.com/emacsattic/algorithms
 [submodule "align-by-current-symbol"]
 	path = mirror/align-by-current-symbol
 	url = https://github.com/emacsmirror/align-by-current-symbol
@@ -800,8 +800,8 @@
 	path = attic/archie
 	url = https://github.com/emacsattic/archie
 [submodule "archive-downloader"]
-	path = mirror/archive-downloader
-	url = https://github.com/emacsmirror/archive-downloader
+	path = attic/archive-downloader
+	url = https://github.com/emacsattic/archive-downloader
 [submodule "archive-phar"]
 	path = mirror/archive-phar
 	url = https://github.com/emacsmirror/archive-phar
@@ -2204,8 +2204,8 @@
 	path = attic/bytecomp-fns
 	url = https://github.com/emacsattic/bytecomp-fns
 [submodule "bytecomp-simplify"]
-	path = mirror/bytecomp-simplify
-	url = https://github.com/emacsmirror/bytecomp-simplify
+	path = attic/bytecomp-simplify
+	url = https://github.com/emacsattic/bytecomp-simplify
 [submodule "c-boxes"]
 	path = attic/c-boxes
 	url = https://github.com/emacsattic/c-boxes
@@ -2588,8 +2588,8 @@
 	path = mirror/checkbox
 	url = https://github.com/emacsmirror/checkbox
 [submodule "checkdoc-keywords"]
-	path = mirror/checkdoc-keywords
-	url = https://github.com/emacsmirror/checkdoc-keywords
+	path = attic/checkdoc-keywords
+	url = https://github.com/emacsattic/checkdoc-keywords
 [submodule "chee"]
 	path = mirror/chee
 	url = https://github.com/emacsmirror/chee
@@ -3428,8 +3428,8 @@
 	path = mirror/competitive-programming-snippets
 	url = https://github.com/emacsmirror/competitive-programming-snippets
 [submodule "compilation-always-kill"]
-	path = mirror/compilation-always-kill
-	url = https://github.com/emacsmirror/compilation-always-kill
+	path = attic/compilation-always-kill
+	url = https://github.com/emacsattic/compilation-always-kill
 [submodule "compilation-perl"]
 	path = attic/compilation-perl
 	url = https://github.com/emacsattic/compilation-perl
@@ -3671,8 +3671,8 @@
 	path = mirror/copyit
 	url = https://github.com/emacsmirror/copyit
 [submodule "copyright-both-ends"]
-	path = mirror/copyright-both-ends
-	url = https://github.com/emacsmirror/copyright-both-ends
+	path = attic/copyright-both-ends
+	url = https://github.com/emacsattic/copyright-both-ends
 [submodule "coq-commenter"]
 	path = mirror/coq-commenter
 	url = https://github.com/emacsmirror/coq-commenter
@@ -3800,8 +3800,8 @@
 	path = mirror/countdown
 	url = https://github.com/emacsmirror/countdown
 [submodule "counter"]
-	path = mirror/counter
-	url = https://github.com/emacsmirror/counter
+	path = attic/counter
+	url = https://github.com/emacsattic/counter
 [submodule "cov"]
 	path = mirror/cov
 	url = https://github.com/emacsmirror/cov
@@ -5051,8 +5051,8 @@
 	path = mirror/do-at-point
 	url = https://github.com/emacsmirror/do-at-point
 [submodule "do-not-edit"]
-	path = mirror/do-not-edit
-	url = https://github.com/emacsmirror/do-not-edit
+	path = attic/do-not-edit
+	url = https://github.com/emacsattic/do-not-edit
 [submodule "doc-mode"]
 	path = mirror/doc-mode
 	url = https://github.com/emacsmirror/doc-mode
@@ -7499,8 +7499,8 @@
 	path = mirror/fastdef
 	url = https://github.com/emacsmirror/fastdef
 [submodule "fastfuzz"]
-	path = mirror/fastfuzz
-	url = https://github.com/emacsmirror/fastfuzz
+	path = attic/fastfuzz
+	url = https://github.com/emacsattic/fastfuzz
 [submodule "fastnav"]
 	path = mirror/fastnav
 	url = https://github.com/emacsmirror/fastnav
@@ -7565,32 +7565,32 @@
 	path = mirror/fetchmail-mode
 	url = https://github.com/emacsmirror/fetchmail-mode
 [submodule "ff-paths"]
-	path = mirror/ff-paths
-	url = https://github.com/emacsmirror/ff-paths
+	path = attic/ff-paths
+	url = https://github.com/emacsattic/ff-paths
 [submodule "ffap-"]
 	path = mirror/ffap-
 	url = https://github.com/emacsmirror/ffap-
 [submodule "ffap-gcc-path"]
-	path = mirror/ffap-gcc-path
-	url = https://github.com/emacsmirror/ffap-gcc-path
+	path = attic/ffap-gcc-path
+	url = https://github.com/emacsattic/ffap-gcc-path
 [submodule "ffap-include-start"]
-	path = mirror/ffap-include-start
-	url = https://github.com/emacsmirror/ffap-include-start
+	path = attic/ffap-include-start
+	url = https://github.com/emacsattic/ffap-include-start
 [submodule "ffap-makefile-vars"]
-	path = mirror/ffap-makefile-vars
-	url = https://github.com/emacsmirror/ffap-makefile-vars
+	path = attic/ffap-makefile-vars
+	url = https://github.com/emacsattic/ffap-makefile-vars
 [submodule "ffap-mml"]
-	path = mirror/ffap-mml
-	url = https://github.com/emacsmirror/ffap-mml
+	path = attic/ffap-mml
+	url = https://github.com/emacsattic/ffap-mml
 [submodule "ffap-perl-module"]
-	path = mirror/ffap-perl-module
-	url = https://github.com/emacsmirror/ffap-perl-module
+	path = attic/ffap-perl-module
+	url = https://github.com/emacsattic/ffap-perl-module
 [submodule "ffap-rfc-directories"]
 	path = attic/ffap-rfc-directories
 	url = https://github.com/emacsattic/ffap-rfc-directories
 [submodule "ffap-rfc-space"]
-	path = mirror/ffap-rfc-space
-	url = https://github.com/emacsmirror/ffap-rfc-space
+	path = attic/ffap-rfc-space
+	url = https://github.com/emacsattic/ffap-rfc-space
 [submodule "fff"]
 	path = attic/fff
 	url = https://github.com/emacsattic/fff
@@ -7658,8 +7658,8 @@
 	path = mirror/filelock
 	url = https://github.com/emacsmirror/filelock
 [submodule "filemenu"]
-	path = mirror/filemenu
-	url = https://github.com/emacsmirror/filemenu
+	path = attic/filemenu
+	url = https://github.com/emacsattic/filemenu
 [submodule "filename-cases"]
 	path = attic/filename-cases
 	url = https://github.com/emacsattic/filename-cases
@@ -7706,8 +7706,8 @@
 	path = mirror/filladapt
 	url = https://github.com/emacsmirror/filladapt
 [submodule "filladapt-pat"]
-	path = mirror/filladapt-pat
-	url = https://github.com/emacsmirror/filladapt-pat
+	path = attic/filladapt-pat
+	url = https://github.com/emacsattic/filladapt-pat
 [submodule "fillcode"]
 	path = mirror/fillcode
 	url = https://github.com/emacsmirror/fillcode
@@ -8690,8 +8690,8 @@
 	path = mirror/format-table
 	url = https://github.com/emacsmirror/format-table
 [submodule "formfeed-hline"]
-	path = mirror/formfeed-hline
-	url = https://github.com/emacsmirror/formfeed-hline
+	path = attic/formfeed-hline
+	url = https://github.com/emacsattic/formfeed-hline
 [submodule "forml-mode"]
 	path = attic/forml-mode
 	url = https://github.com/emacsattic/forml-mode
@@ -10988,8 +10988,8 @@
 	path = mirror/highlight
 	url = https://github.com/emacsmirror/highlight
 [submodule "highlight-80+"]
-	path = mirror/highlight-80+
-	url = https://github.com/emacsmirror/highlight-80-plus
+	path = attic/highlight-80+
+	url = https://github.com/emacsattic/highlight-80-plus
 [submodule "highlight-beyond-fill-column"]
 	path = attic/highlight-beyond-fill-column
 	url = https://github.com/emacsattic/highlight-beyond-fill-column
@@ -11003,8 +11003,8 @@
 	path = mirror/highlight-cl
 	url = https://github.com/emacsmirror/highlight-cl
 [submodule "highlight-completion"]
-	path = mirror/highlight-completion
-	url = https://github.com/emacsmirror/highlight-completion
+	path = attic/highlight-completion
+	url = https://github.com/emacsattic/highlight-completion
 [submodule "highlight-context-line"]
 	path = mirror/highlight-context-line
 	url = https://github.com/emacsmirror/highlight-context-line
@@ -11882,8 +11882,8 @@
 	path = mirror/info-colors
 	url = https://github.com/emacsmirror/info-colors
 [submodule "info-lookmore"]
-	path = mirror/info-lookmore
-	url = https://github.com/emacsmirror/info-lookmore
+	path = attic/info-lookmore
+	url = https://github.com/emacsattic/info-lookmore
 [submodule "info-rename-buffer"]
 	path = mirror/info-rename-buffer
 	url = https://github.com/emacsmirror/info-rename-buffer
@@ -11996,8 +11996,8 @@
 	path = mirror/inspire
 	url = https://github.com/emacsmirror/inspire
 [submodule "install"]
-	path = mirror/install
-	url = https://github.com/emacsmirror/install
+	path = attic/install
+	url = https://github.com/emacsattic/install
 [submodule "install-elisp"]
 	path = mirror/install-elisp
 	url = https://github.com/emacsmirror/install-elisp
@@ -12524,8 +12524,8 @@
 	path = attic/jhg-cload
 	url = https://github.com/emacsattic/jhg-cload
 [submodule "jiggle"]
-	path = mirror/jiggle
-	url = https://github.com/emacsmirror/jiggle
+	path = attic/jiggle
+	url = https://github.com/emacsattic/jiggle
 [submodule "jimb-patch"]
 	path = attic/jimb-patch
 	url = https://github.com/emacsattic/jimb-patch
@@ -13172,8 +13172,8 @@
 	path = mirror/lakota-input
 	url = https://github.com/emacsmirror/lakota-input
 [submodule "lambdacalc"]
-	path = mirror/lambdacalc
-	url = https://github.com/emacsmirror/lambdacalc
+	path = attic/lambdacalc
+	url = https://github.com/emacsattic/lambdacalc
 [submodule "lambdapi-mode"]
 	path = mirror/lambdapi-mode
 	url = https://github.com/emacsmirror/lambdapi-mode
@@ -15953,8 +15953,8 @@
 	path = mirror/noaa
 	url = https://github.com/emacsmirror/noaa
 [submodule "nobreak-fade"]
-	path = mirror/nobreak-fade
-	url = https://github.com/emacsmirror/nobreak-fade
+	path = attic/nobreak-fade
+	url = https://github.com/emacsattic/nobreak-fade
 [submodule "noccur"]
 	path = mirror/noccur
 	url = https://github.com/emacsmirror/noccur
@@ -17603,14 +17603,14 @@
 	path = mirror/ormolu
 	url = https://github.com/emacsmirror/ormolu
 [submodule "orthodox"]
-	path = mirror/orthodox
-	url = https://github.com/emacsmirror/orthodox
+	path = attic/orthodox
+	url = https://github.com/emacsattic/orthodox
 [submodule "orthodox-christian-new-calendar-holidays"]
 	path = mirror/orthodox-christian-new-calendar-holidays
 	url = https://github.com/emacsmirror/orthodox-christian-new-calendar-holidays
 [submodule "orwell"]
-	path = mirror/orwell
-	url = https://github.com/emacsmirror/orwell
+	path = attic/orwell
+	url = https://github.com/emacsattic/orwell
 [submodule "os"]
 	path = attic/os
 	url = https://github.com/emacsattic/os
@@ -18014,8 +18014,8 @@
 	path = attic/paradox
 	url = https://github.com/emacsattic/paradox
 [submodule "parasep"]
-	path = mirror/parasep
-	url = https://github.com/emacsmirror/parasep
+	path = attic/parasep
+	url = https://github.com/emacsattic/parasep
 [submodule "parchment-theme"]
 	path = mirror/parchment-theme
 	url = https://github.com/emacsmirror/parchment-theme
@@ -18311,14 +18311,14 @@
 	path = attic/perl-pod-preview
 	url = https://github.com/emacsattic/perl-pod-preview
 [submodule "perl-quote"]
-	path = mirror/perl-quote
-	url = https://github.com/emacsmirror/perl-quote
+	path = attic/perl-quote
+	url = https://github.com/emacsattic/perl-quote
 [submodule "perl-ts-mode"]
 	path = mirror/perl-ts-mode
 	url = https://github.com/emacsmirror/perl-ts-mode
 [submodule "perl-use-utf8-coding"]
-	path = mirror/perl-use-utf8-coding
-	url = https://github.com/emacsmirror/perl-use-utf8-coding
+	path = attic/perl-use-utf8-coding
+	url = https://github.com/emacsattic/perl-use-utf8-coding
 [submodule "perl-utils"]
 	path = mirror/perl-utils
 	url = https://github.com/emacsmirror/perl-utils
@@ -18533,8 +18533,8 @@
 	path = mirror/pic-basic-mode
 	url = https://github.com/emacsmirror/pic-basic-mode
 [submodule "pick-backup"]
-	path = mirror/pick-backup
-	url = https://github.com/emacsmirror/pick-backup
+	path = attic/pick-backup
+	url = https://github.com/emacsattic/pick-backup
 [submodule "pickel"]
 	path = mirror/pickel
 	url = https://github.com/emacsmirror/pickel
@@ -20480,8 +20480,8 @@
 	path = mirror/rii
 	url = https://github.com/emacsmirror/rii
 [submodule "rijndael"]
-	path = mirror/rijndael
-	url = https://github.com/emacsmirror/rijndael
+	path = attic/rijndael
+	url = https://github.com/emacsattic/rijndael
 [submodule "rime"]
 	path = mirror/rime
 	url = https://github.com/emacsmirror/rime
@@ -21077,8 +21077,8 @@
 	path = attic/search-engines
 	url = https://github.com/emacsattic/search-engines
 [submodule "search-prop"]
-	path = mirror/search-prop
-	url = https://github.com/emacsmirror/search-prop
+	path = attic/search-prop
+	url = https://github.com/emacsattic/search-prop
 [submodule "search-web"]
 	path = mirror/search-web
 	url = https://github.com/emacsmirror/search-web
@@ -21782,8 +21782,8 @@
 	path = mirror/smart-delete
 	url = https://github.com/emacsmirror/smart-delete
 [submodule "smart-dnd"]
-	path = mirror/smart-dnd
-	url = https://github.com/emacsmirror/smart-dnd
+	path = attic/smart-dnd
+	url = https://github.com/emacsattic/smart-dnd
 [submodule "smart-forward"]
 	path = mirror/smart-forward
 	url = https://github.com/emacsmirror/smart-forward
@@ -22202,8 +22202,8 @@
 	path = attic/spiral
 	url = https://github.com/emacsattic/spiral
 [submodule "split-root"]
-	path = mirror/split-root
-	url = https://github.com/emacsmirror/split-root
+	path = attic/split-root
+	url = https://github.com/emacsattic/split-root
 [submodule "split-window-multi"]
 	path = attic/split-window-multi
 	url = https://github.com/emacsattic/split-window-multi
@@ -24071,8 +24071,8 @@
 	path = attic/typed-clojure-mode
 	url = https://github.com/emacsattic/typed-clojure-mode
 [submodule "typematic"]
-	path = mirror/typematic
-	url = https://github.com/emacsmirror/typematic
+	path = attic/typematic
+	url = https://github.com/emacsattic/typematic
 [submodule "typescript-mode"]
 	path = mirror/typescript-mode
 	url = https://github.com/emacsmirror/typescript-mode
@@ -24245,8 +24245,8 @@
 	path = mirror/unicad
 	url = https://github.com/emacsmirror/unicad
 [submodule "unicode-disp"]
-	path = mirror/unicode-disp
-	url = https://github.com/emacsmirror/unicode-disp
+	path = attic/unicode-disp
+	url = https://github.com/emacsattic/unicode-disp
 [submodule "unicode-emoticons"]
 	path = mirror/unicode-emoticons
 	url = https://github.com/emacsmirror/unicode-emoticons
@@ -24659,8 +24659,8 @@
 	path = mirror/vhdl-ts-mode
 	url = https://github.com/emacsmirror/vhdl-ts-mode
 [submodule "vi-dot"]
-	path = mirror/vi-dot
-	url = https://github.com/emacsmirror/vi-dot
+	path = attic/vi-dot
+	url = https://github.com/emacsattic/vi-dot
 [submodule "vi-tilde-fringe"]
 	path = mirror/vi-tilde-fringe
 	url = https://github.com/emacsmirror/vi-tilde-fringe
@@ -25514,8 +25514,8 @@
 	path = attic/wsh-repl
 	url = https://github.com/emacsattic/wsh-repl
 [submodule "wtf"]
-	path = mirror/wtf
-	url = https://github.com/emacsmirror/wtf
+	path = attic/wtf
+	url = https://github.com/emacsattic/wtf
 [submodule "wttrin"]
 	path = mirror/wttrin
 	url = https://github.com/emacsmirror/wttrin
