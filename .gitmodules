@@ -4504,6 +4504,9 @@
 [submodule "denote"]
 	path = mirror/denote
 	url = https://github.com/emacsmirror/denote
+[submodule "denote-agenda"]
+	path = mirror/denote-agenda
+	url = https://github.com/emacsmirror/denote-agenda
 [submodule "denote-explore"]
 	path = mirror/denote-explore
 	url = https://github.com/emacsmirror/denote-explore
