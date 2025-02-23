@@ -13705,6 +13705,9 @@
 [submodule "litex-mode"]
 	path = mirror/litex-mode
 	url = https://github.com/emacsmirror/litex-mode
+[submodule "lithium"]
+	path = mirror/lithium
+	url = https://github.com/emacsmirror/lithium
 [submodule "litprog"]
 	path = attic/litprog
 	url = https://github.com/emacsattic/litprog
