@@ -15031,6 +15031,9 @@
 [submodule "mode-line-in-header"]
 	path = attic/mode-line-in-header
 	url = https://github.com/emacsattic/mode-line-in-header
+[submodule "mode-line-keyboard"]
+	path = mirror/mode-line-keyboard
+	url = https://github.com/emacsmirror/mode-line-keyboard
 [submodule "modelica-mode"]
 	path = mirror/modelica-mode
 	url = https://github.com/emacsmirror/modelica-mode
