@@ -16906,6 +16906,9 @@
 [submodule "org-d20"]
 	path = mirror/org-d20
 	url = https://github.com/emacsmirror/org-d20
+[submodule "org-daily-reflection"]
+	path = mirror/org-daily-reflection
+	url = https://github.com/emacsmirror/org-daily-reflection
 [submodule "org-dashboard"]
 	path = mirror/org-dashboard
 	url = https://github.com/emacsmirror/org-dashboard
