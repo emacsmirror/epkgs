@@ -4516,6 +4516,9 @@
 [submodule "denote-refs"]
 	path = mirror/denote-refs
 	url = https://github.com/emacsmirror/denote-refs
+[submodule "denote-search"]
+	path = mirror/denote-search
+	url = https://github.com/emacsmirror/denote-search
 [submodule "denote-sections"]
 	path = mirror/denote-sections
 	url = https://github.com/emacsmirror/denote-sections
