@@ -4510,6 +4510,9 @@
 [submodule "denote-explore"]
 	path = mirror/denote-explore
 	url = https://github.com/emacsmirror/denote-explore
+[submodule "denote-journal-capture"]
+	path = mirror/denote-journal-capture
+	url = https://github.com/emacsmirror/denote-journal-capture
 [submodule "denote-menu"]
 	path = mirror/denote-menu
 	url = https://github.com/emacsmirror/denote-menu
