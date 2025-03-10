@@ -9508,6 +9508,9 @@
 [submodule "gnome-calendar"]
 	path = mirror/gnome-calendar
 	url = https://github.com/emacsmirror/gnome-calendar
+[submodule "gnome-dark-style"]
+	path = mirror/gnome-dark-style
+	url = https://github.com/emacsmirror/gnome-dark-style
 [submodule "gnome-screencast"]
 	path = mirror/gnome-screencast
 	url = https://github.com/emacsmirror/gnome-screencast
