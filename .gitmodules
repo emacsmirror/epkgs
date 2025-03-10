@@ -21673,6 +21673,9 @@
 [submodule "sixcolors-mode"]
 	path = mirror/sixcolors-mode
 	url = https://github.com/emacsmirror/sixcolors-mode
+[submodule "sixcolors-theme"]
+	path = mirror/sixcolors-theme
+	url = https://github.com/emacsmirror/sixcolors-theme
 [submodule "ska-skel-matlab"]
 	path = attic/ska-skel-matlab
 	url = https://github.com/emacsattic/ska-skel-matlab
