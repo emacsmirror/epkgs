@@ -9506,8 +9506,8 @@
 	path = mirror/gnome-c-style
 	url = https://github.com/emacsmirror/gnome-c-style
 [submodule "gnome-calendar"]
-	path = mirror/gnome-calendar
-	url = https://github.com/emacsmirror/gnome-calendar
+	path = attic/gnome-calendar
+	url = https://github.com/emacsattic/gnome-calendar
 [submodule "gnome-dark-style"]
 	path = mirror/gnome-dark-style
 	url = https://github.com/emacsmirror/gnome-dark-style
