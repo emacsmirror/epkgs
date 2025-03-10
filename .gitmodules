@@ -403,6 +403,9 @@
 [submodule "ahungry-theme"]
 	path = mirror/ahungry-theme
 	url = https://github.com/emacsmirror/ahungry-theme
+[submodule "aidermacs"]
+	path = mirror/aidermacs
+	url = https://github.com/emacsmirror/aidermacs
 [submodule "aiken-mode"]
 	path = mirror/aiken-mode
 	url = https://github.com/emacsmirror/aiken-mode
