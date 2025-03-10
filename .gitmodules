@@ -16018,6 +16018,9 @@
 [submodule "nodenv"]
 	path = attic/nodenv
 	url = https://github.com/emacsattic/nodenv
+[submodule "noether"]
+	path = mirror/noether
+	url = https://github.com/emacsmirror/noether
 [submodule "noflet"]
 	path = mirror/noflet
 	url = https://github.com/emacsmirror/noflet
