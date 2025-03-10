@@ -2236,6 +2236,9 @@
 [submodule "c0-mode"]
 	path = mirror/c0-mode
 	url = https://github.com/emacsmirror/c0-mode
+[submodule "c2-mode"]
+	path = mirror/c2-mode
+	url = https://github.com/emacsmirror/c2-mode
 [submodule "ca2+"]
 	path = mirror/ca2+
 	url = https://github.com/emacsmirror/ca2-plus
