@@ -14134,9 +14134,6 @@
 [submodule "m56k"]
 	path = attic/m56k
 	url = https://github.com/emacsattic/m56k
-[submodule "mac-key-mode"]
-	path = attic/mac-key-mode
-	url = https://github.com/emacsattic/mac-key-mode
 [submodule "mac-pseudo-daemon"]
 	path = mirror/mac-pseudo-daemon
 	url = https://github.com/emacsmirror/mac-pseudo-daemon
