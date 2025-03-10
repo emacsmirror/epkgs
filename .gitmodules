@@ -18419,8 +18419,8 @@
 	path = mirror/persp-mode
 	url = https://github.com/emacsmirror/persp-mode
 [submodule "persp-mode-project-bridge"]
-	path = mirror/persp-mode-project-bridge
-	url = https://github.com/emacsmirror/persp-mode-project-bridge
+	path = attic/persp-mode-project-bridge
+	url = https://github.com/emacsattic/persp-mode-project-bridge
 [submodule "persp-mode-projectile-bridge"]
 	path = mirror/persp-mode-projectile-bridge
 	url = https://github.com/emacsmirror/persp-mode-projectile-bridge
