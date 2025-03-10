@@ -2314,6 +2314,9 @@
 [submodule "call-graph"]
 	path = attic/call-graph
 	url = https://github.com/emacsattic/call-graph
+[submodule "calle24"]
+	path = mirror/calle24
+	url = https://github.com/emacsmirror/calle24
 [submodule "calmer-forest-theme"]
 	path = mirror/calmer-forest-theme
 	url = https://github.com/emacsmirror/calmer-forest-theme
