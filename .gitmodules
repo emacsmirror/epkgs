@@ -4114,6 +4114,9 @@
 [submodule "cursory"]
 	path = mirror/cursory
 	url = https://github.com/emacsmirror/cursory
+[submodule "cus-abbrev"]
+	path = mirror/cus-abbrev
+	url = https://github.com/emacsmirror/cus-abbrev
 [submodule "cus-directory"]
 	path = attic/cus-directory
 	url = https://github.com/emacsattic/cus-directory
