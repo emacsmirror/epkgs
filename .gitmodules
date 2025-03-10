@@ -526,6 +526,9 @@
 [submodule "amarok"]
 	path = attic/amarok
 	url = https://github.com/emacsattic/amarok
+[submodule "amber-glow-theme"]
+	path = mirror/amber-glow-theme
+	url = https://github.com/emacsmirror/amber-glow-theme
 [submodule "amd-mode"]
 	path = mirror/amd-mode
 	url = https://github.com/emacsmirror/amd-mode
