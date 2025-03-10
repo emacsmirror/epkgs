@@ -21301,6 +21301,9 @@
 [submodule "sexy-monochrome-theme"]
 	path = mirror/sexy-monochrome-theme
 	url = https://github.com/emacsmirror/sexy-monochrome-theme
+[submodule "sexy-theme"]
+	path = mirror/sexy-theme
+	url = https://github.com/emacsmirror/sexy-theme
 [submodule "sfst"]
 	path = attic/sfst
 	url = https://github.com/emacsattic/sfst
