@@ -17794,6 +17794,9 @@
 [submodule "ox-bb"]
 	path = mirror/ox-bb
 	url = https://github.com/emacsmirror/ox-bb
+[submodule "ox-beamer-lecture"]
+	path = mirror/ox-beamer-lecture
+	url = https://github.com/emacsmirror/ox-beamer-lecture
 [submodule "ox-bibtex-chinese"]
 	path = mirror/ox-bibtex-chinese
 	url = https://github.com/emacsmirror/ox-bibtex-chinese
