@@ -24554,8 +24554,8 @@
 	path = mirror/valign
 	url = https://github.com/emacsmirror/valign
 [submodule "vampyricdark-theme"]
-	path = mirror/vampyricdark-theme
-	url = https://github.com/emacsmirror/vampyricdark-theme
+	path = attic/vampyricdark-theme
+	url = https://github.com/emacsattic/vampyricdark-theme
 [submodule "variant-abbc"]
 	path = attic/variant-abbc
 	url = https://github.com/emacsattic/variant-abbc
