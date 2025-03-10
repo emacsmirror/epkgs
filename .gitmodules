@@ -4528,6 +4528,9 @@
 [submodule "denote-menu"]
 	path = mirror/denote-menu
 	url = https://github.com/emacsmirror/denote-menu
+[submodule "denote-project-notes"]
+	path = mirror/denote-project-notes
+	url = https://github.com/emacsmirror/denote-project-notes
 [submodule "denote-refs"]
 	path = mirror/denote-refs
 	url = https://github.com/emacsmirror/denote-refs
