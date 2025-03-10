@@ -1687,6 +1687,9 @@
 [submodule "bike"]
 	path = attic/bike
 	url = https://github.com/emacsattic/bike
+[submodule "bilibili"]
+	path = mirror/bilibili
+	url = https://github.com/emacsmirror/bilibili
 [submodule "binclock"]
 	path = mirror/binclock
 	url = https://github.com/emacsmirror/binclock
