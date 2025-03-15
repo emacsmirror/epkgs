@@ -4558,6 +4558,9 @@
 [submodule "denote-sequence"]
 	path = mirror/denote-sequence
 	url = https://github.com/emacsmirror/denote-sequence
+[submodule "denote-silo"]
+	path = mirror/denote-silo
+	url = https://github.com/emacsmirror/denote-silo
 [submodule "descr-text+"]
 	path = mirror/descr-text+
 	url = https://github.com/emacsmirror/descr-text-plus
