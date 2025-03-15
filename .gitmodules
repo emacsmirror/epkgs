@@ -1346,8 +1346,8 @@
 	path = mirror/axe
 	url = https://github.com/emacsmirror/axe
 [submodule "axiom-environment"]
-	path = mirror/axiom-environment
-	url = https://github.com/emacsmirror/axiom-environment
+	path = attic/axiom-environment
+	url = https://github.com/emacsattic/axiom-environment
 [submodule "ayu-theme"]
 	path = mirror/ayu-theme
 	url = https://github.com/emacsmirror/ayu-theme
