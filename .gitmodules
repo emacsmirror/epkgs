@@ -4555,6 +4555,9 @@
 [submodule "denote-sections"]
 	path = mirror/denote-sections
 	url = https://github.com/emacsmirror/denote-sections
+[submodule "denote-sequence"]
+	path = mirror/denote-sequence
+	url = https://github.com/emacsmirror/denote-sequence
 [submodule "descr-text+"]
 	path = mirror/descr-text+
 	url = https://github.com/emacsmirror/descr-text-plus
