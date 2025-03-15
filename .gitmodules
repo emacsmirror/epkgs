@@ -24619,6 +24619,9 @@
 [submodule "vc-hooks+"]
 	path = mirror/vc-hooks+
 	url = https://github.com/emacsmirror/vc-hooks-plus
+[submodule "vc-jj"]
+	path = mirror/vc-jj
+	url = https://github.com/emacsmirror/vc-jj
 [submodule "vc-jump"]
 	path = attic/vc-jump
 	url = https://github.com/emacsattic/vc-jump
