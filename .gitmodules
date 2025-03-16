@@ -17032,6 +17032,9 @@
 [submodule "org-evil"]
 	path = mirror/org-evil
 	url = https://github.com/emacsmirror/org-evil
+[submodule "org-expose-emphasis-markers"]
+	path = mirror/org-expose-emphasis-markers
+	url = https://github.com/emacsmirror/org-expose-emphasis-markers
 [submodule "org-extra-emphasis"]
 	path = mirror/org-extra-emphasis
 	url = https://github.com/emacsmirror/org-extra-emphasis
