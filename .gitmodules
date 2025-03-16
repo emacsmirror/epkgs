@@ -3322,6 +3322,9 @@
 [submodule "company-flx"]
 	path = mirror/company-flx
 	url = https://github.com/emacsmirror/company-flx
+[submodule "company-forge"]
+	path = mirror/company-forge
+	url = https://github.com/emacsmirror/company-forge
 [submodule "company-fuzzy"]
 	path = mirror/company-fuzzy
 	url = https://github.com/emacsmirror/company-fuzzy
