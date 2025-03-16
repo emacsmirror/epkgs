@@ -16291,6 +16291,9 @@
 [submodule "ob-ada-spark"]
 	path = mirror/ob-ada-spark
 	url = https://github.com/emacsmirror/ob-ada-spark
+[submodule "ob-aider"]
+	path = mirror/ob-aider
+	url = https://github.com/emacsmirror/ob-aider
 [submodule "ob-ammonite"]
 	path = attic/ob-ammonite
 	url = https://github.com/emacsattic/ob-ammonite
