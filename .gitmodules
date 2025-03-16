@@ -12602,8 +12602,8 @@
 	path = mirror/jinx
 	url = https://github.com/emacsmirror/jinx
 [submodule "jira"]
-	path = attic/jira
-	url = https://github.com/emacsattic/jira
+	path = mirror/jira
+	url = https://github.com/emacsmirror/jira
 [submodule "jira-markup-mode"]
 	path = mirror/jira-markup-mode
 	url = https://github.com/emacsmirror/jira-markup-mode
