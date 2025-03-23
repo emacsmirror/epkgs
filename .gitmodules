@@ -20524,6 +20524,9 @@
 [submodule "rg"]
 	path = mirror/rg
 	url = https://github.com/emacsmirror/rg
+[submodule "rg-themes"]
+	path = mirror/rg-themes
+	url = https://github.com/emacsmirror/rg-themes
 [submodule "rgb"]
 	path = mirror/rgb
 	url = https://github.com/emacsmirror/rgb
