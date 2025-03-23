@@ -16712,8 +16712,8 @@
 	path = mirror/one-key-local
 	url = https://github.com/emacsmirror/one-key-local
 [submodule "one-themes"]
-	path = mirror/one-themes
-	url = https://github.com/emacsmirror/one-themes
+	path = attic/one-themes
+	url = https://github.com/emacsattic/one-themes
 [submodule "one-time-pad-encrypt"]
 	path = mirror/one-time-pad-encrypt
 	url = https://github.com/emacsmirror/one-time-pad-encrypt
