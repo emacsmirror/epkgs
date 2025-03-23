@@ -11825,8 +11825,8 @@
 	path = mirror/immortal-scratch
 	url = https://github.com/emacsmirror/immortal-scratch
 [submodule "immutant-server"]
-	path = mirror/immutant-server
-	url = https://github.com/emacsmirror/immutant-server
+	path = attic/immutant-server
+	url = https://github.com/emacsattic/immutant-server
 [submodule "impatient-mode"]
 	path = mirror/impatient-mode
 	url = https://github.com/emacsmirror/impatient-mode
