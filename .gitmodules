@@ -11422,6 +11422,9 @@
 [submodule "huecycle"]
 	path = mirror/huecycle
 	url = https://github.com/emacsmirror/huecycle
+[submodule "hugoista"]
+	path = mirror/hugoista
+	url = https://github.com/emacsmirror/hugoista
 [submodule "hugs-mode"]
 	path = attic/hugs-mode
 	url = https://github.com/emacsattic/hugs-mode
