@@ -14254,6 +14254,9 @@
 [submodule "magit-identities"]
 	path = attic/magit-identities
 	url = https://github.com/emacsattic/magit-identities
+[submodule "magit-ido"]
+	path = mirror/magit-ido
+	url = https://github.com/emacsmirror/magit-ido
 [submodule "magit-imerge"]
 	path = mirror/magit-imerge
 	url = https://github.com/emacsmirror/magit-imerge
