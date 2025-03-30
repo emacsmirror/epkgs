@@ -20383,6 +20383,9 @@
 [submodule "repdet"]
 	path = attic/repdet
 	url = https://github.com/emacsattic/repdet
+[submodule "repeat-fu"]
+	path = mirror/repeat-fu
+	url = https://github.com/emacsmirror/repeat-fu
 [submodule "repeat-help"]
 	path = mirror/repeat-help
 	url = https://github.com/emacsmirror/repeat-help
