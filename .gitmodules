@@ -17131,6 +17131,9 @@
 [submodule "org-inline-pdfcomment"]
 	path = mirror/org-inline-pdfcomment
 	url = https://github.com/emacsmirror/org-inline-pdfcomment
+[submodule "org-invoice-table"]
+	path = mirror/org-invoice-table
+	url = https://github.com/emacsmirror/org-invoice-table
 [submodule "org-iv"]
 	path = mirror/org-iv
 	url = https://github.com/emacsmirror/org-iv
