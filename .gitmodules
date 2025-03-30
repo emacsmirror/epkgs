@@ -8734,6 +8734,9 @@
 [submodule "forge"]
 	path = mirror/forge
 	url = https://github.com/emacsmirror/forge
+[submodule "forge-llm"]
+	path = mirror/forge-llm
+	url = https://github.com/emacsmirror/forge-llm
 [submodule "form-feed"]
 	path = mirror/form-feed
 	url = https://github.com/emacsmirror/form-feed
