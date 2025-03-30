@@ -22642,6 +22642,9 @@
 [submodule "stripes"]
 	path = mirror/stripes
 	url = https://github.com/emacsmirror/stripes
+[submodule "stripspace"]
+	path = mirror/stripspace
+	url = https://github.com/emacsmirror/stripspace
 [submodule "structure-edit"]
 	path = attic/structure-edit
 	url = https://github.com/emacsattic/structure-edit
