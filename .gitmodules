@@ -5639,8 +5639,8 @@
 	path = attic/echoline-mode
 	url = https://github.com/emacsattic/echoline-mode
 [submodule "eclim"]
-	path = mirror/eclim
-	url = https://github.com/emacsmirror/eclim
+	path = attic/eclim
+	url = https://github.com/emacsattic/eclim
 [submodule "eclipse-theme"]
 	path = mirror/eclipse-theme
 	url = https://github.com/emacsmirror/eclipse-theme
