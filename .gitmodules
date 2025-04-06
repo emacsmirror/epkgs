@@ -24991,6 +24991,9 @@
 [submodule "vue-mode"]
 	path = mirror/vue-mode
 	url = https://github.com/emacsmirror/vue-mode
+[submodule "vue3-mode"]
+	path = mirror/vue3-mode
+	url = https://github.com/emacsmirror/vue3-mode
 [submodule "vuiet"]
 	path = mirror/vuiet
 	url = https://github.com/emacsmirror/vuiet
