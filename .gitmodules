@@ -8905,6 +8905,9 @@
 [submodule "fsm"]
 	path = mirror/fsm
 	url = https://github.com/emacsmirror/fsm
+[submodule "fsrs"]
+	path = mirror/fsrs
+	url = https://github.com/emacsmirror/fsrs
 [submodule "fstar-mode"]
 	path = mirror/fstar-mode
 	url = https://github.com/emacsmirror/fstar-mode
