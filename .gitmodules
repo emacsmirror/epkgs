@@ -22379,8 +22379,8 @@
 	path = mirror/sql-cassandra
 	url = https://github.com/emacsmirror/sql-cassandra
 [submodule "sql-clickhouse"]
-	path = mirror/sql-clickhouse
-	url = https://github.com/emacsmirror/sql-clickhouse
+	path = attic/sql-clickhouse
+	url = https://github.com/emacsattic/sql-clickhouse
 [submodule "sql-complete"]
 	path = attic/sql-complete
 	url = https://github.com/emacsattic/sql-complete
