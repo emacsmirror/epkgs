@@ -8854,6 +8854,9 @@
 [submodule "freeze-it"]
 	path = mirror/freeze-it
 	url = https://github.com/emacsmirror/freeze-it
+[submodule "fretboard"]
+	path = mirror/fretboard
+	url = https://github.com/emacsmirror/fretboard
 [submodule "friendly-shell"]
 	path = mirror/friendly-shell
 	url = https://github.com/emacsmirror/friendly-shell
