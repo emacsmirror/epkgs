@@ -18019,6 +18019,9 @@
 [submodule "pacfiles-mode"]
 	path = mirror/pacfiles-mode
 	url = https://github.com/emacsmirror/pacfiles-mode
+[submodule "pache-dark-theme"]
+	path = mirror/pache-dark-theme
+	url = https://github.com/emacsmirror/pache-dark-theme
 [submodule "pack"]
 	path = mirror/pack
 	url = https://github.com/emacsmirror/pack
