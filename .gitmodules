@@ -12695,8 +12695,8 @@
 	path = mirror/js-auto-beautify
 	url = https://github.com/emacsmirror/js-auto-beautify
 [submodule "js-auto-format-mode"]
-	path = mirror/js-auto-format-mode
-	url = https://github.com/emacsmirror/js-auto-format-mode
+	path = attic/js-auto-format-mode
+	url = https://github.com/emacsattic/js-auto-format-mode
 [submodule "js-codemod"]
 	path = mirror/js-codemod
 	url = https://github.com/emacsmirror/js-codemod
