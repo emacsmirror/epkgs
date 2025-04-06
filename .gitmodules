@@ -25096,6 +25096,9 @@
 [submodule "walkman"]
 	path = mirror/walkman
 	url = https://github.com/emacsmirror/walkman
+[submodule "wallabag"]
+	path = mirror/wallabag
+	url = https://github.com/emacsmirror/wallabag
 [submodule "wallpreview"]
 	path = mirror/wallpreview
 	url = https://github.com/emacsmirror/wallpreview
