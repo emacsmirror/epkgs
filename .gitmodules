@@ -21521,8 +21521,8 @@
 	path = mirror/show-arglist
 	url = https://github.com/emacsmirror/show-arglist
 [submodule "show-css"]
-	path = mirror/show-css
-	url = https://github.com/emacsmirror/show-css
+	path = attic/show-css
+	url = https://github.com/emacsattic/show-css
 [submodule "show-eol"]
 	path = mirror/show-eol
 	url = https://github.com/emacsmirror/show-eol
