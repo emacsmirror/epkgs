@@ -6953,8 +6953,8 @@
 	path = mirror/ess-smart-equals
 	url = https://github.com/emacsmirror/ess-smart-equals
 [submodule "ess-smart-underscore"]
-	path = mirror/ess-smart-underscore
-	url = https://github.com/emacsmirror/ess-smart-underscore
+	path = attic/ess-smart-underscore
+	url = https://github.com/emacsattic/ess-smart-underscore
 [submodule "ess-stata-mode"]
 	path = mirror/ess-stata-mode
 	url = https://github.com/emacsmirror/ess-stata-mode
