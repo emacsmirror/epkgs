@@ -2758,6 +2758,9 @@
 [submodule "circleci-api"]
 	path = mirror/circleci-api
 	url = https://github.com/emacsmirror/circleci-api
+[submodule "circom-mode"]
+	path = mirror/circom-mode
+	url = https://github.com/emacsmirror/circom-mode
 [submodule "cisco-router-mode"]
 	path = attic/cisco-router-mode
 	url = https://github.com/emacsattic/cisco-router-mode
