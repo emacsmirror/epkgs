@@ -18709,6 +18709,9 @@
 [submodule "pinentry"]
 	path = mirror/pinentry
 	url = https://github.com/emacsmirror/pinentry
+[submodule "pink-bliss-uwu-theme"]
+	path = mirror/pink-bliss-uwu-theme
+	url = https://github.com/emacsmirror/pink-bliss-uwu-theme
 [submodule "pinot"]
 	path = mirror/pinot
 	url = https://github.com/emacsmirror/pinot
