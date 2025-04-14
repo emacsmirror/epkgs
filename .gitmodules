@@ -7835,8 +7835,8 @@
 	path = mirror/find-func+
 	url = https://github.com/emacsmirror/find-func-plus
 [submodule "find-git"]
-	path = mirror/find-git
-	url = https://github.com/emacsmirror/find-git
+	path = attic/find-git
+	url = https://github.com/emacsattic/find-git
 [submodule "find-in-repo"]
 	path = attic/find-in-repo
 	url = https://github.com/emacsattic/find-in-repo
