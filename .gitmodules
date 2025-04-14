@@ -3523,6 +3523,9 @@
 [submodule "conda"]
 	path = mirror/conda
 	url = https://github.com/emacsmirror/conda
+[submodule "conda-project"]
+	path = mirror/conda-project
+	url = https://github.com/emacsmirror/conda-project
 [submodule "config-general-mode"]
 	path = mirror/config-general-mode
 	url = https://github.com/emacsmirror/config-general-mode
