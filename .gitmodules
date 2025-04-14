@@ -21674,8 +21674,8 @@
 	path = mirror/silkworm-theme
 	url = https://github.com/emacsmirror/silkworm-theme
 [submodule "simo"]
-	path = mirror/simo
-	url = https://github.com/emacsmirror/simo
+	path = attic/simo
+	url = https://github.com/emacsattic/simo
 [submodule "simp"]
 	path = mirror/simp
 	url = https://github.com/emacsmirror/simp
