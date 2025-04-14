@@ -9451,6 +9451,9 @@
 [submodule "github-theme"]
 	path = attic/github-theme
 	url = https://github.com/emacsattic/github-theme
+[submodule "github-topics"]
+	path = mirror/github-topics
+	url = https://github.com/emacsmirror/github-topics
 [submodule "gitignore-snippets"]
 	path = mirror/gitignore-snippets
 	url = https://github.com/emacsmirror/gitignore-snippets
