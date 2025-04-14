@@ -4199,8 +4199,8 @@
 	path = mirror/cycle-themes
 	url = https://github.com/emacsmirror/cycle-themes
 [submodule "cygstart"]
-	path = mirror/cygstart
-	url = https://github.com/emacsmirror/cygstart
+	path = attic/cygstart
+	url = https://github.com/emacsattic/cygstart
 [submodule "cygwin-link"]
 	path = attic/cygwin-link
 	url = https://github.com/emacsattic/cygwin-link
