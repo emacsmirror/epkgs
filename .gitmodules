@@ -17221,6 +17221,9 @@
 [submodule "org-manage"]
 	path = mirror/org-manage
 	url = https://github.com/emacsmirror/org-manage
+[submodule "org-mathsheet"]
+	path = mirror/org-mathsheet
+	url = https://github.com/emacsmirror/org-mathsheet
 [submodule "org-mime"]
 	path = mirror/org-mime
 	url = https://github.com/emacsmirror/org-mime
