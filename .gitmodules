@@ -2125,6 +2125,9 @@
 [submodule "bufferbin"]
 	path = mirror/bufferbin
 	url = https://github.com/emacsmirror/bufferbin
+[submodule "bufferfile"]
+	path = mirror/bufferfile
+	url = https://github.com/emacsmirror/bufferfile
 [submodule "bufferlo"]
 	path = mirror/bufferlo
 	url = https://github.com/emacsmirror/bufferlo
