@@ -5125,6 +5125,9 @@
 [submodule "doc-toc"]
 	path = mirror/doc-toc
 	url = https://github.com/emacsmirror/doc-toc
+[submodule "doc-view-follow-mode"]
+	path = mirror/doc-view-follow-mode
+	url = https://github.com/emacsmirror/doc-view-follow-mode
 [submodule "docbook"]
 	path = mirror/docbook
 	url = https://github.com/emacsmirror/docbook
