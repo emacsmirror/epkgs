@@ -4423,6 +4423,9 @@
 [submodule "ddl-mode"]
 	path = attic/ddl-mode
 	url = https://github.com/emacsattic/ddl-mode
+[submodule "ddp"]
+	path = mirror/ddp
+	url = https://github.com/emacsmirror/ddp
 [submodule "ddskk"]
 	path = mirror/ddskk
 	url = https://github.com/emacsmirror/ddskk
