@@ -8843,8 +8843,8 @@
 	path = mirror/framesize
 	url = https://github.com/emacsmirror/framesize
 [submodule "framov"]
-	path = mirror/framov
-	url = https://github.com/emacsmirror/framov
+	path = attic/framov
+	url = https://github.com/emacsattic/framov
 [submodule "frb"]
 	path = attic/frb
 	url = https://github.com/emacsattic/frb
