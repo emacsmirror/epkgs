@@ -26066,8 +26066,8 @@
 	path = mirror/yatemplate
 	url = https://github.com/emacsmirror/yatemplate
 [submodule "yatest"]
-	path = mirror/yatest
-	url = https://github.com/emacsmirror/yatest
+	path = attic/yatest
+	url = https://github.com/emacsattic/yatest
 [submodule "yatex"]
 	path = mirror/yatex
 	url = https://github.com/emacsmirror/yatex
