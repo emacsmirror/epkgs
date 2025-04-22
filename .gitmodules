@@ -23890,6 +23890,9 @@
 [submodule "total-numbers"]
 	path = attic/total-numbers
 	url = https://github.com/emacsattic/total-numbers
+[submodule "total-recall"]
+	path = mirror/total-recall
+	url = https://github.com/emacsmirror/total-recall
 [submodule "totd"]
 	path = mirror/totd
 	url = https://github.com/emacsmirror/totd
