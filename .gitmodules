@@ -1414,6 +1414,9 @@
 [submodule "balanced-windows"]
 	path = mirror/balanced-windows
 	url = https://github.com/emacsmirror/balanced-windows
+[submodule "bank-buddy"]
+	path = mirror/bank-buddy
+	url = https://github.com/emacsmirror/bank-buddy
 [submodule "banner"]
 	path = attic/banner
 	url = https://github.com/emacsattic/banner
