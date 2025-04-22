@@ -18487,6 +18487,9 @@
 [submodule "persist-state"]
 	path = mirror/persist-state
 	url = https://github.com/emacsmirror/persist-state
+[submodule "persist-text-scale"]
+	path = mirror/persist-text-scale
+	url = https://github.com/emacsmirror/persist-text-scale
 [submodule "persistent-overlays"]
 	path = mirror/persistent-overlays
 	url = https://github.com/emacsmirror/persistent-overlays
