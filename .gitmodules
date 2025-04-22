@@ -4591,6 +4591,9 @@
 [submodule "denote-silo"]
 	path = mirror/denote-silo
 	url = https://github.com/emacsmirror/denote-silo
+[submodule "departure-times-norway"]
+	path = mirror/departure-times-norway
+	url = https://github.com/emacsmirror/departure-times-norway
 [submodule "descr-text+"]
 	path = mirror/descr-text+
 	url = https://github.com/emacsmirror/descr-text-plus
