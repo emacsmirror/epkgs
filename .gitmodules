@@ -17137,6 +17137,9 @@
 [submodule "org-helpers"]
 	path = mirror/org-helpers
 	url = https://github.com/emacsmirror/org-helpers
+[submodule "org-hide-drawers"]
+	path = mirror/org-hide-drawers
+	url = https://github.com/emacsmirror/org-hide-drawers
 [submodule "org-hlc"]
 	path = mirror/org-hlc
 	url = https://github.com/emacsmirror/org-hlc
