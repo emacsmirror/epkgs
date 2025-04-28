@@ -16360,6 +16360,9 @@
 [submodule "ob-base64"]
 	path = mirror/ob-base64
 	url = https://github.com/emacsmirror/ob-base64
+[submodule "ob-bigquery"]
+	path = mirror/ob-bigquery
+	url = https://github.com/emacsmirror/ob-bigquery
 [submodule "ob-bitfield"]
 	path = mirror/ob-bitfield
 	url = https://github.com/emacsmirror/ob-bitfield
