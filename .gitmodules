@@ -23410,6 +23410,9 @@
 [submodule "terminal-toggle"]
 	path = mirror/terminal-toggle
 	url = https://github.com/emacsmirror/terminal-toggle
+[submodule "termint"]
+	path = mirror/termint
+	url = https://github.com/emacsmirror/termint
 [submodule "tern"]
 	path = mirror/tern
 	url = https://github.com/emacsmirror/tern
