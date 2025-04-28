@@ -12667,6 +12667,9 @@
 [submodule "jit-spell"]
 	path = mirror/jit-spell
 	url = https://github.com/emacsmirror/jit-spell
+[submodule "jjdescription"]
+	path = mirror/jjdescription
+	url = https://github.com/emacsmirror/jjdescription
 [submodule "jknav"]
 	path = mirror/jknav
 	url = https://github.com/emacsmirror/jknav
