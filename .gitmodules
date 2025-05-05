@@ -12901,6 +12901,9 @@
 [submodule "jupyter"]
 	path = mirror/jupyter
 	url = https://github.com/emacsmirror/jupyter
+[submodule "jupyter-ascending"]
+	path = mirror/jupyter-ascending
+	url = https://github.com/emacsmirror/jupyter-ascending
 [submodule "just-mode"]
 	path = mirror/just-mode
 	url = https://github.com/emacsmirror/just-mode
