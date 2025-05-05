@@ -9955,6 +9955,9 @@
 [submodule "gptel-fn-complete"]
 	path = mirror/gptel-fn-complete
 	url = https://github.com/emacsmirror/gptel-fn-complete
+[submodule "gptel-magit"]
+	path = mirror/gptel-magit
+	url = https://github.com/emacsmirror/gptel-magit
 [submodule "gpx"]
 	path = mirror/gpx
 	url = https://github.com/emacsmirror/gpx
