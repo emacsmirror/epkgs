@@ -25249,6 +25249,9 @@
 [submodule "weather-metno"]
 	path = mirror/weather-metno
 	url = https://github.com/emacsmirror/weather-metno
+[submodule "weather-scout"]
+	path = mirror/weather-scout
+	url = https://github.com/emacsmirror/weather-scout
 [submodule "web"]
 	path = mirror/web
 	url = https://github.com/emacsmirror/web
