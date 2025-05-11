@@ -12835,6 +12835,9 @@
 [submodule "jsonnet-mode"]
 	path = mirror/jsonnet-mode
 	url = https://github.com/emacsmirror/jsonnet-mode
+[submodule "jsonp"]
+	path = mirror/jsonp
+	url = https://github.com/emacsmirror/jsonp
 [submodule "jss"]
 	path = mirror/jss
 	url = https://github.com/emacsmirror/jss
