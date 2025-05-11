@@ -23869,6 +23869,9 @@
 [submodule "toml-mode"]
 	path = mirror/toml-mode
 	url = https://github.com/emacsmirror/toml-mode
+[submodule "tomlparse"]
+	path = mirror/tomlparse
+	url = https://github.com/emacsmirror/tomlparse
 [submodule "tommyh-theme"]
 	path = mirror/tommyh-theme
 	url = https://github.com/emacsmirror/tommyh-theme
