@@ -1915,6 +1915,9 @@
 [submodule "bookmark-view"]
 	path = attic/bookmark-view
 	url = https://github.com/emacsattic/bookmark-view
+[submodule "bookmarks-menu"]
+	path = mirror/bookmarks-menu
+	url = https://github.com/emacsmirror/bookmarks-menu
 [submodule "bool-flip"]
 	path = mirror/bool-flip
 	url = https://github.com/emacsmirror/bool-flip
