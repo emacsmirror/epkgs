@@ -4081,6 +4081,9 @@
 [submodule "cubicle-mode"]
 	path = mirror/cubicle-mode
 	url = https://github.com/emacsmirror/cubicle-mode
+[submodule "cuckoo-search"]
+	path = mirror/cuckoo-search
+	url = https://github.com/emacsmirror/cuckoo-search
 [submodule "cucumber-goto-step"]
 	path = mirror/cucumber-goto-step
 	url = https://github.com/emacsmirror/cucumber-goto-step
