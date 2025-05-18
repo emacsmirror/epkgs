@@ -409,6 +409,9 @@
 [submodule "aidermacs"]
 	path = mirror/aidermacs
 	url = https://github.com/emacsmirror/aidermacs
+[submodule "aidev-mode"]
+	path = mirror/aidev-mode
+	url = https://github.com/emacsmirror/aidev-mode
 [submodule "aiken-mode"]
 	path = mirror/aiken-mode
 	url = https://github.com/emacsmirror/aiken-mode
