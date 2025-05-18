@@ -11938,9 +11938,6 @@
 [submodule "indent-tools"]
 	path = mirror/indent-tools
 	url = https://github.com/emacsmirror/indent-tools
-[submodule "indexed"]
-	path = mirror/indexed
-	url = https://github.com/emacsmirror/indexed
 [submodule "indian-ext"]
 	path = mirror/indian-ext
 	url = https://github.com/emacsmirror/indian-ext
