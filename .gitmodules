@@ -18406,6 +18406,9 @@
 [submodule "pdb-mode"]
 	path = mirror/pdb-mode
 	url = https://github.com/emacsmirror/pdb-mode
+[submodule "pdd"]
+	path = mirror/pdd
+	url = https://github.com/emacsmirror/pdd
 [submodule "pddl-mode"]
 	path = attic/pddl-mode
 	url = https://github.com/emacsattic/pddl-mode
