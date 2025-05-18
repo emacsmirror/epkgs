@@ -17902,6 +17902,9 @@
 [submodule "overcast-theme"]
 	path = mirror/overcast-theme
 	url = https://github.com/emacsmirror/overcast-theme
+[submodule "overleaf"]
+	path = mirror/overleaf
+	url = https://github.com/emacsmirror/overleaf
 [submodule "overseer"]
 	path = mirror/overseer
 	url = https://github.com/emacsmirror/overseer
