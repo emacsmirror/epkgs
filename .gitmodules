@@ -14650,6 +14650,9 @@
 [submodule "mathjax"]
 	path = mirror/mathjax
 	url = https://github.com/emacsmirror/mathjax
+[submodule "mathsheet"]
+	path = mirror/mathsheet
+	url = https://github.com/emacsmirror/mathsheet
 [submodule "matlab-mode"]
 	path = mirror/matlab-mode
 	url = https://github.com/emacsmirror/matlab-mode
