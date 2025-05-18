@@ -23905,6 +23905,9 @@
 [submodule "tongbu"]
 	path = mirror/tongbu
 	url = https://github.com/emacsmirror/tongbu
+[submodule "too-wide-minibuffer-mode"]
+	path = mirror/too-wide-minibuffer-mode
+	url = https://github.com/emacsmirror/too-wide-minibuffer-mode
 [submodule "tool-bar+"]
 	path = mirror/tool-bar+
 	url = https://github.com/emacsmirror/tool-bar-plus
