@@ -6682,6 +6682,9 @@
 [submodule "ept"]
 	path = attic/ept
 	url = https://github.com/emacsattic/ept
+[submodule "epx"]
+	path = mirror/epx
+	url = https://github.com/emacsmirror/epx
 [submodule "epydoc"]
 	path = mirror/epydoc
 	url = https://github.com/emacsmirror/epydoc
