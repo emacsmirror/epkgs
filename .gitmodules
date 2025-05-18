@@ -22201,6 +22201,9 @@
 [submodule "sokoban"]
 	path = mirror/sokoban
 	url = https://github.com/emacsmirror/sokoban
+[submodule "sol-mode"]
+	path = mirror/sol-mode
+	url = https://github.com/emacsmirror/sol-mode
 [submodule "solaire-mode"]
 	path = mirror/solaire-mode
 	url = https://github.com/emacsmirror/solaire-mode
