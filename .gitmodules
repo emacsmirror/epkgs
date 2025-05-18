@@ -3883,6 +3883,9 @@
 [submodule "cpp-auto-include"]
 	path = mirror/cpp-auto-include
 	url = https://github.com/emacsmirror/cpp-auto-include
+[submodule "cppinsights"]
+	path = mirror/cppinsights
+	url = https://github.com/emacsmirror/cppinsights
 [submodule "cppref"]
 	path = mirror/cppref
 	url = https://github.com/emacsmirror/cppref
