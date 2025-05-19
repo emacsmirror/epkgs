@@ -9227,8 +9227,8 @@
 	path = mirror/gerrit
 	url = https://github.com/emacsmirror/gerrit
 [submodule "gerrit-download"]
-	path = mirror/gerrit-download
-	url = https://github.com/emacsmirror/gerrit-download
+	path = attic/gerrit-download
+	url = https://github.com/emacsattic/gerrit-download
 [submodule "gestures"]
 	path = attic/gestures
 	url = https://github.com/emacsattic/gestures
