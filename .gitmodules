@@ -16841,8 +16841,8 @@
 	path = mirror/openssl-cipher
 	url = https://github.com/emacsmirror/openssl-cipher
 [submodule "openstack-cgit-browse-file"]
-	path = mirror/openstack-cgit-browse-file
-	url = https://github.com/emacsmirror/openstack-cgit-browse-file
+	path = attic/openstack-cgit-browse-file
+	url = https://github.com/emacsattic/openstack-cgit-browse-file
 [submodule "opensub"]
 	path = mirror/opensub
 	url = https://github.com/emacsmirror/opensub
