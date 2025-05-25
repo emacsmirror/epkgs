@@ -5263,6 +5263,9 @@
 [submodule "doremi-mac"]
 	path = mirror/doremi-mac
 	url = https://github.com/emacsmirror/doremi-mac
+[submodule "doric-themes"]
+	path = mirror/doric-themes
+	url = https://github.com/emacsmirror/doric-themes
 [submodule "dot-emacs-helper"]
 	path = attic/dot-emacs-helper
 	url = https://github.com/emacsattic/dot-emacs-helper
