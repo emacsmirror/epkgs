@@ -24893,8 +24893,8 @@
 	path = attic/vhdl-process-wave
 	url = https://github.com/emacsattic/vhdl-process-wave
 [submodule "vhdl-tools"]
-	path = mirror/vhdl-tools
-	url = https://github.com/emacsmirror/vhdl-tools
+	path = attic/vhdl-tools
+	url = https://github.com/emacsattic/vhdl-tools
 [submodule "vhdl-ts-mode"]
 	path = mirror/vhdl-ts-mode
 	url = https://github.com/emacsmirror/vhdl-ts-mode
