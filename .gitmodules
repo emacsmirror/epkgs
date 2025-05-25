@@ -13786,6 +13786,9 @@
 [submodule "list-processes+"]
 	path = attic/list-processes+
 	url = https://github.com/emacsattic/list-processes-plus
+[submodule "list-projects"]
+	path = mirror/list-projects
+	url = https://github.com/emacsmirror/list-projects
 [submodule "list-register"]
 	path = attic/list-register
 	url = https://github.com/emacsattic/list-register
