@@ -7189,6 +7189,9 @@
 [submodule "evil-god-state"]
 	path = mirror/evil-god-state
 	url = https://github.com/emacsmirror/evil-god-state
+[submodule "evil-god-toggle"]
+	path = mirror/evil-god-toggle
+	url = https://github.com/emacsmirror/evil-god-toggle
 [submodule "evil-goggles"]
 	path = mirror/evil-goggles
 	url = https://github.com/emacsmirror/evil-goggles
