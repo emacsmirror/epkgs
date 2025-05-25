@@ -13009,6 +13009,9 @@
 [submodule "kdic"]
 	path = mirror/kdic
 	url = https://github.com/emacsmirror/kdic
+[submodule "kdl-mode"]
+	path = mirror/kdl-mode
+	url = https://github.com/emacsmirror/kdl-mode
 [submodule "keats"]
 	path = mirror/keats
 	url = https://github.com/emacsmirror/keats
