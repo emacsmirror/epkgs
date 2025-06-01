@@ -12844,6 +12844,9 @@
 [submodule "json-snatcher"]
 	path = mirror/json-snatcher
 	url = https://github.com/emacsmirror/json-snatcher
+[submodule "json5-ts-mode"]
+	path = mirror/json5-ts-mode
+	url = https://github.com/emacsmirror/json5-ts-mode
 [submodule "jsonian"]
 	path = mirror/jsonian
 	url = https://github.com/emacsmirror/jsonian
