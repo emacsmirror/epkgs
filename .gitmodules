@@ -1336,9 +1336,6 @@
 [submodule "aws"]
 	path = attic/aws
 	url = https://github.com/emacsmirror/aws
-[submodule "aws-athena-babel"]
-	path = mirror/aws-athena-babel
-	url = https://github.com/emacsmirror/aws-athena-babel
 [submodule "aws-ec2"]
 	path = mirror/aws-ec2
 	url = https://github.com/emacsmirror/aws-ec2
@@ -16405,6 +16402,9 @@
 [submodule "ob-async"]
 	path = mirror/ob-async
 	url = https://github.com/emacsmirror/ob-async
+[submodule "ob-athena"]
+	path = mirror/ob-athena
+	url = https://github.com/emacsmirror/ob-athena
 [submodule "ob-base64"]
 	path = mirror/ob-base64
 	url = https://github.com/emacsmirror/ob-base64
