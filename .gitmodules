@@ -20074,6 +20074,9 @@
 [submodule "rase"]
 	path = mirror/rase
 	url = https://github.com/emacsmirror/rase
+[submodule "rasi-mode"]
+	path = mirror/rasi-mode
+	url = https://github.com/emacsmirror/rasi-mode
 [submodule "rational"]
 	path = mirror/rational
 	url = https://github.com/emacsmirror/rational
