@@ -18085,6 +18085,9 @@
 [submodule "ox-zenn"]
 	path = mirror/ox-zenn
 	url = https://github.com/emacsmirror/ox-zenn
+[submodule "p-search"]
+	path = mirror/p-search
+	url = https://github.com/emacsmirror/p-search
 [submodule "p4"]
 	path = mirror/p4
 	url = https://github.com/emacsmirror/p4
