@@ -1594,6 +1594,9 @@
 [submodule "belarus-holidays"]
 	path = mirror/belarus-holidays
 	url = https://github.com/emacsmirror/belarus-holidays
+[submodule "beluga-mode"]
+	path = mirror/beluga-mode
+	url = https://github.com/emacsmirror/beluga-mode
 [submodule "benchmark-init"]
 	path = mirror/benchmark-init
 	url = https://github.com/emacsmirror/benchmark-init
