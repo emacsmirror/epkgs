@@ -14731,6 +14731,9 @@
 [submodule "mcomplete"]
 	path = attic/mcomplete
 	url = https://github.com/emacsattic/mcomplete
+[submodule "mcp"]
+	path = mirror/mcp
+	url = https://github.com/emacsmirror/mcp
 [submodule "mcskels"]
 	path = attic/mcskels
 	url = https://github.com/emacsattic/mcskels
