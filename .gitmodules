@@ -1657,6 +1657,9 @@
 [submodule "bibl-mode"]
 	path = attic/bibl-mode
 	url = https://github.com/emacsattic/bibl-mode
+[submodule "bible-gateway"]
+	path = mirror/bible-gateway
+	url = https://github.com/emacsmirror/bible-gateway
 [submodule "biblio"]
 	path = mirror/biblio
 	url = https://github.com/emacsmirror/biblio
@@ -25066,9 +25069,6 @@
 [submodule "vorbiscomment"]
 	path = attic/vorbiscomment
 	url = https://github.com/emacsattic/vorbiscomment
-[submodule "votd"]
-	path = mirror/votd
-	url = https://github.com/emacsmirror/votd
 [submodule "vr"]
 	path = attic/vr
 	url = https://github.com/emacsattic/vr
