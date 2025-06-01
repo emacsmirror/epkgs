@@ -19042,6 +19042,9 @@
 [submodule "policy-switch"]
 	path = mirror/policy-switch
 	url = https://github.com/emacsmirror/policy-switch
+[submodule "polish-holidays"]
+	path = mirror/polish-holidays
+	url = https://github.com/emacsmirror/polish-holidays
 [submodule "pollen-mode"]
 	path = mirror/pollen-mode
 	url = https://github.com/emacsmirror/pollen-mode
