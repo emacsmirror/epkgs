@@ -12152,8 +12152,8 @@
 	path = mirror/intellij-theme
 	url = https://github.com/emacsmirror/intellij-theme
 [submodule "interaction-log"]
-	path = mirror/interaction-log
-	url = https://github.com/emacsmirror/interaction-log
+	path = attic/interaction-log
+	url = https://github.com/emacsattic/interaction-log
 [submodule "interleave"]
 	path = attic/interleave
 	url = https://github.com/emacsattic/interleave
