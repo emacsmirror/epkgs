@@ -10775,8 +10775,8 @@
 	path = mirror/helm-migemo
 	url = https://github.com/emacsmirror/helm-migemo
 [submodule "helm-mode-manager"]
-	path = mirror/helm-mode-manager
-	url = https://github.com/emacsmirror/helm-mode-manager
+	path = attic/helm-mode-manager
+	url = https://github.com/emacsattic/helm-mode-manager
 [submodule "helm-mt"]
 	path = mirror/helm-mt
 	url = https://github.com/emacsmirror/helm-mt
