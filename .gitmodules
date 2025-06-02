@@ -25712,8 +25712,8 @@
 	path = attic/words-in-elisp-symbols
 	url = https://github.com/emacsattic/words-in-elisp-symbols
 [submodule "wordsmith-mode"]
-	path = mirror/wordsmith-mode
-	url = https://github.com/emacsmirror/wordsmith-mode
+	path = attic/wordsmith-mode
+	url = https://github.com/emacsattic/wordsmith-mode
 [submodule "worf"]
 	path = mirror/worf
 	url = https://github.com/emacsmirror/worf
