@@ -18293,8 +18293,8 @@
 	path = mirror/parseedn
 	url = https://github.com/emacsmirror/parseedn
 [submodule "parser-generator"]
-	path = mirror/parser-generator
-	url = https://github.com/emacsmirror/parser-generator
+	path = attic/parser-generator
+	url = https://github.com/emacsattic/parser-generator
 [submodule "pases"]
 	path = attic/pases
 	url = https://github.com/emacsattic/pases
