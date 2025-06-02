@@ -20027,8 +20027,8 @@
 	path = attic/rain
 	url = https://github.com/emacsattic/rain
 [submodule "rainbow-blocks"]
-	path = mirror/rainbow-blocks
-	url = https://github.com/emacsmirror/rainbow-blocks
+	path = attic/rainbow-blocks
+	url = https://github.com/emacsattic/rainbow-blocks
 [submodule "rainbow-delimiters"]
 	path = mirror/rainbow-delimiters
 	url = https://github.com/emacsmirror/rainbow-delimiters
