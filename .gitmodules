@@ -22613,8 +22613,8 @@
 	path = mirror/ssh-config-mode
 	url = https://github.com/emacsmirror/ssh-config-mode
 [submodule "ssh-deploy"]
-	path = mirror/ssh-deploy
-	url = https://github.com/emacsmirror/ssh-deploy
+	path = attic/ssh-deploy
+	url = https://github.com/emacsattic/ssh-deploy
 [submodule "ssh-tunnels"]
 	path = mirror/ssh-tunnels
 	url = https://github.com/emacsmirror/ssh-tunnels
