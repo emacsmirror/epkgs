@@ -18293,8 +18293,8 @@
 	path = mirror/parseedn
 	url = https://github.com/emacsmirror/parseedn
 [submodule "parser-generator"]
-	path = attic/parser-generator
-	url = https://github.com/emacsattic/parser-generator
+	path = mirror/parser-generator
+	url = https://github.com/emacsmirror/parser-generator
 [submodule "pases"]
 	path = attic/pases
 	url = https://github.com/emacsattic/pases
@@ -22613,8 +22613,8 @@
 	path = mirror/ssh-config-mode
 	url = https://github.com/emacsmirror/ssh-config-mode
 [submodule "ssh-deploy"]
-	path = attic/ssh-deploy
-	url = https://github.com/emacsattic/ssh-deploy
+	path = mirror/ssh-deploy
+	url = https://github.com/emacsmirror/ssh-deploy
 [submodule "ssh-tunnels"]
 	path = mirror/ssh-tunnels
 	url = https://github.com/emacsmirror/ssh-tunnels
