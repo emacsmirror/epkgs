@@ -6874,6 +6874,9 @@
 [submodule "esa"]
 	path = mirror/esa
 	url = https://github.com/emacsmirror/esa
+[submodule "esb"]
+	path = mirror/esb
+	url = https://github.com/emacsmirror/esb
 [submodule "escreen"]
 	path = attic/escreen
 	url = https://github.com/emacsattic/escreen
