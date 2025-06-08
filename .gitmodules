@@ -16540,6 +16540,9 @@
 [submodule "ob-lfe"]
 	path = mirror/ob-lfe
 	url = https://github.com/emacsmirror/ob-lfe
+[submodule "ob-llm"]
+	path = mirror/ob-llm
+	url = https://github.com/emacsmirror/ob-llm
 [submodule "ob-markdown"]
 	path = mirror/ob-markdown
 	url = https://github.com/emacsmirror/ob-markdown
