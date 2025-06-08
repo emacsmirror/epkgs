@@ -7213,6 +7213,9 @@
 [submodule "evil-indent-textobject"]
 	path = mirror/evil-indent-textobject
 	url = https://github.com/emacsmirror/evil-indent-textobject
+[submodule "evil-keypad"]
+	path = mirror/evil-keypad
+	url = https://github.com/emacsmirror/evil-keypad
 [submodule "evil-leader"]
 	path = mirror/evil-leader
 	url = https://github.com/emacsmirror/evil-leader
