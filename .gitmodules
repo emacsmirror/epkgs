@@ -21160,6 +21160,9 @@
 [submodule "scalariform"]
 	path = attic/scalariform
 	url = https://github.com/emacsattic/scalariform
+[submodule "scallop-mode"]
+	path = mirror/scallop-mode
+	url = https://github.com/emacsmirror/scallop-mode
 [submodule "scan"]
 	path = mirror/scan
 	url = https://github.com/emacsmirror/scan
