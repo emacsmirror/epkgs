@@ -14743,6 +14743,9 @@
 [submodule "mcp"]
 	path = mirror/mcp
 	url = https://github.com/emacsmirror/mcp
+[submodule "mcp-server-lib"]
+	path = mirror/mcp-server-lib
+	url = https://github.com/emacsmirror/mcp-server-lib
 [submodule "mcskels"]
 	path = attic/mcskels
 	url = https://github.com/emacsattic/mcskels
