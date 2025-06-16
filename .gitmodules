@@ -14287,6 +14287,9 @@
 [submodule "magic-latex-buffer"]
 	path = mirror/magic-latex-buffer
 	url = https://github.com/emacsmirror/magic-latex-buffer
+[submodule "magik-company"]
+	path = mirror/magik-company
+	url = https://github.com/emacsmirror/magik-company
 [submodule "magik-mode"]
 	path = mirror/magik-mode
 	url = https://github.com/emacsmirror/magik-mode
