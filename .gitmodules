@@ -16912,6 +16912,9 @@
 [submodule "order-head"]
 	path = attic/order-head
 	url = https://github.com/emacsattic/order-head
+[submodule "ordered-set"]
+	path = mirror/ordered-set
+	url = https://github.com/emacsmirror/ordered-set
 [submodule "orderless"]
 	path = mirror/orderless
 	url = https://github.com/emacsmirror/orderless
