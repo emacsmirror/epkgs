@@ -19630,6 +19630,9 @@
 [submodule "pubmed"]
 	path = mirror/pubmed
 	url = https://github.com/emacsmirror/pubmed
+[submodule "pubsub"]
+	path = mirror/pubsub
+	url = https://github.com/emacsmirror/pubsub
 [submodule "pueue"]
 	path = mirror/pueue
 	url = https://github.com/emacsmirror/pueue
