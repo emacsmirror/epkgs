@@ -19510,6 +19510,9 @@
 [submodule "promise"]
 	path = mirror/promise
 	url = https://github.com/emacsmirror/promise
+[submodule "prompt-binder"]
+	path = mirror/prompt-binder
+	url = https://github.com/emacsmirror/prompt-binder
 [submodule "prompt-text"]
 	path = mirror/prompt-text
 	url = https://github.com/emacsmirror/prompt-text
