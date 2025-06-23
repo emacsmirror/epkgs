@@ -1030,6 +1030,9 @@
 [submodule "aurquery"]
 	path = attic/aurquery
 	url = https://github.com/emacsattic/aurquery
+[submodule "australia-holidays"]
+	path = mirror/australia-holidays
+	url = https://github.com/emacsmirror/australia-holidays
 [submodule "auth-source-1password"]
 	path = mirror/auth-source-1password
 	url = https://github.com/emacsmirror/auth-source-1password
