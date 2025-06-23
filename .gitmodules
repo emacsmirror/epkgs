@@ -9835,6 +9835,9 @@
 [submodule "goggles"]
 	path = mirror/goggles
 	url = https://github.com/emacsmirror/goggles
+[submodule "gogs"]
+	path = attic/gogs
+	url = https://github.com/emacsattic/gogs
 [submodule "golb"]
 	path = attic/golb
 	url = https://github.com/emacsattic/golb
