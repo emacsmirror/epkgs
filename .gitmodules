@@ -9545,8 +9545,8 @@
 	path = mirror/gl-conf-mode
 	url = https://github.com/emacsmirror/gl-conf-mode
 [submodule "glab"]
-	path = mirror/glab
-	url = https://github.com/emacsmirror/glab
+	path = attic/glab
+	url = https://github.com/emacsattic/glab
 [submodule "glade-mode"]
 	path = attic/glade-mode
 	url = https://github.com/emacsattic/glade-mode
