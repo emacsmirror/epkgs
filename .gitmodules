@@ -10180,6 +10180,9 @@
 [submodule "gtags-mode"]
 	path = mirror/gtags-mode
 	url = https://github.com/emacsmirror/gtags-mode
+[submodule "gtea"]
+	path = attic/gtea
+	url = https://github.com/emacsattic/gtea
 [submodule "gtk-look"]
 	path = attic/gtk-look
 	url = https://github.com/emacsattic/gtk-look
