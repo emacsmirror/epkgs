@@ -3688,6 +3688,9 @@
 [submodule "control-mode"]
 	path = mirror/control-mode
 	url = https://github.com/emacsmirror/control-mode
+[submodule "conventional"]
+	path = mirror/conventional
+	url = https://github.com/emacsmirror/conventional
 [submodule "conventional-changelog"]
 	path = attic/conventional-changelog
 	url = https://github.com/emacsattic/conventional-changelog
