@@ -10111,6 +10111,9 @@
 [submodule "greenbar"]
 	path = mirror/greenbar
 	url = https://github.com/emacsmirror/greenbar
+[submodule "greger"]
+	path = mirror/greger
+	url = https://github.com/emacsmirror/greger
 [submodule "gregorio-mode"]
 	path = mirror/gregorio-mode
 	url = https://github.com/emacsmirror/gregorio-mode
