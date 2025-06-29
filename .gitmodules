@@ -25066,6 +25066,9 @@
 [submodule "virtual-comment"]
 	path = mirror/virtual-comment
 	url = https://github.com/emacsmirror/virtual-comment
+[submodule "virtual-ring"]
+	path = mirror/virtual-ring
+	url = https://github.com/emacsmirror/virtual-ring
 [submodule "virtualenv"]
 	path = mirror/virtualenv
 	url = https://github.com/emacsmirror/virtualenv
