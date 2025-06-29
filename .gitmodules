@@ -10444,6 +10444,9 @@
 [submodule "hcl-mode"]
 	path = mirror/hcl-mode
 	url = https://github.com/emacsmirror/hcl-mode
+[submodule "hdf5-viewer"]
+	path = mirror/hdf5-viewer
+	url = https://github.com/emacsmirror/hdf5-viewer
 [submodule "header-action"]
 	path = attic/header-action
 	url = https://github.com/emacsattic/header-action
