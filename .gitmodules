@@ -10610,8 +10610,8 @@
 	path = mirror/helm-dictionary
 	url = https://github.com/emacsmirror/helm-dictionary
 [submodule "helm-directory"]
-	path = mirror/helm-directory
-	url = https://github.com/emacsmirror/helm-directory
+	path = attic/helm-directory
+	url = https://github.com/emacsattic/helm-directory
 [submodule "helm-dired-history"]
 	path = attic/helm-dired-history
 	url = https://github.com/emacsattic/helm-dired-history
