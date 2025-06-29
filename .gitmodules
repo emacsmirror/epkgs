@@ -15961,6 +15961,9 @@
 [submodule "nerd-icons-ivy-rich"]
 	path = mirror/nerd-icons-ivy-rich
 	url = https://github.com/emacsmirror/nerd-icons-ivy-rich
+[submodule "nerd-icons-xref"]
+	path = mirror/nerd-icons-xref
+	url = https://github.com/emacsmirror/nerd-icons-xref
 [submodule "nerdtab"]
 	path = mirror/nerdtab
 	url = https://github.com/emacsmirror/nerdtab
