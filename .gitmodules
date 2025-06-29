@@ -10009,6 +10009,9 @@
 [submodule "gptel-aibo"]
 	path = mirror/gptel-aibo
 	url = https://github.com/emacsmirror/gptel-aibo
+[submodule "gptel-commit"]
+	path = mirror/gptel-commit
+	url = https://github.com/emacsmirror/gptel-commit
 [submodule "gptel-fn-complete"]
 	path = mirror/gptel-fn-complete
 	url = https://github.com/emacsmirror/gptel-fn-complete
