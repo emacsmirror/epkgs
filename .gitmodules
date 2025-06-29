@@ -6181,6 +6181,9 @@
 [submodule "elisp-depmap"]
 	path = mirror/elisp-depmap
 	url = https://github.com/emacsmirror/elisp-depmap
+[submodule "elisp-dev-mcp"]
+	path = mirror/elisp-dev-mcp
+	url = https://github.com/emacsmirror/elisp-dev-mcp
 [submodule "elisp-docstring-mode"]
 	path = mirror/elisp-docstring-mode
 	url = https://github.com/emacsmirror/elisp-docstring-mode
