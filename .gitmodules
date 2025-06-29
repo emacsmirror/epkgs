@@ -5587,6 +5587,9 @@
 [submodule "easy-escape"]
 	path = mirror/easy-escape
 	url = https://github.com/emacsmirror/easy-escape
+[submodule "easy-find"]
+	path = mirror/easy-find
+	url = https://github.com/emacsmirror/easy-find
 [submodule "easy-highlight"]
 	path = mirror/easy-highlight
 	url = https://github.com/emacsmirror/easy-highlight
