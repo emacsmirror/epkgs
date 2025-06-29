@@ -21901,6 +21901,9 @@
 [submodule "simplicity-theme"]
 	path = mirror/simplicity-theme
 	url = https://github.com/emacsmirror/simplicity-theme
+[submodule "simply-annotate"]
+	path = mirror/simply-annotate
+	url = https://github.com/emacsmirror/simply-annotate
 [submodule "sinasi"]
 	path = mirror/sinasi
 	url = https://github.com/emacsmirror/sinasi
