@@ -4528,6 +4528,9 @@
 [submodule "define-word"]
 	path = mirror/define-word
 	url = https://github.com/emacsmirror/define-word
+[submodule "deflate"]
+	path = mirror/deflate
+	url = https://github.com/emacsmirror/deflate
 [submodule "defproject"]
 	path = mirror/defproject
 	url = https://github.com/emacsmirror/defproject
