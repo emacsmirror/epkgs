@@ -22027,6 +22027,9 @@
 [submodule "slirm"]
 	path = mirror/slirm
 	url = https://github.com/emacsmirror/slirm
+[submodule "slothbar"]
+	path = mirror/slothbar
+	url = https://github.com/emacsmirror/slothbar
 [submodule "slovak-holidays"]
 	path = mirror/slovak-holidays
 	url = https://github.com/emacsmirror/slovak-holidays
