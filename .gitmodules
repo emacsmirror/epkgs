@@ -14602,6 +14602,9 @@
 [submodule "mandoku-tls"]
 	path = mirror/mandoku-tls
 	url = https://github.com/emacsmirror/mandoku-tls
+[submodule "mantra"]
+	path = mirror/mantra
+	url = https://github.com/emacsmirror/mantra
 [submodule "manued"]
 	path = mirror/manued
 	url = https://github.com/emacsmirror/manued
