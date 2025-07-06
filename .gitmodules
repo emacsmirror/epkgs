@@ -24440,8 +24440,8 @@
 	path = mirror/typing
 	url = https://github.com/emacsmirror/typing
 [submodule "typing-game"]
-	path = mirror/typing-game
-	url = https://github.com/emacsmirror/typing-game
+	path = attic/typing-game
+	url = https://github.com/emacsattic/typing-game
 [submodule "typit"]
 	path = mirror/typit
 	url = https://github.com/emacsmirror/typit
