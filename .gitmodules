@@ -10499,8 +10499,8 @@
 	path = attic/helm-addressbook
 	url = https://github.com/emacsattic/helm-addressbook
 [submodule "helm-ag"]
-	path = mirror/helm-ag
-	url = https://github.com/emacsmirror/helm-ag
+	path = attic/helm-ag
+	url = https://github.com/emacsattic/helm-ag
 [submodule "helm-ag-r"]
 	path = attic/helm-ag-r
 	url = https://github.com/emacsattic/helm-ag-r
