@@ -8692,6 +8692,9 @@
 [submodule "flymd"]
 	path = mirror/flymd
 	url = https://github.com/emacsmirror/flymd
+[submodule "flyover"]
+	path = mirror/flyover
+	url = https://github.com/emacsmirror/flyover
 [submodule "flyparens"]
 	path = mirror/flyparens
 	url = https://github.com/emacsmirror/flyparens
