@@ -5668,6 +5668,9 @@
 [submodule "ec"]
 	path = attic/ec
 	url = https://github.com/emacsattic/ec
+[submodule "eca"]
+	path = mirror/eca
+	url = https://github.com/emacsmirror/eca
 [submodule "ecamax"]
 	path = attic/ecamax
 	url = https://github.com/emacsattic/ecamax
