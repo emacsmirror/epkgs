@@ -19978,6 +19978,9 @@
 [submodule "qsearch"]
 	path = attic/qsearch
 	url = https://github.com/emacsattic/qsearch
+[submodule "qso"]
+	path = mirror/qso
+	url = https://github.com/emacsmirror/qso
 [submodule "qt-pro-mode"]
 	path = mirror/qt-pro-mode
 	url = https://github.com/emacsmirror/qt-pro-mode
