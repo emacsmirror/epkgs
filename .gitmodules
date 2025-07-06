@@ -10490,8 +10490,8 @@
 	path = mirror/helm-R
 	url = https://github.com/emacsmirror/helm-R
 [submodule "helm-ack"]
-	path = mirror/helm-ack
-	url = https://github.com/emacsmirror/helm-ack
+	path = attic/helm-ack
+	url = https://github.com/emacsattic/helm-ack
 [submodule "helm-ad"]
 	path = mirror/helm-ad
 	url = https://github.com/emacsmirror/helm-ad
