@@ -11015,8 +11015,8 @@
 	path = mirror/helm-taskswitch
 	url = https://github.com/emacsmirror/helm-taskswitch
 [submodule "helm-themes"]
-	path = mirror/helm-themes
-	url = https://github.com/emacsmirror/helm-themes
+	path = attic/helm-themes
+	url = https://github.com/emacsattic/helm-themes
 [submodule "helm-tramp"]
 	path = mirror/helm-tramp
 	url = https://github.com/emacsmirror/helm-tramp
