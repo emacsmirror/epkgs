@@ -913,6 +913,9 @@
 [submodule "assess"]
 	path = mirror/assess
 	url = https://github.com/emacsmirror/assess
+[submodule "ast-grep"]
+	path = mirror/ast-grep
+	url = https://github.com/emacsmirror/ast-grep
 [submodule "astro-ts-mode"]
 	path = mirror/astro-ts-mode
 	url = https://github.com/emacsmirror/astro-ts-mode
