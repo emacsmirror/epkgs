@@ -11000,8 +11000,8 @@
 	path = mirror/helm-switch-to-repl
 	url = https://github.com/emacsmirror/helm-switch-to-repl
 [submodule "helm-swoop"]
-	path = mirror/helm-swoop
-	url = https://github.com/emacsmirror/helm-swoop
+	path = attic/helm-swoop
+	url = https://github.com/emacsattic/helm-swoop
 [submodule "helm-system-packages"]
 	path = mirror/helm-system-packages
 	url = https://github.com/emacsmirror/helm-system-packages
