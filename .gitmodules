@@ -10706,8 +10706,8 @@
 	path = mirror/helm-ghs
 	url = https://github.com/emacsmirror/helm-ghs
 [submodule "helm-git"]
-	path = mirror/helm-git
-	url = https://github.com/emacsmirror/helm-git
+	path = attic/helm-git
+	url = https://github.com/emacsattic/helm-git
 [submodule "helm-git-files"]
 	path = attic/helm-git-files
 	url = https://github.com/emacsattic/helm-git-files
