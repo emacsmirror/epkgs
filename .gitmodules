@@ -10964,8 +10964,8 @@
 	path = mirror/helm-selected
 	url = https://github.com/emacsmirror/helm-selected
 [submodule "helm-selector"]
-	path = mirror/helm-selector
-	url = https://github.com/emacsmirror/helm-selector
+	path = attic/helm-selector
+	url = https://github.com/emacsattic/helm-selector
 [submodule "helm-sheet"]
 	path = mirror/helm-sheet
 	url = https://github.com/emacsmirror/helm-sheet
