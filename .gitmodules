@@ -10658,8 +10658,8 @@
 	path = mirror/helm-exwm
 	url = https://github.com/emacsmirror/helm-exwm
 [submodule "helm-file-preview"]
-	path = mirror/helm-file-preview
-	url = https://github.com/emacsmirror/helm-file-preview
+	path = attic/helm-file-preview
+	url = https://github.com/emacsattic/helm-file-preview
 [submodule "helm-filesets"]
 	path = mirror/helm-filesets
 	url = https://github.com/emacsmirror/helm-filesets
