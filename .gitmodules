@@ -20650,6 +20650,9 @@
 [submodule "repo"]
 	path = mirror/repo
 	url = https://github.com/emacsmirror/repo
+[submodule "repo-grep"]
+	path = mirror/repo-grep
+	url = https://github.com/emacsmirror/repo-grep
 [submodule "repology"]
 	path = mirror/repology
 	url = https://github.com/emacsmirror/repology
