@@ -7441,6 +7441,9 @@
 [submodule "exec-abbrev-cmd"]
 	path = attic/exec-abbrev-cmd
 	url = https://github.com/emacsattic/exec-abbrev-cmd
+[submodule "exec-in-buffer"]
+	path = mirror/exec-in-buffer
+	url = https://github.com/emacsmirror/exec-in-buffer
 [submodule "exec-path-from-shell"]
 	path = mirror/exec-path-from-shell
 	url = https://github.com/emacsmirror/exec-path-from-shell
