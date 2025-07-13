@@ -17686,6 +17686,9 @@
 [submodule "org-table-comment"]
 	path = mirror/org-table-comment
 	url = https://github.com/emacsmirror/org-table-comment
+[submodule "org-table-highlight"]
+	path = mirror/org-table-highlight
+	url = https://github.com/emacsmirror/org-table-highlight
 [submodule "org-table-jb-extras"]
 	path = mirror/org-table-jb-extras
 	url = https://github.com/emacsmirror/org-table-jb-extras
