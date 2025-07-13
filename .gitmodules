@@ -886,6 +886,9 @@
 [submodule "asciidoc"]
 	path = mirror/asciidoc
 	url = https://github.com/emacsmirror/asciidoc
+[submodule "asdf-vm"]
+	path = mirror/asdf-vm
+	url = https://github.com/emacsmirror/asdf-vm
 [submodule "asilea"]
 	path = mirror/asilea
 	url = https://github.com/emacsmirror/asilea
