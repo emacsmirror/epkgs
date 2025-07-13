@@ -20611,6 +20611,9 @@
 [submodule "repeat-insert"]
 	path = attic/repeat-insert
 	url = https://github.com/emacsattic/repeat-insert
+[submodule "repeat-ring"]
+	path = mirror/repeat-ring
+	url = https://github.com/emacsmirror/repeat-ring
 [submodule "repeatable"]
 	path = attic/repeatable
 	url = https://github.com/emacsattic/repeatable
