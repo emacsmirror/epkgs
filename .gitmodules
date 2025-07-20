@@ -5200,6 +5200,9 @@
 [submodule "docean"]
 	path = mirror/docean
 	url = https://github.com/emacsmirror/docean
+[submodule "dock"]
+	path = mirror/dock
+	url = https://github.com/emacsmirror/dock
 [submodule "docker"]
 	path = mirror/docker
 	url = https://github.com/emacsmirror/docker
