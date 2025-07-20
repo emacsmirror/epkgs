@@ -6487,6 +6487,9 @@
 [submodule "embrace"]
 	path = mirror/embrace
 	url = https://github.com/emacsmirror/embrace
+[submodule "emc"]
+	path = mirror/emc
+	url = https://github.com/emacsmirror/emc
 [submodule "emdroid"]
 	path = attic/emdroid
 	url = https://github.com/emacsattic/emdroid
