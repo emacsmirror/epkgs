@@ -24982,6 +24982,9 @@
 [submodule "vdm-mode"]
 	path = mirror/vdm-mode
 	url = https://github.com/emacsmirror/vdm-mode
+[submodule "vecdb"]
+	path = mirror/vecdb
+	url = https://github.com/emacsmirror/vecdb
 [submodule "vector-utils"]
 	path = mirror/vector-utils
 	url = https://github.com/emacsmirror/vector-utils
