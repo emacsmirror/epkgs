@@ -18365,8 +18365,8 @@
 	path = attic/parenthesis
 	url = https://github.com/emacsattic/parenthesis
 [submodule "parfait-mode"]
-	path = mirror/parfait-mode
-	url = https://github.com/emacsmirror/parfait-mode
+	path = attic/parfait-mode
+	url = https://github.com/emacsattic/parfait-mode
 [submodule "parinfer"]
 	path = attic/parinfer
 	url = https://github.com/emacsattic/parinfer
