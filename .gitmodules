@@ -9841,9 +9841,6 @@
 [submodule "go-to-char"]
 	path = attic/go-to-char
 	url = https://github.com/emacsattic/go-to-char
-[submodule "go-translate"]
-	path = mirror/go-translate
-	url = https://github.com/emacsmirror/go-translate
 [submodule "gob"]
 	path = attic/gob
 	url = https://github.com/emacsattic/gob
@@ -10213,6 +10210,9 @@
 [submodule "gst-inspect"]
 	path = attic/gst-inspect
 	url = https://github.com/emacsattic/gst-inspect
+[submodule "gt"]
+	path = mirror/gt
+	url = https://github.com/emacsmirror/gt
 [submodule "gtags"]
 	path = mirror/gtags
 	url = https://github.com/emacsmirror/gtags
