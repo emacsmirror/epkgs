@@ -19939,6 +19939,9 @@
 [submodule "python-switch-quotes"]
 	path = mirror/python-switch-quotes
 	url = https://github.com/emacsmirror/python-switch-quotes
+[submodule "python-tdd-mode"]
+	path = mirror/python-tdd-mode
+	url = https://github.com/emacsmirror/python-tdd-mode
 [submodule "python-test"]
 	path = mirror/python-test
 	url = https://github.com/emacsmirror/python-test
