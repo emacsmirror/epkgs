@@ -25430,8 +25430,8 @@
 	path = attic/wclock
 	url = https://github.com/emacsattic/wclock
 [submodule "wconf"]
-	path = mirror/wconf
-	url = https://github.com/emacsmirror/wconf
+	path = attic/wconf
+	url = https://github.com/emacsattic/wconf
 [submodule "wcount"]
 	path = attic/wcount
 	url = https://github.com/emacsattic/wcount
