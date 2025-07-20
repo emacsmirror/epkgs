@@ -24565,6 +24565,9 @@
 [submodule "ultex"]
 	path = mirror/ultex
 	url = https://github.com/emacsmirror/ultex
+[submodule "ultra-scroll"]
+	path = mirror/ultra-scroll
+	url = https://github.com/emacsmirror/ultra-scroll
 [submodule "uml-mode"]
 	path = mirror/uml-mode
 	url = https://github.com/emacsmirror/uml-mode
