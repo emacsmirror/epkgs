@@ -16114,6 +16114,9 @@
 [submodule "nimrod-mode"]
 	path = mirror/nimrod-mode
 	url = https://github.com/emacsmirror/nimrod-mode
+[submodule "ninetyfive"]
+	path = mirror/ninetyfive
+	url = https://github.com/emacsmirror/ninetyfive
 [submodule "ninja-mode"]
 	path = mirror/ninja-mode
 	url = https://github.com/emacsmirror/ninja-mode
