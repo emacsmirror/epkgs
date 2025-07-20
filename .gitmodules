@@ -12859,6 +12859,9 @@
 [submodule "js-react-redux-yasnippets"]
 	path = mirror/js-react-redux-yasnippets
 	url = https://github.com/emacsmirror/js-react-redux-yasnippets
+[submodule "js-ts-defs"]
+	path = mirror/js-ts-defs
+	url = https://github.com/emacsmirror/js-ts-defs
 [submodule "js2-closure"]
 	path = mirror/js2-closure
 	url = https://github.com/emacsmirror/js2-closure
