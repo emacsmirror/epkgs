@@ -21223,6 +21223,9 @@
 [submodule "save-visited-files"]
 	path = mirror/save-visited-files
 	url = https://github.com/emacsmirror/save-visited-files
+[submodule "savefold"]
+	path = mirror/savefold
+	url = https://github.com/emacsmirror/savefold
 [submodule "saveframes"]
 	path = attic/saveframes
 	url = https://github.com/emacsattic/saveframes
