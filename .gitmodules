@@ -17995,6 +17995,9 @@
 [submodule "otpp"]
 	path = mirror/otpp
 	url = https://github.com/emacsmirror/otpp
+[submodule "outli"]
+	path = mirror/outli
+	url = https://github.com/emacsmirror/outli
 [submodule "outline+"]
 	path = mirror/outline+
 	url = https://github.com/emacsmirror/outline-plus
