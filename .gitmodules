@@ -10942,6 +10942,9 @@
 [submodule "helm-rails"]
 	path = mirror/helm-rails
 	url = https://github.com/emacsmirror/helm-rails
+[submodule "helm-raindrop"]
+	path = mirror/helm-raindrop
+	url = https://github.com/emacsmirror/helm-raindrop
 [submodule "helm-rb"]
 	path = attic/helm-rb
 	url = https://github.com/emacsattic/helm-rb
