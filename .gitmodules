@@ -2860,6 +2860,9 @@
 [submodule "clasker"]
 	path = mirror/clasker
 	url = https://github.com/emacsmirror/clasker
+[submodule "claude-code"]
+	path = mirror/claude-code
+	url = https://github.com/emacsmirror/claude-code
 [submodule "claude-shell"]
 	path = mirror/claude-shell
 	url = https://github.com/emacsmirror/claude-shell
