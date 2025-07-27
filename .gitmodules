@@ -26419,6 +26419,9 @@
 [submodule "z3-mode"]
 	path = mirror/z3-mode
 	url = https://github.com/emacsmirror/z3-mode
+[submodule "zathura"]
+	path = mirror/zathura
+	url = https://github.com/emacsmirror/zathura
 [submodule "zeal-at-point"]
 	path = mirror/zeal-at-point
 	url = https://github.com/emacsmirror/zeal-at-point
