@@ -21364,6 +21364,9 @@
 [submodule "scratch-palette"]
 	path = mirror/scratch-palette
 	url = https://github.com/emacsmirror/scratch-palette
+[submodule "scratch-plus"]
+	path = mirror/scratch-plus
+	url = https://github.com/emacsmirror/scratch-plus
 [submodule "scratch-pop"]
 	path = mirror/scratch-pop
 	url = https://github.com/emacsmirror/scratch-pop
