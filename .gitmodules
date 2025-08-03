@@ -5878,6 +5878,9 @@
 [submodule "eform"]
 	path = attic/eform
 	url = https://github.com/emacsattic/eform
+[submodule "efrit"]
+	path = mirror/efrit
+	url = https://github.com/emacsmirror/efrit
 [submodule "efs"]
 	path = attic/efs
 	url = https://github.com/emacsattic/efs
