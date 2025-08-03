@@ -14440,6 +14440,9 @@
 [submodule "magit-popup"]
 	path = mirror/magit-popup
 	url = https://github.com/emacsmirror/magit-popup
+[submodule "magit-prime"]
+	path = mirror/magit-prime
+	url = https://github.com/emacsmirror/magit-prime
 [submodule "magit-push-remote"]
 	path = attic/magit-push-remote
 	url = https://github.com/emacsattic/magit-push-remote
