@@ -17305,6 +17305,9 @@
 [submodule "org-habit-stats"]
 	path = mirror/org-habit-stats
 	url = https://github.com/emacsmirror/org-habit-stats
+[submodule "org-headline-card"]
+	path = mirror/org-headline-card
+	url = https://github.com/emacsmirror/org-headline-card
 [submodule "org-helpers"]
 	path = mirror/org-helpers
 	url = https://github.com/emacsmirror/org-helpers
