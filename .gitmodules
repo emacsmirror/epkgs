@@ -17323,6 +17323,9 @@
 [submodule "org-if"]
 	path = mirror/org-if
 	url = https://github.com/emacsmirror/org-if
+[submodule "org-include-inline"]
+	path = mirror/org-include-inline
+	url = https://github.com/emacsmirror/org-include-inline
 [submodule "org-incoming"]
 	path = mirror/org-incoming
 	url = https://github.com/emacsmirror/org-incoming
