@@ -17245,6 +17245,9 @@
 [submodule "org-email"]
 	path = mirror/org-email
 	url = https://github.com/emacsmirror/org-email
+[submodule "org-embed"]
+	path = mirror/org-embed
+	url = https://github.com/emacsmirror/org-embed
 [submodule "org-emms"]
 	path = mirror/org-emms
 	url = https://github.com/emacsmirror/org-emms
