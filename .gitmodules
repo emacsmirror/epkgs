@@ -8110,6 +8110,9 @@
 [submodule "fliptext"]
 	path = mirror/fliptext
 	url = https://github.com/emacsmirror/fliptext
+[submodule "float-narrow-indirect"]
+	path = mirror/float-narrow-indirect
+	url = https://github.com/emacsmirror/float-narrow-indirect
 [submodule "floatbg"]
 	path = attic/floatbg
 	url = https://github.com/emacsattic/floatbg
