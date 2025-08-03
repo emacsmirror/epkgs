@@ -17830,6 +17830,9 @@
 [submodule "org-wild-notifier"]
 	path = mirror/org-wild-notifier
 	url = https://github.com/emacsmirror/org-wild-notifier
+[submodule "org-workbench"]
+	path = mirror/org-workbench
+	url = https://github.com/emacsmirror/org-workbench
 [submodule "org-working-set"]
 	path = mirror/org-working-set
 	url = https://github.com/emacsmirror/org-working-set
