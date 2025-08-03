@@ -17497,6 +17497,9 @@
 [submodule "org-notify"]
 	path = mirror/org-notify
 	url = https://github.com/emacsmirror/org-notify
+[submodule "org-numbering"]
+	path = mirror/org-numbering
+	url = https://github.com/emacsmirror/org-numbering
 [submodule "org-octopress"]
 	path = mirror/org-octopress
 	url = https://github.com/emacsmirror/org-octopress
