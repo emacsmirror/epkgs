@@ -17401,6 +17401,9 @@
 [submodule "org-lookup-dnd"]
 	path = attic/org-lookup-dnd
 	url = https://github.com/emacsattic/org-lookup-dnd
+[submodule "org-luhmann"]
+	path = mirror/org-luhmann
+	url = https://github.com/emacsmirror/org-luhmann
 [submodule "org-mac-link"]
 	path = mirror/org-mac-link
 	url = https://github.com/emacsmirror/org-mac-link
