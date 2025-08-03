@@ -17704,6 +17704,9 @@
 [submodule "org-superstar"]
 	path = mirror/org-superstar
 	url = https://github.com/emacsmirror/org-superstar
+[submodule "org-supertag"]
+	path = mirror/org-supertag
+	url = https://github.com/emacsmirror/org-supertag
 [submodule "org-sync"]
 	path = mirror/org-sync
 	url = https://github.com/emacsmirror/org-sync
