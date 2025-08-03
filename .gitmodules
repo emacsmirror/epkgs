@@ -19336,6 +19336,9 @@
 [submodule "porthole"]
 	path = mirror/porthole
 	url = https://github.com/emacsmirror/porthole
+[submodule "pos-tag-highlight"]
+	path = mirror/pos-tag-highlight
+	url = https://github.com/emacsmirror/pos-tag-highlight
 [submodule "pos-tip"]
 	path = mirror/pos-tip
 	url = https://github.com/emacsmirror/pos-tip
