@@ -16970,8 +16970,8 @@
 	path = attic/openpaste
 	url = https://github.com/emacsattic/openpaste
 [submodule "openpgp"]
-	path = mirror/openpgp
-	url = https://github.com/emacsmirror/openpgp
+	path = attic/openpgp
+	url = https://github.com/emacsattic/openpgp
 [submodule "opensource"]
 	path = mirror/opensource
 	url = https://github.com/emacsmirror/opensource
