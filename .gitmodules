@@ -7601,8 +7601,8 @@
 	path = mirror/face-remap+
 	url = https://github.com/emacsmirror/face-remap-plus
 [submodule "face-shift"]
-	path = mirror/face-shift
-	url = https://github.com/emacsmirror/face-shift
+	path = attic/face-shift
+	url = https://github.com/emacsattic/face-shift
 [submodule "facemenu+"]
 	path = mirror/facemenu+
 	url = https://github.com/emacsmirror/facemenu-plus
