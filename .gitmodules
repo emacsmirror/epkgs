@@ -8662,6 +8662,9 @@
 [submodule "flymake-puppet"]
 	path = mirror/flymake-puppet
 	url = https://github.com/emacsmirror/flymake-puppet
+[submodule "flymake-pyrefly"]
+	path = mirror/flymake-pyrefly
+	url = https://github.com/emacsmirror/flymake-pyrefly
 [submodule "flymake-python-pyflakes"]
 	path = mirror/flymake-python-pyflakes
 	url = https://github.com/emacsmirror/flymake-python-pyflakes
