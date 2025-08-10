@@ -26386,6 +26386,9 @@
 [submodule "ydk-mode"]
 	path = mirror/ydk-mode
 	url = https://github.com/emacsmirror/ydk-mode
+[submodule "year-1984-theme"]
+	path = mirror/year-1984-theme
+	url = https://github.com/emacsmirror/year-1984-theme
 [submodule "yeetube"]
 	path = mirror/yeetube
 	url = https://github.com/emacsmirror/yeetube
