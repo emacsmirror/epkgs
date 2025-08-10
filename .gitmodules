@@ -18505,6 +18505,9 @@
 [submodule "pastie"]
 	path = attic/pastie
 	url = https://github.com/emacsattic/pastie
+[submodule "pasvortilo"]
+	path = mirror/pasvortilo
+	url = https://github.com/emacsmirror/pasvortilo
 [submodule "patchutils"]
 	path = attic/patchutils
 	url = https://github.com/emacsattic/patchutils
