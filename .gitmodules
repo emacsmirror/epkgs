@@ -17225,8 +17225,8 @@
 	path = mirror/org-drill
 	url = https://github.com/emacsmirror/org-drill
 [submodule "org-drill-table"]
-	path = mirror/org-drill-table
-	url = https://github.com/emacsmirror/org-drill-table
+	path = attic/org-drill-table
+	url = https://github.com/emacsattic/org-drill-table
 [submodule "org-dropbox"]
 	path = mirror/org-dropbox
 	url = https://github.com/emacsmirror/org-dropbox
