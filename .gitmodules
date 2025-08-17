@@ -2231,8 +2231,8 @@
 	path = mirror/busybee-theme
 	url = https://github.com/emacsmirror/busybee-theme
 [submodule "butler"]
-	path = mirror/butler
-	url = https://github.com/emacsmirror/butler
+	path = attic/butler
+	url = https://github.com/emacsattic/butler
 [submodule "buttercup"]
 	path = mirror/buttercup
 	url = https://github.com/emacsmirror/buttercup
