@@ -1276,6 +1276,9 @@
 [submodule "automargin"]
 	path = attic/automargin
 	url = https://github.com/emacsattic/automargin
+[submodule "automoji"]
+	path = mirror/automoji
+	url = https://github.com/emacsmirror/automoji
 [submodule "autopair"]
 	path = attic/autopair
 	url = https://github.com/emacsattic/autopair
