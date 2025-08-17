@@ -1484,8 +1484,8 @@
 	path = mirror/battle-haxe
 	url = https://github.com/emacsmirror/battle-haxe
 [submodule "bazel"]
-	path = mirror/bazel
-	url = https://github.com/emacsmirror/bazel
+	path = attic/bazel
+	url = https://github.com/emacsattic/bazel
 [submodule "bbc-news"]
 	path = attic/bbc-news
 	url = https://github.com/emacsattic/bbc-news
