@@ -12341,8 +12341,8 @@
 	path = mirror/irony
 	url = https://github.com/emacsmirror/irony
 [submodule "irony-eldoc"]
-	path = mirror/irony-eldoc
-	url = https://github.com/emacsmirror/irony-eldoc
+	path = attic/irony-eldoc
+	url = https://github.com/emacsattic/irony-eldoc
 [submodule "iscroll"]
 	path = mirror/iscroll
 	url = https://github.com/emacsmirror/iscroll
