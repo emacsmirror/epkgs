@@ -19264,6 +19264,9 @@
 [submodule "pomm"]
 	path = mirror/pomm
 	url = https://github.com/emacsmirror/pomm
+[submodule "pomo-cat"]
+	path = mirror/pomo-cat
+	url = https://github.com/emacsmirror/pomo-cat
 [submodule "pomodoro"]
 	path = mirror/pomodoro
 	url = https://github.com/emacsmirror/pomodoro
