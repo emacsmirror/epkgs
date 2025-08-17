@@ -10211,8 +10211,8 @@
 	path = attic/growl
 	url = https://github.com/emacsattic/growl
 [submodule "grr"]
-	path = mirror/grr
-	url = https://github.com/emacsmirror/grr
+	path = attic/grr
+	url = https://github.com/emacsattic/grr
 [submodule "gruber-darker-theme"]
 	path = mirror/gruber-darker-theme
 	url = https://github.com/emacsmirror/gruber-darker-theme
