@@ -11461,6 +11461,9 @@
 [submodule "host-fns"]
 	path = attic/host-fns
 	url = https://github.com/emacsattic/host-fns
+[submodule "hotdesk"]
+	path = mirror/hotdesk
+	url = https://github.com/emacsmirror/hotdesk
 [submodule "hotfuzz"]
 	path = mirror/hotfuzz
 	url = https://github.com/emacsmirror/hotfuzz
