@@ -22714,9 +22714,6 @@
 [submodule "sql-completion"]
 	path = attic/sql-completion
 	url = https://github.com/emacsattic/sql-completion
-[submodule "sql-ident"]
-	path = mirror/sql-ident
-	url = https://github.com/emacsmirror/sql-indent
 [submodule "sql-impala"]
 	path = mirror/sql-impala
 	url = https://github.com/emacsmirror/sql-impala
