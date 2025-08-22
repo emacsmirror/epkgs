@@ -3559,6 +3559,9 @@
 [submodule "conan"]
 	path = mirror/conan
 	url = https://github.com/emacsmirror/conan
+[submodule "cond-let"]
+	path = mirror/cond-let
+	url = https://github.com/emacsmirror/cond-let
 [submodule "conda"]
 	path = mirror/conda
 	url = https://github.com/emacsmirror/conda
