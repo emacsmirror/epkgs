@@ -16876,6 +16876,9 @@
 [submodule "oj"]
 	path = mirror/oj
 	url = https://github.com/emacsmirror/oj
+[submodule "ol-bible"]
+	path = mirror/ol-bible
+	url = https://github.com/emacsmirror/ol-bible
 [submodule "ol-notmuch"]
 	path = mirror/ol-notmuch
 	url = https://github.com/emacsmirror/ol-notmuch
