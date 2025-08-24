@@ -20320,6 +20320,9 @@
 [submodule "rcirc-late-fix"]
 	path = attic/rcirc-late-fix
 	url = https://github.com/emacsattic/rcirc-late-fix
+[submodule "rcirc-mentions"]
+	path = mirror/rcirc-mentions
+	url = https://github.com/emacsmirror/rcirc-mentions
 [submodule "rcirc-menu"]
 	path = mirror/rcirc-menu
 	url = https://github.com/emacsmirror/rcirc-menu
