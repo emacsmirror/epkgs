@@ -6745,6 +6745,9 @@
 [submodule "eproject-peepopen"]
 	path = mirror/eproject-peepopen
 	url = https://github.com/emacsmirror/eproject-peepopen
+[submodule "eprolog"]
+	path = mirror/eprolog
+	url = https://github.com/emacsmirror/eprolog
 [submodule "ept"]
 	path = attic/ept
 	url = https://github.com/emacsattic/ept
