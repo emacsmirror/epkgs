@@ -6124,6 +6124,9 @@
 [submodule "electric-dot-and-dash"]
 	path = attic/electric-dot-and-dash
 	url = https://github.com/emacsattic/electric-dot-and-dash
+[submodule "electric-list-directory"]
+	path = mirror/electric-list-directory
+	url = https://github.com/emacsmirror/electric-list-directory
 [submodule "electric-operator"]
 	path = mirror/electric-operator
 	url = https://github.com/emacsmirror/electric-operator
