@@ -14038,6 +14038,9 @@
 [submodule "load-theme-buffer-local"]
 	path = mirror/load-theme-buffer-local
 	url = https://github.com/emacsmirror/load-theme-buffer-local
+[submodule "lobsters"]
+	path = mirror/lobsters
+	url = https://github.com/emacsmirror/lobsters
 [submodule "loc-changes"]
 	path = mirror/loc-changes
 	url = https://github.com/emacsmirror/loc-changes
