@@ -19588,6 +19588,9 @@
 [submodule "project-butler"]
 	path = mirror/project-butler
 	url = https://github.com/emacsmirror/project-butler
+[submodule "project-cmake"]
+	path = mirror/project-cmake
+	url = https://github.com/emacsmirror/project-cmake
 [submodule "project-explorer"]
 	path = mirror/project-explorer
 	url = https://github.com/emacsmirror/project-explorer
