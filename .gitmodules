@@ -12388,6 +12388,9 @@
 [submodule "iso-639"]
 	path = mirror/iso-639
 	url = https://github.com/emacsmirror/iso-639
+[submodule "iso-date"]
+	path = mirror/iso-date
+	url = https://github.com/emacsmirror/iso-date
 [submodule "iso-html"]
 	path = attic/iso-html
 	url = https://github.com/emacsattic/iso-html
