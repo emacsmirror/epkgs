@@ -10730,8 +10730,8 @@
 	path = mirror/helm-flyspell
 	url = https://github.com/emacsmirror/helm-flyspell
 [submodule "helm-frame"]
-	path = mirror/helm-frame
-	url = https://github.com/emacsmirror/helm-frame
+	path = attic/helm-frame
+	url = https://github.com/emacsattic/helm-frame
 [submodule "helm-fuzzier"]
 	path = mirror/helm-fuzzier
 	url = https://github.com/emacsmirror/helm-fuzzier
