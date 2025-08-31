@@ -4885,6 +4885,9 @@
 [submodule "director"]
 	path = mirror/director
 	url = https://github.com/emacsmirror/director
+[submodule "directory-slideshow"]
+	path = mirror/directory-slideshow
+	url = https://github.com/emacsmirror/directory-slideshow
 [submodule "dired+"]
 	path = mirror/dired+
 	url = https://github.com/emacsmirror/dired-plus
