@@ -23929,6 +23929,9 @@
 [submodule "tickscript-mode"]
 	path = mirror/tickscript-mode
 	url = https://github.com/emacsmirror/tickscript-mode
+[submodule "ticktick"]
+	path = mirror/ticktick
+	url = https://github.com/emacsmirror/ticktick
 [submodule "tidal"]
 	path = mirror/tidal
 	url = https://github.com/emacsmirror/tidal
