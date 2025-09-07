@@ -16477,6 +16477,9 @@
 [submodule "numbex"]
 	path = mirror/numbex
 	url = https://github.com/emacsmirror/numbex
+[submodule "numeri"]
+	path = mirror/numeri
+	url = https://github.com/emacsmirror/numeri
 [submodule "nummm-mode"]
 	path = attic/nummm-mode
 	url = https://github.com/emacsattic/nummm-mode
