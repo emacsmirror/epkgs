@@ -13831,6 +13831,9 @@
 [submodule "linkify"]
 	path = attic/linkify
 	url = https://github.com/emacsattic/linkify
+[submodule "linkin-org"]
+	path = mirror/linkin-org
+	url = https://github.com/emacsmirror/linkin-org
 [submodule "linkode"]
 	path = mirror/linkode
 	url = https://github.com/emacsmirror/linkode
