@@ -6727,6 +6727,9 @@
 [submodule "epl"]
 	path = mirror/epl
 	url = https://github.com/emacsmirror/epl
+[submodule "eplotly"]
+	path = mirror/eplotly
+	url = https://github.com/emacsmirror/eplotly
 [submodule "epm"]
 	path = mirror/epm
 	url = https://github.com/emacsmirror/epm
