@@ -3118,6 +3118,9 @@
 [submodule "codex"]
 	path = attic/codex
 	url = https://github.com/emacsattic/codex
+[submodule "codex-cli"]
+	path = mirror/codex-cli
+	url = https://github.com/emacsmirror/codex-cli
 [submodule "codex-theme"]
 	path = mirror/codex-theme
 	url = https://github.com/emacsmirror/codex-theme
