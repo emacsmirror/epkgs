@@ -4204,6 +4204,9 @@
 [submodule "cust-stub"]
 	path = attic/cust-stub
 	url = https://github.com/emacsattic/cust-stub
+[submodule "custom-keymap"]
+	path = mirror/custom-keymap
+	url = https://github.com/emacsmirror/custom-keymap
 [submodule "cvs-annotate"]
 	path = attic/cvs-annotate
 	url = https://github.com/emacsattic/cvs-annotate
