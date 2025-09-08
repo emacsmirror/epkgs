@@ -15095,8 +15095,8 @@
 	path = mirror/mimetypes
 	url = https://github.com/emacsmirror/mimetypes
 [submodule "mindre-theme"]
-	path = mirror/mindre-theme
-	url = https://github.com/emacsmirror/mindre-theme
+	path = attic/mindre-theme
+	url = https://github.com/emacsattic/mindre-theme
 [submodule "mindstream"]
 	path = mirror/mindstream
 	url = https://github.com/emacsmirror/mindstream
