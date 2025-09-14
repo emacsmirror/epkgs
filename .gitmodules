@@ -22888,6 +22888,9 @@
 [submodule "standard-dirs"]
 	path = mirror/standard-dirs
 	url = https://github.com/emacsmirror/standard-dirs
+[submodule "standard-keys-mode"]
+	path = mirror/standard-keys-mode
+	url = https://github.com/emacsmirror/standard-keys-mode
 [submodule "standard-themes"]
 	path = mirror/standard-themes
 	url = https://github.com/emacsmirror/standard-themes
