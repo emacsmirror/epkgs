@@ -5351,8 +5351,8 @@
 	path = mirror/doxygen
 	url = https://github.com/emacsmirror/doxygen
 [submodule "doxymacs"]
-	path = attic/doxymacs
-	url = https://github.com/emacsattic/doxymacs
+	path = mirror/doxymacs
+	url = https://github.com/emacsmirror/doxymacs
 [submodule "dpans2texi"]
 	path = attic/dpans2texi
 	url = https://github.com/emacsattic/dpans2texi
