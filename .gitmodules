@@ -25153,6 +25153,9 @@
 [submodule "verona-mode"]
 	path = mirror/verona-mode
 	url = https://github.com/emacsmirror/verona-mode
+[submodule "verse-mode"]
+	path = mirror/verse-mode
+	url = https://github.com/emacsmirror/verse-mode
 [submodule "versions"]
 	path = mirror/versions
 	url = https://github.com/emacsmirror/versions
