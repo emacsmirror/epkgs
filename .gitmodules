@@ -952,6 +952,9 @@
 [submodule "async-status"]
 	path = mirror/async-status
 	url = https://github.com/emacsmirror/async-status
+[submodule "async1"]
+	path = mirror/async1
+	url = https://github.com/emacsmirror/async1
 [submodule "asyncloop"]
 	path = mirror/asyncloop
 	url = https://github.com/emacsmirror/asyncloop
