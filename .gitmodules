@@ -14920,6 +14920,9 @@
 [submodule "meditate"]
 	path = attic/meditate
 	url = https://github.com/emacsattic/meditate
+[submodule "meep"]
+	path = mirror/meep
+	url = https://github.com/emacsmirror/meep
 [submodule "meghanada"]
 	path = mirror/meghanada
 	url = https://github.com/emacsmirror/meghanada
