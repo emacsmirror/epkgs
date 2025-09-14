@@ -23881,6 +23881,9 @@
 [submodule "thankful-eyes-theme"]
 	path = mirror/thankful-eyes-theme
 	url = https://github.com/emacsmirror/thankful-eyes-theme
+[submodule "thanks"]
+	path = mirror/thanks
+	url = https://github.com/emacsmirror/thanks
 [submodule "the-matrix-theme"]
 	path = mirror/the-matrix-theme
 	url = https://github.com/emacsmirror/the-matrix-theme
