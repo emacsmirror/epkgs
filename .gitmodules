@@ -20182,6 +20182,9 @@
 [submodule "quick-buffer-switch"]
 	path = mirror/quick-buffer-switch
 	url = https://github.com/emacsmirror/quick-buffer-switch
+[submodule "quick-fasd"]
+	path = mirror/quick-fasd
+	url = https://github.com/emacsmirror/quick-fasd
 [submodule "quick-jump"]
 	path = mirror/quick-jump
 	url = https://github.com/emacsmirror/quick-jump
