@@ -11758,6 +11758,9 @@
 [submodule "ical-event"]
 	path = mirror/ical-event
 	url = https://github.com/emacsmirror/ical-event
+[submodule "ical-form"]
+	path = mirror/ical-form
+	url = https://github.com/emacsmirror/ical-form
 [submodule "ical2org"]
 	path = mirror/ical2org
 	url = https://github.com/emacsmirror/ical2org
