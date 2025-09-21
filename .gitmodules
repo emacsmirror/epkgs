@@ -15694,6 +15694,9 @@
 [submodule "mu4e-views"]
 	path = mirror/mu4e-views
 	url = https://github.com/emacsmirror/mu4e-views
+[submodule "mu4e-walk"]
+	path = mirror/mu4e-walk
+	url = https://github.com/emacsmirror/mu4e-walk
 [submodule "mu4easy"]
 	path = mirror/mu4easy
 	url = https://github.com/emacsmirror/mu4easy
