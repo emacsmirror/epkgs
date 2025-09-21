@@ -5344,6 +5344,9 @@
 [submodule "dotnet"]
 	path = mirror/dotnet
 	url = https://github.com/emacsmirror/dotnet
+[submodule "double-press"]
+	path = mirror/double-press
+	url = https://github.com/emacsmirror/double-press
 [submodule "double-saber"]
 	path = mirror/double-saber
 	url = https://github.com/emacsmirror/double-saber
