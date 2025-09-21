@@ -4021,6 +4021,9 @@
 [submodule "crystal-playground"]
 	path = mirror/crystal-playground
 	url = https://github.com/emacsmirror/crystal-playground
+[submodule "crystal-point"]
+	path = mirror/crystal-point
+	url = https://github.com/emacsmirror/crystal-point
 [submodule "cscope"]
 	path = attic/cscope
 	url = https://github.com/emacsattic/cscope
