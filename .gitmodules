@@ -24070,6 +24070,9 @@
 [submodule "tint-instances"]
 	path = attic/tint-instances
 	url = https://github.com/emacsattic/tint-instances
+[submodule "tintin-mode"]
+	path = mirror/tintin-mode
+	url = https://github.com/emacsmirror/tintin-mode
 [submodule "tiny"]
 	path = mirror/tiny
 	url = https://github.com/emacsmirror/tiny
