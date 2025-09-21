@@ -17689,6 +17689,9 @@
 [submodule "org-remark"]
 	path = mirror/org-remark
 	url = https://github.com/emacsmirror/org-remark
+[submodule "org-repeat-by-cron"]
+	path = mirror/org-repeat-by-cron
+	url = https://github.com/emacsmirror/org-repeat-by-cron
 [submodule "org-repo-todo"]
 	path = mirror/org-repo-todo
 	url = https://github.com/emacsmirror/org-repo-todo
