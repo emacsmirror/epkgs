@@ -15346,6 +15346,9 @@
 [submodule "mode-line-keyboard"]
 	path = mirror/mode-line-keyboard
 	url = https://github.com/emacsmirror/mode-line-keyboard
+[submodule "mode-line-maker"]
+	path = mirror/mode-line-maker
+	url = https://github.com/emacsmirror/mode-line-maker
 [submodule "modelica-mode"]
 	path = mirror/modelica-mode
 	url = https://github.com/emacsmirror/modelica-mode
