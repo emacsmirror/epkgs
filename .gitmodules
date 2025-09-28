@@ -19612,6 +19612,9 @@
 [submodule "procomm-mode"]
 	path = attic/procomm-mode
 	url = https://github.com/emacsattic/procomm-mode
+[submodule "procress"]
+	path = mirror/procress
+	url = https://github.com/emacsmirror/procress
 [submodule "prodigy"]
 	path = mirror/prodigy
 	url = https://github.com/emacsmirror/prodigy
