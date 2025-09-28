@@ -23470,6 +23470,9 @@
 [submodule "tabby-mode"]
 	path = mirror/tabby-mode
 	url = https://github.com/emacsmirror/tabby-mode
+[submodule "tabbymacs"]
+	path = mirror/tabbymacs
+	url = https://github.com/emacsmirror/tabbymacs
 [submodule "tabgo"]
 	path = mirror/tabgo
 	url = https://github.com/emacsmirror/tabgo
