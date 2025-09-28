@@ -2179,6 +2179,9 @@
 [submodule "bufler"]
 	path = mirror/bufler
 	url = https://github.com/emacsmirror/bufler
+[submodule "buframe"]
+	path = mirror/buframe
+	url = https://github.com/emacsmirror/buframe
 [submodule "bufshow"]
 	path = mirror/bufshow
 	url = https://github.com/emacsmirror/bufshow
