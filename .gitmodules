@@ -16112,8 +16112,8 @@
 	path = mirror/netease-music
 	url = https://github.com/emacsmirror/netease-music
 [submodule "nethack"]
-	path = attic/nethack
-	url = https://github.com/emacsattic/nethack
+	path = mirror/nethack
+	url = https://github.com/emacsmirror/nethack
 [submodule "netherlands-holidays"]
 	path = mirror/netherlands-holidays
 	url = https://github.com/emacsmirror/netherlands-holidays
