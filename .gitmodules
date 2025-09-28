@@ -12277,6 +12277,9 @@
 [submodule "inspire"]
 	path = mirror/inspire
 	url = https://github.com/emacsmirror/inspire
+[submodule "insta-pocket"]
+	path = mirror/insta-pocket
+	url = https://github.com/emacsmirror/insta-pocket
 [submodule "install"]
 	path = attic/install
 	url = https://github.com/emacsattic/install
