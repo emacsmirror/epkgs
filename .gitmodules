@@ -6091,6 +6091,9 @@
 [submodule "elbank"]
 	path = mirror/elbank
 	url = https://github.com/emacsmirror/elbank
+[submodule "elchacha"]
+	path = mirror/elchacha
+	url = https://github.com/emacsmirror/elchacha
 [submodule "elcontext"]
 	path = mirror/elcontext
 	url = https://github.com/emacsmirror/elcontext
