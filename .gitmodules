@@ -13141,6 +13141,9 @@
 [submodule "kaolin-themes"]
 	path = mirror/kaolin-themes
 	url = https://github.com/emacsmirror/kaolin-themes
+[submodule "kaomel"]
+	path = mirror/kaomel
+	url = https://github.com/emacsmirror/kaomel
 [submodule "kaomoji"]
 	path = mirror/kaomoji
 	url = https://github.com/emacsmirror/kaomoji
