@@ -2305,6 +2305,9 @@
 [submodule "cabledolphin"]
 	path = mirror/cabledolphin
 	url = https://github.com/emacsmirror/cabledolphin
+[submodule "cacao-theme"]
+	path = mirror/cacao-theme
+	url = https://github.com/emacsmirror/cacao-theme
 [submodule "cache"]
 	path = mirror/cache
 	url = https://github.com/emacsmirror/cache
