@@ -10465,6 +10465,9 @@
 [submodule "hardtime"]
 	path = mirror/hardtime
 	url = https://github.com/emacsmirror/hardtime
+[submodule "hare-mode"]
+	path = mirror/hare-mode
+	url = https://github.com/emacsmirror/hare-mode
 [submodule "harpoon"]
 	path = mirror/harpoon
 	url = https://github.com/emacsmirror/harpoon
