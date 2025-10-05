@@ -1888,6 +1888,9 @@
 [submodule "bmi"]
 	path = attic/bmi
 	url = https://github.com/emacsattic/bmi
+[submodule "bmp"]
+	path = mirror/bmp
+	url = https://github.com/emacsmirror/bmp
 [submodule "bmx-mode"]
 	path = mirror/bmx-mode
 	url = https://github.com/emacsmirror/bmx-mode
