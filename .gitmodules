@@ -16834,6 +16834,9 @@
 [submodule "ob-translate"]
 	path = mirror/ob-translate
 	url = https://github.com/emacsmirror/ob-translate
+[submodule "ob-ts-node"]
+	path = mirror/ob-ts-node
+	url = https://github.com/emacsmirror/ob-ts-node
 [submodule "ob-typescript"]
 	path = mirror/ob-typescript
 	url = https://github.com/emacsmirror/ob-typescript
