@@ -6286,6 +6286,9 @@
 [submodule "elk-test"]
 	path = mirror/elk-test
 	url = https://github.com/emacsmirror/elk-test
+[submodule "elkee"]
+	path = mirror/elkee
+	url = https://github.com/emacsmirror/elkee
 [submodule "ell"]
 	path = attic/ell
 	url = https://github.com/emacsattic/ell
