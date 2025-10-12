@@ -15196,6 +15196,9 @@
 [submodule "miniedit"]
 	path = mirror/miniedit
 	url = https://github.com/emacsmirror/miniedit
+[submodule "minimail"]
+	path = mirror/minimail
+	url = https://github.com/emacsmirror/minimail
 [submodule "minimal"]
 	path = mirror/minimal
 	url = https://github.com/emacsmirror/minimal
