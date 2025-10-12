@@ -17191,6 +17191,9 @@
 [submodule "org-autolist"]
 	path = mirror/org-autolist
 	url = https://github.com/emacsmirror/org-autolist
+[submodule "org-aws-iam-role"]
+	path = mirror/org-aws-iam-role
+	url = https://github.com/emacsmirror/org-aws-iam-role
 [submodule "org-babel-eval-in-repl"]
 	path = mirror/org-babel-eval-in-repl
 	url = https://github.com/emacsmirror/org-babel-eval-in-repl
