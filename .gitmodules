@@ -17521,6 +17521,9 @@
 [submodule "org-linkotron"]
 	path = mirror/org-linkotron
 	url = https://github.com/emacsmirror/org-linkotron
+[submodule "org-links"]
+	path = mirror/org-links
+	url = https://github.com/emacsmirror/org-links
 [submodule "org-listcruncher"]
 	path = mirror/org-listcruncher
 	url = https://github.com/emacsmirror/org-listcruncher
