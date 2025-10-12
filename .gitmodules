@@ -14830,6 +14830,9 @@
 [submodule "masm-mode"]
 	path = mirror/masm-mode
 	url = https://github.com/emacsmirror/masm-mode
+[submodule "mason"]
+	path = mirror/mason
+	url = https://github.com/emacsmirror/mason
 [submodule "masquerade-mode"]
 	path = mirror/masquerade-mode
 	url = https://github.com/emacsmirror/masquerade-mode
