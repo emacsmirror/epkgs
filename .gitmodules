@@ -20287,6 +20287,9 @@
 [submodule "quotes"]
 	path = attic/quotes
 	url = https://github.com/emacsattic/quotes
+[submodule "quotient"]
+	path = mirror/quotient
+	url = https://github.com/emacsmirror/quotient
 [submodule "qwen-chat-shell"]
 	path = mirror/qwen-chat-shell
 	url = https://github.com/emacsmirror/qwen-chat-shell
