@@ -11999,8 +11999,8 @@
 	path = attic/iman
 	url = https://github.com/emacsattic/iman
 [submodule "imapfilter"]
-	path = mirror/imapfilter
-	url = https://github.com/emacsmirror/imapfilter
+	path = attic/imapfilter
+	url = https://github.com/emacsattic/imapfilter
 [submodule "imapua"]
 	path = attic/imapua
 	url = https://github.com/emacsattic/imapua
