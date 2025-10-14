@@ -14732,8 +14732,8 @@
 	path = mirror/manued
 	url = https://github.com/emacsmirror/manued
 [submodule "map-progress"]
-	path = mirror/map-progress
-	url = https://github.com/emacsmirror/map-progress
+	path = attic/map-progress
+	url = https://github.com/emacsattic/map-progress
 [submodule "map-regexp"]
 	path = attic/map-regexp
 	url = https://github.com/emacsattic/map-regexp
