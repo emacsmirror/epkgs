@@ -13328,8 +13328,8 @@
 	path = attic/killbuf
 	url = https://github.com/emacsattic/killbuf
 [submodule "killer"]
-	path = mirror/killer
-	url = https://github.com/emacsmirror/killer
+	path = attic/killer
+	url = https://github.com/emacsattic/killer
 [submodule "kind-icon"]
 	path = mirror/kind-icon
 	url = https://github.com/emacsmirror/kind-icon
