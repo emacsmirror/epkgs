@@ -14735,8 +14735,8 @@
 	path = mirror/map-progress
 	url = https://github.com/emacsmirror/map-progress
 [submodule "map-regexp"]
-	path = mirror/map-regexp
-	url = https://github.com/emacsmirror/map-regexp
+	path = attic/map-regexp
+	url = https://github.com/emacsattic/map-regexp
 [submodule "map-win"]
 	path = attic/map-win
 	url = https://github.com/emacsattic/map-win
