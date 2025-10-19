@@ -21127,6 +21127,9 @@
 [submodule "romanian-holidays"]
 	path = mirror/romanian-holidays
 	url = https://github.com/emacsmirror/romanian-holidays
+[submodule "romkan"]
+	path = mirror/romkan
+	url = https://github.com/emacsmirror/romkan
 [submodule "ron-mode"]
 	path = mirror/ron-mode
 	url = https://github.com/emacsmirror/ron-mode
