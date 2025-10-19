@@ -5843,8 +5843,8 @@
 	path = mirror/edit-indirect-region-latex
 	url = https://github.com/emacsmirror/edit-indirect-region-latex
 [submodule "edit-list"]
-	path = mirror/edit-list
-	url = https://github.com/emacsmirror/edit-list
+	path = attic/edit-list
+	url = https://github.com/emacsattic/edit-list
 [submodule "edit-server"]
 	path = mirror/edit-server
 	url = https://github.com/emacsmirror/edit-server
