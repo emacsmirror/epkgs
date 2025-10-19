@@ -367,6 +367,9 @@
 [submodule "agda-editor-tactics"]
 	path = mirror/agda-editor-tactics
 	url = https://github.com/emacsmirror/agda-editor-tactics
+[submodule "agda-lib-mode"]
+	path = mirror/agda-lib-mode
+	url = https://github.com/emacsmirror/agda-lib-mode
 [submodule "agda2-mode"]
 	path = mirror/agda2-mode
 	url = https://github.com/emacsmirror/agda2-mode
