@@ -10732,6 +10732,9 @@
 [submodule "helm-dirset"]
 	path = attic/helm-dirset
 	url = https://github.com/emacsattic/helm-dirset
+[submodule "helm-elfeed"]
+	path = mirror/helm-elfeed
+	url = https://github.com/emacsmirror/helm-elfeed
 [submodule "helm-elscreen"]
 	path = attic/helm-elscreen
 	url = https://github.com/emacsattic/helm-elscreen
