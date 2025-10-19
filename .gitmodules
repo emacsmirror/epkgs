@@ -6148,6 +6148,9 @@
 [submodule "eldoc-extension"]
 	path = attic/eldoc-extension
 	url = https://github.com/emacsattic/eldoc-extension
+[submodule "eldoc-mouse"]
+	path = mirror/eldoc-mouse
+	url = https://github.com/emacsmirror/eldoc-mouse
 [submodule "eldoc-overlay"]
 	path = mirror/eldoc-overlay
 	url = https://github.com/emacsmirror/eldoc-overlay
