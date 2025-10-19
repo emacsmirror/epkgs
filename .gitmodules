@@ -12742,6 +12742,9 @@
 [submodule "jb-misc-functions"]
 	path = mirror/jb-misc-functions
 	url = https://github.com/emacsmirror/jb-misc-functions
+[submodule "jbeam-mode"]
+	path = mirror/jbeam-mode
+	url = https://github.com/emacsmirror/jbeam-mode
 [submodule "jbeans-theme"]
 	path = mirror/jbeans-theme
 	url = https://github.com/emacsmirror/jbeans-theme
