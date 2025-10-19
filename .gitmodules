@@ -2353,6 +2353,9 @@
 [submodule "calc-prog-utils"]
 	path = mirror/calc-prog-utils
 	url = https://github.com/emacsmirror/calc-prog-utils
+[submodule "calctape"]
+	path = mirror/calctape
+	url = https://github.com/emacsmirror/calctape
 [submodule "calendar+"]
 	path = mirror/calendar+
 	url = https://github.com/emacsmirror/calendar-plus
