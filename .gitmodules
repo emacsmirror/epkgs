@@ -20765,8 +20765,8 @@
 	path = mirror/register-list
 	url = https://github.com/emacsmirror/register-list
 [submodule "register-quicknav"]
-	path = mirror/register-quicknav
-	url = https://github.com/emacsmirror/register-quicknav
+	path = attic/register-quicknav
+	url = https://github.com/emacsattic/register-quicknav
 [submodule "rego-mode"]
 	path = mirror/rego-mode
 	url = https://github.com/emacsmirror/rego-mode
