@@ -19597,6 +19597,9 @@
 [submodule "presentation"]
 	path = mirror/presentation
 	url = https://github.com/emacsmirror/presentation
+[submodule "pretend-type"]
+	path = mirror/pretend-type
+	url = https://github.com/emacsmirror/pretend-type
 [submodule "prettier"]
 	path = mirror/prettier
 	url = https://github.com/emacsmirror/prettier
