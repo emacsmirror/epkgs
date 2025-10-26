@@ -26743,6 +26743,9 @@
 [submodule "zimports"]
 	path = mirror/zimports
 	url = https://github.com/emacsmirror/zimports
+[submodule "zine-mode"]
+	path = mirror/zine-mode
+	url = https://github.com/emacsmirror/zine-mode
 [submodule "zk"]
 	path = mirror/zk
 	url = https://github.com/emacsmirror/zk
