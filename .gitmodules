@@ -23008,6 +23008,9 @@
 [submodule "starhugger"]
 	path = mirror/starhugger
 	url = https://github.com/emacsmirror/starhugger
+[submodule "starling"]
+	path = mirror/starling
+	url = https://github.com/emacsmirror/starling
 [submodule "starlit-theme"]
 	path = mirror/starlit-theme
 	url = https://github.com/emacsmirror/starlit-theme
