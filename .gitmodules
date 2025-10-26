@@ -10321,6 +10321,9 @@
 [submodule "gtags-mode"]
 	path = mirror/gtags-mode
 	url = https://github.com/emacsmirror/gtags-mode
+[submodule "gtasks"]
+	path = mirror/gtasks
+	url = https://github.com/emacsmirror/gtasks
 [submodule "gtea"]
 	path = attic/gtea
 	url = https://github.com/emacsattic/gtea
