@@ -1219,6 +1219,9 @@
 [submodule "auto-save-buffers-enhanced"]
 	path = mirror/auto-save-buffers-enhanced
 	url = https://github.com/emacsmirror/auto-save-buffers-enhanced
+[submodule "auto-save-visited-local-mode"]
+	path = mirror/auto-save-visited-local-mode
+	url = https://github.com/emacsmirror/auto-save-visited-local-mode
 [submodule "auto-scroll"]
 	path = attic/auto-scroll
 	url = https://github.com/emacsattic/auto-scroll
