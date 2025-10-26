@@ -7510,6 +7510,9 @@
 [submodule "ewb"]
 	path = attic/ewb
 	url = https://github.com/emacsattic/ewb
+[submodule "ewm"]
+	path = mirror/ewm
+	url = https://github.com/emacsmirror/ewm
 [submodule "ewmctrl"]
 	path = mirror/ewmctrl
 	url = https://github.com/emacsmirror/ewmctrl
