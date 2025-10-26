@@ -17848,6 +17848,9 @@
 [submodule "org-snooze"]
 	path = mirror/org-snooze
 	url = https://github.com/emacsmirror/org-snooze
+[submodule "org-social"]
+	path = mirror/org-social
+	url = https://github.com/emacsmirror/org-social
 [submodule "org-special-block-extras"]
 	path = mirror/org-special-block-extras
 	url = https://github.com/emacsmirror/org-special-block-extras
