@@ -24613,6 +24613,9 @@
 [submodule "ttrss"]
 	path = attic/ttrss
 	url = https://github.com/emacsattic/ttrss
+[submodule "tts"]
+	path = mirror/tts
+	url = https://github.com/emacsmirror/tts
 [submodule "tty-format"]
 	path = attic/tty-format
 	url = https://github.com/emacsattic/tty-format
