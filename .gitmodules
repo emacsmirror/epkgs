@@ -9029,8 +9029,8 @@
 	path = attic/freex
 	url = https://github.com/emacsattic/freex
 [submodule "freeze-it"]
-	path = mirror/freeze-it
-	url = https://github.com/emacsmirror/freeze-it
+	path = attic/freeze-it
+	url = https://github.com/emacsattic/freeze-it
 [submodule "fretboard"]
 	path = mirror/fretboard
 	url = https://github.com/emacsmirror/fretboard
