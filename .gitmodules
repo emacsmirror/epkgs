@@ -8110,6 +8110,9 @@
 [submodule "fixmee"]
 	path = mirror/fixmee
 	url = https://github.com/emacsmirror/fixmee
+[submodule "fj"]
+	path = mirror/fj
+	url = https://github.com/emacsmirror/fj
 [submodule "flame"]
 	path = mirror/flame
 	url = https://github.com/emacsmirror/flame
