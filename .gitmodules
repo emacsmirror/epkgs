@@ -2222,8 +2222,8 @@
 	path = mirror/bundle
 	url = https://github.com/emacsmirror/bundle
 [submodule "bundler"]
-	path = mirror/bundler
-	url = https://github.com/emacsmirror/bundler
+	path = attic/bundler
+	url = https://github.com/emacsattic/bundler
 [submodule "buqis"]
 	path = attic/buqis
 	url = https://github.com/emacsattic/buqis
