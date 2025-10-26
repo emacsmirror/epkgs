@@ -20839,9 +20839,9 @@
 [submodule "removable-media"]
 	path = attic/removable-media
 	url = https://github.com/emacsattic/removable-media
-[submodule "renpy"]
-	path = mirror/renpy
-	url = https://github.com/emacsmirror/renpy
+[submodule "renpy-mode"]
+	path = mirror/renpy-mode
+	url = https://github.com/emacsmirror/renpy-mode
 [submodule "rep-words"]
 	path = attic/rep-words
 	url = https://github.com/emacsattic/rep-words
