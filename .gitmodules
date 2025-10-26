@@ -24115,6 +24115,9 @@
 [submodule "time-uuid-mode"]
 	path = mirror/time-uuid-mode
 	url = https://github.com/emacsmirror/time-uuid-mode
+[submodule "time-zones"]
+	path = mirror/time-zones
+	url = https://github.com/emacsmirror/time-zones
 [submodule "timecard"]
 	path = attic/timecard
 	url = https://github.com/emacsattic/timecard
