@@ -12152,8 +12152,8 @@
 	path = mirror/inf-elixir
 	url = https://github.com/emacsmirror/inf-elixir
 [submodule "inf-mongo"]
-	path = mirror/inf-mongo
-	url = https://github.com/emacsmirror/inf-mongo
+	path = attic/inf-mongo
+	url = https://github.com/emacsattic/inf-mongo
 [submodule "inf-perl"]
 	path = attic/inf-perl
 	url = https://github.com/emacsattic/inf-perl
