@@ -382,6 +382,9 @@
 [submodule "agenix"]
 	path = mirror/agenix
 	url = https://github.com/emacsmirror/agenix
+[submodule "agent-shell"]
+	path = mirror/agent-shell
+	url = https://github.com/emacsmirror/agent-shell
 [submodule "aggressive-completion"]
 	path = mirror/aggressive-completion
 	url = https://github.com/emacsmirror/aggressive-completion
