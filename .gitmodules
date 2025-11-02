@@ -12472,6 +12472,9 @@
 [submodule "ishl"]
 	path = attic/ishl
 	url = https://github.com/emacsattic/ishl
+[submodule "isl"]
+	path = mirror/isl
+	url = https://github.com/emacsmirror/isl
 [submodule "islisp-mode"]
 	path = mirror/islisp-mode
 	url = https://github.com/emacsmirror/islisp-mode
