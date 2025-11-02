@@ -15247,6 +15247,9 @@
 [submodule "minimal"]
 	path = mirror/minimal
 	url = https://github.com/emacsmirror/minimal
+[submodule "minimal-dashboard"]
+	path = mirror/minimal-dashboard
+	url = https://github.com/emacsmirror/minimal-dashboard
 [submodule "minimal-session-saver"]
 	path = mirror/minimal-session-saver
 	url = https://github.com/emacsmirror/minimal-session-saver
