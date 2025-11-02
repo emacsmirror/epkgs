@@ -3988,6 +3988,9 @@
 [submodule "creamsody-theme"]
 	path = mirror/creamsody-theme
 	url = https://github.com/emacsmirror/creamsody-theme
+[submodule "creamy-theme"]
+	path = mirror/creamy-theme
+	url = https://github.com/emacsmirror/creamy-theme
 [submodule "create-link"]
 	path = mirror/create-link
 	url = https://github.com/emacsmirror/create-link
