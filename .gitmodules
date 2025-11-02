@@ -12626,8 +12626,8 @@
 	path = mirror/ivy-xref
 	url = https://github.com/emacsmirror/ivy-xref
 [submodule "ivy-yasnippet"]
-	path = mirror/ivy-yasnippet
-	url = https://github.com/emacsmirror/ivy-yasnippet
+	path = attic/ivy-yasnippet
+	url = https://github.com/emacsattic/ivy-yasnippet
 [submodule "ivy-ycmd"]
 	path = mirror/ivy-ycmd
 	url = https://github.com/emacsmirror/ivy-ycmd
