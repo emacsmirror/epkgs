@@ -8,8 +8,8 @@
 	path = mirror/0xc
 	url = https://github.com/emacsmirror/0xc
 [submodule "1000-words"]
-	path = mirror/1000-words
-	url = https://github.com/emacsmirror/1000-words
+	path = attic/1000-words
+	url = https://github.com/emacsattic/1000-words
 [submodule "2048-game"]
 	path = mirror/2048-game
 	url = https://github.com/emacsmirror/2048-game
