@@ -24851,8 +24851,8 @@
 	path = mirror/unbound
 	url = https://github.com/emacsmirror/unbound
 [submodule "uncrustify"]
-	path = mirror/uncrustify
-	url = https://github.com/emacsmirror/uncrustify
+	path = attic/uncrustify
+	url = https://github.com/emacsattic/uncrustify
 [submodule "uncrustify-mode"]
 	path = mirror/uncrustify-mode
 	url = https://github.com/emacsmirror/uncrustify-mode
