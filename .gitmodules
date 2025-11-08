@@ -10667,8 +10667,8 @@
 	path = mirror/helm-bundle-show
 	url = https://github.com/emacsmirror/helm-bundle-show
 [submodule "helm-c-moccur"]
-	path = mirror/helm-c-moccur
-	url = https://github.com/emacsmirror/helm-c-moccur
+	path = attic/helm-c-moccur
+	url = https://github.com/emacsattic/helm-c-moccur
 [submodule "helm-c-yasnippet"]
 	path = mirror/helm-c-yasnippet
 	url = https://github.com/emacsmirror/helm-c-yasnippet
@@ -10787,8 +10787,8 @@
 	path = attic/helm-file-preview
 	url = https://github.com/emacsattic/helm-file-preview
 [submodule "helm-filesets"]
-	path = mirror/helm-filesets
-	url = https://github.com/emacsmirror/helm-filesets
+	path = attic/helm-filesets
+	url = https://github.com/emacsattic/helm-filesets
 [submodule "helm-find-files-in-project"]
 	path = mirror/helm-find-files-in-project
 	url = https://github.com/emacsmirror/helm-find-files-in-project
@@ -10838,8 +10838,8 @@
 	path = attic/helm-git-files
 	url = https://github.com/emacsattic/helm-git-files
 [submodule "helm-git-grep"]
-	path = mirror/helm-git-grep
-	url = https://github.com/emacsmirror/helm-git-grep
+	path = attic/helm-git-grep
+	url = https://github.com/emacsattic/helm-git-grep
 [submodule "helm-github-issues"]
 	path = mirror/helm-github-issues
 	url = https://github.com/emacsmirror/helm-github-issues
@@ -10853,8 +10853,8 @@
 	path = mirror/helm-go-package
 	url = https://github.com/emacsmirror/helm-go-package
 [submodule "helm-google"]
-	path = mirror/helm-google
-	url = https://github.com/emacsmirror/helm-google
+	path = attic/helm-google
+	url = https://github.com/emacsattic/helm-google
 [submodule "helm-google-contacts"]
 	path = mirror/helm-google-contacts
 	url = https://github.com/emacsmirror/helm-google-contacts
@@ -10877,8 +10877,8 @@
 	path = mirror/helm-hayoo
 	url = https://github.com/emacsmirror/helm-hayoo
 [submodule "helm-helm-commands"]
-	path = mirror/helm-helm-commands
-	url = https://github.com/emacsmirror/helm-helm-commands
+	path = attic/helm-helm-commands
+	url = https://github.com/emacsattic/helm-helm-commands
 [submodule "helm-hoogle"]
 	path = mirror/helm-hoogle
 	url = https://github.com/emacsmirror/helm-hoogle
@@ -10886,8 +10886,8 @@
 	path = mirror/helm-hunks
 	url = https://github.com/emacsmirror/helm-hunks
 [submodule "helm-icons"]
-	path = mirror/helm-icons
-	url = https://github.com/emacsmirror/helm-icons
+	path = attic/helm-icons
+	url = https://github.com/emacsattic/helm-icons
 [submodule "helm-idris"]
 	path = mirror/helm-idris
 	url = https://github.com/emacsmirror/helm-idris
@@ -10952,8 +10952,8 @@
 	path = mirror/helm-make
 	url = https://github.com/emacsmirror/helm-make
 [submodule "helm-migemo"]
-	path = mirror/helm-migemo
-	url = https://github.com/emacsmirror/helm-migemo
+	path = attic/helm-migemo
+	url = https://github.com/emacsattic/helm-migemo
 [submodule "helm-mode-manager"]
 	path = attic/helm-mode-manager
 	url = https://github.com/emacsattic/helm-mode-manager
@@ -11012,8 +11012,8 @@
 	path = mirror/helm-phpunit
 	url = https://github.com/emacsmirror/helm-phpunit
 [submodule "helm-posframe"]
-	path = mirror/helm-posframe
-	url = https://github.com/emacsmirror/helm-posframe
+	path = attic/helm-posframe
+	url = https://github.com/emacsattic/helm-posframe
 [submodule "helm-proc"]
 	path = mirror/helm-proc
 	url = https://github.com/emacsmirror/helm-proc
@@ -11030,8 +11030,8 @@
 	path = attic/helm-projectile-all
 	url = https://github.com/emacsattic/helm-projectile-all
 [submodule "helm-pt"]
-	path = mirror/helm-pt
-	url = https://github.com/emacsmirror/helm-pt
+	path = attic/helm-pt
+	url = https://github.com/emacsattic/helm-pt
 [submodule "helm-purpose"]
 	path = mirror/helm-purpose
 	url = https://github.com/emacsmirror/helm-purpose
@@ -11099,8 +11099,8 @@
 	path = mirror/helm-sheet
 	url = https://github.com/emacsmirror/helm-sheet
 [submodule "helm-shell-history"]
-	path = mirror/helm-shell-history
-	url = https://github.com/emacsmirror/helm-shell-history
+	path = attic/helm-shell-history
+	url = https://github.com/emacsattic/helm-shell-history
 [submodule "helm-slime"]
 	path = mirror/helm-slime
 	url = https://github.com/emacsmirror/helm-slime
@@ -11156,8 +11156,8 @@
 	path = mirror/helm-twitch
 	url = https://github.com/emacsmirror/helm-twitch
 [submodule "helm-unicode"]
-	path = mirror/helm-unicode
-	url = https://github.com/emacsmirror/helm-unicode
+	path = attic/helm-unicode
+	url = https://github.com/emacsattic/helm-unicode
 [submodule "helm-w32-launcher"]
 	path = mirror/helm-w32-launcher
 	url = https://github.com/emacsmirror/helm-w32-launcher
