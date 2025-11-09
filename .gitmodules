@@ -9166,6 +9166,9 @@
 [submodule "fuzzy"]
 	path = mirror/fuzzy
 	url = https://github.com/emacsmirror/fuzzy
+[submodule "fuzzy-clock"]
+	path = mirror/fuzzy-clock
+	url = https://github.com/emacsmirror/fuzzy-clock
 [submodule "fuzzy-find-in-project"]
 	path = mirror/fuzzy-find-in-project
 	url = https://github.com/emacsmirror/fuzzy-find-in-project
