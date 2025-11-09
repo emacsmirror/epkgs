@@ -17599,6 +17599,9 @@
 [submodule "org-manage"]
 	path = mirror/org-manage
 	url = https://github.com/emacsmirror/org-manage
+[submodule "org-mcp"]
+	path = mirror/org-mcp
+	url = https://github.com/emacsmirror/org-mcp
 [submodule "org-mem"]
 	path = mirror/org-mem
 	url = https://github.com/emacsmirror/org-mem
