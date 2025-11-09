@@ -4354,6 +4354,9 @@
 [submodule "daemons"]
 	path = mirror/daemons
 	url = https://github.com/emacsmirror/daemons
+[submodule "dag-draw"]
+	path = mirror/dag-draw
+	url = https://github.com/emacsmirror/dag-draw
 [submodule "dakrone-light-theme"]
 	path = mirror/dakrone-light-theme
 	url = https://github.com/emacsmirror/dakrone-light-theme
