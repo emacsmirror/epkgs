@@ -24775,6 +24775,9 @@
 [submodule "typst-mode"]
 	path = attic/typst-mode
 	url = https://github.com/emacsattic/typst-mode
+[submodule "typst-preview"]
+	path = mirror/typst-preview
+	url = https://github.com/emacsmirror/typst-preview
 [submodule "typst-ts-mode"]
 	path = mirror/typst-ts-mode
 	url = https://github.com/emacsmirror/typst-ts-mode
