@@ -24439,6 +24439,9 @@
 [submodule "tracwiki-mode"]
 	path = mirror/tracwiki-mode
 	url = https://github.com/emacsmirror/tracwiki-mode
+[submodule "trailing-newline-indicator"]
+	path = mirror/trailing-newline-indicator
+	url = https://github.com/emacsmirror/trailing-newline-indicator
 [submodule "tramp"]
 	path = mirror/tramp
 	url = https://github.com/emacsmirror/tramp
