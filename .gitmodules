@@ -17932,6 +17932,9 @@
 [submodule "org-tag-beautify"]
 	path = mirror/org-tag-beautify
 	url = https://github.com/emacsmirror/org-tag-beautify
+[submodule "org-tag-tree"]
+	path = mirror/org-tag-tree
+	url = https://github.com/emacsmirror/org-tag-tree
 [submodule "org-tagged"]
 	path = mirror/org-tagged
 	url = https://github.com/emacsmirror/org-tagged
