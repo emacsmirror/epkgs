@@ -21389,8 +21389,8 @@
 	path = mirror/s3
 	url = https://github.com/emacsmirror/s3
 [submodule "s3ed"]
-	path = mirror/s3ed
-	url = https://github.com/emacsmirror/s3ed
+	path = attic/s3ed
+	url = https://github.com/emacsattic/s3ed
 [submodule "sa-learn-invoke"]
 	path = attic/sa-learn-invoke
 	url = https://github.com/emacsattic/sa-learn-invoke
