@@ -2311,6 +2311,9 @@
 [submodule "ca65-mode"]
 	path = mirror/ca65-mode
 	url = https://github.com/emacsmirror/ca65-mode
+[submodule "cabal-mode"]
+	path = mirror/cabal-mode
+	url = https://github.com/emacsmirror/cabal-mode
 [submodule "cabecera"]
 	path = attic/cabecera
 	url = https://github.com/emacsattic/cabecera
