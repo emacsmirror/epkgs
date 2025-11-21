@@ -22925,8 +22925,8 @@
 	path = mirror/sql-sqlline
 	url = https://github.com/emacsmirror/sql-sqlline
 [submodule "sql-transform"]
-	path = mirror/sql-transform
-	url = https://github.com/emacsmirror/sql-transform
+	path = attic/sql-transform
+	url = https://github.com/emacsattic/sql-transform
 [submodule "sql-trino"]
 	path = mirror/sql-trino
 	url = https://github.com/emacsmirror/sql-trino
