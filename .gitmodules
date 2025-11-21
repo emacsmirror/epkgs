@@ -7222,9 +7222,6 @@
 [submodule "eval-sexp-fu"]
 	path = mirror/eval-sexp-fu
 	url = https://github.com/emacsmirror/eval-sexp-fu
-[submodule "eval-sexp-in-comments"]
-	path = mirror/eval-sexp-in-comments
-	url = https://github.com/emacsmirror/eval-sexp-in-comments
 [submodule "evalator"]
 	path = mirror/evalator
 	url = https://github.com/emacsmirror/evalator
