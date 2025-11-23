@@ -5398,6 +5398,9 @@
 [submodule "doxymacs"]
 	path = mirror/doxymacs
 	url = https://github.com/emacsmirror/doxymacs
+[submodule "doxymin"]
+	path = mirror/doxymin
+	url = https://github.com/emacsmirror/doxymin
 [submodule "dpans2texi"]
 	path = attic/dpans2texi
 	url = https://github.com/emacsattic/dpans2texi
