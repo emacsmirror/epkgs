@@ -5560,6 +5560,9 @@
 [submodule "dwim-shell-command"]
 	path = mirror/dwim-shell-command
 	url = https://github.com/emacsmirror/dwim-shell-command
+[submodule "dwin"]
+	path = mirror/dwin
+	url = https://github.com/emacsmirror/dwin
 [submodule "dyalog-mode"]
 	path = mirror/dyalog-mode
 	url = https://github.com/emacsmirror/dyalog-mode
