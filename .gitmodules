@@ -23695,6 +23695,9 @@
 [submodule "tbemail"]
 	path = mirror/tbemail
 	url = https://github.com/emacsmirror/tbemail
+[submodule "tbindent"]
+	path = mirror/tbindent
+	url = https://github.com/emacsmirror/tbindent
 [submodule "tblui"]
 	path = mirror/tblui
 	url = https://github.com/emacsmirror/tblui
