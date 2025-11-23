@@ -5701,6 +5701,9 @@
 [submodule "easy-repeat"]
 	path = mirror/easy-repeat
 	url = https://github.com/emacsmirror/easy-repeat
+[submodule "easy-theme-preview"]
+	path = mirror/easy-theme-preview
+	url = https://github.com/emacsmirror/easy-theme-preview
 [submodule "easy-todo"]
 	path = mirror/easy-todo
 	url = https://github.com/emacsmirror/easy-todo
