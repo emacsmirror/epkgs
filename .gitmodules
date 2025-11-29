@@ -20608,6 +20608,9 @@
 [submodule "real-auto-save"]
 	path = mirror/real-auto-save
 	url = https://github.com/emacsmirror/real-auto-save
+[submodule "real-mono-themes"]
+	path = mirror/real-mono-themes
+	url = https://github.com/emacsmirror/real-mono-themes
 [submodule "realgud"]
 	path = mirror/realgud
 	url = https://github.com/emacsmirror/realgud
