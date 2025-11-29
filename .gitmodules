@@ -13405,6 +13405,9 @@
 [submodule "kindly-mode"]
 	path = mirror/kindly-mode
 	url = https://github.com/emacsmirror/kindly-mode
+[submodule "kirigami"]
+	path = mirror/kirigami
+	url = https://github.com/emacsmirror/kirigami
 [submodule "kis-interface"]
 	path = attic/kis-interface
 	url = https://github.com/emacsattic/kis-interface
