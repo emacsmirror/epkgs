@@ -23194,6 +23194,9 @@
 [submodule "structure-edit"]
 	path = attic/structure-edit
 	url = https://github.com/emacsattic/structure-edit
+[submodule "structurizr"]
+	path = mirror/structurizr
+	url = https://github.com/emacsmirror/structurizr
 [submodule "studlycaps"]
 	path = attic/studlycaps
 	url = https://github.com/emacsattic/studlycaps
