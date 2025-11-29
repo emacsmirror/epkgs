@@ -9614,8 +9614,8 @@
 	path = attic/github-api-v3
 	url = https://github.com/emacsattic/github-api-v3
 [submodule "github-browse-file"]
-	path = mirror/github-browse-file
-	url = https://github.com/emacsmirror/github-browse-file
+	path = attic/github-browse-file
+	url = https://github.com/emacsattic/github-browse-file
 [submodule "github-clone"]
 	path = mirror/github-clone
 	url = https://github.com/emacsmirror/github-clone
