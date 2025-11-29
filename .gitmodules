@@ -3115,6 +3115,9 @@
 [submodule "code-archive"]
 	path = mirror/code-archive
 	url = https://github.com/emacsmirror/code-archive
+[submodule "code-awareness"]
+	path = mirror/code-awareness
+	url = https://github.com/emacsmirror/code-awareness
 [submodule "code-cells"]
 	path = mirror/code-cells
 	url = https://github.com/emacsmirror/code-cells
