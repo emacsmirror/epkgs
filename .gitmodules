@@ -9280,6 +9280,9 @@
 [submodule "gdscript-mode"]
 	path = mirror/gdscript-mode
 	url = https://github.com/emacsmirror/gdscript-mode
+[submodule "gdshader-mode"]
+	path = mirror/gdshader-mode
+	url = https://github.com/emacsmirror/gdshader-mode
 [submodule "geben"]
 	path = mirror/geben
 	url = https://github.com/emacsmirror/geben
