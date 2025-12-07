@@ -24478,6 +24478,9 @@
 [submodule "tramp-hdfs"]
 	path = mirror/tramp-hdfs
 	url = https://github.com/emacsmirror/tramp-hdfs
+[submodule "tramp-hlo"]
+	path = mirror/tramp-hlo
+	url = https://github.com/emacsmirror/tramp-hlo
 [submodule "tramp-nspawn"]
 	path = mirror/tramp-nspawn
 	url = https://github.com/emacsmirror/tramp-nspawn
