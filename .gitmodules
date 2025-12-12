@@ -9551,8 +9551,8 @@
 	path = mirror/git-gutter-fringe
 	url = https://github.com/emacsmirror/git-gutter-fringe
 [submodule "git-gutter-fringe+"]
-	path = mirror/git-gutter-fringe+
-	url = https://github.com/emacsmirror/git-gutter-fringe-plus
+	path = attic/git-gutter-fringe+
+	url = https://github.com/emacsattic/git-gutter-fringe-plus
 [submodule "git-identity"]
 	path = mirror/git-identity
 	url = https://github.com/emacsmirror/git-identity
