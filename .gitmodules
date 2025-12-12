@@ -9545,8 +9545,8 @@
 	path = mirror/git-gutter
 	url = https://github.com/emacsmirror/git-gutter
 [submodule "git-gutter+"]
-	path = mirror/git-gutter+
-	url = https://github.com/emacsmirror/git-gutter-plus
+	path = attic/git-gutter+
+	url = https://github.com/emacsattic/git-gutter-plus
 [submodule "git-gutter-fringe"]
 	path = mirror/git-gutter-fringe
 	url = https://github.com/emacsmirror/git-gutter-fringe
