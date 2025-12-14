@@ -14449,6 +14449,9 @@
 [submodule "lude"]
 	path = attic/lude
 	url = https://github.com/emacsattic/lude
+[submodule "lumos-mode"]
+	path = mirror/lumos-mode
+	url = https://github.com/emacsmirror/lumos-mode
 [submodule "lunar-mode-line"]
 	path = attic/lunar-mode-line
 	url = https://github.com/emacsattic/lunar-mode-line
