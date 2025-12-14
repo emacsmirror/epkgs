@@ -5068,6 +5068,9 @@
 [submodule "dired-toggle-sudo"]
 	path = mirror/dired-toggle-sudo
 	url = https://github.com/emacsmirror/dired-toggle-sudo
+[submodule "dired-video-thumbnail"]
+	path = mirror/dired-video-thumbnail
+	url = https://github.com/emacsmirror/dired-video-thumbnail
 [submodule "dired-view"]
 	path = mirror/dired-view
 	url = https://github.com/emacsmirror/dired-view
