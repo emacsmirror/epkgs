@@ -25042,6 +25042,9 @@
 [submodule "unison-mode"]
 	path = mirror/unison-mode
 	url = https://github.com/emacsmirror/unison-mode
+[submodule "unison-ts-mode"]
+	path = mirror/unison-ts-mode
+	url = https://github.com/emacsmirror/unison-ts-mode
 [submodule "unisonlang-mode"]
 	path = mirror/unisonlang-mode
 	url = https://github.com/emacsmirror/unisonlang-mode
