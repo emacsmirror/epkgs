@@ -25999,6 +25999,9 @@
 [submodule "wikitext-mode"]
 	path = attic/wikitext-mode
 	url = https://github.com/emacsattic/wikitext-mode
+[submodule "wiktionary-bro"]
+	path = mirror/wiktionary-bro
+	url = https://github.com/emacsmirror/wiktionary-bro
 [submodule "wiktionary-swadesh"]
 	path = attic/wiktionary-swadesh
 	url = https://github.com/emacsattic/wiktionary-swadesh
