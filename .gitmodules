@@ -14827,6 +14827,9 @@
 [submodule "marginalia"]
 	path = mirror/marginalia
 	url = https://github.com/emacsmirror/marginalia
+[submodule "mark-copy-yank-things-mode"]
+	path = mirror/mark-copy-yank-things-mode
+	url = https://github.com/emacsmirror/mark-copy-yank-things-mode
 [submodule "mark-forward-sexp"]
 	path = mirror/mark-forward-sexp
 	url = https://github.com/emacsmirror/mark-forward-sexp
