@@ -16537,6 +16537,9 @@
 [submodule "nova-theme"]
 	path = mirror/nova-theme
 	url = https://github.com/emacsmirror/nova-theme
+[submodule "novel-mode"]
+	path = mirror/novel-mode
+	url = https://github.com/emacsmirror/novel-mode
 [submodule "novice+"]
 	path = mirror/novice+
 	url = https://github.com/emacsmirror/novice-plus
