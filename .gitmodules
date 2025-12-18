@@ -16033,6 +16033,9 @@
 [submodule "n4js"]
 	path = mirror/n4js
 	url = https://github.com/emacsmirror/n4js
+[submodule "nael"]
+	path = mirror/nael
+	url = https://github.com/emacsmirror/nael
 [submodule "naga-theme"]
 	path = mirror/naga-theme
 	url = https://github.com/emacsmirror/naga-theme
