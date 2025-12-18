@@ -8899,6 +8899,9 @@
 [submodule "follow-mouse"]
 	path = attic/follow-mouse
 	url = https://github.com/emacsattic/follow-mouse
+[submodule "followcursor-mode"]
+	path = mirror/followcursor-mode
+	url = https://github.com/emacsmirror/followcursor-mode
 [submodule "font-lock+"]
 	path = mirror/font-lock+
 	url = https://github.com/emacsmirror/font-lock-plus
