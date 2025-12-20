@@ -25936,6 +25936,9 @@
 [submodule "whine"]
 	path = attic/whine
 	url = https://github.com/emacsattic/whine
+[submodule "whisper"]
+	path = mirror/whisper
+	url = https://github.com/emacsmirror/whisper
 [submodule "whitaker"]
 	path = mirror/whitaker
 	url = https://github.com/emacsmirror/whitaker
