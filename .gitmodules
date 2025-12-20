@@ -10171,6 +10171,9 @@
 [submodule "gptel-fn-complete"]
 	path = mirror/gptel-fn-complete
 	url = https://github.com/emacsmirror/gptel-fn-complete
+[submodule "gptel-forge-prs"]
+	path = mirror/gptel-forge-prs
+	url = https://github.com/emacsmirror/gptel-forge-prs
 [submodule "gptel-magit"]
 	path = mirror/gptel-magit
 	url = https://github.com/emacsmirror/gptel-magit
