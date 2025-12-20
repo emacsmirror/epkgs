@@ -14869,6 +14869,9 @@
 [submodule "markdown-edit-indirect"]
 	path = attic/markdown-edit-indirect
 	url = https://github.com/emacsattic/markdown-edit-indirect
+[submodule "markdown-mermaid"]
+	path = mirror/markdown-mermaid
+	url = https://github.com/emacsmirror/markdown-mermaid
 [submodule "markdown-mode"]
 	path = mirror/markdown-mode
 	url = https://github.com/emacsmirror/markdown-mode
