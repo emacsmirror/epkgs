@@ -7756,6 +7756,9 @@
 [submodule "fast-scroll"]
 	path = mirror/fast-scroll
 	url = https://github.com/emacsmirror/fast-scroll
+[submodule "fastbuild-bff-mode"]
+	path = mirror/fastbuild-bff-mode
+	url = https://github.com/emacsmirror/fastbuild-bff-mode
 [submodule "fastdef"]
 	path = mirror/fastdef
 	url = https://github.com/emacsmirror/fastdef
