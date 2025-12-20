@@ -16789,6 +16789,9 @@
 [submodule "ob-dsq"]
 	path = mirror/ob-dsq
 	url = https://github.com/emacsmirror/ob-dsq
+[submodule "ob-duckdb"]
+	path = mirror/ob-duckdb
+	url = https://github.com/emacsmirror/ob-duckdb
 [submodule "ob-elixir"]
 	path = mirror/ob-elixir
 	url = https://github.com/emacsmirror/ob-elixir
