@@ -20534,8 +20534,8 @@
 	path = mirror/rcfiles
 	url = https://github.com/emacsmirror/rcfiles
 [submodule "rcirc-alert"]
-	path = mirror/rcirc-alert
-	url = https://github.com/emacsmirror/rcirc-alert
+	path = attic/rcirc-alert
+	url = https://github.com/emacsattic/rcirc-alert
 [submodule "rcirc-alertify"]
 	path = mirror/rcirc-alertify
 	url = https://github.com/emacsmirror/rcirc-alertify
