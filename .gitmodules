@@ -21253,6 +21253,9 @@
 [submodule "roy-mode"]
 	path = mirror/roy-mode
 	url = https://github.com/emacsmirror/roy-mode
+[submodule "royal-hemlock-theme"]
+	path = mirror/royal-hemlock-theme
+	url = https://github.com/emacsmirror/royal-hemlock-theme
 [submodule "rpm"]
 	path = attic/rpm
 	url = https://github.com/emacsattic/rpm
