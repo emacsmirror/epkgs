@@ -18142,6 +18142,9 @@
 [submodule "orgit"]
 	path = mirror/orgit
 	url = https://github.com/emacsmirror/orgit
+[submodule "orgit-file"]
+	path = mirror/orgit-file
+	url = https://github.com/emacsmirror/orgit-file
 [submodule "orgit-forge"]
 	path = mirror/orgit-forge
 	url = https://github.com/emacsmirror/orgit-forge
