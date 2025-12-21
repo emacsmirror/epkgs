@@ -5656,6 +5656,9 @@
 [submodule "eaf-video-player"]
 	path = mirror/eaf-video-player
 	url = https://github.com/emacsmirror/eaf-video-player
+[submodule "eager-state"]
+	path = mirror/eager-state
+	url = https://github.com/emacsmirror/eager-state
 [submodule "eap"]
 	path = attic/eap
 	url = https://github.com/emacsattic/eap
