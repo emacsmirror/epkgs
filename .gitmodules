@@ -12673,6 +12673,9 @@
 [submodule "ivy-youtube"]
 	path = mirror/ivy-youtube
 	url = https://github.com/emacsmirror/ivy-youtube
+[submodule "iwd-manager"]
+	path = mirror/iwd-manager
+	url = https://github.com/emacsmirror/iwd-manager
 [submodule "iwindow"]
 	path = mirror/iwindow
 	url = https://github.com/emacsmirror/iwindow
