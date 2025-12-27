@@ -13480,6 +13480,9 @@
 [submodule "kodi-remote"]
 	path = mirror/kodi-remote
 	url = https://github.com/emacsmirror/kodi-remote
+[submodule "koishi-theme"]
+	path = mirror/koishi-theme
+	url = https://github.com/emacsmirror/koishi-theme
 [submodule "kokopelli"]
 	path = attic/kokopelli
 	url = https://github.com/emacsattic/kokopelli
