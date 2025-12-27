@@ -24772,6 +24772,9 @@
 [submodule "tup-mode"]
 	path = attic/tup-mode
 	url = https://github.com/emacsattic/tup-mode
+[submodule "turepo"]
+	path = mirror/turepo
+	url = https://github.com/emacsmirror/turepo
 [submodule "turing-machine"]
 	path = mirror/turing-machine
 	url = https://github.com/emacsmirror/turing-machine
