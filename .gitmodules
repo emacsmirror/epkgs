@@ -12712,6 +12712,9 @@
 [submodule "jade-mode"]
 	path = mirror/jade-mode
 	url = https://github.com/emacsmirror/jade-mode
+[submodule "jade-schema-mode"]
+	path = mirror/jade-schema-mode
+	url = https://github.com/emacsmirror/jade-schema-mode
 [submodule "jamar"]
 	path = mirror/jamar
 	url = https://github.com/emacsmirror/jamar
