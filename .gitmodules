@@ -412,6 +412,9 @@
 [submodule "ahungry-theme"]
 	path = mirror/ahungry-theme
 	url = https://github.com/emacsmirror/ahungry-theme
+[submodule "ai-code"]
+	path = mirror/ai-code
+	url = https://github.com/emacsmirror/ai-code
 [submodule "aider"]
 	path = mirror/aider
 	url = https://github.com/emacsmirror/aider
