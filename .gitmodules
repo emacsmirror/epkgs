@@ -16723,6 +16723,9 @@
 [submodule "o-journal"]
 	path = attic/o-journal
 	url = https://github.com/emacsattic/o-journal
+[submodule "oai"]
+	path = mirror/oai
+	url = https://github.com/emacsmirror/oai
 [submodule "oauth"]
 	path = mirror/oauth
 	url = https://github.com/emacsmirror/oauth
