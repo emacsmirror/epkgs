@@ -25585,6 +25585,9 @@
 [submodule "visual-replace"]
 	path = mirror/visual-replace
 	url = https://github.com/emacsmirror/visual-replace
+[submodule "visual-shorthands"]
+	path = mirror/visual-shorthands
+	url = https://github.com/emacsmirror/visual-shorthands
 [submodule "vkill"]
 	path = attic/vkill
 	url = https://github.com/emacsattic/vkill
