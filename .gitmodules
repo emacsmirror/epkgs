@@ -10183,6 +10183,9 @@
 [submodule "gptel-commit"]
 	path = mirror/gptel-commit
 	url = https://github.com/emacsmirror/gptel-commit
+[submodule "gptel-cpp-complete"]
+	path = mirror/gptel-cpp-complete
+	url = https://github.com/emacsmirror/gptel-cpp-complete
 [submodule "gptel-fn-complete"]
 	path = mirror/gptel-fn-complete
 	url = https://github.com/emacsmirror/gptel-fn-complete
