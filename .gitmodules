@@ -12817,6 +12817,9 @@
 [submodule "javatools"]
 	path = attic/javatools
 	url = https://github.com/emacsattic/javatools
+[submodule "javelin"]
+	path = mirror/javelin
+	url = https://github.com/emacsmirror/javelin
 [submodule "jaword"]
 	path = mirror/jaword
 	url = https://github.com/emacsmirror/jaword
