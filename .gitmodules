@@ -541,6 +541,9 @@
 [submodule "altmap"]
 	path = attic/altmap
 	url = https://github.com/emacsattic/altmap
+[submodule "amaranth-dark-theme"]
+	path = mirror/amaranth-dark-theme
+	url = https://github.com/emacsmirror/amaranth-dark-theme
 [submodule "amarok"]
 	path = attic/amarok
 	url = https://github.com/emacsattic/amarok
