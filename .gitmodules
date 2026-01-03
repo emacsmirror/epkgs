@@ -14548,6 +14548,9 @@
 [submodule "maces-game"]
 	path = mirror/maces-game
 	url = https://github.com/emacsmirror/maces-game
+[submodule "macher"]
+	path = mirror/macher
+	url = https://github.com/emacsmirror/macher
 [submodule "macports"]
 	path = mirror/macports
 	url = https://github.com/emacsmirror/macports
