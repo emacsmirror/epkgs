@@ -7486,6 +7486,9 @@
 [submodule "evil-tex"]
 	path = mirror/evil-tex
 	url = https://github.com/emacsmirror/evil-tex
+[submodule "evil-tex-ts"]
+	path = mirror/evil-tex-ts
+	url = https://github.com/emacsmirror/evil-tex-ts
 [submodule "evil-text-object-python"]
 	path = mirror/evil-text-object-python
 	url = https://github.com/emacsmirror/evil-text-object-python
