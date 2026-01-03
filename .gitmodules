@@ -17911,6 +17911,9 @@
 [submodule "org-roam-server"]
 	path = attic/org-roam-server
 	url = https://github.com/emacsattic/org-roam-server
+[submodule "org-roam-timeline"]
+	path = mirror/org-roam-timeline
+	url = https://github.com/emacsmirror/org-roam-timeline
 [submodule "org-roam-timestamps"]
 	path = mirror/org-roam-timestamps
 	url = https://github.com/emacsmirror/org-roam-timestamps
