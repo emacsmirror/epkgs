@@ -25687,6 +25687,9 @@
 [submodule "vulpea"]
 	path = mirror/vulpea
 	url = https://github.com/emacsmirror/vulpea
+[submodule "vulpea-ui"]
+	path = mirror/vulpea-ui
+	url = https://github.com/emacsmirror/vulpea-ui
 [submodule "vundo"]
 	path = mirror/vundo
 	url = https://github.com/emacsmirror/vundo
