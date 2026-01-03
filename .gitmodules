@@ -19612,6 +19612,9 @@
 [submodule "popwin"]
 	path = mirror/popwin
 	url = https://github.com/emacsmirror/popwin
+[submodule "porg"]
+	path = mirror/porg
+	url = https://github.com/emacsmirror/porg
 [submodule "portage"]
 	path = attic/portage
 	url = https://github.com/emacsattic/portage
