@@ -6004,6 +6004,9 @@
 [submodule "eglot-luau"]
 	path = mirror/eglot-luau
 	url = https://github.com/emacsmirror/eglot-luau
+[submodule "eglot-python-preset"]
+	path = mirror/eglot-python-preset
+	url = https://github.com/emacsmirror/eglot-python-preset
 [submodule "eglot-signature-eldoc-talkative"]
 	path = mirror/eglot-signature-eldoc-talkative
 	url = https://github.com/emacsmirror/eglot-signature-eldoc-talkative
