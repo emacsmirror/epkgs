@@ -5849,8 +5849,8 @@
 	path = mirror/ede-php-autoload
 	url = https://github.com/emacsmirror/ede-php-autoload
 [submodule "ede-php-autoload-composer-installers"]
-	path = mirror/ede-php-autoload-composer-installers
-	url = https://github.com/emacsmirror/ede-php-autoload-composer-installers
+	path = attic/ede-php-autoload-composer-installers
+	url = https://github.com/emacsattic/ede-php-autoload-composer-installers
 [submodule "ede-php-autoload-drupal"]
 	path = mirror/ede-php-autoload-drupal
 	url = https://github.com/emacsmirror/ede-php-autoload-drupal
