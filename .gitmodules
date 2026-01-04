@@ -36,13 +36,13 @@
 	url = https://github.com/emacsmirror/emacswiki.org
 [submodule "_gnu-elpa"]
 	path = gnu-elpa
-	url = https://git.savannah.gnu.org/git/emacs/elpa
+	url = https://git.savannah.gnu.org/git/elpa/gnu
 [submodule "_melpa"]
 	path = melpa
 	url = https://github.com/melpa/melpa
 [submodule "_nongnu-elpa"]
 	path = nongnu-elpa
-	url = https://git.savannah.gnu.org/git/emacs/nongnu
+	url = https://git.savannah.gnu.org/git/elpa/nongnu
 [submodule "a"]
 	path = mirror/a
 	url = https://github.com/emacsmirror/a
