@@ -18736,6 +18736,9 @@
 [submodule "pass"]
 	path = mirror/pass
 	url = https://github.com/emacsmirror/pass
+[submodule "pass-coffin"]
+	path = mirror/pass-coffin
+	url = https://github.com/emacsmirror/pass-coffin
 [submodule "passmm"]
 	path = attic/passmm
 	url = https://github.com/emacsattic/passmm
