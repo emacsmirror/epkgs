@@ -5852,8 +5852,8 @@
 	path = attic/ede-php-autoload-composer-installers
 	url = https://github.com/emacsattic/ede-php-autoload-composer-installers
 [submodule "ede-php-autoload-drupal"]
-	path = mirror/ede-php-autoload-drupal
-	url = https://github.com/emacsmirror/ede-php-autoload-drupal
+	path = attic/ede-php-autoload-drupal
+	url = https://github.com/emacsattic/ede-php-autoload-drupal
 [submodule "edebug-inline-result"]
 	path = mirror/edebug-inline-result
 	url = https://github.com/emacsmirror/edebug-inline-result
