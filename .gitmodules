@@ -11132,8 +11132,8 @@
 	path = mirror/helm-rubygems-local
 	url = https://github.com/emacsmirror/helm-rubygems-local
 [submodule "helm-rubygems-org"]
-	path = mirror/helm-rubygems-org
-	url = https://github.com/emacsmirror/helm-rubygems-org
+	path = attic/helm-rubygems-org
+	url = https://github.com/emacsattic/helm-rubygems-org
 [submodule "helm-safari"]
 	path = mirror/helm-safari
 	url = https://github.com/emacsmirror/helm-safari
