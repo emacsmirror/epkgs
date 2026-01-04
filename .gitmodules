@@ -5144,8 +5144,8 @@
 	path = mirror/discover-my-major
 	url = https://github.com/emacsmirror/discover-my-major
 [submodule "disk"]
-	path = mirror/disk
-	url = https://github.com/emacsmirror/disk
+	path = attic/disk
+	url = https://github.com/emacsattic/disk
 [submodule "disk-usage"]
 	path = mirror/disk-usage
 	url = https://github.com/emacsmirror/disk-usage
