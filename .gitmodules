@@ -12101,8 +12101,8 @@
 	path = attic/imapua
 	url = https://github.com/emacsattic/imapua
 [submodule "imbot"]
-	path = mirror/imbot
-	url = https://github.com/emacsmirror/imbot
+	path = attic/imbot
+	url = https://github.com/emacsattic/imbot
 [submodule "imdb"]
 	path = mirror/imdb
 	url = https://github.com/emacsmirror/imdb
