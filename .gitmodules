@@ -9994,6 +9994,9 @@
 [submodule "go-tag"]
 	path = mirror/go-tag
 	url = https://github.com/emacsmirror/go-tag
+[submodule "go-template-helper-mode"]
+	path = mirror/go-template-helper-mode
+	url = https://github.com/emacsmirror/go-template-helper-mode
 [submodule "go-to-char"]
 	path = attic/go-to-char
 	url = https://github.com/emacsattic/go-to-char
