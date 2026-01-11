@@ -22189,6 +22189,9 @@
 [submodule "show-help"]
 	path = attic/show-help
 	url = https://github.com/emacsattic/show-help
+[submodule "show-inactive-region"]
+	path = mirror/show-inactive-region
+	url = https://github.com/emacsmirror/show-inactive-region
 [submodule "show-marks"]
 	path = mirror/show-marks
 	url = https://github.com/emacsmirror/show-marks
