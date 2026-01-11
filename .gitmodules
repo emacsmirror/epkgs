@@ -9610,6 +9610,9 @@
 [submodule "git-show"]
 	path = attic/git-show
 	url = https://github.com/emacsattic/git-show
+[submodule "git-sync-mode"]
+	path = mirror/git-sync-mode
+	url = https://github.com/emacsmirror/git-sync-mode
 [submodule "git-time-machine"]
 	path = attic/git-time-machine
 	url = https://github.com/emacsattic/git-time-machine
