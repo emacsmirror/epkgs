@@ -19204,6 +19204,9 @@
 [submodule "physical-line"]
 	path = attic/physical-line
 	url = https://github.com/emacsattic/physical-line
+[submodule "pi-coding-agent"]
+	path = mirror/pi-coding-agent
+	url = https://github.com/emacsmirror/pi-coding-agent
 [submodule "pianobar"]
 	path = mirror/pianobar
 	url = https://github.com/emacsmirror/pianobar
