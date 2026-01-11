@@ -7385,8 +7385,8 @@
 	path = mirror/evil-lispops
 	url = https://github.com/emacsmirror/evil-lispops
 [submodule "evil-lispy"]
-	path = mirror/evil-lispy
-	url = https://github.com/emacsmirror/evil-lispy
+	path = attic/evil-lispy
+	url = https://github.com/emacsattic/evil-lispy
 [submodule "evil-magit"]
 	path = attic/evil-magit
 	url = https://github.com/emacsattic/evil-magit
