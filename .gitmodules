@@ -18910,6 +18910,9 @@
 [submodule "pdf-view-restore"]
 	path = mirror/pdf-view-restore
 	url = https://github.com/emacsmirror/pdf-view-restore
+[submodule "pdffontetc"]
+	path = mirror/pdffontetc
+	url = https://github.com/emacsmirror/pdffontetc
 [submodule "pdfgrep"]
 	path = mirror/pdfgrep
 	url = https://github.com/emacsmirror/pdfgrep
