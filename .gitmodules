@@ -3733,6 +3733,9 @@
 [submodule "consult-vc-modified-files"]
 	path = mirror/consult-vc-modified-files
 	url = https://github.com/emacsmirror/consult-vc-modified-files
+[submodule "consult-vulpea"]
+	path = mirror/consult-vulpea
+	url = https://github.com/emacsmirror/consult-vulpea
 [submodule "consult-yasnippet"]
 	path = mirror/consult-yasnippet
 	url = https://github.com/emacsmirror/consult-yasnippet
