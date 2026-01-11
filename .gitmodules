@@ -18599,8 +18599,8 @@
 	path = mirror/pacmacs
 	url = https://github.com/emacsmirror/pacmacs
 [submodule "pact-mode"]
-	path = mirror/pact-mode
-	url = https://github.com/emacsmirror/pact-mode
+	path = attic/pact-mode
+	url = https://github.com/emacsattic/pact-mode
 [submodule "paganini-theme"]
 	path = mirror/paganini-theme
 	url = https://github.com/emacsmirror/paganini-theme
