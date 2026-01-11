@@ -25726,6 +25726,9 @@
 [submodule "vulpea"]
 	path = mirror/vulpea
 	url = https://github.com/emacsmirror/vulpea
+[submodule "vulpea-journal"]
+	path = mirror/vulpea-journal
+	url = https://github.com/emacsmirror/vulpea-journal
 [submodule "vulpea-ui"]
 	path = mirror/vulpea-ui
 	url = https://github.com/emacsmirror/vulpea-ui
