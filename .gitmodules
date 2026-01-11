@@ -8504,8 +8504,8 @@
 	path = mirror/flycheck-package
 	url = https://github.com/emacsmirror/flycheck-package
 [submodule "flycheck-pact"]
-	path = mirror/flycheck-pact
-	url = https://github.com/emacsmirror/flycheck-pact
+	path = attic/flycheck-pact
+	url = https://github.com/emacsattic/flycheck-pact
 [submodule "flycheck-php-noverify"]
 	path = mirror/flycheck-php-noverify
 	url = https://github.com/emacsmirror/flycheck-php-noverify
