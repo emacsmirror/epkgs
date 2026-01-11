@@ -15493,6 +15493,9 @@
 [submodule "mocha-snippets"]
 	path = mirror/mocha-snippets
 	url = https://github.com/emacsmirror/mocha-snippets
+[submodule "mock-fs"]
+	path = mirror/mock-fs
+	url = https://github.com/emacsmirror/mock-fs
 [submodule "mocker"]
 	path = mirror/mocker
 	url = https://github.com/emacsmirror/mocker
