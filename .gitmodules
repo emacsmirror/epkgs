@@ -12286,6 +12286,9 @@
 [submodule "info-lookmore"]
 	path = attic/info-lookmore
 	url = https://github.com/emacsattic/info-lookmore
+[submodule "info-nav"]
+	path = mirror/info-nav
+	url = https://github.com/emacsmirror/info-nav
 [submodule "info-rename-buffer"]
 	path = mirror/info-rename-buffer
 	url = https://github.com/emacsmirror/info-rename-buffer
