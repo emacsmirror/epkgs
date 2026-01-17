@@ -442,6 +442,9 @@
 [submodule "ajc-java-complete"]
 	path = mirror/ajc-java-complete
 	url = https://github.com/emacsmirror/ajc-java-complete
+[submodule "alabaster-themes"]
+	path = mirror/alabaster-themes
+	url = https://github.com/emacsmirror/alabaster-themes
 [submodule "alan-mode"]
 	path = mirror/alan-mode
 	url = https://github.com/emacsmirror/alan-mode
