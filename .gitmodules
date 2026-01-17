@@ -24352,6 +24352,9 @@
 [submodule "timu-spacegrey-theme"]
 	path = mirror/timu-spacegrey-theme
 	url = https://github.com/emacsmirror/timu-spacegrey-theme
+[submodule "timu-symbol-extract"]
+	path = mirror/timu-symbol-extract
+	url = https://github.com/emacsmirror/timu-symbol-extract
 [submodule "tinkerer"]
 	path = mirror/tinkerer
 	url = https://github.com/emacsmirror/tinkerer
