@@ -20206,6 +20206,9 @@
 [submodule "py-yapf"]
 	path = mirror/py-yapf
 	url = https://github.com/emacsmirror/py-yapf
+[submodule "pyasm-mode"]
+	path = mirror/pyasm-mode
+	url = https://github.com/emacsmirror/pyasm-mode
 [submodule "pycarddavel"]
 	path = mirror/pycarddavel
 	url = https://github.com/emacsmirror/pycarddavel
