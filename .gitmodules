@@ -13948,6 +13948,9 @@
 [submodule "license-templates"]
 	path = mirror/license-templates
 	url = https://github.com/emacsmirror/license-templates
+[submodule "lichess"]
+	path = mirror/lichess
+	url = https://github.com/emacsmirror/lichess
 [submodule "life-calendar"]
 	path = mirror/life-calendar
 	url = https://github.com/emacsmirror/life-calendar
