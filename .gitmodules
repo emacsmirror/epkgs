@@ -10426,6 +10426,9 @@
 [submodule "guake"]
 	path = mirror/guake
 	url = https://github.com/emacsmirror/guake
+[submodule "guava-themes"]
+	path = mirror/guava-themes
+	url = https://github.com/emacsmirror/guava-themes
 [submodule "guess-lang"]
 	path = attic/guess-lang
 	url = https://github.com/emacsattic/guess-lang
