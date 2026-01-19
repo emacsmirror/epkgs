@@ -25279,6 +25279,9 @@
 [submodule "use-package-hydra"]
 	path = mirror/use-package-hydra
 	url = https://github.com/emacsmirror/use-package-hydra
+[submodule "use-package-treesit"]
+	path = mirror/use-package-treesit
+	url = https://github.com/emacsmirror/use-package-treesit
 [submodule "use-proxy"]
 	path = mirror/use-proxy
 	url = https://github.com/emacsmirror/use-proxy
