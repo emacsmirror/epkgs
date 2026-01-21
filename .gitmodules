@@ -13924,6 +13924,9 @@
 [submodule "libgit"]
 	path = mirror/libgit
 	url = https://github.com/emacsmirror/libgit
+[submodule "libinput"]
+	path = mirror/libinput
+	url = https://github.com/emacsmirror/libinput
 [submodule "liblouis"]
 	path = mirror/liblouis
 	url = https://github.com/emacsmirror/liblouis
