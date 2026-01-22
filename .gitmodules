@@ -18161,8 +18161,8 @@
 	path = attic/org-website
 	url = https://github.com/emacsattic/org-website
 [submodule "org-wild-notifier"]
-	path = attic/org-wild-notifier
-	url = https://github.com/emacsattic/org-wild-notifier
+	path = mirror/org-wild-notifier
+	url = https://github.com/emacsmirror/org-wild-notifier
 [submodule "org-workbench"]
 	path = mirror/org-workbench
 	url = https://github.com/emacsmirror/org-workbench
