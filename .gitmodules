@@ -26510,8 +26510,8 @@
 	path = attic/xah-find
 	url = https://github.com/emacsattic/xah-find
 [submodule "xah-fly-keys"]
-	path = attic/xah-fly-keys
-	url = https://github.com/emacsattic/xah-fly-keys
+	path = mirror/xah-fly-keys
+	url = https://github.com/emacsmirror/xah-fly-keys
 [submodule "xah-get-thing"]
 	path = attic/xah-get-thing
 	url = https://github.com/emacsattic/xah-get-thing
