@@ -24031,6 +24031,9 @@
 [submodule "ten-hundred-mode"]
 	path = mirror/ten-hundred-mode
 	url = https://github.com/emacsmirror/ten-hundred-mode
+[submodule "tengo-mode"]
+	path = mirror/tengo-mode
+	url = https://github.com/emacsmirror/tengo-mode
 [submodule "tenv"]
 	path = mirror/tenv
 	url = https://github.com/emacsmirror/tenv
