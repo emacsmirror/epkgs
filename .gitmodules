@@ -25060,6 +25060,9 @@
 [submodule "ultex"]
 	path = mirror/ultex
 	url = https://github.com/emacsmirror/ultex
+[submodule "ultisnips-mode"]
+	path = mirror/ultisnips-mode
+	url = https://github.com/emacsmirror/ultisnips-mode
 [submodule "ultra-scroll"]
 	path = mirror/ultra-scroll
 	url = https://github.com/emacsmirror/ultra-scroll
