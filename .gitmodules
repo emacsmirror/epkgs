@@ -337,6 +337,9 @@
 [submodule "adv-random-sig"]
 	path = attic/adv-random-sig
 	url = https://github.com/emacsattic/adv-random-sig
+[submodule "advent-mode"]
+	path = mirror/advent-mode
+	url = https://github.com/emacsmirror/advent-mode
 [submodule "advice-patch"]
 	path = mirror/advice-patch
 	url = https://github.com/emacsmirror/advice-patch
