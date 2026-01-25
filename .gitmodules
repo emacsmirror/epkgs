@@ -22327,6 +22327,9 @@
 [submodule "signature"]
 	path = attic/signature
 	url = https://github.com/emacsattic/signature
+[submodule "signel"]
+	path = mirror/signel
+	url = https://github.com/emacsmirror/signel
 [submodule "silkworm-theme"]
 	path = mirror/silkworm-theme
 	url = https://github.com/emacsmirror/silkworm-theme
