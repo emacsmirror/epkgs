@@ -4696,6 +4696,9 @@
 [submodule "denote-regexp"]
 	path = mirror/denote-regexp
 	url = https://github.com/emacsmirror/denote-regexp
+[submodule "denote-review"]
+	path = mirror/denote-review
+	url = https://github.com/emacsmirror/denote-review
 [submodule "denote-search"]
 	path = mirror/denote-search
 	url = https://github.com/emacsmirror/denote-search
