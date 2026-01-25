@@ -15895,6 +15895,9 @@
 [submodule "mu4e-jump-to-list"]
 	path = mirror/mu4e-jump-to-list
 	url = https://github.com/emacsmirror/mu4e-jump-to-list
+[submodule "mu4e-llm"]
+	path = mirror/mu4e-llm
+	url = https://github.com/emacsmirror/mu4e-llm
 [submodule "mu4e-maildirs-extension"]
 	path = attic/mu4e-maildirs-extension
 	url = https://github.com/emacsattic/mu4e-maildirs-extension
