@@ -26440,6 +26440,9 @@
 [submodule "writeroom-mode"]
 	path = mirror/writeroom-mode
 	url = https://github.com/emacsmirror/writeroom-mode
+[submodule "ws-butler"]
+	path = mirror/ws-butler
+	url = https://github.com/emacsmirror/ws-butler
 [submodule "ws-trim"]
 	path = attic/ws-trim
 	url = https://github.com/emacsattic/ws-trim
