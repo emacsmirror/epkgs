@@ -14662,6 +14662,9 @@
 [submodule "magit-gh-pulls"]
 	path = attic/magit-gh-pulls
 	url = https://github.com/emacsattic/magit-gh-pulls
+[submodule "magit-git-toolbelt"]
+	path = mirror/magit-git-toolbelt
+	url = https://github.com/emacsmirror/magit-git-toolbelt
 [submodule "magit-gitflow"]
 	path = mirror/magit-gitflow
 	url = https://github.com/emacsmirror/magit-gitflow
