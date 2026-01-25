@@ -18511,6 +18511,9 @@
 [submodule "ox-reveal"]
 	path = mirror/ox-reveal
 	url = https://github.com/emacsmirror/ox-reveal
+[submodule "ox-reveal-layouts"]
+	path = mirror/ox-reveal-layouts
+	url = https://github.com/emacsmirror/ox-reveal-layouts
 [submodule "ox-review"]
 	path = mirror/ox-review
 	url = https://github.com/emacsmirror/ox-review
