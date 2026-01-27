@@ -4756,6 +4756,9 @@
 [submodule "detour"]
 	path = mirror/detour
 	url = https://github.com/emacsmirror/detour
+[submodule "devcontainer"]
+	path = mirror/devcontainer
+	url = https://github.com/emacsmirror/devcontainer
 [submodule "devdocs"]
 	path = mirror/devdocs
 	url = https://github.com/emacsmirror/devdocs
