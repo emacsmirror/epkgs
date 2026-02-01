@@ -5521,6 +5521,9 @@
 [submodule "duck"]
 	path = attic/duck
 	url = https://github.com/emacsattic/duck
+[submodule "duckdb-query"]
+	path = mirror/duckdb-query
+	url = https://github.com/emacsmirror/duckdb-query
 [submodule "ducpel"]
 	path = mirror/ducpel
 	url = https://github.com/emacsmirror/ducpel
