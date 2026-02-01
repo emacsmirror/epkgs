@@ -6187,6 +6187,9 @@
 [submodule "eldav"]
 	path = attic/eldav
 	url = https://github.com/emacsattic/eldav
+[submodule "eldc"]
+	path = mirror/eldc
+	url = https://github.com/emacsmirror/eldc
 [submodule "elder"]
 	path = attic/elder
 	url = https://github.com/emacsattic/elder
