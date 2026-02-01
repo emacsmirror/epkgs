@@ -14716,6 +14716,9 @@
 [submodule "magit-popup"]
 	path = mirror/magit-popup
 	url = https://github.com/emacsmirror/magit-popup
+[submodule "magit-pre-commit"]
+	path = mirror/magit-pre-commit
+	url = https://github.com/emacsmirror/magit-pre-commit
 [submodule "magit-prime"]
 	path = mirror/magit-prime
 	url = https://github.com/emacsmirror/magit-prime
