@@ -13768,6 +13768,9 @@
 [submodule "lazarus"]
 	path = mirror/lazarus
 	url = https://github.com/emacsmirror/lazarus
+[submodule "lazy"]
+	path = mirror/lazy
+	url = https://github.com/emacsmirror/lazy
 [submodule "lazy-desktop"]
 	path = attic/lazy-desktop
 	url = https://github.com/emacsattic/lazy-desktop
