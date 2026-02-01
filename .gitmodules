@@ -18196,6 +18196,9 @@
 [submodule "org-wild-notifier"]
 	path = mirror/org-wild-notifier
 	url = https://github.com/emacsmirror/org-wild-notifier
+[submodule "org-window-habit"]
+	path = mirror/org-window-habit
+	url = https://github.com/emacsmirror/org-window-habit
 [submodule "org-workbench"]
 	path = mirror/org-workbench
 	url = https://github.com/emacsmirror/org-workbench
