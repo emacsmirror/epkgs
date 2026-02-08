@@ -14698,6 +14698,9 @@
 [submodule "magit-gerrit"]
 	path = mirror/magit-gerrit
 	url = https://github.com/emacsmirror/magit-gerrit
+[submodule "magit-gh"]
+	path = mirror/magit-gh
+	url = https://github.com/emacsmirror/magit-gh
 [submodule "magit-gh-pulls"]
 	path = attic/magit-gh-pulls
 	url = https://github.com/emacsattic/magit-gh-pulls
