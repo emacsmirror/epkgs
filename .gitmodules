@@ -4819,6 +4819,9 @@
 [submodule "dialog"]
 	path = mirror/dialog
 	url = https://github.com/emacsmirror/dialog
+[submodule "dialog-mode"]
+	path = mirror/dialog-mode
+	url = https://github.com/emacsmirror/dialog-mode
 [submodule "diamondsms"]
 	path = attic/diamondsms
 	url = https://github.com/emacsattic/diamondsms
