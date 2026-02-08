@@ -10603,6 +10603,9 @@
 [submodule "handoff"]
 	path = mirror/handoff
 	url = https://github.com/emacsmirror/handoff
+[submodule "hanfix-mode"]
+	path = mirror/hanfix-mode
+	url = https://github.com/emacsmirror/hanfix-mode
 [submodule "haproxy-mode"]
 	path = mirror/haproxy-mode
 	url = https://github.com/emacsmirror/haproxy-mode
