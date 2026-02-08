@@ -5356,6 +5356,9 @@
 [submodule "doi"]
 	path = attic/doi
 	url = https://github.com/emacsattic/doi
+[submodule "doing"]
+	path = mirror/doing
+	url = https://github.com/emacsmirror/doing
 [submodule "doit-mode"]
 	path = attic/doit-mode
 	url = https://github.com/emacsattic/doit-mode
