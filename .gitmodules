@@ -1252,6 +1252,9 @@
 [submodule "auto-sort-mode"]
 	path = mirror/auto-sort-mode
 	url = https://github.com/emacsmirror/auto-sort-mode
+[submodule "auto-space-mode"]
+	path = mirror/auto-space-mode
+	url = https://github.com/emacsmirror/auto-space-mode
 [submodule "auto-sudoedit"]
 	path = mirror/auto-sudoedit
 	url = https://github.com/emacsmirror/auto-sudoedit
