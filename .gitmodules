@@ -5965,6 +5965,9 @@
 [submodule "edn"]
 	path = mirror/edn
 	url = https://github.com/emacsmirror/edn
+[submodule "edna-theme"]
+	path = mirror/edna-theme
+	url = https://github.com/emacsmirror/edna-theme
 [submodule "ednc"]
 	path = mirror/ednc
 	url = https://github.com/emacsmirror/ednc
