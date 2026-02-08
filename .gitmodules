@@ -25954,6 +25954,9 @@
 [submodule "wanderlust"]
 	path = mirror/wanderlust
 	url = https://github.com/emacsmirror/wanderlust
+[submodule "warm-mode"]
+	path = mirror/warm-mode
+	url = https://github.com/emacsmirror/warm-mode
 [submodule "warm-night-theme"]
 	path = mirror/warm-night-theme
 	url = https://github.com/emacsmirror/warm-night-theme
