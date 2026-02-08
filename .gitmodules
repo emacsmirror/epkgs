@@ -19981,6 +19981,9 @@
 [submodule "project-persist-drawer"]
 	path = mirror/project-persist-drawer
 	url = https://github.com/emacsmirror/project-persist-drawer
+[submodule "project-rails"]
+	path = mirror/project-rails
+	url = https://github.com/emacsmirror/project-rails
 [submodule "project-root"]
 	path = attic/project-root
 	url = https://github.com/emacsattic/project-root
