@@ -4549,6 +4549,9 @@
 [submodule "ddate"]
 	path = mirror/ddate
 	url = https://github.com/emacsmirror/ddate
+[submodule "ddgr"]
+	path = mirror/ddgr
+	url = https://github.com/emacsmirror/ddgr
 [submodule "ddl-mode"]
 	path = attic/ddl-mode
 	url = https://github.com/emacsattic/ddl-mode
