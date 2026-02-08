@@ -19255,6 +19255,9 @@
 [submodule "phrase"]
 	path = attic/phrase
 	url = https://github.com/emacsattic/phrase
+[submodule "phscroll"]
+	path = mirror/phscroll
+	url = https://github.com/emacsmirror/phscroll
 [submodule "phutball"]
 	path = attic/phutball
 	url = https://github.com/emacsattic/phutball
