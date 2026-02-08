@@ -6502,6 +6502,9 @@
 [submodule "elserv"]
 	path = attic/elserv
 	url = https://github.com/emacsattic/elserv
+[submodule "elsqlite"]
+	path = mirror/elsqlite
+	url = https://github.com/emacsmirror/elsqlite
 [submodule "eltex"]
 	path = mirror/eltex
 	url = https://github.com/emacsmirror/eltex
