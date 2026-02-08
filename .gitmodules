@@ -23755,6 +23755,9 @@
 [submodule "syslog-mode"]
 	path = mirror/syslog-mode
 	url = https://github.com/emacsmirror/syslog-mode
+[submodule "system-idle"]
+	path = mirror/system-idle
+	url = https://github.com/emacsmirror/system-idle
 [submodule "system-packages"]
 	path = mirror/system-packages
 	url = https://github.com/emacsmirror/system-packages
