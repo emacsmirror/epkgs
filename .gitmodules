@@ -3733,6 +3733,9 @@
 [submodule "consult-recoll"]
 	path = mirror/consult-recoll
 	url = https://github.com/emacsmirror/consult-recoll
+[submodule "consult-spotlight"]
+	path = mirror/consult-spotlight
+	url = https://github.com/emacsmirror/consult-spotlight
 [submodule "consult-tex"]
 	path = mirror/consult-tex
 	url = https://github.com/emacsmirror/consult-tex
