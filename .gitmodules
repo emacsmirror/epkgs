@@ -24902,8 +24902,8 @@
 	path = mirror/tt-mode
 	url = https://github.com/emacsmirror/tt-mode
 [submodule "ttl-mode"]
-	path = mirror/ttl-mode
-	url = https://github.com/emacsmirror/ttl-mode
+	path = attic/ttl-mode
+	url = https://github.com/emacsattic/ttl-mode
 [submodule "ttrss"]
 	path = attic/ttrss
 	url = https://github.com/emacsattic/ttrss
