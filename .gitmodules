@@ -20039,8 +20039,8 @@
 	path = mirror/projekt
 	url = https://github.com/emacsmirror/projekt
 [submodule "projmake-mode"]
-	path = mirror/projmake-mode
-	url = https://github.com/emacsmirror/projmake-mode
+	path = attic/projmake-mode
+	url = https://github.com/emacsattic/projmake-mode
 [submodule "projman"]
 	path = attic/projman
 	url = https://github.com/emacsattic/projman
