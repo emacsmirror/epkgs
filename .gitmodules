@@ -5369,8 +5369,8 @@
 	path = mirror/dokuwiki-mode
 	url = https://github.com/emacsmirror/dokuwiki-mode
 [submodule "dollaro"]
-	path = mirror/dollaro
-	url = https://github.com/emacsmirror/dollaro
+	path = attic/dollaro
+	url = https://github.com/emacsattic/dollaro
 [submodule "dom5"]
 	path = attic/dom5
 	url = https://github.com/emacsattic/dom5
