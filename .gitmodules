@@ -9241,6 +9241,9 @@
 [submodule "futhark-mode"]
 	path = mirror/futhark-mode
 	url = https://github.com/emacsmirror/futhark-mode
+[submodule "futur"]
+	path = mirror/futur
+	url = https://github.com/emacsmirror/futur
 [submodule "fuz"]
 	path = mirror/fuz
 	url = https://github.com/emacsmirror/fuz
