@@ -16315,6 +16315,9 @@
 [submodule "nemerle"]
 	path = mirror/nemerle
 	url = https://github.com/emacsmirror/nemerle
+[submodule "neocaml"]
+	path = mirror/neocaml
+	url = https://github.com/emacsmirror/neocaml
 [submodule "neon-mode"]
 	path = mirror/neon-mode
 	url = https://github.com/emacsmirror/neon-mode
