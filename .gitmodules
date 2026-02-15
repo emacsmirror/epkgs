@@ -24094,6 +24094,9 @@
 [submodule "template-dumper"]
 	path = mirror/template-dumper
 	url = https://github.com/emacsmirror/template-dumper
+[submodule "template-literals-ts-mode"]
+	path = mirror/template-literals-ts-mode
+	url = https://github.com/emacsmirror/template-literals-ts-mode
 [submodule "template-overlays"]
 	path = mirror/template-overlays
 	url = https://github.com/emacsmirror/template-overlays
