@@ -17125,6 +17125,9 @@
 [submodule "oblivion-theme"]
 	path = mirror/oblivion-theme
 	url = https://github.com/emacsmirror/oblivion-theme
+[submodule "oboe"]
+	path = mirror/oboe
+	url = https://github.com/emacsmirror/oboe
 [submodule "obsidian"]
 	path = mirror/obsidian
 	url = https://github.com/emacsmirror/obsidian
