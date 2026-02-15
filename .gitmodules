@@ -18931,6 +18931,9 @@
 [submodule "path-iterator"]
 	path = mirror/path-iterator
 	url = https://github.com/emacsmirror/path-iterator
+[submodule "pathaction"]
+	path = mirror/pathaction
+	url = https://github.com/emacsmirror/pathaction
 [submodule "pathify"]
 	path = mirror/pathify
 	url = https://github.com/emacsmirror/pathify
