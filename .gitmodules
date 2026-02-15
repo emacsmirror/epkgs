@@ -5929,6 +5929,9 @@
 [submodule "edit-list"]
 	path = attic/edit-list
 	url = https://github.com/emacsattic/edit-list
+[submodule "edit-metadata"]
+	path = mirror/edit-metadata
+	url = https://github.com/emacsmirror/edit-metadata
 [submodule "edit-server"]
 	path = mirror/edit-server
 	url = https://github.com/emacsmirror/edit-server
