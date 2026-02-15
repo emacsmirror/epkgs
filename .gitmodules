@@ -25831,6 +25831,9 @@
 [submodule "vsh-mode"]
 	path = mirror/vsh-mode
 	url = https://github.com/emacsmirror/vsh-mode
+[submodule "vtab"]
+	path = mirror/vtab
+	url = https://github.com/emacsmirror/vtab
 [submodule "vtags"]
 	path = attic/vtags
 	url = https://github.com/emacsattic/vtags
