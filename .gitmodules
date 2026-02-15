@@ -14386,6 +14386,9 @@
 [submodule "lolcode-mode"]
 	path = mirror/lolcode-mode
 	url = https://github.com/emacsmirror/lolcode-mode
+[submodule "lonelog"]
+	path = mirror/lonelog
+	url = https://github.com/emacsmirror/lonelog
 [submodule "longlines-jp"]
 	path = attic/longlines-jp
 	url = https://github.com/emacsattic/longlines-jp
