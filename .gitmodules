@@ -7798,6 +7798,9 @@
 [submodule "fancy-dabbrev"]
 	path = mirror/fancy-dabbrev
 	url = https://github.com/emacsmirror/fancy-dabbrev
+[submodule "fancy-fill-paragraph"]
+	path = mirror/fancy-fill-paragraph
+	url = https://github.com/emacsmirror/fancy-fill-paragraph
 [submodule "fancy-narrow"]
 	path = mirror/fancy-narrow
 	url = https://github.com/emacsmirror/fancy-narrow
