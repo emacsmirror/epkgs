@@ -10894,6 +10894,9 @@
 [submodule "helm-emms"]
 	path = mirror/helm-emms
 	url = https://github.com/emacsmirror/helm-emms
+[submodule "helm-emoji"]
+	path = mirror/helm-emoji
+	url = https://github.com/emacsmirror/helm-emoji
 [submodule "helm-esa"]
 	path = mirror/helm-esa
 	url = https://github.com/emacsmirror/helm-esa
