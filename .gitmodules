@@ -21670,6 +21670,9 @@
 [submodule "sage-shell-mode"]
 	path = mirror/sage-shell-mode
 	url = https://github.com/emacsmirror/sage-shell-mode
+[submodule "sail"]
+	path = mirror/sail
+	url = https://github.com/emacsmirror/sail
 [submodule "sailfish-scratchbox"]
 	path = mirror/sailfish-scratchbox
 	url = https://github.com/emacsmirror/sailfish-scratchbox
