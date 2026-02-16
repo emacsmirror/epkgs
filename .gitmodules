@@ -8224,6 +8224,9 @@
 [submodule "flarc"]
 	path = attic/flarc
 	url = https://github.com/emacsattic/flarc
+[submodule "flash"]
+	path = mirror/flash
+	url = https://github.com/emacsmirror/flash
 [submodule "flash-paren"]
 	path = attic/flash-paren
 	url = https://github.com/emacsattic/flash-paren
