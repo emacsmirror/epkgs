@@ -23050,6 +23050,9 @@
 [submodule "spatial-navigate"]
 	path = mirror/spatial-navigate
 	url = https://github.com/emacsmirror/spatial-navigate
+[submodule "spatial-window"]
+	path = mirror/spatial-window
+	url = https://github.com/emacsmirror/spatial-window
 [submodule "spdx"]
 	path = mirror/spdx
 	url = https://github.com/emacsmirror/spdx
