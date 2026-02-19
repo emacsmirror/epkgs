@@ -12875,8 +12875,8 @@
 	path = attic/java-open
 	url = https://github.com/emacsattic/java-open
 [submodule "java-snippets"]
-	path = mirror/java-snippets
-	url = https://github.com/emacsmirror/java-snippets
+	path = attic/java-snippets
+	url = https://github.com/emacsattic/java-snippets
 [submodule "javacc-mode"]
 	path = attic/javacc-mode
 	url = https://github.com/emacsattic/javacc-mode
