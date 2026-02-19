@@ -7369,6 +7369,9 @@
 [submodule "evil-elscreen"]
 	path = mirror/evil-elscreen
 	url = https://github.com/emacsmirror/evil-elscreen
+[submodule "evil-emacs-cursor-model-mode"]
+	path = mirror/evil-emacs-cursor-model-mode
+	url = https://github.com/emacsmirror/evil-emacs-cursor-model-mode
 [submodule "evil-embrace"]
 	path = mirror/evil-embrace
 	url = https://github.com/emacsmirror/evil-embrace
