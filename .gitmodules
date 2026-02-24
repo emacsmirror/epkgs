@@ -24934,6 +24934,9 @@
 [submodule "trr"]
 	path = mirror/trr
 	url = https://github.com/emacsmirror/trr
+[submodule "truename-cache"]
+	path = mirror/truename-cache
+	url = https://github.com/emacsmirror/truename-cache
 [submodule "truthy"]
 	path = mirror/truthy
 	url = https://github.com/emacsmirror/truthy
