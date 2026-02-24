@@ -8900,8 +8900,8 @@
 	path = mirror/flymake-vnu
 	url = https://github.com/emacsmirror/flymake-vnu
 [submodule "flymake-x"]
-	path = mirror/flymake-x
-	url = https://github.com/emacsmirror/flymake-x
+	path = attic/flymake-x
+	url = https://github.com/emacsattic/flymake-x
 [submodule "flymake-yaml"]
 	path = mirror/flymake-yaml
 	url = https://github.com/emacsmirror/flymake-yaml
