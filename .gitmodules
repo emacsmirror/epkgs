@@ -16990,6 +16990,9 @@
 [submodule "ob-git-permalink"]
 	path = mirror/ob-git-permalink
 	url = https://github.com/emacsmirror/ob-git-permalink
+[submodule "ob-gleam"]
+	path = mirror/ob-gleam
+	url = https://github.com/emacsmirror/ob-gleam
 [submodule "ob-go"]
 	path = mirror/ob-go
 	url = https://github.com/emacsmirror/ob-go
