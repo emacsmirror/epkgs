@@ -400,6 +400,9 @@
 [submodule "agitate"]
 	path = mirror/agitate
 	url = https://github.com/emacsmirror/agitate
+[submodule "agitjo"]
+	path = mirror/agitjo
+	url = https://github.com/emacsmirror/agitjo
 [submodule "agtags"]
 	path = mirror/agtags
 	url = https://github.com/emacsmirror/agtags
