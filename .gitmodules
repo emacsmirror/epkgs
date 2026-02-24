@@ -7090,6 +7090,9 @@
 [submodule "escreen"]
 	path = attic/escreen
 	url = https://github.com/emacsattic/escreen
+[submodule "eselect-news"]
+	path = mirror/eselect-news
+	url = https://github.com/emacsmirror/eselect-news
 [submodule "esense"]
 	path = attic/esense
 	url = https://github.com/emacsattic/esense
