@@ -6310,6 +6310,9 @@
 [submodule "elfeed-score"]
 	path = mirror/elfeed-score
 	url = https://github.com/emacsmirror/elfeed-score
+[submodule "elfeed-summarize"]
+	path = mirror/elfeed-summarize
+	url = https://github.com/emacsmirror/elfeed-summarize
 [submodule "elfeed-summary"]
 	path = mirror/elfeed-summary
 	url = https://github.com/emacsmirror/elfeed-summary
