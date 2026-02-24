@@ -3133,9 +3133,6 @@
 [submodule "code-archive"]
 	path = mirror/code-archive
 	url = https://github.com/emacsmirror/code-archive
-[submodule "code-awareness"]
-	path = mirror/code-awareness
-	url = https://github.com/emacsmirror/code-awareness
 [submodule "code-cells"]
 	path = mirror/code-cells
 	url = https://github.com/emacsmirror/code-cells
@@ -13372,6 +13369,9 @@
 [submodule "karma"]
 	path = mirror/karma
 	url = https://github.com/emacsmirror/karma
+[submodule "kawacode"]
+	path = mirror/kawacode
+	url = https://github.com/emacsmirror/kawacode
 [submodule "kbd-fns"]
 	path = attic/kbd-fns
 	url = https://github.com/emacsattic/kbd-fns
