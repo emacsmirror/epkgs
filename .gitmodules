@@ -18293,8 +18293,8 @@
 	path = attic/org-yaml
 	url = https://github.com/emacsattic/org-yaml
 [submodule "org-zettel-ref-mode"]
-	path = mirror/org-zettel-ref-mode
-	url = https://github.com/emacsmirror/org-zettel-ref-mode
+	path = attic/org-zettel-ref-mode
+	url = https://github.com/emacsattic/org-zettel-ref-mode
 [submodule "org-zettelkasten"]
 	path = mirror/org-zettelkasten
 	url = https://github.com/emacsmirror/org-zettelkasten
