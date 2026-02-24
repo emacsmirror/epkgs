@@ -18184,6 +18184,9 @@
 [submodule "org-taskforecast"]
 	path = attic/org-taskforecast
 	url = https://github.com/emacsattic/org-taskforecast
+[submodule "org-tempus"]
+	path = mirror/org-tempus
+	url = https://github.com/emacsmirror/org-tempus
 [submodule "org-tfl"]
 	path = mirror/org-tfl
 	url = https://github.com/emacsmirror/org-tfl
