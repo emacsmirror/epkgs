@@ -15004,6 +15004,9 @@
 [submodule "mark-forward-sexp"]
 	path = mirror/mark-forward-sexp
 	url = https://github.com/emacsmirror/mark-forward-sexp
+[submodule "mark-graf"]
+	path = mirror/mark-graf
+	url = https://github.com/emacsmirror/mark-graf
 [submodule "mark-lines"]
 	path = attic/mark-lines
 	url = https://github.com/emacsattic/mark-lines
