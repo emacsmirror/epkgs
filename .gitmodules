@@ -14158,6 +14158,9 @@
 [submodule "lisp-re"]
 	path = attic/lisp-re
 	url = https://github.com/emacsattic/lisp-re
+[submodule "lisp-semantic-hl"]
+	path = mirror/lisp-semantic-hl
+	url = https://github.com/emacsmirror/lisp-semantic-hl
 [submodule "lisp-skels"]
 	path = attic/lisp-skels
 	url = https://github.com/emacsattic/lisp-skels
