@@ -26401,6 +26401,9 @@
 [submodule "winpoint"]
 	path = mirror/winpoint
 	url = https://github.com/emacsmirror/winpoint
+[submodule "winpulse"]
+	path = mirror/winpulse
+	url = https://github.com/emacsmirror/winpulse
 [submodule "winring"]
 	path = mirror/winring
 	url = https://github.com/emacsmirror/winring
