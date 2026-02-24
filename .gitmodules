@@ -14830,6 +14830,9 @@
 [submodule "magnatune"]
 	path = mirror/magnatune
 	url = https://github.com/emacsmirror/magnatune
+[submodule "magnus"]
+	path = mirror/magnus
+	url = https://github.com/emacsmirror/magnus
 [submodule "magpie"]
 	path = attic/magpie
 	url = https://github.com/emacsattic/magpie
