@@ -6298,6 +6298,9 @@
 [submodule "elfeed"]
 	path = mirror/elfeed
 	url = https://github.com/emacsmirror/elfeed
+[submodule "elfeed-ai"]
+	path = mirror/elfeed-ai
+	url = https://github.com/emacsmirror/elfeed-ai
 [submodule "elfeed-autotag"]
 	path = mirror/elfeed-autotag
 	url = https://github.com/emacsmirror/elfeed-autotag
