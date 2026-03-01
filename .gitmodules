@@ -6556,6 +6556,9 @@
 [submodule "emacs-init-check"]
 	path = attic/emacs-init-check
 	url = https://github.com/emacsattic/emacs-init-check
+[submodule "emacs-lisp-intro-es"]
+	path = mirror/emacs-lisp-intro-es
+	url = https://github.com/emacsmirror/emacs-lisp-intro-es
 [submodule "emacs-lisp-intro-nl"]
 	path = mirror/emacs-lisp-intro-nl
 	url = https://github.com/emacsmirror/emacs-lisp-intro-nl
