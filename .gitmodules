@@ -14239,6 +14239,9 @@
 [submodule "lit-mode"]
 	path = mirror/lit-mode
 	url = https://github.com/emacsmirror/lit-mode
+[submodule "lit-ts-mode"]
+	path = mirror/lit-ts-mode
+	url = https://github.com/emacsmirror/lit-ts-mode
 [submodule "litable"]
 	path = mirror/litable
 	url = https://github.com/emacsmirror/litable
