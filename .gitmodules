@@ -2866,6 +2866,9 @@
 [submodule "citar-org-roam"]
 	path = mirror/citar-org-roam
 	url = https://github.com/emacsmirror/citar-org-roam
+[submodule "citar-typst"]
+	path = mirror/citar-typst
+	url = https://github.com/emacsmirror/citar-typst
 [submodule "cite"]
 	path = attic/cite
 	url = https://github.com/emacsattic/cite
