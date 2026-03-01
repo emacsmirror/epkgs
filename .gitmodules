@@ -3634,6 +3634,9 @@
 [submodule "config-parser"]
 	path = mirror/config-parser
 	url = https://github.com/emacsmirror/config-parser
+[submodule "conflict-buttons"]
+	path = mirror/conflict-buttons
+	url = https://github.com/emacsmirror/conflict-buttons
 [submodule "confluence"]
 	path = attic/confluence
 	url = https://github.com/emacsattic/confluence
