@@ -17968,6 +17968,9 @@
 [submodule "org-pdfview"]
 	path = attic/org-pdfview
 	url = https://github.com/emacsattic/org-pdfview
+[submodule "org-people"]
+	path = mirror/org-people
+	url = https://github.com/emacsmirror/org-people
 [submodule "org-picklink"]
 	path = mirror/org-picklink
 	url = https://github.com/emacsmirror/org-picklink
