@@ -14164,6 +14164,9 @@
 [submodule "lisp-butt-mode"]
 	path = mirror/lisp-butt-mode
 	url = https://github.com/emacsmirror/lisp-butt-mode
+[submodule "lisp-chat"]
+	path = mirror/lisp-chat
+	url = https://github.com/emacsmirror/lisp-chat
 [submodule "lisp-docstring-toggle"]
 	path = mirror/lisp-docstring-toggle
 	url = https://github.com/emacsmirror/lisp-docstring-toggle
