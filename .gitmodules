@@ -24944,8 +24944,8 @@
 	path = mirror/trie
 	url = https://github.com/emacsmirror/trie
 [submodule "trimspace-mode"]
-	path = mirror/trimspace-mode
-	url = https://github.com/emacsmirror/trimspace-mode
+	path = attic/trimspace-mode
+	url = https://github.com/emacsattic/trimspace-mode
 [submodule "trinary"]
 	path = mirror/trinary
 	url = https://github.com/emacsmirror/trinary
