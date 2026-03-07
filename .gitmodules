@@ -19327,6 +19327,9 @@
 [submodule "php-eldoc"]
 	path = mirror/php-eldoc
 	url = https://github.com/emacsmirror/php-eldoc
+[submodule "php-fill"]
+	path = mirror/php-fill
+	url = https://github.com/emacsmirror/php-fill
 [submodule "php-mode"]
 	path = mirror/php-mode
 	url = https://github.com/emacsmirror/php-mode
