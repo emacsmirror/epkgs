@@ -16195,6 +16195,9 @@
 [submodule "muttrc-mode"]
 	path = attic/muttrc-mode
 	url = https://github.com/emacsattic/muttrc-mode
+[submodule "mutype"]
+	path = mirror/mutype
+	url = https://github.com/emacsmirror/mutype
 [submodule "mv-shell"]
 	path = mirror/mv-shell
 	url = https://github.com/emacsmirror/mv-shell
