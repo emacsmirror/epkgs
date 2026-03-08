@@ -21592,6 +21592,9 @@
 [submodule "rtf-mode"]
 	path = attic/rtf-mode
 	url = https://github.com/emacsattic/rtf-mode
+[submodule "rtf-view"]
+	path = mirror/rtf-view
+	url = https://github.com/emacsmirror/rtf-view
 [submodule "rtm"]
 	path = mirror/rtm
 	url = https://github.com/emacsmirror/rtm
