@@ -15235,6 +15235,9 @@
 [submodule "md-readme"]
 	path = mirror/md-readme
 	url = https://github.com/emacsmirror/md-readme
+[submodule "md-ts-mode"]
+	path = mirror/md-ts-mode
+	url = https://github.com/emacsmirror/md-ts-mode
 [submodule "md4rd"]
 	path = mirror/md4rd
 	url = https://github.com/emacsmirror/md4rd
