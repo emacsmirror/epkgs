@@ -10597,6 +10597,9 @@
 [submodule "hackernews"]
 	path = mirror/hackernews
 	url = https://github.com/emacsmirror/hackernews
+[submodule "hackernews-modern"]
+	path = mirror/hackernews-modern
+	url = https://github.com/emacsmirror/hackernews-modern
 [submodule "haddoc"]
 	path = attic/haddoc
 	url = https://github.com/emacsattic/haddoc
