@@ -23002,6 +23002,9 @@
 [submodule "solo-jazz-theme"]
 	path = mirror/solo-jazz-theme
 	url = https://github.com/emacsmirror/solo-jazz-theme
+[submodule "solo-rpg"]
+	path = mirror/solo-rpg
+	url = https://github.com/emacsmirror/solo-rpg
 [submodule "somafm"]
 	path = mirror/somafm
 	url = https://github.com/emacsmirror/somafm
