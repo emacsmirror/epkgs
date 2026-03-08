@@ -15163,6 +15163,9 @@
 [submodule "mathjax"]
 	path = mirror/mathjax
 	url = https://github.com/emacsmirror/mathjax
+[submodule "mathprog-ts-mode"]
+	path = mirror/mathprog-ts-mode
+	url = https://github.com/emacsmirror/mathprog-ts-mode
 [submodule "mathsheet"]
 	path = mirror/mathsheet
 	url = https://github.com/emacsmirror/mathsheet
