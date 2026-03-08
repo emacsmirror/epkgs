@@ -27088,6 +27088,9 @@
 [submodule "yoficator"]
 	path = mirror/yoficator
 	url = https://github.com/emacsmirror/yoficator
+[submodule "yomikata"]
+	path = mirror/yomikata
+	url = https://github.com/emacsmirror/yomikata
 [submodule "yoshi-theme"]
 	path = mirror/yoshi-theme
 	url = https://github.com/emacsmirror/yoshi-theme
