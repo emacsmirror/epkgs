@@ -13972,6 +13972,9 @@
 [submodule "lessage"]
 	path = attic/lessage
 	url = https://github.com/emacsattic/lessage
+[submodule "let-completion"]
+	path = mirror/let-completion
+	url = https://github.com/emacsmirror/let-completion
 [submodule "let-recur"]
 	path = mirror/let-recur
 	url = https://github.com/emacsmirror/let-recur
