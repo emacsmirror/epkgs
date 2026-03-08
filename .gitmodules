@@ -17710,6 +17710,9 @@
 [submodule "org-epa-gpg"]
 	path = mirror/org-epa-gpg
 	url = https://github.com/emacsmirror/org-epa-gpg
+[submodule "org-eval"]
+	path = mirror/org-eval
+	url = https://github.com/emacsmirror/org-eval
 [submodule "org-evil"]
 	path = mirror/org-evil
 	url = https://github.com/emacsmirror/org-evil
