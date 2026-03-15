@@ -2158,6 +2158,9 @@
 [submodule "buffer-fns"]
 	path = attic/buffer-fns
 	url = https://github.com/emacsattic/buffer-fns
+[submodule "buffer-guardian"]
+	path = mirror/buffer-guardian
+	url = https://github.com/emacsmirror/buffer-guardian
 [submodule "buffer-manage"]
 	path = mirror/buffer-manage
 	url = https://github.com/emacsmirror/buffer-manage
