@@ -23392,6 +23392,9 @@
 [submodule "stan-mode"]
 	path = mirror/stan-mode
 	url = https://github.com/emacsmirror/stan-mode
+[submodule "stan-ts-mode"]
+	path = mirror/stan-ts-mode
+	url = https://github.com/emacsmirror/stan-ts-mode
 [submodule "standard-dirs"]
 	path = mirror/standard-dirs
 	url = https://github.com/emacsmirror/standard-dirs
