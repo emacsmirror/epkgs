@@ -15097,6 +15097,9 @@
 [submodule "markdown-soma"]
 	path = mirror/markdown-soma
 	url = https://github.com/emacsmirror/markdown-soma
+[submodule "markdown-table-wrap"]
+	path = mirror/markdown-table-wrap
+	url = https://github.com/emacsmirror/markdown-table-wrap
 [submodule "markdown-toc"]
 	path = mirror/markdown-toc
 	url = https://github.com/emacsmirror/markdown-toc
