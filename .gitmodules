@@ -13253,8 +13253,8 @@
 	path = mirror/jsonp
 	url = https://github.com/emacsmirror/jsonp
 [submodule "jss"]
-	path = mirror/jss
-	url = https://github.com/emacsmirror/jss
+	path = attic/jss
+	url = https://github.com/emacsattic/jss
 [submodule "jst"]
 	path = mirror/jst
 	url = https://github.com/emacsmirror/jst
