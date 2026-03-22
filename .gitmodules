@@ -973,6 +973,9 @@
 [submodule "async-eval"]
 	path = mirror/async-eval
 	url = https://github.com/emacsmirror/async-eval
+[submodule "async-http-queue"]
+	path = mirror/async-http-queue
+	url = https://github.com/emacsmirror/async-http-queue
 [submodule "async-job-queue"]
 	path = mirror/async-job-queue
 	url = https://github.com/emacsmirror/async-job-queue
