@@ -8938,6 +8938,9 @@
 [submodule "flymake-yamllint"]
 	path = mirror/flymake-yamllint
 	url = https://github.com/emacsmirror/flymake-yamllint
+[submodule "flymake-zizmor"]
+	path = mirror/flymake-zizmor
+	url = https://github.com/emacsmirror/flymake-zizmor
 [submodule "flymd"]
 	path = mirror/flymd
 	url = https://github.com/emacsmirror/flymd
