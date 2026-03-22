@@ -3751,6 +3751,9 @@
 [submodule "consult-spotlight"]
 	path = mirror/consult-spotlight
 	url = https://github.com/emacsmirror/consult-spotlight
+[submodule "consult-symbol"]
+	path = mirror/consult-symbol
+	url = https://github.com/emacsmirror/consult-symbol
 [submodule "consult-tex"]
 	path = mirror/consult-tex
 	url = https://github.com/emacsmirror/consult-tex
