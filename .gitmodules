@@ -18184,6 +18184,9 @@
 [submodule "org-sliced-images"]
 	path = mirror/org-sliced-images
 	url = https://github.com/emacsmirror/org-sliced-images
+[submodule "org-snitch"]
+	path = mirror/org-snitch
+	url = https://github.com/emacsmirror/org-snitch
 [submodule "org-snooze"]
 	path = mirror/org-snooze
 	url = https://github.com/emacsmirror/org-snooze
