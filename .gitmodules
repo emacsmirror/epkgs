@@ -24535,6 +24535,9 @@
 [submodule "tile"]
 	path = mirror/tile
 	url = https://github.com/emacsmirror/tile
+[submodule "tiles"]
+	path = mirror/tiles
+	url = https://github.com/emacsmirror/tiles
 [submodule "tiling"]
 	path = attic/tiling
 	url = https://github.com/emacsattic/tiling
