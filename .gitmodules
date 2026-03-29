@@ -619,6 +619,9 @@
 [submodule "ancient-one-dark-theme"]
 	path = mirror/ancient-one-dark-theme
 	url = https://github.com/emacsmirror/ancient-one-dark-theme
+[submodule "ancient-theme"]
+	path = mirror/ancient-theme
+	url = https://github.com/emacsmirror/ancient-theme
 [submodule "android-env"]
 	path = mirror/android-env
 	url = https://github.com/emacsmirror/android-env
