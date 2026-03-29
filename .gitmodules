@@ -3019,6 +3019,9 @@
 [submodule "clj-deps-new"]
 	path = mirror/clj-deps-new
 	url = https://github.com/emacsmirror/clj-deps-new
+[submodule "clj-doc-browse"]
+	path = mirror/clj-doc-browse
+	url = https://github.com/emacsmirror/clj-doc-browse
 [submodule "clj-refactor"]
 	path = mirror/clj-refactor
 	url = https://github.com/emacsmirror/clj-refactor
