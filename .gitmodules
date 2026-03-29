@@ -14356,6 +14356,9 @@
 [submodule "llm"]
 	path = mirror/llm
 	url = https://github.com/emacsmirror/llm
+[submodule "llm-test"]
+	path = mirror/llm-test
+	url = https://github.com/emacsmirror/llm-test
 [submodule "llvm-ts-mode"]
 	path = mirror/llvm-ts-mode
 	url = https://github.com/emacsmirror/llvm-ts-mode
