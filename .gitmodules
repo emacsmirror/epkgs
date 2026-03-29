@@ -21574,6 +21574,9 @@
 [submodule "ros"]
 	path = mirror/ros
 	url = https://github.com/emacsmirror/ros
+[submodule "ros-face"]
+	path = mirror/ros-face
+	url = https://github.com/emacsmirror/ros-face
 [submodule "rotate"]
 	path = mirror/rotate
 	url = https://github.com/emacsmirror/rotate
