@@ -640,6 +640,9 @@
 [submodule "ani-fcsh"]
 	path = attic/ani-fcsh
 	url = https://github.com/emacsattic/ani-fcsh
+[submodule "anju"]
+	path = mirror/anju
+	url = https://github.com/emacsmirror/anju
 [submodule "anki-connect"]
 	path = mirror/anki-connect
 	url = https://github.com/emacsmirror/anki-connect
