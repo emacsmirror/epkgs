@@ -8983,6 +8983,9 @@
 [submodule "flyspell-xml-lang"]
 	path = attic/flyspell-xml-lang
 	url = https://github.com/emacsattic/flyspell-xml-lang
+[submodule "flywrite"]
+	path = mirror/flywrite
+	url = https://github.com/emacsmirror/flywrite
 [submodule "fm"]
 	path = attic/fm
 	url = https://github.com/emacsattic/fm
