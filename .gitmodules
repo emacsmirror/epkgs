@@ -25996,6 +25996,9 @@
 [submodule "vterm"]
 	path = mirror/vterm
 	url = https://github.com/emacsmirror/vterm
+[submodule "vterm-editor"]
+	path = mirror/vterm-editor
+	url = https://github.com/emacsmirror/vterm-editor
 [submodule "vterm-hotkey"]
 	path = mirror/vterm-hotkey
 	url = https://github.com/emacsmirror/vterm-hotkey
