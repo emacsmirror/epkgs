@@ -6085,6 +6085,9 @@
 [submodule "eglot-tempel"]
 	path = mirror/eglot-tempel
 	url = https://github.com/emacsmirror/eglot-tempel
+[submodule "eglot-typescript-preset"]
+	path = mirror/eglot-typescript-preset
+	url = https://github.com/emacsmirror/eglot-typescript-preset
 [submodule "ego"]
 	path = mirror/ego
 	url = https://github.com/emacsmirror/ego
