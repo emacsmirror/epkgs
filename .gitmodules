@@ -6277,6 +6277,9 @@
 [submodule "eldoc-mouse"]
 	path = mirror/eldoc-mouse
 	url = https://github.com/emacsmirror/eldoc-mouse
+[submodule "eldoc-mouse-nov"]
+	path = mirror/eldoc-mouse-nov
+	url = https://github.com/emacsmirror/eldoc-mouse-nov
 [submodule "eldoc-overlay"]
 	path = mirror/eldoc-overlay
 	url = https://github.com/emacsmirror/eldoc-overlay
