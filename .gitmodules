@@ -9250,6 +9250,9 @@
 [submodule "fsharp-mode"]
 	path = mirror/fsharp-mode
 	url = https://github.com/emacsmirror/fsharp-mode
+[submodule "fsharp-ts-mode"]
+	path = mirror/fsharp-ts-mode
+	url = https://github.com/emacsmirror/fsharp-ts-mode
 [submodule "fshell"]
 	path = attic/fshell
 	url = https://github.com/emacsattic/fshell
