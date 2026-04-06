@@ -9610,6 +9610,9 @@
 [submodule "ghost-blog"]
 	path = mirror/ghost-blog
 	url = https://github.com/emacsmirror/ghost-blog
+[submodule "ghostel"]
+	path = mirror/ghostel
+	url = https://github.com/emacsmirror/ghostel
 [submodule "ghq"]
 	path = mirror/ghq
 	url = https://github.com/emacsmirror/ghq
