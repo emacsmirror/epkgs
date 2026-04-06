@@ -17278,6 +17278,9 @@
 [submodule "occidental-theme"]
 	path = mirror/occidental-theme
 	url = https://github.com/emacsmirror/occidental-theme
+[submodule "occult"]
+	path = mirror/occult
+	url = https://github.com/emacsmirror/occult
 [submodule "occur-context-resize"]
 	path = mirror/occur-context-resize
 	url = https://github.com/emacsmirror/occur-context-resize
