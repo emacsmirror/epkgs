@@ -17731,6 +17731,9 @@
 [submodule "org-dropbox"]
 	path = mirror/org-dropbox
 	url = https://github.com/emacsmirror/org-dropbox
+[submodule "org-dt"]
+	path = mirror/org-dt
+	url = https://github.com/emacsmirror/org-dt
 [submodule "org-e-caldav"]
 	path = attic/org-e-caldav
 	url = https://github.com/emacsattic/org-e-caldav
