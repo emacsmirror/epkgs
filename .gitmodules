@@ -3865,6 +3865,9 @@
 [submodule "corfu-terminal"]
 	path = mirror/corfu-terminal
 	url = https://github.com/emacsmirror/corfu-terminal
+[submodule "corg"]
+	path = mirror/corg
+	url = https://github.com/emacsmirror/corg
 [submodule "coroutine"]
 	path = attic/coroutine
 	url = https://github.com/emacsattic/coroutine
