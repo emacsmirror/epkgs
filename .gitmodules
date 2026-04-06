@@ -3577,6 +3577,9 @@
 [submodule "compilation-always-kill"]
 	path = attic/compilation-always-kill
 	url = https://github.com/emacsattic/compilation-always-kill
+[submodule "compilation-history"]
+	path = mirror/compilation-history
+	url = https://github.com/emacsmirror/compilation-history
 [submodule "compilation-perl"]
 	path = attic/compilation-perl
 	url = https://github.com/emacsattic/compilation-perl
