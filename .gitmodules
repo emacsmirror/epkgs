@@ -7648,6 +7648,9 @@
 [submodule "evil-visualstar"]
 	path = mirror/evil-visualstar
 	url = https://github.com/emacsmirror/evil-visualstar
+[submodule "evim"]
+	path = mirror/evim
+	url = https://github.com/emacsmirror/evim
 [submodule "evimodeline"]
 	path = mirror/evimodeline
 	url = https://github.com/emacsmirror/evimodeline
