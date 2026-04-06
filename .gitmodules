@@ -15382,6 +15382,9 @@
 [submodule "merriam"]
 	path = mirror/merriam
 	url = https://github.com/emacsmirror/merriam
+[submodule "meshmonitor-chat"]
+	path = mirror/meshmonitor-chat
+	url = https://github.com/emacsmirror/meshmonitor-chat
 [submodule "meson-mode"]
 	path = mirror/meson-mode
 	url = https://github.com/emacsmirror/meson-mode
