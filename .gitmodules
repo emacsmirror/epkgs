@@ -7370,8 +7370,8 @@
 	path = mirror/eve-mode
 	url = https://github.com/emacsmirror/eve-mode
 [submodule "evedel"]
-	path = mirror/evedel
-	url = https://github.com/emacsmirror/evedel
+	path = attic/evedel
+	url = https://github.com/emacsattic/evedel
 [submodule "evelnote"]
 	path = mirror/evelnote
 	url = https://github.com/emacsmirror/evelnote
