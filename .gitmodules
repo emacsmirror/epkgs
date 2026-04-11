@@ -19967,8 +19967,8 @@
 	path = mirror/powerline
 	url = https://github.com/emacsmirror/powerline
 [submodule "powerline-evil"]
-	path = mirror/powerline-evil
-	url = https://github.com/emacsmirror/powerline-evil
+	path = attic/powerline-evil
+	url = https://github.com/emacsattic/powerline-evil
 [submodule "powershell"]
 	path = mirror/powershell
 	url = https://github.com/emacsmirror/powershell
