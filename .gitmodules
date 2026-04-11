@@ -2134,9 +2134,6 @@
 [submodule "bubblet"]
 	path = attic/bubblet
 	url = https://github.com/emacsattic/bubblet
-[submodule "buck"]
-	path = attic/buck
-	url = https://github.com/emacsattic/buck
 [submodule "buckwalter"]
 	path = mirror/buckwalter
 	url = https://github.com/emacsmirror/buckwalter
