@@ -1654,6 +1654,9 @@
 [submodule "beluga-mode"]
 	path = mirror/beluga-mode
 	url = https://github.com/emacsmirror/beluga-mode
+[submodule "ben"]
+	path = mirror/ben
+	url = https://github.com/emacsmirror/ben
 [submodule "benchmark-init"]
 	path = mirror/benchmark-init
 	url = https://github.com/emacsmirror/benchmark-init
