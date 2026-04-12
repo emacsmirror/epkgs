@@ -24802,6 +24802,9 @@
 [submodule "tokipona"]
 	path = attic/tokipona
 	url = https://github.com/emacsattic/tokipona
+[submodule "tokyo-night"]
+	path = mirror/tokyo-night
+	url = https://github.com/emacsmirror/tokyo-night
 [submodule "tomatinho"]
 	path = mirror/tomatinho
 	url = https://github.com/emacsmirror/tomatinho
