@@ -24119,7 +24119,7 @@
 	path = attic/task-timer
 	url = https://github.com/emacsattic/task-timer
 [submodule "taskjuggler-mode"]
-	path = attic/taskjuggler-mode
+	path = mirror/taskjuggler-mode
 	url = https://github.com/emacsmirror/taskjuggler-mode
 [submodule "taskpaper"]
 	path = mirror/taskpaper
