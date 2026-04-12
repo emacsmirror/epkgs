@@ -25093,6 +25093,9 @@
 [submodule "truename-cache"]
 	path = mirror/truename-cache
 	url = https://github.com/emacsmirror/truename-cache
+[submodule "trust-manager"]
+	path = mirror/trust-manager
+	url = https://github.com/emacsmirror/trust-manager
 [submodule "truthy"]
 	path = mirror/truthy
 	url = https://github.com/emacsmirror/truthy
