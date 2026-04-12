@@ -19870,6 +19870,9 @@
 [submodule "popper"]
 	path = mirror/popper
 	url = https://github.com/emacsmirror/popper
+[submodule "popterm"]
+	path = mirror/popterm
+	url = https://github.com/emacsmirror/popterm
 [submodule "popup"]
 	path = mirror/popup
 	url = https://github.com/emacsmirror/popup
