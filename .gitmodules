@@ -22576,6 +22576,9 @@
 [submodule "side-notes"]
 	path = mirror/side-notes
 	url = https://github.com/emacsmirror/side-notes
+[submodule "sidebuf"]
+	path = mirror/sidebuf
+	url = https://github.com/emacsmirror/sidebuf
 [submodule "sidecar-locals"]
 	path = mirror/sidecar-locals
 	url = https://github.com/emacsmirror/sidecar-locals
