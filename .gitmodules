@@ -385,6 +385,9 @@
 [submodule "agenix"]
 	path = mirror/agenix
 	url = https://github.com/emacsmirror/agenix
+[submodule "agent-recall"]
+	path = mirror/agent-recall
+	url = https://github.com/emacsmirror/agent-recall
 [submodule "agent-shell"]
 	path = mirror/agent-shell
 	url = https://github.com/emacsmirror/agent-shell
