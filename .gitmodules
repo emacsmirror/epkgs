@@ -21613,6 +21613,9 @@
 [submodule "roc-ts-mode"]
 	path = mirror/roc-ts-mode
 	url = https://github.com/emacsmirror/roc-ts-mode
+[submodule "rocq-timing"]
+	path = mirror/rocq-timing
+	url = https://github.com/emacsmirror/rocq-timing
 [submodule "roguel-ike"]
 	path = mirror/roguel-ike
 	url = https://github.com/emacsmirror/roguel-ike
