@@ -3310,6 +3310,9 @@
 [submodule "come-fly"]
 	path = mirror/come-fly
 	url = https://github.com/emacsmirror/come-fly
+[submodule "comet-trail"]
+	path = mirror/comet-trail
+	url = https://github.com/emacsmirror/comet-trail
 [submodule "comics"]
 	path = attic/comics
 	url = https://github.com/emacsattic/comics
