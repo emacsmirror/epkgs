@@ -15790,6 +15790,9 @@
 [submodule "modular-config"]
 	path = mirror/modular-config
 	url = https://github.com/emacsmirror/modular-config
+[submodule "modus-ewal-theme"]
+	path = mirror/modus-ewal-theme
+	url = https://github.com/emacsmirror/modus-ewal-theme
 [submodule "modus-themes"]
 	path = mirror/modus-themes
 	url = https://github.com/emacsmirror/modus-themes
