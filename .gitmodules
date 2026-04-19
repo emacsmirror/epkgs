@@ -10129,6 +10129,9 @@
 [submodule "go-playground-cli"]
 	path = mirror/go-playground-cli
 	url = https://github.com/emacsmirror/go-playground-cli
+[submodule "go-prettify-mode"]
+	path = mirror/go-prettify-mode
+	url = https://github.com/emacsmirror/go-prettify-mode
 [submodule "go-projectile"]
 	path = mirror/go-projectile
 	url = https://github.com/emacsmirror/go-projectile
