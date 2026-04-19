@@ -1522,6 +1522,9 @@
 [submodule "batch-mode"]
 	path = mirror/batch-mode
 	url = https://github.com/emacsmirror/batch-mode
+[submodule "batppuccin"]
+	path = mirror/batppuccin
+	url = https://github.com/emacsmirror/batppuccin
 [submodule "bats-mode"]
 	path = mirror/bats-mode
 	url = https://github.com/emacsmirror/bats-mode
