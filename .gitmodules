@@ -6439,6 +6439,9 @@
 [submodule "elite-for-emacs"]
 	path = attic/elite-for-emacs
 	url = https://github.com/emacsattic/elite-for-emacs
+[submodule "elixir-iex"]
+	path = mirror/elixir-iex
+	url = https://github.com/emacsmirror/elixir-iex
 [submodule "elixir-mode"]
 	path = mirror/elixir-mode
 	url = https://github.com/emacsmirror/elixir-mode
