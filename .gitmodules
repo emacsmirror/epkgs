@@ -20629,6 +20629,9 @@
 [submodule "python-test"]
 	path = mirror/python-test
 	url = https://github.com/emacsmirror/python-test
+[submodule "python-unicode-escape"]
+	path = mirror/python-unicode-escape
+	url = https://github.com/emacsmirror/python-unicode-escape
 [submodule "python-view-data"]
 	path = mirror/python-view-data
 	url = https://github.com/emacsmirror/python-view-data
