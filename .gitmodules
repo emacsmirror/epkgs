@@ -11521,6 +11521,9 @@
 [submodule "hide-url"]
 	path = mirror/hide-url
 	url = https://github.com/emacsmirror/hide-url
+[submodule "hidepass"]
+	path = mirror/hidepass
+	url = https://github.com/emacsmirror/hidepass
 [submodule "hidepw"]
 	path = mirror/hidepw
 	url = https://github.com/emacsmirror/hidepw
