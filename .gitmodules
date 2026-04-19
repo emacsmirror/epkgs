@@ -2887,6 +2887,9 @@
 [submodule "citar-typst"]
 	path = mirror/citar-typst
 	url = https://github.com/emacsmirror/citar-typst
+[submodule "citar-vulpea"]
+	path = mirror/citar-vulpea
+	url = https://github.com/emacsmirror/citar-vulpea
 [submodule "cite"]
 	path = attic/cite
 	url = https://github.com/emacsattic/cite
