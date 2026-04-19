@@ -11902,6 +11902,9 @@
 [submodule "http-post-simple"]
 	path = mirror/http-post-simple
 	url = https://github.com/emacsmirror/http-post-simple
+[submodule "http-server"]
+	path = mirror/http-server
+	url = https://github.com/emacsmirror/http-server
 [submodule "http-twiddle"]
 	path = mirror/http-twiddle
 	url = https://github.com/emacsmirror/http-twiddle
