@@ -26641,6 +26641,9 @@
 [submodule "wispjs-mode"]
 	path = mirror/wispjs-mode
 	url = https://github.com/emacsmirror/wispjs-mode
+[submodule "with-command-redo"]
+	path = mirror/with-command-redo
+	url = https://github.com/emacsmirror/with-command-redo
 [submodule "with-editor"]
 	path = mirror/with-editor
 	url = https://github.com/emacsmirror/with-editor
