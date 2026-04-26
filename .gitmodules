@@ -25846,6 +25846,9 @@
 [submodule "verbiste"]
 	path = attic/verbiste
 	url = https://github.com/emacsattic/verbiste
+[submodule "verdict"]
+	path = mirror/verdict
+	url = https://github.com/emacsmirror/verdict
 [submodule "veri-kompass"]
 	path = mirror/veri-kompass
 	url = https://github.com/emacsmirror/veri-kompass
