@@ -15991,6 +15991,9 @@
 [submodule "mozc-im"]
 	path = mirror/mozc-im
 	url = https://github.com/emacsmirror/mozc-im
+[submodule "mozc-modeless"]
+	path = mirror/mozc-modeless
+	url = https://github.com/emacsmirror/mozc-modeless
 [submodule "mozc-popup"]
 	path = mirror/mozc-popup
 	url = https://github.com/emacsmirror/mozc-popup
