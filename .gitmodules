@@ -17941,6 +17941,9 @@
 [submodule "org-kindle"]
 	path = mirror/org-kindle
 	url = https://github.com/emacsmirror/org-kindle
+[submodule "org-lark"]
+	path = mirror/org-lark
+	url = https://github.com/emacsmirror/org-lark
 [submodule "org-latex-impatient"]
 	path = mirror/org-latex-impatient
 	url = https://github.com/emacsmirror/org-latex-impatient
