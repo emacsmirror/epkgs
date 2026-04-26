@@ -5317,6 +5317,9 @@
 [submodule "dms-sig"]
 	path = attic/dms-sig
 	url = https://github.com/emacsattic/dms-sig
+[submodule "dmsg"]
+	path = mirror/dmsg
+	url = https://github.com/emacsmirror/dmsg
 [submodule "dna-debug"]
 	path = attic/dna-debug
 	url = https://github.com/emacsattic/dna-debug
