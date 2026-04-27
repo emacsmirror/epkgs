@@ -27458,8 +27458,8 @@
 	path = mirror/zpresent
 	url = https://github.com/emacsmirror/zpresent
 [submodule "zprint-format"]
-	path = mirror/zprint-format
-	url = https://github.com/emacsmirror/zprint-format
+	path = attic/zprint-format
+	url = https://github.com/emacsattic/zprint-format
 [submodule "zprint-mode"]
 	path = mirror/zprint-mode
 	url = https://github.com/emacsmirror/zprint-mode
