@@ -21569,8 +21569,8 @@
 	path = mirror/rings
 	url = https://github.com/emacsmirror/rings
 [submodule "ripgrep"]
-	path = mirror/ripgrep
-	url = https://github.com/emacsmirror/ripgrep
+	path = attic/ripgrep
+	url = https://github.com/emacsattic/ripgrep
 [submodule "riscv-mode"]
 	path = mirror/riscv-mode
 	url = https://github.com/emacsmirror/riscv-mode
