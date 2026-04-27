@@ -3044,8 +3044,8 @@
 	path = mirror/cljsbuild-mode
 	url = https://github.com/emacsmirror/cljsbuild-mode
 [submodule "cljstyle-format"]
-	path = mirror/cljstyle-format
-	url = https://github.com/emacsmirror/cljstyle-format
+	path = attic/cljstyle-format
+	url = https://github.com/emacsattic/cljstyle-format
 [submodule "clmemo"]
 	path = mirror/clmemo
 	url = https://github.com/emacsmirror/clmemo
