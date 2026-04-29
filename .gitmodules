@@ -12401,8 +12401,8 @@
 	path = mirror/indirect-region
 	url = https://github.com/emacsmirror/indirect-region
 [submodule "indium"]
-	path = mirror/indium
-	url = https://github.com/emacsmirror/indium
+	path = attic/indium
+	url = https://github.com/emacsattic/indium
 [submodule "indy"]
 	path = mirror/indy
 	url = https://github.com/emacsmirror/indy
