@@ -9124,6 +9124,9 @@
 [submodule "forge-llm"]
 	path = mirror/forge-llm
 	url = https://github.com/emacsmirror/forge-llm
+[submodule "forgejo"]
+	path = mirror/forgejo
+	url = https://github.com/emacsmirror/forgejo
 [submodule "form-feed"]
 	path = mirror/form-feed
 	url = https://github.com/emacsmirror/form-feed
