@@ -13564,6 +13564,9 @@
 [submodule "keymap-hacks"]
 	path = attic/keymap-hacks
 	url = https://github.com/emacsattic/keymap-hacks
+[submodule "keymap-popup"]
+	path = mirror/keymap-popup
+	url = https://github.com/emacsmirror/keymap-popup
 [submodule "keymap-utils"]
 	path = mirror/keymap-utils
 	url = https://github.com/emacsmirror/keymap-utils
