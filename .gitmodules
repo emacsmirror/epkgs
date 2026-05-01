@@ -6382,6 +6382,9 @@
 [submodule "elfeed-tube"]
 	path = mirror/elfeed-tube
 	url = https://github.com/emacsmirror/elfeed-tube
+[submodule "elfeed-web"]
+	path = mirror/elfeed-web
+	url = https://github.com/emacsmirror/elfeed-web
 [submodule "elfeed-webkit"]
 	path = mirror/elfeed-webkit
 	url = https://github.com/emacsmirror/elfeed-webkit
