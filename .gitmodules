@@ -24808,6 +24808,9 @@
 [submodule "tmt-mode"]
 	path = mirror/tmt-mode
 	url = https://github.com/emacsmirror/tmt-mode
+[submodule "tmux-csi-u"]
+	path = mirror/tmux-csi-u
+	url = https://github.com/emacsmirror/tmux-csi-u
 [submodule "tmux-mode"]
 	path = mirror/tmux-mode
 	url = https://github.com/emacsmirror/tmux-mode
