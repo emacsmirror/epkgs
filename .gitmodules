@@ -6727,6 +6727,9 @@
 [submodule "emc"]
 	path = mirror/emc
 	url = https://github.com/emacsmirror/emc
+[submodule "emcp"]
+	path = mirror/emcp
+	url = https://github.com/emacsmirror/emcp
 [submodule "emdroid"]
 	path = attic/emdroid
 	url = https://github.com/emacsattic/emdroid
