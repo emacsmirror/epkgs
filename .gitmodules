@@ -10522,6 +10522,9 @@
 [submodule "groovy-mode"]
 	path = mirror/groovy-mode
 	url = https://github.com/emacsmirror/groovy-mode
+[submodule "grove"]
+	path = mirror/grove
+	url = https://github.com/emacsmirror/grove
 [submodule "growl"]
 	path = attic/growl
 	url = https://github.com/emacsattic/growl
