@@ -22723,6 +22723,9 @@
 [submodule "simply-annotate"]
 	path = mirror/simply-annotate
 	url = https://github.com/emacsmirror/simply-annotate
+[submodule "simulacrum"]
+	path = mirror/simulacrum
+	url = https://github.com/emacsmirror/simulacrum
 [submodule "sinasi"]
 	path = mirror/sinasi
 	url = https://github.com/emacsmirror/sinasi
