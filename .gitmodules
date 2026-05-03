@@ -18661,6 +18661,9 @@
 [submodule "outline-minor-faces"]
 	path = mirror/outline-minor-faces
 	url = https://github.com/emacsmirror/outline-minor-faces
+[submodule "outline-stars"]
+	path = mirror/outline-stars
+	url = https://github.com/emacsmirror/outline-stars
 [submodule "outline-toc"]
 	path = mirror/outline-toc
 	url = https://github.com/emacsmirror/outline-toc
