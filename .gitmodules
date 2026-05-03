@@ -23410,6 +23410,9 @@
 [submodule "sql-beeline"]
 	path = mirror/sql-beeline
 	url = https://github.com/emacsmirror/sql-beeline
+[submodule "sql-bigquery"]
+	path = mirror/sql-bigquery
+	url = https://github.com/emacsmirror/sql-bigquery
 [submodule "sql-cassandra"]
 	path = mirror/sql-cassandra
 	url = https://github.com/emacsmirror/sql-cassandra
