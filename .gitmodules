@@ -6001,9 +6001,6 @@
 [submodule "edit-tree"]
 	path = attic/edit-tree
 	url = https://github.com/emacsattic/edit-tree
-[submodule "editorconfig"]
-	path = mirror/editorconfig
-	url = https://github.com/emacsmirror/editorconfig
 [submodule "editorconfig-charset-extras"]
 	path = mirror/editorconfig-charset-extras
 	url = https://github.com/emacsmirror/editorconfig-charset-extras
@@ -10454,8 +10451,8 @@
 	path = mirror/greader
 	url = https://github.com/emacsmirror/greader
 [submodule "greek-polytonic"]
-	path = mirror/greek-polytonic
-	url = https://github.com/emacsmirror/greek-polytonic
+	path = attic/greek-polytonic
+	url = https://github.com/emacsattic/greek-polytonic
 [submodule "green-is-the-new-black-theme"]
 	path = mirror/green-is-the-new-black-theme
 	url = https://github.com/emacsmirror/green-is-the-new-black-theme
@@ -12139,6 +12136,9 @@
 [submodule "idlehelp"]
 	path = attic/idlehelp
 	url = https://github.com/emacsattic/idlehelp
+[submodule "idlwave"]
+	path = mirror/idlwave
+	url = https://github.com/emacsmirror/idlwave
 [submodule "idna"]
 	path = attic/idna
 	url = https://github.com/emacsattic/idna
@@ -14725,9 +14725,6 @@
 [submodule "lua-block"]
 	path = attic/lua-block
 	url = https://github.com/emacsattic/lua-block
-[submodule "lua-mode"]
-	path = mirror/lua-mode
-	url = https://github.com/emacsmirror/lua-mode
 [submodule "luarocks"]
 	path = mirror/luarocks
 	url = https://github.com/emacsmirror/luarocks
@@ -24694,9 +24691,6 @@
 [submodule "timeclock-x"]
 	path = attic/timeclock-x
 	url = https://github.com/emacsattic/timeclock-x
-[submodule "timeout"]
-	path = mirror/timeout
-	url = https://github.com/emacsmirror/timeout
 [submodule "timer+"]
 	path = mirror/timer+
 	url = https://github.com/emacsmirror/timer-plus
@@ -26324,8 +26318,8 @@
 	path = attic/wclock
 	url = https://github.com/emacsattic/wclock
 [submodule "wconf"]
-	path = attic/wconf
-	url = https://github.com/emacsattic/wconf
+	path = mirror/wconf
+	url = https://github.com/emacsmirror/wconf
 [submodule "wcount"]
 	path = attic/wcount
 	url = https://github.com/emacsattic/wcount
