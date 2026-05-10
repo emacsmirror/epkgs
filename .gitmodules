@@ -22420,6 +22420,9 @@
 [submodule "shampoo"]
 	path = mirror/shampoo
 	url = https://github.com/emacsmirror/shampoo
+[submodule "shannon-max"]
+	path = mirror/shannon-max
+	url = https://github.com/emacsmirror/shannon-max
 [submodule "shanty-themes"]
 	path = mirror/shanty-themes
 	url = https://github.com/emacsmirror/shanty-themes
