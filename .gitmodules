@@ -12421,6 +12421,9 @@
 [submodule "indicators"]
 	path = mirror/indicators
 	url = https://github.com/emacsmirror/indicators
+[submodule "indigo"]
+	path = mirror/indigo
+	url = https://github.com/emacsmirror/indigo
 [submodule "indirect-region"]
 	path = mirror/indirect-region
 	url = https://github.com/emacsmirror/indirect-region
