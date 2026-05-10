@@ -9070,6 +9070,9 @@
 [submodule "foldingo"]
 	path = attic/foldingo
 	url = https://github.com/emacsattic/foldingo
+[submodule "folgezett"]
+	path = mirror/folgezett
+	url = https://github.com/emacsmirror/folgezett
 [submodule "folio"]
 	path = attic/folio
 	url = https://github.com/emacsattic/folio
