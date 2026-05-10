@@ -796,6 +796,9 @@
 [submodule "apparmor-mode"]
 	path = mirror/apparmor-mode
 	url = https://github.com/emacsmirror/apparmor-mode
+[submodule "apple-container-tramp"]
+	path = mirror/apple-container-tramp
+	url = https://github.com/emacsmirror/apple-container-tramp
 [submodule "apples-mode"]
 	path = mirror/apples-mode
 	url = https://github.com/emacsmirror/apples-mode
