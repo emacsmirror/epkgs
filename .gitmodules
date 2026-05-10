@@ -2947,6 +2947,9 @@
 [submodule "claude-code"]
 	path = mirror/claude-code
 	url = https://github.com/emacsmirror/claude-code
+[submodule "claude-code-context"]
+	path = mirror/claude-code-context
+	url = https://github.com/emacsmirror/claude-code-context
 [submodule "claude-code-ide"]
 	path = mirror/claude-code-ide
 	url = https://github.com/emacsmirror/claude-code-ide
