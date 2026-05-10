@@ -16954,6 +16954,9 @@
 [submodule "nubox"]
 	path = mirror/nubox
 	url = https://github.com/emacsmirror/nubox
+[submodule "nucleo-completion"]
+	path = mirror/nucleo-completion
+	url = https://github.com/emacsmirror/nucleo-completion
 [submodule "nukneval"]
 	path = mirror/nukneval
 	url = https://github.com/emacsmirror/nukneval
