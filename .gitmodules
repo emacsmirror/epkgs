@@ -10018,6 +10018,9 @@
 [submodule "gnus-alias"]
 	path = mirror/gnus-alias
 	url = https://github.com/emacsmirror/gnus-alias
+[submodule "gnus-browse-url-in-article"]
+	path = mirror/gnus-browse-url-in-article
+	url = https://github.com/emacsmirror/gnus-browse-url-in-article
 [submodule "gnus-checker"]
 	path = attic/gnus-checker
 	url = https://github.com/emacsattic/gnus-checker
