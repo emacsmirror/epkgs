@@ -10741,6 +10741,9 @@
 [submodule "haproxy-mode"]
 	path = mirror/haproxy-mode
 	url = https://github.com/emacsmirror/haproxy-mode
+[submodule "har-viewer"]
+	path = mirror/har-viewer
+	url = https://github.com/emacsmirror/har-viewer
 [submodule "hardcore-mode"]
 	path = mirror/hardcore-mode
 	url = https://github.com/emacsmirror/hardcore-mode
