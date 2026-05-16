@@ -14720,8 +14720,8 @@
 	path = mirror/lsp-sourcekit
 	url = https://github.com/emacsmirror/lsp-sourcekit
 [submodule "lsp-tailwindcss"]
-	path = mirror/lsp-tailwindcss
-	url = https://github.com/emacsmirror/lsp-tailwindcss
+	path = attic/lsp-tailwindcss
+	url = https://github.com/emacsattic/lsp-tailwindcss
 [submodule "lsp-treemacs"]
 	path = mirror/lsp-treemacs
 	url = https://github.com/emacsmirror/lsp-treemacs
