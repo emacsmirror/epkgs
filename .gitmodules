@@ -23834,8 +23834,8 @@
 	path = attic/superego
 	url = https://github.com/emacsattic/superego
 [submodule "supergenpass"]
-	path = mirror/supergenpass
-	url = https://github.com/emacsmirror/supergenpass
+	path = attic/supergenpass
+	url = https://github.com/emacsattic/supergenpass
 [submodule "surround"]
 	path = mirror/surround
 	url = https://github.com/emacsmirror/surround
