@@ -21803,8 +21803,8 @@
 	path = mirror/ruby-tools
 	url = https://github.com/emacsmirror/ruby-tools
 [submodule "rubyinterpol"]
-	path = mirror/rubyinterpol
-	url = https://github.com/emacsmirror/rubyinterpol
+	path = attic/rubyinterpol
+	url = https://github.com/emacsattic/rubyinterpol
 [submodule "rudel"]
 	path = mirror/rudel
 	url = https://github.com/emacsmirror/rudel
