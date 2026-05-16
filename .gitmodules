@@ -27443,8 +27443,8 @@
 	path = mirror/zombie-trellys-mode
 	url = https://github.com/emacsmirror/zombie-trellys-mode
 [submodule "zone-matrix"]
-	path = mirror/zone-matrix
-	url = https://github.com/emacsmirror/zone-matrix
+	path = attic/zone-matrix
+	url = https://github.com/emacsattic/zone-matrix
 [submodule "zone-nyan"]
 	path = mirror/zone-nyan
 	url = https://github.com/emacsmirror/zone-nyan
