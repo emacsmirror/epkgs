@@ -20926,6 +20926,9 @@
 [submodule "ranger"]
 	path = mirror/ranger
 	url = https://github.com/emacsmirror/ranger
+[submodule "rare-words"]
+	path = mirror/rare-words
+	url = https://github.com/emacsmirror/rare-words
 [submodule "rase"]
 	path = mirror/rase
 	url = https://github.com/emacsmirror/rase
