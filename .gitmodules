@@ -24983,8 +24983,8 @@
 	path = mirror/touchgrid
 	url = https://github.com/emacsmirror/touchgrid
 [submodule "tox"]
-	path = mirror/tox
-	url = https://github.com/emacsmirror/tox
+	path = attic/tox
+	url = https://github.com/emacsattic/tox
 [submodule "toxi-theme"]
 	path = mirror/toxi-theme
 	url = https://github.com/emacsmirror/toxi-theme
