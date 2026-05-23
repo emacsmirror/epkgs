@@ -8038,6 +8038,9 @@
 [submodule "ffmpeg-utils"]
 	path = mirror/ffmpeg-utils
 	url = https://github.com/emacsmirror/ffmpeg-utils
+[submodule "ffs"]
+	path = mirror/ffs
+	url = https://github.com/emacsmirror/ffs
 [submodule "fic-ext-mode"]
 	path = attic/fic-ext-mode
 	url = https://github.com/emacsattic/fic-ext-mode
