@@ -12749,8 +12749,8 @@
 	path = mirror/isend-mode
 	url = https://github.com/emacsmirror/isend-mode
 [submodule "isgd"]
-	path = mirror/isgd
-	url = https://github.com/emacsmirror/isgd
+	path = attic/isgd
+	url = https://github.com/emacsattic/isgd
 [submodule "ishl"]
 	path = attic/ishl
 	url = https://github.com/emacsattic/ishl
