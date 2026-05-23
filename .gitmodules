@@ -10295,8 +10295,8 @@
 	path = mirror/gotest
 	url = https://github.com/emacsmirror/gotest
 [submodule "gotest-ts"]
-	path = mirror/gotest-ts
-	url = https://github.com/emacsmirror/gotest-ts
+	path = attic/gotest-ts
+	url = https://github.com/emacsattic/gotest-ts
 [submodule "gotham-theme"]
 	path = mirror/gotham-theme
 	url = https://github.com/emacsmirror/gotham-theme
