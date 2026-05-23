@@ -18047,8 +18047,8 @@
 	path = mirror/org-modern
 	url = https://github.com/emacsmirror/org-modern
 [submodule "org-movies"]
-	path = mirror/org-movies
-	url = https://github.com/emacsmirror/org-movies
+	path = attic/org-movies
+	url = https://github.com/emacsattic/org-movies
 [submodule "org-mpv-notes"]
 	path = mirror/org-mpv-notes
 	url = https://github.com/emacsmirror/org-mpv-notes
