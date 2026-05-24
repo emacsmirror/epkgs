@@ -15883,6 +15883,9 @@
 [submodule "momentary"]
 	path = attic/momentary
 	url = https://github.com/emacsattic/momentary
+[submodule "mondo"]
+	path = mirror/mondo
+	url = https://github.com/emacsmirror/mondo
 [submodule "moneylog"]
 	path = mirror/moneylog
 	url = https://github.com/emacsmirror/moneylog
