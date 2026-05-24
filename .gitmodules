@@ -18250,6 +18250,9 @@
 [submodule "org-ref-prettify"]
 	path = mirror/org-ref-prettify
 	url = https://github.com/emacsmirror/org-ref-prettify
+[submodule "org-reflect"]
+	path = mirror/org-reflect
+	url = https://github.com/emacsmirror/org-reflect
 [submodule "org-remark"]
 	path = mirror/org-remark
 	url = https://github.com/emacsmirror/org-remark
