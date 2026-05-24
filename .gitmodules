@@ -7738,6 +7738,9 @@
 [submodule "exemplify-align"]
 	path = mirror/exemplify-align
 	url = https://github.com/emacsmirror/exemplify-align
+[submodule "exemplify-ert"]
+	path = mirror/exemplify-ert
+	url = https://github.com/emacsmirror/exemplify-ert
 [submodule "exercism"]
 	path = mirror/exercism
 	url = https://github.com/emacsmirror/exercism
