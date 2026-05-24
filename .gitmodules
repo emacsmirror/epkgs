@@ -22924,6 +22924,9 @@
 [submodule "slstats"]
 	path = mirror/slstats
 	url = https://github.com/emacsmirror/slstats
+[submodule "slug"]
+	path = mirror/slug
+	url = https://github.com/emacsmirror/slug
 [submodule "slurm-mode"]
 	path = mirror/slurm-mode
 	url = https://github.com/emacsmirror/slurm-mode
