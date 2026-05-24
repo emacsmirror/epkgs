@@ -1390,6 +1390,9 @@
 [submodule "awesome-tab"]
 	path = mirror/awesome-tab
 	url = https://github.com/emacsmirror/awesome-tab
+[submodule "awhile"]
+	path = mirror/awhile
+	url = https://github.com/emacsmirror/awhile
 [submodule "awk-it"]
 	path = attic/awk-it
 	url = https://github.com/emacsattic/awk-it
