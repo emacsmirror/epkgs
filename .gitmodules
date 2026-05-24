@@ -18589,6 +18589,9 @@
 [submodule "orgrade"]
 	path = mirror/orgrade
 	url = https://github.com/emacsmirror/orgrade
+[submodule "orgreadme-fy"]
+	path = mirror/orgreadme-fy
+	url = https://github.com/emacsmirror/orgreadme-fy
 [submodule "orgstrap"]
 	path = mirror/orgstrap
 	url = https://github.com/emacsmirror/orgstrap
