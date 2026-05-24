@@ -4732,6 +4732,9 @@
 [submodule "demo-it"]
 	path = mirror/demo-it
 	url = https://github.com/emacsmirror/demo-it
+[submodule "democratize"]
+	path = mirror/democratize
+	url = https://github.com/emacsmirror/democratize
 [submodule "deno-fmt"]
 	path = mirror/deno-fmt
 	url = https://github.com/emacsmirror/deno-fmt
