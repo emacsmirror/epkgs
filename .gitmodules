@@ -24064,6 +24064,9 @@
 [submodule "symon-lingr"]
 	path = mirror/symon-lingr
 	url = https://github.com/emacsmirror/symon-lingr
+[submodule "symtable"]
+	path = mirror/symtable
+	url = https://github.com/emacsmirror/symtable
 [submodule "sync-recentf"]
 	path = mirror/sync-recentf
 	url = https://github.com/emacsmirror/sync-recentf
