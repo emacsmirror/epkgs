@@ -9082,6 +9082,9 @@
 [submodule "fold"]
 	path = attic/fold
 	url = https://github.com/emacsattic/fold
+[submodule "fold-and-focus"]
+	path = mirror/fold-and-focus
+	url = https://github.com/emacsmirror/fold-and-focus
 [submodule "fold-dwim"]
 	path = attic/fold-dwim
 	url = https://github.com/emacsattic/fold-dwim
