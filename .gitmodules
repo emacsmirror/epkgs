@@ -25996,6 +25996,9 @@
 [submodule "vertigo"]
 	path = mirror/vertigo
 	url = https://github.com/emacsmirror/vertigo
+[submodule "vexil"]
+	path = mirror/vexil
+	url = https://github.com/emacsmirror/vexil
 [submodule "vh-scroll"]
 	path = attic/vh-scroll
 	url = https://github.com/emacsattic/vh-scroll
