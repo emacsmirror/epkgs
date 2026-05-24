@@ -7915,6 +7915,9 @@
 [submodule "fancy-fill-paragraph"]
 	path = mirror/fancy-fill-paragraph
 	url = https://github.com/emacsmirror/fancy-fill-paragraph
+[submodule "fancy-joiner"]
+	path = mirror/fancy-joiner
+	url = https://github.com/emacsmirror/fancy-joiner
 [submodule "fancy-narrow"]
 	path = mirror/fancy-narrow
 	url = https://github.com/emacsmirror/fancy-narrow
