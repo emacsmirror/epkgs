@@ -7741,6 +7741,9 @@
 [submodule "exemplify-ert"]
 	path = mirror/exemplify-ert
 	url = https://github.com/emacsmirror/exemplify-ert
+[submodule "exemplify-eval"]
+	path = mirror/exemplify-eval
+	url = https://github.com/emacsmirror/exemplify-eval
 [submodule "exercism"]
 	path = mirror/exercism
 	url = https://github.com/emacsmirror/exercism
