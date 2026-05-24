@@ -26980,6 +26980,9 @@
 [submodule "xhair"]
 	path = mirror/xhair
 	url = https://github.com/emacsmirror/xhair
+[submodule "xht"]
+	path = mirror/xht
+	url = https://github.com/emacsmirror/xht
 [submodule "xiomacs"]
 	path = attic/xiomacs
 	url = https://github.com/emacsattic/xiomacs
