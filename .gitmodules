@@ -23344,6 +23344,9 @@
 [submodule "sparkline"]
 	path = mirror/sparkline
 	url = https://github.com/emacsmirror/sparkline
+[submodule "sparkly"]
+	path = mirror/sparkly
+	url = https://github.com/emacsmirror/sparkly
 [submodule "sparkweather"]
 	path = mirror/sparkweather
 	url = https://github.com/emacsmirror/sparkweather
