@@ -1036,6 +1036,9 @@
 [submodule "atomic-chrome"]
 	path = mirror/atomic-chrome
 	url = https://github.com/emacsmirror/atomic-chrome
+[submodule "atomizer"]
+	path = mirror/atomizer
+	url = https://github.com/emacsmirror/atomizer
 [submodule "attrap"]
 	path = mirror/attrap
 	url = https://github.com/emacsmirror/attrap
