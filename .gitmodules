@@ -23437,6 +23437,9 @@
 [submodule "splunk-mode"]
 	path = mirror/splunk-mode
 	url = https://github.com/emacsmirror/splunk-mode
+[submodule "splurge"]
+	path = mirror/splurge
+	url = https://github.com/emacsmirror/splurge
 [submodule "spoiler-space"]
 	path = attic/spoiler-space
 	url = https://github.com/emacsattic/spoiler-space
