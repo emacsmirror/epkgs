@@ -2653,6 +2653,9 @@
 [submodule "cfn-mode"]
 	path = mirror/cfn-mode
 	url = https://github.com/emacsmirror/cfn-mode
+[submodule "cfrac"]
+	path = mirror/cfrac
+	url = https://github.com/emacsmirror/cfrac
 [submodule "cframe"]
 	path = mirror/cframe
 	url = https://github.com/emacsmirror/cframe
