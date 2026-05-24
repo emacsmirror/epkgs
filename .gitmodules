@@ -24067,6 +24067,9 @@
 [submodule "symtable"]
 	path = mirror/symtable
 	url = https://github.com/emacsmirror/symtable
+[submodule "symtree"]
+	path = mirror/symtree
+	url = https://github.com/emacsmirror/symtree
 [submodule "sync-recentf"]
 	path = mirror/sync-recentf
 	url = https://github.com/emacsmirror/sync-recentf
