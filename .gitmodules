@@ -3124,6 +3124,9 @@
 [submodule "clues-theme"]
 	path = mirror/clues-theme
 	url = https://github.com/emacsmirror/clues-theme
+[submodule "clutch"]
+	path = mirror/clutch
+	url = https://github.com/emacsmirror/clutch
 [submodule "cm-mode"]
 	path = mirror/cm-mode
 	url = https://github.com/emacsmirror/cm-mode
