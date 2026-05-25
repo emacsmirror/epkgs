@@ -15472,6 +15472,9 @@
 [submodule "meshmonitor-chat"]
 	path = mirror/meshmonitor-chat
 	url = https://github.com/emacsmirror/meshmonitor-chat
+[submodule "meshtastic"]
+	path = mirror/meshtastic
+	url = https://github.com/emacsmirror/meshtastic
 [submodule "meson-mode"]
 	path = mirror/meson-mode
 	url = https://github.com/emacsmirror/meson-mode
