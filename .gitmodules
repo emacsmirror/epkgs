@@ -6523,6 +6523,9 @@
 [submodule "elogcat"]
 	path = mirror/elogcat
 	url = https://github.com/emacsmirror/elogcat
+[submodule "elot"]
+	path = mirror/elot
+	url = https://github.com/emacsmirror/elot
 [submodule "eloud"]
 	path = mirror/eloud
 	url = https://github.com/emacsmirror/eloud
