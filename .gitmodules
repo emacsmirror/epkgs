@@ -7864,6 +7864,9 @@
 [submodule "f90-interface-browser"]
 	path = mirror/f90-interface-browser
 	url = https://github.com/emacsmirror/f90-interface-browser
+[submodule "f90-ts-mode"]
+	path = mirror/f90-ts-mode
+	url = https://github.com/emacsmirror/f90-ts-mode
 [submodule "fa-extras"]
 	path = attic/fa-extras
 	url = https://github.com/emacsattic/fa-extras
