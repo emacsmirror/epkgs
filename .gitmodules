@@ -19528,6 +19528,9 @@
 [submodule "phonetic"]
 	path = attic/phonetic
 	url = https://github.com/emacsattic/phonetic
+[submodule "phony"]
+	path = mirror/phony
+	url = https://github.com/emacsmirror/phony
 [submodule "php+-mode"]
 	path = attic/php+-mode
 	url = https://github.com/emacsattic/php-plus-mode
