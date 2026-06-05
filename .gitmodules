@@ -8344,6 +8344,9 @@
 [submodule "flame"]
 	path = mirror/flame
 	url = https://github.com/emacsmirror/flame
+[submodule "flamegraph"]
+	path = mirror/flamegraph
+	url = https://github.com/emacsmirror/flamegraph
 [submodule "flames-of-freedom"]
 	path = mirror/flames-of-freedom
 	url = https://github.com/emacsmirror/flames-of-freedom
