@@ -14707,6 +14707,9 @@
 [submodule "lsp-ltex"]
 	path = mirror/lsp-ltex
 	url = https://github.com/emacsmirror/lsp-ltex
+[submodule "lsp-ltex-plus"]
+	path = mirror/lsp-ltex-plus
+	url = https://github.com/emacsmirror/lsp-ltex-plus
 [submodule "lsp-metals"]
 	path = mirror/lsp-metals
 	url = https://github.com/emacsmirror/lsp-metals
