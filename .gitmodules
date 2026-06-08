@@ -4270,6 +4270,9 @@
 [submodule "cue-sheet-mode"]
 	path = mirror/cue-sheet-mode
 	url = https://github.com/emacsmirror/cue-sheet-mode
+[submodule "cui"]
+	path = mirror/cui
+	url = https://github.com/emacsmirror/cui
 [submodule "cui-about-me"]
 	path = attic/cui-about-me
 	url = https://github.com/emacsattic/cui-about-me
@@ -17083,9 +17086,6 @@
 [submodule "o-journal"]
 	path = attic/o-journal
 	url = https://github.com/emacsattic/o-journal
-[submodule "oai"]
-	path = mirror/oai
-	url = https://github.com/emacsmirror/oai
 [submodule "oauth"]
 	path = mirror/oauth
 	url = https://github.com/emacsmirror/oauth
