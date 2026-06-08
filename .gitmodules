@@ -14975,8 +14975,8 @@
 	path = mirror/magit-patch-changelog
 	url = https://github.com/emacsmirror/magit-patch-changelog
 [submodule "magit-popup"]
-	path = mirror/magit-popup
-	url = https://github.com/emacsmirror/magit-popup
+	path = attic/magit-popup
+	url = https://github.com/emacsattic/magit-popup
 [submodule "magit-pre-commit"]
 	path = mirror/magit-pre-commit
 	url = https://github.com/emacsmirror/magit-pre-commit
