@@ -1930,6 +1930,9 @@
 [submodule "blueprint-ts-mode"]
 	path = mirror/blueprint-ts-mode
 	url = https://github.com/emacsmirror/blueprint-ts-mode
+[submodule "bluesky"]
+	path = mirror/bluesky
+	url = https://github.com/emacsmirror/bluesky
 [submodule "bluesound"]
 	path = mirror/bluesound
 	url = https://github.com/emacsmirror/bluesound
