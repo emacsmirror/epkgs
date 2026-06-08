@@ -4813,6 +4813,9 @@
 [submodule "describe-number"]
 	path = mirror/describe-number
 	url = https://github.com/emacsmirror/describe-number
+[submodule "desert-theme"]
+	path = mirror/desert-theme
+	url = https://github.com/emacsmirror/desert-theme
 [submodule "desire"]
 	path = attic/desire
 	url = https://github.com/emacsattic/desire
