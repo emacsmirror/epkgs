@@ -22906,6 +22906,9 @@
 [submodule "slate-config-mode"]
 	path = mirror/slate-config-mode
 	url = https://github.com/emacsmirror/slate-config-mode
+[submodule "sleek-modeline"]
+	path = mirror/sleek-modeline
+	url = https://github.com/emacsmirror/sleek-modeline
 [submodule "slideview"]
 	path = mirror/slideview
 	url = https://github.com/emacsmirror/slideview
