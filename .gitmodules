@@ -8032,6 +8032,9 @@
 [submodule "fetch"]
 	path = mirror/fetch
 	url = https://github.com/emacsmirror/fetch
+[submodule "fetch-dom"]
+	path = mirror/fetch-dom
+	url = https://github.com/emacsmirror/fetch-dom
 [submodule "fetchmail-mode"]
 	path = attic/fetchmail-mode
 	url = https://github.com/emacsattic/fetchmail-mode
