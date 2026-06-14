@@ -17609,8 +17609,8 @@
 	path = attic/openpgp
 	url = https://github.com/emacsattic/openpgp
 [submodule "opensource"]
-	path = mirror/opensource
-	url = https://github.com/emacsmirror/opensource
+	path = attic/opensource
+	url = https://github.com/emacsattic/opensource
 [submodule "openssl-cipher"]
 	path = mirror/openssl-cipher
 	url = https://github.com/emacsmirror/openssl-cipher
