@@ -22310,8 +22310,8 @@
 	path = mirror/second-sel
 	url = https://github.com/emacsmirror/second-sel
 [submodule "secretaria"]
-	path = mirror/secretaria
-	url = https://github.com/emacsmirror/secretaria
+	path = attic/secretaria
+	url = https://github.com/emacsattic/secretaria
 [submodule "sed-mode"]
 	path = mirror/sed-mode
 	url = https://github.com/emacsmirror/sed-mode
