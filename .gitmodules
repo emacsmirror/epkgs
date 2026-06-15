@@ -20554,6 +20554,9 @@
 [submodule "puppet-ts-mode"]
 	path = mirror/puppet-ts-mode
 	url = https://github.com/emacsmirror/puppet-ts-mode
+[submodule "pure-light-theme"]
+	path = mirror/pure-light-theme
+	url = https://github.com/emacsmirror/pure-light-theme
 [submodule "purescript-mode"]
 	path = mirror/purescript-mode
 	url = https://github.com/emacsmirror/purescript-mode
