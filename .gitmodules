@@ -22588,6 +22588,9 @@
 [submodule "shenshou"]
 	path = mirror/shenshou
 	url = https://github.com/emacsmirror/shenshou
+[submodule "shexc-ts-mode"]
+	path = mirror/shexc-ts-mode
+	url = https://github.com/emacsmirror/shexc-ts-mode
 [submodule "shfmt"]
 	path = mirror/shfmt
 	url = https://github.com/emacsmirror/shfmt
