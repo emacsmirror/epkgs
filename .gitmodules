@@ -4009,6 +4009,9 @@
 [submodule "countdown"]
 	path = mirror/countdown
 	url = https://github.com/emacsmirror/countdown
+[submodule "countdown-modeline"]
+	path = mirror/countdown-modeline
+	url = https://github.com/emacsmirror/countdown-modeline
 [submodule "counter"]
 	path = attic/counter
 	url = https://github.com/emacsattic/counter
