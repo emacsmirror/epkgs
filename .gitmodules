@@ -14056,6 +14056,9 @@
 [submodule "leader-key"]
 	path = mirror/leader-key
 	url = https://github.com/emacsmirror/leader-key
+[submodule "leadkey"]
+	path = mirror/leadkey
+	url = https://github.com/emacsmirror/leadkey
 [submodule "leaf"]
 	path = mirror/leaf
 	url = https://github.com/emacsmirror/leaf
