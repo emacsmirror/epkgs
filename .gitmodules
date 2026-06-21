@@ -16948,6 +16948,9 @@
 [submodule "notmuch-maildir"]
 	path = mirror/notmuch-maildir
 	url = https://github.com/emacsmirror/notmuch-maildir
+[submodule "notmuch-multi"]
+	path = mirror/notmuch-multi
+	url = https://github.com/emacsmirror/notmuch-multi
 [submodule "notmuch-transient"]
 	path = mirror/notmuch-transient
 	url = https://github.com/emacsmirror/notmuch-transient
