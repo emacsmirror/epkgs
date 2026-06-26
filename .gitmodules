@@ -23965,6 +23965,9 @@
 [submodule "svelte-mode"]
 	path = mirror/svelte-mode
 	url = https://github.com/emacsmirror/svelte-mode
+[submodule "svg-aux"]
+	path = mirror/svg-aux
+	url = https://github.com/emacsmirror/svg-aux
 [submodule "svg-clock"]
 	path = mirror/svg-clock
 	url = https://github.com/emacsmirror/svg-clock
