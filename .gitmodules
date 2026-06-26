@@ -5969,8 +5969,8 @@
 	path = attic/edbi-sqlite
 	url = https://github.com/emacsattic/edbi-sqlite
 [submodule "ede-compdb"]
-	path = mirror/ede-compdb
-	url = https://github.com/emacsmirror/ede-compdb
+	path = attic/ede-compdb
+	url = https://github.com/emacsattic/ede-compdb
 [submodule "ede-php-autoload"]
 	path = mirror/ede-php-autoload
 	url = https://github.com/emacsmirror/ede-php-autoload
