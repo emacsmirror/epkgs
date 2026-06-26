@@ -22375,6 +22375,9 @@
 [submodule "seml-mode"]
 	path = mirror/seml-mode
 	url = https://github.com/emacsmirror/seml-mode
+[submodule "sendai-theme"]
+	path = mirror/sendai-theme
+	url = https://github.com/emacsmirror/sendai-theme
 [submodule "sendmail-alias"]
 	path = attic/sendmail-alias
 	url = https://github.com/emacsattic/sendmail-alias
