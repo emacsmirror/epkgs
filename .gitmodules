@@ -27448,6 +27448,9 @@
 [submodule "youtube-dl"]
 	path = mirror/youtube-dl
 	url = https://github.com/emacsmirror/youtube-dl
+[submodule "youtube-music"]
+	path = mirror/youtube-music
+	url = https://github.com/emacsmirror/youtube-music
 [submodule "youtube-sub-extractor"]
 	path = mirror/youtube-sub-extractor
 	url = https://github.com/emacsmirror/youtube-sub-extractor
