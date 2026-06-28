@@ -14365,6 +14365,9 @@
 [submodule "lisp-skels"]
 	path = attic/lisp-skels
 	url = https://github.com/emacsattic/lisp-skels
+[submodule "lisp-ts-mode"]
+	path = mirror/lisp-ts-mode
+	url = https://github.com/emacsmirror/lisp-ts-mode
 [submodule "lisppaste"]
 	path = attic/lisppaste
 	url = https://github.com/emacsattic/lisppaste
