@@ -9472,6 +9472,9 @@
 [submodule "fzf-native"]
 	path = mirror/fzf-native
 	url = https://github.com/emacsmirror/fzf-native
+[submodule "fzfa"]
+	path = mirror/fzfa
+	url = https://github.com/emacsmirror/fzfa
 [submodule "ga"]
 	path = mirror/ga
 	url = https://github.com/emacsmirror/ga
