@@ -9835,6 +9835,9 @@
 [submodule "git-msg-prefix"]
 	path = mirror/git-msg-prefix
 	url = https://github.com/emacsmirror/git-msg-prefix
+[submodule "git-overleaf"]
+	path = mirror/git-overleaf
+	url = https://github.com/emacsmirror/git-overleaf
 [submodule "git-ps1-mode"]
 	path = mirror/git-ps1-mode
 	url = https://github.com/emacsmirror/git-ps1-mode
