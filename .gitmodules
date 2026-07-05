@@ -365,8 +365,8 @@
 	path = mirror/afternoon-theme
 	url = https://github.com/emacsmirror/afternoon-theme
 [submodule "ag"]
-	path = mirror/ag
-	url = https://github.com/emacsmirror/ag
+	path = attic/ag
+	url = https://github.com/emacsattic/ag
 [submodule "agchat"]
 	path = attic/agchat
 	url = https://github.com/emacsattic/agchat
