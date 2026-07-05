@@ -1901,8 +1901,8 @@
 	path = mirror/block-nav
 	url = https://github.com/emacsmirror/block-nav
 [submodule "blockdiag-mode"]
-	path = mirror/blockdiag-mode
-	url = https://github.com/emacsmirror/blockdiag-mode
+	path = attic/blockdiag-mode
+	url = https://github.com/emacsattic/blockdiag-mode
 [submodule "blog"]
 	path = attic/blog
 	url = https://github.com/emacsattic/blog
