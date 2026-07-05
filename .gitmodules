@@ -13873,6 +13873,9 @@
 [submodule "kuronami-theme"]
 	path = mirror/kuronami-theme
 	url = https://github.com/emacsmirror/kuronami-theme
+[submodule "kusanagi-theme"]
+	path = mirror/kusanagi-theme
+	url = https://github.com/emacsmirror/kusanagi-theme
 [submodule "kv"]
 	path = mirror/kv
 	url = https://github.com/emacsmirror/kv
