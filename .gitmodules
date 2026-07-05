@@ -15943,6 +15943,9 @@
 [submodule "mongo"]
 	path = mirror/mongo
 	url = https://github.com/emacsmirror/mongo
+[submodule "mongodb"]
+	path = mirror/mongodb
+	url = https://github.com/emacsmirror/mongodb
 [submodule "mongolian"]
 	path = attic/mongolian
 	url = https://github.com/emacsattic/mongolian
