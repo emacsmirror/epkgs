@@ -12043,6 +12043,9 @@
 [submodule "huskie"]
 	path = mirror/huskie
 	url = https://github.com/emacsmirror/huskie
+[submodule "hutch"]
+	path = mirror/hutch
+	url = https://github.com/emacsmirror/hutch
 [submodule "hy-mode"]
 	path = mirror/hy-mode
 	url = https://github.com/emacsmirror/hy-mode
