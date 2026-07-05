@@ -2122,6 +2122,9 @@
 [submodule "browse-urn"]
 	path = attic/browse-urn
 	url = https://github.com/emacsattic/browse-urn
+[submodule "browsel"]
+	path = mirror/browsel
+	url = https://github.com/emacsmirror/browsel
 [submodule "browser-hist"]
 	path = mirror/browser-hist
 	url = https://github.com/emacsmirror/browser-hist
