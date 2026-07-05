@@ -17521,6 +17521,9 @@
 [submodule "ol-bible"]
 	path = mirror/ol-bible
 	url = https://github.com/emacsmirror/ol-bible
+[submodule "ol-locate-file"]
+	path = mirror/ol-locate-file
+	url = https://github.com/emacsmirror/ol-locate-file
 [submodule "ol-notmuch"]
 	path = mirror/ol-notmuch
 	url = https://github.com/emacsmirror/ol-notmuch
