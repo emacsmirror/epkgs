@@ -23665,6 +23665,9 @@
 [submodule "srht"]
 	path = mirror/srht
 	url = https://github.com/emacsmirror/srht
+[submodule "srs"]
+	path = mirror/srs
+	url = https://github.com/emacsmirror/srs
 [submodule "srv"]
 	path = mirror/srv
 	url = https://github.com/emacsmirror/srv
