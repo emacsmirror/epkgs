@@ -9139,6 +9139,9 @@
 [submodule "folio"]
 	path = attic/folio
 	url = https://github.com/emacsattic/folio
+[submodule "folio-theme"]
+	path = mirror/folio-theme
+	url = https://github.com/emacsmirror/folio-theme
 [submodule "follow-mouse"]
 	path = attic/follow-mouse
 	url = https://github.com/emacsattic/follow-mouse
