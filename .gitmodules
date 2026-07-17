@@ -15787,6 +15787,9 @@
 [submodule "mise"]
 	path = mirror/mise
 	url = https://github.com/emacsmirror/mise
+[submodule "mise-tasks"]
+	path = mirror/mise-tasks
+	url = https://github.com/emacsmirror/mise-tasks
 [submodule "mistty"]
 	path = mirror/mistty
 	url = https://github.com/emacsmirror/mistty
