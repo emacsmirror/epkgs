@@ -10933,9 +10933,6 @@
 [submodule "helix-theme"]
 	path = mirror/helix-theme
 	url = https://github.com/emacsmirror/helix-theme
-[submodule "helixel"]
-	path = mirror/helixel
-	url = https://github.com/emacsmirror/helixel
 [submodule "helm"]
 	path = mirror/helm
 	url = https://github.com/emacsmirror/helm
