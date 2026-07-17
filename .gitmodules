@@ -18913,6 +18913,9 @@
 [submodule "ox-minutes"]
 	path = mirror/ox-minutes
 	url = https://github.com/emacsmirror/ox-minutes
+[submodule "ox-mom"]
+	path = mirror/ox-mom
+	url = https://github.com/emacsmirror/ox-mom
 [submodule "ox-nikola"]
 	path = mirror/ox-nikola
 	url = https://github.com/emacsmirror/ox-nikola
