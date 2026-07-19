@@ -16960,6 +16960,9 @@
 [submodule "nose"]
 	path = attic/nose
 	url = https://github.com/emacsattic/nose
+[submodule "nostr-publish"]
+	path = mirror/nostr-publish
+	url = https://github.com/emacsmirror/nostr-publish
 [submodule "notebook"]
 	path = attic/notebook
 	url = https://github.com/emacsattic/notebook
