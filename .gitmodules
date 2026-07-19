@@ -18031,6 +18031,9 @@
 [submodule "org-hide-drawers"]
 	path = mirror/org-hide-drawers
 	url = https://github.com/emacsmirror/org-hide-drawers
+[submodule "org-history"]
+	path = mirror/org-history
+	url = https://github.com/emacsmirror/org-history
 [submodule "org-hlc"]
 	path = mirror/org-hlc
 	url = https://github.com/emacsmirror/org-hlc
