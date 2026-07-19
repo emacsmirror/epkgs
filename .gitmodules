@@ -18016,6 +18016,9 @@
 [submodule "org-gtd"]
 	path = mirror/org-gtd
 	url = https://github.com/emacsmirror/org-gtd
+[submodule "org-habit-ng"]
+	path = mirror/org-habit-ng
+	url = https://github.com/emacsmirror/org-habit-ng
 [submodule "org-habit-stats"]
 	path = mirror/org-habit-stats
 	url = https://github.com/emacsmirror/org-habit-stats
