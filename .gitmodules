@@ -3826,6 +3826,9 @@
 [submodule "contentswitch"]
 	path = attic/contentswitch
 	url = https://github.com/emacsattic/contentswitch
+[submodule "context-clues"]
+	path = mirror/context-clues
+	url = https://github.com/emacsmirror/context-clues
 [submodule "context-coloring"]
 	path = mirror/context-coloring
 	url = https://github.com/emacsmirror/context-coloring
