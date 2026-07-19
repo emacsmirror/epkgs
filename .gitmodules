@@ -16030,6 +16030,9 @@
 [submodule "moom"]
 	path = mirror/moom
 	url = https://github.com/emacsmirror/moom
+[submodule "moonbit-ts-mode"]
+	path = mirror/moonbit-ts-mode
+	url = https://github.com/emacsmirror/moonbit-ts-mode
 [submodule "moonscript"]
 	path = mirror/moonscript
 	url = https://github.com/emacsmirror/moonscript
