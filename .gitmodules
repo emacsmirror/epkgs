@@ -11854,6 +11854,9 @@
 [submodule "hnreader"]
 	path = mirror/hnreader
 	url = https://github.com/emacsmirror/hnreader
+[submodule "hnview"]
+	path = mirror/hnview
+	url = https://github.com/emacsmirror/hnview
 [submodule "hoa-mode"]
 	path = mirror/hoa-mode
 	url = https://github.com/emacsmirror/hoa-mode
