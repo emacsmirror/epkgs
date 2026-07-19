@@ -18172,6 +18172,9 @@
 [submodule "org-mind-map"]
 	path = mirror/org-mind-map
 	url = https://github.com/emacsmirror/org-mind-map
+[submodule "org-mindmap"]
+	path = mirror/org-mindmap
+	url = https://github.com/emacsmirror/org-mindmap
 [submodule "org-ml"]
 	path = mirror/org-ml
 	url = https://github.com/emacsmirror/org-ml
