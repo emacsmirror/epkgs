@@ -1864,6 +1864,9 @@
 [submodule "blackout"]
 	path = mirror/blackout
 	url = https://github.com/emacsmirror/blackout
+[submodule "blamee"]
+	path = mirror/blamee
+	url = https://github.com/emacsmirror/blamee
 [submodule "blamer"]
 	path = mirror/blamer
 	url = https://github.com/emacsmirror/blamer
