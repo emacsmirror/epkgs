@@ -16037,8 +16037,8 @@
 	path = mirror/moonscript
 	url = https://github.com/emacsmirror/moonscript
 [submodule "moonshot"]
-	path = mirror/moonshot
-	url = https://github.com/emacsmirror/moonshot
+	path = attic/moonshot
+	url = https://github.com/emacsattic/moonshot
 [submodule "morganey-mode"]
 	path = mirror/morganey-mode
 	url = https://github.com/emacsmirror/morganey-mode
