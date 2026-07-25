@@ -6785,8 +6785,8 @@
 	path = attic/emeteo
 	url = https://github.com/emacsattic/emeteo
 [submodule "emidje"]
-	path = mirror/emidje
-	url = https://github.com/emacsmirror/emidje
+	path = attic/emidje
+	url = https://github.com/emacsattic/emidje
 [submodule "emir"]
 	path = mirror/emir
 	url = https://github.com/emacsmirror/emir
