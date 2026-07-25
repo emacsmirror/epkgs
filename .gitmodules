@@ -19349,8 +19349,8 @@
 	path = mirror/pcmpl-args
 	url = https://github.com/emacsmirror/pcmpl-args
 [submodule "pcmpl-homebrew"]
-	path = mirror/pcmpl-homebrew
-	url = https://github.com/emacsmirror/pcmpl-homebrew
+	path = attic/pcmpl-homebrew
+	url = https://github.com/emacsattic/pcmpl-homebrew
 [submodule "pcmpl-pip"]
 	path = mirror/pcmpl-pip
 	url = https://github.com/emacsmirror/pcmpl-pip
