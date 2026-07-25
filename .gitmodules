@@ -19352,8 +19352,8 @@
 	path = attic/pcmpl-homebrew
 	url = https://github.com/emacsattic/pcmpl-homebrew
 [submodule "pcmpl-pip"]
-	path = mirror/pcmpl-pip
-	url = https://github.com/emacsmirror/pcmpl-pip
+	path = attic/pcmpl-pip
+	url = https://github.com/emacsattic/pcmpl-pip
 [submodule "pcomplete-extension"]
 	path = mirror/pcomplete-extension
 	url = https://github.com/emacsmirror/pcomplete-extension
