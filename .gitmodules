@@ -23305,6 +23305,9 @@
 [submodule "snipplr"]
 	path = mirror/snipplr
 	url = https://github.com/emacsmirror/snipplr
+[submodule "snippy"]
+	path = mirror/snippy
+	url = https://github.com/emacsmirror/snippy
 [submodule "snitch"]
 	path = mirror/snitch
 	url = https://github.com/emacsmirror/snitch
