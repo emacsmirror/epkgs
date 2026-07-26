@@ -9112,6 +9112,9 @@
 [submodule "fn"]
 	path = mirror/fn
 	url = https://github.com/emacsmirror/fn
+[submodule "fnm"]
+	path = mirror/fnm
+	url = https://github.com/emacsmirror/fnm
 [submodule "focus"]
 	path = mirror/focus
 	url = https://github.com/emacsmirror/focus
