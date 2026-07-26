@@ -20425,6 +20425,9 @@
 [submodule "project-treemacs"]
 	path = mirror/project-treemacs
 	url = https://github.com/emacsmirror/project-treemacs
+[submodule "project-x"]
+	path = mirror/project-x
+	url = https://github.com/emacsmirror/project-x
 [submodule "projectile"]
 	path = mirror/projectile
 	url = https://github.com/emacsmirror/projectile
