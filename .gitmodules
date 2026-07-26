@@ -10621,6 +10621,9 @@
 [submodule "growl"]
 	path = attic/growl
 	url = https://github.com/emacsattic/growl
+[submodule "grpclient"]
+	path = mirror/grpclient
+	url = https://github.com/emacsmirror/grpclient
 [submodule "grr"]
 	path = attic/grr
 	url = https://github.com/emacsattic/grr
