@@ -13681,6 +13681,9 @@
 [submodule "keychain-environment"]
 	path = mirror/keychain-environment
 	url = https://github.com/emacsmirror/keychain-environment
+[submodule "keycoach"]
+	path = mirror/keycoach
+	url = https://github.com/emacsmirror/keycoach
 [submodule "keydef"]
 	path = mirror/keydef
 	url = https://github.com/emacsmirror/keydef
