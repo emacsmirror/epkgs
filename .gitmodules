@@ -10627,6 +10627,9 @@
 [submodule "grr"]
 	path = attic/grr
 	url = https://github.com/emacsattic/grr
+[submodule "gruber-darker-ayu-theme"]
+	path = mirror/gruber-darker-ayu-theme
+	url = https://github.com/emacsmirror/gruber-darker-ayu-theme
 [submodule "gruber-darker-theme"]
 	path = mirror/gruber-darker-theme
 	url = https://github.com/emacsmirror/gruber-darker-theme
