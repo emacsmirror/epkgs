@@ -23104,6 +23104,9 @@
 [submodule "sm-c-mode"]
 	path = mirror/sm-c-mode
 	url = https://github.com/emacsmirror/sm-c-mode
+[submodule "smali-mode"]
+	path = mirror/smali-mode
+	url = https://github.com/emacsmirror/smali-mode
 [submodule "smalltalk-mode"]
 	path = mirror/smalltalk-mode
 	url = https://github.com/emacsmirror/smalltalk-mode
