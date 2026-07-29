@@ -21766,9 +21766,6 @@
 [submodule "rimel"]
 	path = mirror/rimel
 	url = https://github.com/emacsmirror/rimel
-[submodule "rimero-theme"]
-	path = mirror/rimero-theme
-	url = https://github.com/emacsmirror/rimero-theme
 [submodule "rinari"]
 	path = mirror/rinari
 	url = https://github.com/emacsmirror/rinari
