@@ -7927,9 +7927,6 @@
 [submodule "factlog"]
 	path = mirror/factlog
 	url = https://github.com/emacsmirror/factlog
-[submodule "faff-theme"]
-	path = mirror/faff-theme
-	url = https://github.com/emacsmirror/faff-theme
 [submodule "faith"]
 	path = attic/faith
 	url = https://github.com/emacsattic/faith
