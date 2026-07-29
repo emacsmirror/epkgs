@@ -22891,6 +22891,9 @@
 [submodule "simple-paren"]
 	path = mirror/simple-paren
 	url = https://github.com/emacsmirror/simple-paren
+[submodule "simple-pass"]
+	path = mirror/simple-pass
+	url = https://github.com/emacsmirror/simple-pass
 [submodule "simple-rtm"]
 	path = mirror/simple-rtm
 	url = https://github.com/emacsmirror/simple-rtm
