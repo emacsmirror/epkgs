@@ -3232,6 +3232,9 @@
 [submodule "codex-cli"]
 	path = mirror/codex-cli
 	url = https://github.com/emacsmirror/codex-cli
+[submodule "codex-ide"]
+	path = mirror/codex-ide
+	url = https://github.com/emacsmirror/codex-ide
 [submodule "codex-theme"]
 	path = mirror/codex-theme
 	url = https://github.com/emacsmirror/codex-theme
