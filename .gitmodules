@@ -11584,6 +11584,9 @@
 [submodule "hercules"]
 	path = mirror/hercules
 	url = https://github.com/emacsmirror/hercules
+[submodule "hermes"]
+	path = mirror/hermes
+	url = https://github.com/emacsmirror/hermes
 [submodule "heroku"]
 	path = mirror/heroku
 	url = https://github.com/emacsmirror/heroku
