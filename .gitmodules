@@ -17206,6 +17206,9 @@
 [submodule "ob-ada-spark"]
 	path = mirror/ob-ada-spark
 	url = https://github.com/emacsmirror/ob-ada-spark
+[submodule "ob-agent-shell"]
+	path = mirror/ob-agent-shell
+	url = https://github.com/emacsmirror/ob-agent-shell
 [submodule "ob-aider"]
 	path = mirror/ob-aider
 	url = https://github.com/emacsmirror/ob-aider
