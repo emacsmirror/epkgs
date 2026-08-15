@@ -20515,6 +20515,9 @@
 [submodule "prompts"]
 	path = mirror/prompts
 	url = https://github.com/emacsmirror/prompts
+[submodule "promptu"]
+	path = mirror/promptu
+	url = https://github.com/emacsmirror/promptu
 [submodule "pronto"]
 	path = mirror/pronto
 	url = https://github.com/emacsmirror/pronto
