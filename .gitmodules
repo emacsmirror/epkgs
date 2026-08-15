@@ -10538,8 +10538,8 @@
 	path = mirror/grass-mode
 	url = https://github.com/emacsmirror/grass-mode
 [submodule "grayscale-theme"]
-	path = mirror/grayscale-theme
-	url = https://github.com/emacsmirror/grayscale-theme
+	path = attic/grayscale-theme
+	url = https://github.com/emacsattic/grayscale-theme
 [submodule "grc"]
 	path = attic/grc
 	url = https://github.com/emacsattic/grc
