@@ -17047,6 +17047,9 @@
 [submodule "novice+"]
 	path = mirror/novice+
 	url = https://github.com/emacsmirror/novice-plus
+[submodule "now-playing"]
+	path = mirror/now-playing
+	url = https://github.com/emacsmirror/now-playing
 [submodule "noweb"]
 	path = attic/noweb
 	url = https://github.com/emacsattic/noweb
