@@ -17107,6 +17107,9 @@
 [submodule "nu-mode"]
 	path = mirror/nu-mode
 	url = https://github.com/emacsmirror/nu-mode
+[submodule "nu-ts-mode"]
+	path = mirror/nu-ts-mode
+	url = https://github.com/emacsmirror/nu-ts-mode
 [submodule "nubox"]
 	path = mirror/nubox
 	url = https://github.com/emacsmirror/nubox
