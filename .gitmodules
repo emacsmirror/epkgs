@@ -21049,6 +21049,9 @@
 [submodule "r-autoyas"]
 	path = mirror/r-autoyas
 	url = https://github.com/emacsmirror/r-autoyas
+[submodule "r-ts-mode"]
+	path = mirror/r-ts-mode
+	url = https://github.com/emacsmirror/r-ts-mode
 [submodule "racer"]
 	path = mirror/racer
 	url = https://github.com/emacsmirror/racer
