@@ -1837,6 +1837,9 @@
 [submodule "bitbucket"]
 	path = attic/bitbucket
 	url = https://github.com/emacsattic/bitbucket
+[submodule "bitbucket-devops"]
+	path = mirror/bitbucket-devops
+	url = https://github.com/emacsmirror/bitbucket-devops
 [submodule "bitlbee"]
 	path = mirror/bitlbee
 	url = https://github.com/emacsmirror/bitlbee
