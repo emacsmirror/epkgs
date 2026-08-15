@@ -23008,6 +23008,9 @@
 [submodule "slamhound"]
 	path = attic/slamhound
 	url = https://github.com/emacsattic/slamhound
+[submodule "slang-ts-mode"]
+	path = mirror/slang-ts-mode
+	url = https://github.com/emacsmirror/slang-ts-mode
 [submodule "slashdot"]
 	path = attic/slashdot
 	url = https://github.com/emacsattic/slashdot
