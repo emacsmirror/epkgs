@@ -21880,6 +21880,9 @@
 [submodule "ron-mode"]
 	path = mirror/ron-mode
 	url = https://github.com/emacsmirror/ron-mode
+[submodule "ronny-theme"]
+	path = mirror/ronny-theme
+	url = https://github.com/emacsmirror/ronny-theme
 [submodule "rope-read-mode"]
 	path = mirror/rope-read-mode
 	url = https://github.com/emacsmirror/rope-read-mode
