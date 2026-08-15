@@ -4816,6 +4816,9 @@
 [submodule "denote-silo"]
 	path = mirror/denote-silo
 	url = https://github.com/emacsmirror/denote-silo
+[submodule "denote-smart-sluggify-title"]
+	path = mirror/denote-smart-sluggify-title
+	url = https://github.com/emacsmirror/denote-smart-sluggify-title
 [submodule "denote-solo"]
 	path = mirror/denote-solo
 	url = https://github.com/emacsmirror/denote-solo
