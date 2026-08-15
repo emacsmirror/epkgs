@@ -19786,6 +19786,9 @@
 [submodule "pilot-memo"]
 	path = attic/pilot-memo
 	url = https://github.com/emacsattic/pilot-memo
+[submodule "pimacs"]
+	path = mirror/pimacs
+	url = https://github.com/emacsmirror/pimacs
 [submodule "pinbar"]
 	path = mirror/pinbar
 	url = https://github.com/emacsmirror/pinbar
