@@ -10516,6 +10516,9 @@
 [submodule "grandshell-theme"]
 	path = mirror/grandshell-theme
 	url = https://github.com/emacsmirror/grandshell-theme
+[submodule "graph-fa2"]
+	path = mirror/graph-fa2
+	url = https://github.com/emacsmirror/graph-fa2
 [submodule "graphene"]
 	path = mirror/graphene
 	url = https://github.com/emacsmirror/graphene
