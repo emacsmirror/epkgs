@@ -19612,6 +19612,9 @@
 [submodule "pgrok"]
 	path = mirror/pgrok
 	url = https://github.com/emacsmirror/pgrok
+[submodule "pgsql"]
+	path = mirror/pgsql
+	url = https://github.com/emacsmirror/pgsql
 [submodule "pgsql-linum-format"]
 	path = mirror/pgsql-linum-format
 	url = https://github.com/emacsmirror/pgsql-linum-format
