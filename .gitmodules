@@ -17350,6 +17350,9 @@
 [submodule "ob-ipython"]
 	path = mirror/ob-ipython
 	url = https://github.com/emacsmirror/ob-ipython
+[submodule "ob-janet"]
+	path = mirror/ob-janet
+	url = https://github.com/emacsmirror/ob-janet
 [submodule "ob-julia-vterm"]
 	path = mirror/ob-julia-vterm
 	url = https://github.com/emacsmirror/ob-julia-vterm
