@@ -26239,6 +26239,9 @@
 [submodule "vi-tilde-fringe"]
 	path = mirror/vi-tilde-fringe
 	url = https://github.com/emacsmirror/vi-tilde-fringe
+[submodule "vice-mode"]
+	path = mirror/vice-mode
+	url = https://github.com/emacsmirror/vice-mode
 [submodule "view-tp"]
 	path = attic/view-tp
 	url = https://github.com/emacsattic/view-tp
