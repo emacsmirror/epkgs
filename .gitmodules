@@ -673,6 +673,9 @@
 [submodule "annotate-depth"]
 	path = mirror/annotate-depth
 	url = https://github.com/emacsmirror/annotate-depth
+[submodule "annotated-completing-read"]
+	path = mirror/annotated-completing-read
+	url = https://github.com/emacsmirror/annotated-completing-read
 [submodule "annoying-arrows-mode"]
 	path = mirror/annoying-arrows-mode
 	url = https://github.com/emacsmirror/annoying-arrows-mode
