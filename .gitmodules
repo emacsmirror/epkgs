@@ -2503,6 +2503,9 @@
 [submodule "carbon-now-sh"]
 	path = mirror/carbon-now-sh
 	url = https://github.com/emacsmirror/carbon-now-sh
+[submodule "card-games"]
+	path = mirror/card-games
+	url = https://github.com/emacsmirror/card-games
 [submodule "cardano-tx"]
 	path = mirror/cardano-tx
 	url = https://github.com/emacsmirror/cardano-tx
