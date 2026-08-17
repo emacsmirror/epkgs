@@ -1276,6 +1276,9 @@
 [submodule "auto-show-doc"]
 	path = attic/auto-show-doc
 	url = https://github.com/emacsattic/auto-show-doc
+[submodule "auto-side-windows"]
+	path = mirror/auto-side-windows
+	url = https://github.com/emacsmirror/auto-side-windows
 [submodule "auto-sort-mode"]
 	path = mirror/auto-sort-mode
 	url = https://github.com/emacsmirror/auto-sort-mode
