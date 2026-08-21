@@ -5494,6 +5494,9 @@
 [submodule "doom"]
 	path = mirror/doom
 	url = https://github.com/emacsmirror/doom
+[submodule "doom-game"]
+	path = mirror/doom-game
+	url = https://github.com/emacsmirror/doom-game
 [submodule "doom-modeline"]
 	path = mirror/doom-modeline
 	url = https://github.com/emacsmirror/doom-modeline
