@@ -18532,9 +18532,6 @@
 [submodule "org-superstar"]
 	path = mirror/org-superstar
 	url = https://github.com/emacsmirror/org-superstar
-[submodule "org-supertag"]
-	path = mirror/org-supertag
-	url = https://github.com/emacsmirror/org-supertag
 [submodule "org-sync"]
 	path = mirror/org-sync
 	url = https://github.com/emacsmirror/org-sync
@@ -24109,6 +24106,9 @@
 [submodule "supergenpass"]
 	path = attic/supergenpass
 	url = https://github.com/emacsattic/supergenpass
+[submodule "supertag"]
+	path = mirror/supertag
+	url = https://github.com/emacsmirror/supertag
 [submodule "surround"]
 	path = mirror/surround
 	url = https://github.com/emacsmirror/surround
