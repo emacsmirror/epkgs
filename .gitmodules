@@ -8953,6 +8953,9 @@
 [submodule "flymake-haml"]
 	path = mirror/flymake-haml
 	url = https://github.com/emacsmirror/flymake-haml
+[submodule "flymake-harper"]
+	path = mirror/flymake-harper
+	url = https://github.com/emacsmirror/flymake-harper
 [submodule "flymake-haskell-multi"]
 	path = mirror/flymake-haskell-multi
 	url = https://github.com/emacsmirror/flymake-haskell-multi
