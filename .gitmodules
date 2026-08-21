@@ -20464,6 +20464,9 @@
 [submodule "project-shells"]
 	path = mirror/project-shells
 	url = https://github.com/emacsmirror/project-shells
+[submodule "project-store"]
+	path = mirror/project-store
+	url = https://github.com/emacsmirror/project-store
 [submodule "project-tab-groups"]
 	path = mirror/project-tab-groups
 	url = https://github.com/emacsmirror/project-tab-groups
