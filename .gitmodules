@@ -22318,6 +22318,9 @@
 [submodule "scheme48"]
 	path = attic/scheme48
 	url = https://github.com/emacsattic/scheme48
+[submodule "schlau-compile"]
+	path = mirror/schlau-compile
+	url = https://github.com/emacsmirror/schlau-compile
 [submodule "scholar-import"]
 	path = mirror/scholar-import
 	url = https://github.com/emacsmirror/scholar-import
