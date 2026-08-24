@@ -16312,6 +16312,9 @@
 [submodule "mu4e-alert"]
 	path = mirror/mu4e-alert
 	url = https://github.com/emacsmirror/mu4e-alert
+[submodule "mu4e-autotask"]
+	path = mirror/mu4e-autotask
+	url = https://github.com/emacsmirror/mu4e-autotask
 [submodule "mu4e-column-faces"]
 	path = mirror/mu4e-column-faces
 	url = https://github.com/emacsmirror/mu4e-column-faces
