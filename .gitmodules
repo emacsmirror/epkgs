@@ -20735,8 +20735,8 @@
 	path = mirror/pushbullet
 	url = https://github.com/emacsmirror/pushbullet
 [submodule "pushover"]
-	path = mirror/pushover
-	url = https://github.com/emacsmirror/pushover
+	path = attic/pushover
+	url = https://github.com/emacsattic/pushover
 [submodule "pushy"]
 	path = attic/pushy
 	url = https://github.com/emacsattic/pushy
