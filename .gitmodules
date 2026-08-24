@@ -3746,8 +3746,8 @@
 	path = mirror/consult
 	url = https://github.com/emacsmirror/consult
 [submodule "consult-ag"]
-	path = mirror/consult-ag
-	url = https://github.com/emacsmirror/consult-ag
+	path = attic/consult-ag
+	url = https://github.com/emacsattic/consult-ag
 [submodule "consult-codesearch"]
 	path = mirror/consult-codesearch
 	url = https://github.com/emacsmirror/consult-codesearch
