@@ -10723,6 +10723,9 @@
 [submodule "guake"]
 	path = mirror/guake
 	url = https://github.com/emacsmirror/guake
+[submodule "guard"]
+	path = mirror/guard
+	url = https://github.com/emacsmirror/guard
 [submodule "guava-themes"]
 	path = mirror/guava-themes
 	url = https://github.com/emacsmirror/guava-themes
