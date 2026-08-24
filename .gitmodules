@@ -2215,9 +2215,6 @@
 [submodule "buffer-ring"]
 	path = mirror/buffer-ring
 	url = https://github.com/emacsmirror/buffer-ring
-[submodule "buffer-sets"]
-	path = mirror/buffer-sets
-	url = https://github.com/emacsmirror/buffer-sets
 [submodule "buffer-stack"]
 	path = attic/buffer-stack
 	url = https://github.com/emacsattic/buffer-stack
@@ -27862,3 +27859,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = https://github.com/emacsmirror/zzz-to-char
+[submodule "buffer-sets"]
+	path = mirror/buffer-sets
+	url = https://github.com/emacsmirror/buffer-sets
