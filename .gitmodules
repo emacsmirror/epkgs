@@ -10483,6 +10483,9 @@
 [submodule "gptel-agent"]
 	path = mirror/gptel-agent
 	url = https://github.com/emacsmirror/gptel-agent
+[submodule "gptel-agent-harness"]
+	path = mirror/gptel-agent-harness
+	url = https://github.com/emacsmirror/gptel-agent-harness
 [submodule "gptel-aibo"]
 	path = mirror/gptel-aibo
 	url = https://github.com/emacsmirror/gptel-aibo
