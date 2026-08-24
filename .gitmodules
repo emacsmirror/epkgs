@@ -19507,6 +19507,9 @@
 [submodule "pepita"]
 	path = mirror/pepita
 	url = https://github.com/emacsmirror/pepita
+[submodule "peppers-theme"]
+	path = mirror/peppers-theme
+	url = https://github.com/emacsmirror/peppers-theme
 [submodule "per-buffer-theme"]
 	path = mirror/per-buffer-theme
 	url = https://github.com/emacsmirror/per-buffer-theme
