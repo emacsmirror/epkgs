@@ -6127,6 +6127,9 @@
 [submodule "efine"]
 	path = attic/efine
 	url = https://github.com/emacsattic/efine
+[submodule "efinger"]
+	path = mirror/efinger
+	url = https://github.com/emacsmirror/efinger
 [submodule "efire"]
 	path = mirror/efire
 	url = https://github.com/emacsmirror/efire
