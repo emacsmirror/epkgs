@@ -22699,6 +22699,9 @@
 [submodule "sharper"]
 	path = mirror/sharper
 	url = https://github.com/emacsmirror/sharper
+[submodule "shazam"]
+	path = mirror/shazam
+	url = https://github.com/emacsmirror/shazam
 [submodule "shelisp"]
 	path = mirror/shelisp
 	url = https://github.com/emacsmirror/shelisp
