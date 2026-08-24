@@ -2137,6 +2137,9 @@
 [submodule "browsel"]
 	path = mirror/browsel
 	url = https://github.com/emacsmirror/browsel
+[submodule "browser-gt"]
+	path = mirror/browser-gt
+	url = https://github.com/emacsmirror/browser-gt
 [submodule "browser-hist"]
 	path = mirror/browser-hist
 	url = https://github.com/emacsmirror/browser-hist
