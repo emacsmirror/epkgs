@@ -4438,6 +4438,9 @@
 [submodule "cypher-mode"]
 	path = mirror/cypher-mode
 	url = https://github.com/emacsmirror/cypher-mode
+[submodule "cypher-ts-mode"]
+	path = mirror/cypher-ts-mode
+	url = https://github.com/emacsmirror/cypher-ts-mode
 [submodule "cython-mode"]
 	path = mirror/cython-mode
 	url = https://github.com/emacsmirror/cython-mode
