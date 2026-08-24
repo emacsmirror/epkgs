@@ -15769,6 +15769,9 @@
 [submodule "minibuffer-cua"]
 	path = mirror/minibuffer-cua
 	url = https://github.com/emacsmirror/minibuffer-cua
+[submodule "minibuffer-frame"]
+	path = mirror/minibuffer-frame
+	url = https://github.com/emacsmirror/minibuffer-frame
 [submodule "minibuffer-header"]
 	path = mirror/minibuffer-header
 	url = https://github.com/emacsmirror/minibuffer-header
