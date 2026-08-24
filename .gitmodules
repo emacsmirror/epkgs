@@ -12173,8 +12173,8 @@
 	path = mirror/i3bar
 	url = https://github.com/emacsmirror/i3bar
 [submodule "i3wm"]
-	path = mirror/i3wm
-	url = https://github.com/emacsmirror/i3wm
+	path = attic/i3wm
+	url = https://github.com/emacsattic/i3wm
 [submodule "i3wm-config-mode"]
 	path = mirror/i3wm-config-mode
 	url = https://github.com/emacsmirror/i3wm-config-mode
