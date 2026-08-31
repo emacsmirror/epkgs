@@ -9451,6 +9451,9 @@
 [submodule "full-ack"]
 	path = mirror/full-ack
 	url = https://github.com/emacsmirror/full-ack
+[submodule "full-gtd"]
+	path = mirror/full-gtd
+	url = https://github.com/emacsmirror/full-gtd
 [submodule "fullframe"]
 	path = mirror/fullframe
 	url = https://github.com/emacsmirror/fullframe
