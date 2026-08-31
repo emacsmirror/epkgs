@@ -15004,6 +15004,9 @@
 [submodule "mag-menu"]
 	path = mirror/mag-menu
 	url = https://github.com/emacsmirror/mag-menu
+[submodule "magent"]
+	path = mirror/magent
+	url = https://github.com/emacsmirror/magent
 [submodule "magic-filetype"]
 	path = mirror/magic-filetype
 	url = https://github.com/emacsmirror/magic-filetype
