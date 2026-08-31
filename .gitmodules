@@ -18451,6 +18451,9 @@
 [submodule "org-reflect"]
 	path = mirror/org-reflect
 	url = https://github.com/emacsmirror/org-reflect
+[submodule "org-relative-date"]
+	path = mirror/org-relative-date
+	url = https://github.com/emacsmirror/org-relative-date
 [submodule "org-remark"]
 	path = mirror/org-remark
 	url = https://github.com/emacsmirror/org-remark
