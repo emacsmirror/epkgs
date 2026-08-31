@@ -6184,6 +6184,9 @@
 [submodule "eglot-typescript-preset"]
 	path = mirror/eglot-typescript-preset
 	url = https://github.com/emacsmirror/eglot-typescript-preset
+[submodule "eglotx"]
+	path = mirror/eglotx
+	url = https://github.com/emacsmirror/eglotx
 [submodule "ego"]
 	path = mirror/ego
 	url = https://github.com/emacsmirror/ego
