@@ -18004,6 +18004,9 @@
 [submodule "org-dp"]
 	path = mirror/org-dp
 	url = https://github.com/emacsmirror/org-dp
+[submodule "org-draw"]
+	path = mirror/org-draw
+	url = https://github.com/emacsmirror/org-draw
 [submodule "org-drawio"]
 	path = mirror/org-drawio
 	url = https://github.com/emacsmirror/org-drawio
