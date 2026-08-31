@@ -14080,6 +14080,9 @@
 [submodule "latex-table-wizard"]
 	path = mirror/latex-table-wizard
 	url = https://github.com/emacsmirror/latex-table-wizard
+[submodule "latex-to-svg-backend"]
+	path = mirror/latex-to-svg-backend
+	url = https://github.com/emacsmirror/latex-to-svg-backend
 [submodule "latex-toolbar"]
 	path = attic/latex-toolbar
 	url = https://github.com/emacsattic/latex-toolbar
