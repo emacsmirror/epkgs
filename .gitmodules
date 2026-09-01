@@ -8078,8 +8078,8 @@
 	path = mirror/festival
 	url = https://github.com/emacsmirror/festival
 [submodule "fetch"]
-	path = mirror/fetch
-	url = https://github.com/emacsmirror/fetch
+	path = attic/fetch
+	url = https://github.com/emacsattic/fetch
 [submodule "fetch-dom"]
 	path = mirror/fetch-dom
 	url = https://github.com/emacsmirror/fetch-dom
