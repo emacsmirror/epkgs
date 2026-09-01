@@ -8906,8 +8906,8 @@
 	path = mirror/flymake-cursor
 	url = https://github.com/emacsmirror/flymake-cursor
 [submodule "flymake-diagnostic-at-point"]
-	path = mirror/flymake-diagnostic-at-point
-	url = https://github.com/emacsmirror/flymake-diagnostic-at-point
+	path = attic/flymake-diagnostic-at-point
+	url = https://github.com/emacsattic/flymake-diagnostic-at-point
 [submodule "flymake-eask"]
 	path = mirror/flymake-eask
 	url = https://github.com/emacsmirror/flymake-eask
