@@ -26176,9 +26176,6 @@
 [submodule "vc-partial-commit"]
 	path = mirror/vc-partial-commit
 	url = https://github.com/emacsmirror/vc-partial-commit
-[submodule "vc-sapling"]
-	path = mirror/vc-sapling
-	url = https://github.com/emacsmirror/vc-sapling
 [submodule "vcard"]
 	path = mirror/vcard
 	url = https://github.com/emacsmirror/vcard
