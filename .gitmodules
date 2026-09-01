@@ -22219,9 +22219,6 @@
 [submodule "sane-term"]
 	path = attic/sane-term
 	url = https://github.com/emacsattic/sane-term
-[submodule "sapling"]
-	path = mirror/sapling
-	url = https://github.com/emacsmirror/sapling
 [submodule "sas"]
 	path = attic/sas
 	url = https://github.com/emacsattic/sas
