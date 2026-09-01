@@ -5441,8 +5441,8 @@
 	path = mirror/docker-cli
 	url = https://github.com/emacsmirror/docker-cli
 [submodule "docker-compose-mode"]
-	path = mirror/docker-compose-mode
-	url = https://github.com/emacsmirror/docker-compose-mode
+	path = attic/docker-compose-mode
+	url = https://github.com/emacsattic/docker-compose-mode
 [submodule "docker-tramp"]
 	path = mirror/docker-tramp
 	url = https://github.com/emacsmirror/docker-tramp
