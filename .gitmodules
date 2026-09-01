@@ -5369,8 +5369,8 @@
 	path = mirror/djvu
 	url = https://github.com/emacsmirror/djvu
 [submodule "dkdo"]
-	path = mirror/dkdo
-	url = https://github.com/emacsmirror/dkdo
+	path = attic/dkdo
+	url = https://github.com/emacsattic/dkdo
 [submodule "dkl"]
 	path = mirror/dkl
 	url = https://github.com/emacsmirror/dkl
