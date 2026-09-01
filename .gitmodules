@@ -5378,8 +5378,8 @@
 	path = attic/dklrt
 	url = https://github.com/emacsattic/dklrt
 [submodule "dkmisc"]
-	path = mirror/dkmisc
-	url = https://github.com/emacsmirror/dkmisc
+	path = attic/dkmisc
+	url = https://github.com/emacsattic/dkmisc
 [submodule "dmacro"]
 	path = mirror/dmacro
 	url = https://github.com/emacsmirror/dmacro
