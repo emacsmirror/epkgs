@@ -16562,8 +16562,8 @@
 	path = mirror/mykie
 	url = https://github.com/emacsmirror/mykie
 [submodule "mynt-mode"]
-	path = mirror/mynt-mode
-	url = https://github.com/emacsmirror/mynt-mode
+	path = attic/mynt-mode
+	url = https://github.com/emacsattic/mynt-mode
 [submodule "myrddin-mode"]
 	path = mirror/myrddin-mode
 	url = https://github.com/emacsmirror/myrddin-mode
