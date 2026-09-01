@@ -5375,8 +5375,8 @@
 	path = mirror/dkl
 	url = https://github.com/emacsmirror/dkl
 [submodule "dklrt"]
-	path = mirror/dklrt
-	url = https://github.com/emacsmirror/dklrt
+	path = attic/dklrt
+	url = https://github.com/emacsattic/dklrt
 [submodule "dkmisc"]
 	path = mirror/dkmisc
 	url = https://github.com/emacsmirror/dkmisc
