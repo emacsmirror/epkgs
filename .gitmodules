@@ -4357,6 +4357,9 @@
 [submodule "cursor-undo"]
 	path = mirror/cursor-undo
 	url = https://github.com/emacsmirror/cursor-undo
+[submodule "cursorfree"]
+	path = mirror/cursorfree
+	url = https://github.com/emacsmirror/cursorfree
 [submodule "cursory"]
 	path = mirror/cursory
 	url = https://github.com/emacsmirror/cursory
