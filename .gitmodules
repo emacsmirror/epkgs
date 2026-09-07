@@ -16003,6 +16003,9 @@
 [submodule "mode-line-maker"]
 	path = mirror/mode-line-maker
 	url = https://github.com/emacsmirror/mode-line-maker
+[submodule "mode-line-path"]
+	path = mirror/mode-line-path
+	url = https://github.com/emacsmirror/mode-line-path
 [submodule "modelica-mode"]
 	path = mirror/modelica-mode
 	url = https://github.com/emacsmirror/modelica-mode
