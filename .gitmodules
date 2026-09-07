@@ -391,6 +391,9 @@
 [submodule "agent-shell"]
 	path = mirror/agent-shell
 	url = https://github.com/emacsmirror/agent-shell
+[submodule "agent-shell-math-renderer"]
+	path = mirror/agent-shell-math-renderer
+	url = https://github.com/emacsmirror/agent-shell-math-renderer
 [submodule "aggressive-completion"]
 	path = mirror/aggressive-completion
 	url = https://github.com/emacsmirror/aggressive-completion
