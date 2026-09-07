@@ -24184,6 +24184,9 @@
 [submodule "surround"]
 	path = mirror/surround
 	url = https://github.com/emacsmirror/surround
+[submodule "surveyor"]
+	path = mirror/surveyor
+	url = https://github.com/emacsmirror/surveyor
 [submodule "suscolors-theme"]
 	path = mirror/suscolors-theme
 	url = https://github.com/emacsmirror/suscolors-theme
