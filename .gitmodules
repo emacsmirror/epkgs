@@ -13190,8 +13190,8 @@
 	path = attic/javadoc-help
 	url = https://github.com/emacsattic/javadoc-help
 [submodule "javadoc-lookup"]
-	path = mirror/javadoc-lookup
-	url = https://github.com/emacsmirror/javadoc-lookup
+	path = attic/javadoc-lookup
+	url = https://github.com/emacsattic/javadoc-lookup
 [submodule "javaimp"]
 	path = mirror/javaimp
 	url = https://github.com/emacsmirror/javaimp
