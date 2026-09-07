@@ -18496,6 +18496,9 @@
 [submodule "org-roam-bibtex"]
 	path = mirror/org-roam-bibtex
 	url = https://github.com/emacsmirror/org-roam-bibtex
+[submodule "org-roam-gt"]
+	path = mirror/org-roam-gt
+	url = https://github.com/emacsmirror/org-roam-gt
 [submodule "org-roam-latte"]
 	path = mirror/org-roam-latte
 	url = https://github.com/emacsmirror/org-roam-latte
