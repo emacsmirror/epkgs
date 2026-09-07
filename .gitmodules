@@ -15694,6 +15694,9 @@
 [submodule "metronome"]
 	path = mirror/metronome
 	url = https://github.com/emacsmirror/metronome
+[submodule "metropolis-light-theme"]
+	path = mirror/metropolis-light-theme
+	url = https://github.com/emacsmirror/metropolis-light-theme
 [submodule "mew"]
 	path = mirror/mew
 	url = https://github.com/emacsmirror/mew
