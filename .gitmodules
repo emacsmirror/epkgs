@@ -1294,6 +1294,9 @@
 [submodule "auto-sudoedit"]
 	path = mirror/auto-sudoedit
 	url = https://github.com/emacsmirror/auto-sudoedit
+[submodule "auto-tab-groups"]
+	path = mirror/auto-tab-groups
+	url = https://github.com/emacsmirror/auto-tab-groups
 [submodule "auto-virtualenv"]
 	path = mirror/auto-virtualenv
 	url = https://github.com/emacsmirror/auto-virtualenv
