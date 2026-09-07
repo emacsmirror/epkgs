@@ -5456,8 +5456,8 @@
 	path = attic/docker-compose-mode
 	url = https://github.com/emacsattic/docker-compose-mode
 [submodule "docker-tramp"]
-	path = mirror/docker-tramp
-	url = https://github.com/emacsmirror/docker-tramp
+	path = attic/docker-tramp
+	url = https://github.com/emacsattic/docker-tramp
 [submodule "dockerfile-mode"]
 	path = mirror/dockerfile-mode
 	url = https://github.com/emacsmirror/dockerfile-mode
