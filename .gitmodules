@@ -22370,8 +22370,8 @@
 	path = mirror/schrute
 	url = https://github.com/emacsmirror/schrute
 [submodule "scihub"]
-	path = mirror/scihub
-	url = https://github.com/emacsmirror/scihub
+	path = attic/scihub
+	url = https://github.com/emacsattic/scihub
 [submodule "scim-bridge"]
 	path = attic/scim-bridge
 	url = https://github.com/emacsattic/scim-bridge
