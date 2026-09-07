@@ -787,6 +787,9 @@
 [submodule "apheleia"]
 	path = mirror/apheleia
 	url = https://github.com/emacsmirror/apheleia
+[submodule "api-credit"]
+	path = mirror/api-credit
+	url = https://github.com/emacsmirror/api-credit
 [submodule "apib-mode"]
 	path = mirror/apib-mode
 	url = https://github.com/emacsmirror/apib-mode
