@@ -16918,6 +16918,9 @@
 [submodule "nix-update"]
 	path = mirror/nix-update
 	url = https://github.com/emacsmirror/nix-update
+[submodule "nix3"]
+	path = mirror/nix3
+	url = https://github.com/emacsmirror/nix3
 [submodule "nixfmt"]
 	path = mirror/nixfmt
 	url = https://github.com/emacsmirror/nixfmt
