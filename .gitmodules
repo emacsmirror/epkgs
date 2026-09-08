@@ -15436,6 +15436,9 @@
 [submodule "mastodon"]
 	path = mirror/mastodon
 	url = https://github.com/emacsmirror/mastodon
+[submodule "material-icons"]
+	path = mirror/material-icons
+	url = https://github.com/emacsmirror/material-icons
 [submodule "material-theme"]
 	path = mirror/material-theme
 	url = https://github.com/emacsmirror/material-theme
