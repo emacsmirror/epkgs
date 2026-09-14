@@ -17983,6 +17983,9 @@
 [submodule "org-clock-csv"]
 	path = mirror/org-clock-csv
 	url = https://github.com/emacsmirror/org-clock-csv
+[submodule "org-clock-dbus"]
+	path = mirror/org-clock-dbus
+	url = https://github.com/emacsmirror/org-clock-dbus
 [submodule "org-clock-reminder"]
 	path = mirror/org-clock-reminder
 	url = https://github.com/emacsmirror/org-clock-reminder
