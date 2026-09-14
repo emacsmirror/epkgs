@@ -6457,6 +6457,9 @@
 [submodule "elfeed-protocol"]
 	path = mirror/elfeed-protocol
 	url = https://github.com/emacsmirror/elfeed-protocol
+[submodule "elfeed-protocol-freshrss"]
+	path = mirror/elfeed-protocol-freshrss
+	url = https://github.com/emacsmirror/elfeed-protocol-freshrss
 [submodule "elfeed-score"]
 	path = mirror/elfeed-score
 	url = https://github.com/emacsmirror/elfeed-score
