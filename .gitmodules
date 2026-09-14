@@ -14098,6 +14098,9 @@
 [submodule "latex-to-svg-backend"]
 	path = mirror/latex-to-svg-backend
 	url = https://github.com/emacsmirror/latex-to-svg-backend
+[submodule "latex-to-svg-frontend"]
+	path = mirror/latex-to-svg-frontend
+	url = https://github.com/emacsmirror/latex-to-svg-frontend
 [submodule "latex-toolbar"]
 	path = attic/latex-toolbar
 	url = https://github.com/emacsattic/latex-toolbar
