@@ -23080,6 +23080,9 @@
 [submodule "sinasi"]
 	path = mirror/sinasi
 	url = https://github.com/emacsmirror/sinasi
+[submodule "single-window"]
+	path = mirror/single-window
+	url = https://github.com/emacsmirror/single-window
 [submodule "singlebind"]
 	path = attic/singlebind
 	url = https://github.com/emacsattic/singlebind
