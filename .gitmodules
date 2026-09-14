@@ -17047,6 +17047,9 @@
 [submodule "non-edit-mode"]
 	path = mirror/non-edit-mode
 	url = https://github.com/emacsmirror/non-edit-mode
+[submodule "nonogram"]
+	path = mirror/nonogram
+	url = https://github.com/emacsmirror/nonogram
 [submodule "noob-arrows-mode"]
 	path = mirror/noob-arrows-mode
 	url = https://github.com/emacsmirror/noob-arrows-mode
