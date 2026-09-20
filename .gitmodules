@@ -9904,6 +9904,9 @@
 [submodule "git-messenger"]
 	path = mirror/git-messenger
 	url = https://github.com/emacsmirror/git-messenger
+[submodule "git-modeline"]
+	path = mirror/git-modeline
+	url = https://github.com/emacsmirror/git-modeline
 [submodule "git-modes"]
 	path = mirror/git-modes
 	url = https://github.com/emacsmirror/git-modes
