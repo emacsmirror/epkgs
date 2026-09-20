@@ -15142,6 +15142,9 @@
 [submodule "magit-rockstar"]
 	path = attic/magit-rockstar
 	url = https://github.com/emacsattic/magit-rockstar
+[submodule "magit-standup"]
+	path = mirror/magit-standup
+	url = https://github.com/emacsmirror/magit-standup
 [submodule "magit-stats"]
 	path = mirror/magit-stats
 	url = https://github.com/emacsmirror/magit-stats
