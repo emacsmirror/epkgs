@@ -5078,8 +5078,8 @@
 	path = mirror/dimmer
 	url = https://github.com/emacsmirror/dimmer
 [submodule "dionysos"]
-	path = mirror/dionysos
-	url = https://github.com/emacsmirror/dionysos
+	path = attic/dionysos
+	url = https://github.com/emacsattic/dionysos
 [submodule "dir-config"]
 	path = mirror/dir-config
 	url = https://github.com/emacsmirror/dir-config
