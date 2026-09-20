@@ -16238,8 +16238,8 @@
 	path = mirror/mozc
 	url = https://github.com/emacsmirror/mozc
 [submodule "mozc-cand-posframe"]
-	path = mirror/mozc-cand-posframe
-	url = https://github.com/emacsmirror/mozc-cand-posframe
+	path = attic/mozc-cand-posframe
+	url = https://github.com/emacsattic/mozc-cand-posframe
 [submodule "mozc-im"]
 	path = mirror/mozc-im
 	url = https://github.com/emacsmirror/mozc-im
