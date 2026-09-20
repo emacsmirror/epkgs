@@ -21790,6 +21790,9 @@
 [submodule "restclient-test"]
 	path = mirror/restclient-test
 	url = https://github.com/emacsmirror/restclient-test
+[submodule "restlib"]
+	path = mirror/restlib
+	url = https://github.com/emacsmirror/restlib
 [submodule "restricto"]
 	path = mirror/restricto
 	url = https://github.com/emacsmirror/restricto
