@@ -16891,6 +16891,9 @@
 [submodule "night-owl-theme"]
 	path = mirror/night-owl-theme
 	url = https://github.com/emacsmirror/night-owl-theme
+[submodule "nightpanel-theme"]
+	path = mirror/nightpanel-theme
+	url = https://github.com/emacsmirror/nightpanel-theme
 [submodule "nikki"]
 	path = mirror/nikki
 	url = https://github.com/emacsmirror/nikki
