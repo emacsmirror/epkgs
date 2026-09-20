@@ -10430,8 +10430,8 @@
 	path = mirror/gosh-mode
 	url = https://github.com/emacsmirror/gosh-mode
 [submodule "gotest"]
-	path = mirror/gotest
-	url = https://github.com/emacsmirror/gotest
+	path = attic/gotest
+	url = https://github.com/emacsattic/gotest
 [submodule "gotest-ts"]
 	path = attic/gotest-ts
 	url = https://github.com/emacsattic/gotest-ts
