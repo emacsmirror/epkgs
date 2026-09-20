@@ -21094,6 +21094,9 @@
 [submodule "query"]
 	path = attic/query
 	url = https://github.com/emacsattic/query
+[submodule "query-assistant"]
+	path = mirror/query-assistant
+	url = https://github.com/emacsmirror/query-assistant
 [submodule "queue"]
 	path = mirror/queue
 	url = https://github.com/emacsmirror/queue
