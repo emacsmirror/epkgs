@@ -565,6 +565,9 @@
 [submodule "amber-glow-theme"]
 	path = mirror/amber-glow-theme
 	url = https://github.com/emacsmirror/amber-glow-theme
+[submodule "amber-mode"]
+	path = mirror/amber-mode
+	url = https://github.com/emacsmirror/amber-mode
 [submodule "amd-mode"]
 	path = mirror/amd-mode
 	url = https://github.com/emacsmirror/amd-mode
