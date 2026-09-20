@@ -21685,6 +21685,9 @@
 [submodule "remind-to-diary"]
 	path = attic/remind-to-diary
 	url = https://github.com/emacsattic/remind-to-diary
+[submodule "remoto"]
+	path = mirror/remoto
+	url = https://github.com/emacsmirror/remoto
 [submodule "removable-media"]
 	path = attic/removable-media
 	url = https://github.com/emacsattic/removable-media
