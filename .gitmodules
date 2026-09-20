@@ -24904,6 +24904,9 @@
 [submodule "test-unit"]
 	path = attic/test-unit
 	url = https://github.com/emacsattic/test-unit
+[submodule "testcover-audit"]
+	path = mirror/testcover-audit
+	url = https://github.com/emacsmirror/testcover-audit
 [submodule "testcover-mark-line"]
 	path = mirror/testcover-mark-line
 	url = https://github.com/emacsmirror/testcover-mark-line
