@@ -24979,6 +24979,9 @@
 [submodule "textsnip"]
 	path = mirror/textsnip
 	url = https://github.com/emacsmirror/textsnip
+[submodule "textui"]
+	path = mirror/textui
+	url = https://github.com/emacsmirror/textui
 [submodule "textx-mode"]
 	path = mirror/textx-mode
 	url = https://github.com/emacsmirror/textx-mode
