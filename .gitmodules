@@ -322,6 +322,9 @@
 [submodule "addressbook-bookmark"]
 	path = mirror/addressbook-bookmark
 	url = https://github.com/emacsmirror/addressbook-bookmark
+[submodule "adif"]
+	path = mirror/adif
+	url = https://github.com/emacsmirror/adif
 [submodule "adjust-parens"]
 	path = mirror/adjust-parens
 	url = https://github.com/emacsmirror/adjust-parens
