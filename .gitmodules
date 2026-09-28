@@ -20464,6 +20464,9 @@
 [submodule "preview-dvisvgm"]
 	path = mirror/preview-dvisvgm
 	url = https://github.com/emacsmirror/preview-dvisvgm
+[submodule "preview-tab"]
+	path = mirror/preview-tab
+	url = https://github.com/emacsmirror/preview-tab
 [submodule "preview-tailor"]
 	path = mirror/preview-tailor
 	url = https://github.com/emacsmirror/preview-tailor
