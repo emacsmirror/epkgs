@@ -847,6 +847,9 @@
 [submodule "aqi"]
 	path = mirror/aqi
 	url = https://github.com/emacsmirror/aqi
+[submodule "aqui"]
+	path = mirror/aqui
+	url = https://github.com/emacsmirror/aqui
 [submodule "arbitools"]
 	path = mirror/arbitools
 	url = https://github.com/emacsmirror/arbitools
