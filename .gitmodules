@@ -3859,6 +3859,9 @@
 [submodule "consult-yasnippet"]
 	path = mirror/consult-yasnippet
 	url = https://github.com/emacsmirror/consult-yasnippet
+[submodule "consult-zoxide"]
+	path = mirror/consult-zoxide
+	url = https://github.com/emacsmirror/consult-zoxide
 [submodule "contentswitch"]
 	path = attic/contentswitch
 	url = https://github.com/emacsattic/contentswitch
