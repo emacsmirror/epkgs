@@ -4951,6 +4951,9 @@
 [submodule "dhall-mode"]
 	path = mirror/dhall-mode
 	url = https://github.com/emacsmirror/dhall-mode
+[submodule "dharmamitra"]
+	path = mirror/dharmamitra
+	url = https://github.com/emacsmirror/dharmamitra
 [submodule "di"]
 	path = attic/di
 	url = https://github.com/emacsattic/di
