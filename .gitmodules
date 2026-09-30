@@ -13040,8 +13040,8 @@
 	path = mirror/ivy-file-preview
 	url = https://github.com/emacsmirror/ivy-file-preview
 [submodule "ivy-fuz"]
-	path = mirror/ivy-fuz
-	url = https://github.com/emacsmirror/ivy-fuz
+	path = attic/ivy-fuz
+	url = https://github.com/emacsattic/ivy-fuz
 [submodule "ivy-hoogle"]
 	path = mirror/ivy-hoogle
 	url = https://github.com/emacsmirror/ivy-hoogle
