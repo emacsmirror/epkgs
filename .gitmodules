@@ -2116,6 +2116,9 @@
 [submodule "brec-mode"]
 	path = mirror/brec-mode
 	url = https://github.com/emacsmirror/brec-mode
+[submodule "brewpage"]
+	path = mirror/brewpage
+	url = https://github.com/emacsmirror/brewpage
 [submodule "brf"]
 	path = mirror/brf
 	url = https://github.com/emacsmirror/brf
