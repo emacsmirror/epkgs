@@ -3040,6 +3040,9 @@
 [submodule "clearcase"]
 	path = attic/clearcase
 	url = https://github.com/emacsattic/clearcase
+[submodule "clel"]
+	path = mirror/clel
+	url = https://github.com/emacsmirror/clel
 [submodule "clevercss"]
 	path = mirror/clevercss
 	url = https://github.com/emacsmirror/clevercss
