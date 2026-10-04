@@ -16777,6 +16777,9 @@
 [submodule "neocaml"]
 	path = mirror/neocaml
 	url = https://github.com/emacsmirror/neocaml
+[submodule "neofetch"]
+	path = mirror/neofetch
+	url = https://github.com/emacsmirror/neofetch
 [submodule "neon-mode"]
 	path = mirror/neon-mode
 	url = https://github.com/emacsmirror/neon-mode
