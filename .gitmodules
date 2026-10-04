@@ -25615,6 +25615,9 @@
 [submodule "trindle"]
 	path = mirror/trindle
 	url = https://github.com/emacsmirror/trindle
+[submodule "triode"]
+	path = mirror/triode
+	url = https://github.com/emacsmirror/triode
 [submodule "triples"]
 	path = mirror/triples
 	url = https://github.com/emacsmirror/triples
