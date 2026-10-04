@@ -10534,6 +10534,9 @@
 [submodule "gptel-aibo"]
 	path = mirror/gptel-aibo
 	url = https://github.com/emacsmirror/gptel-aibo
+[submodule "gptel-annotate"]
+	path = mirror/gptel-annotate
+	url = https://github.com/emacsmirror/gptel-annotate
 [submodule "gptel-commit"]
 	path = mirror/gptel-commit
 	url = https://github.com/emacsmirror/gptel-commit
