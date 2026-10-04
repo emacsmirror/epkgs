@@ -20917,6 +20917,9 @@
 [submodule "pyfmt"]
 	path = attic/pyfmt
 	url = https://github.com/emacsattic/pyfmt
+[submodule "pyfun-mode"]
+	path = mirror/pyfun-mode
+	url = https://github.com/emacsmirror/pyfun-mode
 [submodule "pygen"]
 	path = mirror/pygen
 	url = https://github.com/emacsmirror/pygen
