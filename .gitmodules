@@ -27407,8 +27407,8 @@
 	path = mirror/xclip
 	url = https://github.com/emacsmirror/xclip
 [submodule "xcode-mode"]
-	path = mirror/xcode-mode
-	url = https://github.com/emacsmirror/xcode-mode
+	path = attic/xcode-mode
+	url = https://github.com/emacsattic/xcode-mode
 [submodule "xcode-project"]
 	path = mirror/xcode-project
 	url = https://github.com/emacsmirror/xcode-project
