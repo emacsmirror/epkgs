@@ -2713,6 +2713,9 @@
 [submodule "cg-mode"]
 	path = attic/cg-mode
 	url = https://github.com/emacsattic/cg-mode
+[submodule "chai"]
+	path = mirror/chai
+	url = https://github.com/emacsmirror/chai
 [submodule "challenger-deep-theme"]
 	path = mirror/challenger-deep-theme
 	url = https://github.com/emacsmirror/challenger-deep-theme
