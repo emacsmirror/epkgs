@@ -20608,6 +20608,9 @@
 [submodule "project-tasks"]
 	path = mirror/project-tasks
 	url = https://github.com/emacsmirror/project-tasks
+[submodule "project-terminal"]
+	path = mirror/project-terminal
+	url = https://github.com/emacsmirror/project-terminal
 [submodule "project-treemacs"]
 	path = mirror/project-treemacs
 	url = https://github.com/emacsmirror/project-treemacs
