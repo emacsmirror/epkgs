@@ -18718,6 +18718,9 @@
 [submodule "org-timeblock"]
 	path = mirror/org-timeblock
 	url = https://github.com/emacsmirror/org-timeblock
+[submodule "org-timegrid"]
+	path = mirror/org-timegrid
+	url = https://github.com/emacsmirror/org-timegrid
 [submodule "org-timeline"]
 	path = mirror/org-timeline
 	url = https://github.com/emacsmirror/org-timeline
