@@ -105912,7 +105912,7 @@ INSERT INTO melpa_recipes VALUES('github','"ox-report"','"https://github.com/Dar
 INSERT INTO melpa_recipes VALUES('github','"ox-reveal"','"https://github.com/yjwen/org-reveal"','"yjwen/org-reveal"','"https://github.com/yjwen/org-reveal"',NULL,NULL,NULL,NULL,'(org-reveal)','"ox-reveal"');
 INSERT INTO melpa_recipes VALUES('github','"ox-review"','"https://github.com/masfj/ox-review"','"masfj/ox-review"','"https://github.com/masfj/ox-review"',NULL,NULL,NULL,NULL,NULL,'"ox-review"');
 INSERT INTO melpa_recipes VALUES('github','"ox-rfc"','"https://github.com/choppsv1/org-rfc-export"','"choppsv1/org-rfc-export"','"https://github.com/choppsv1/org-rfc-export"',NULL,NULL,NULL,NULL,NULL,'"ox-rfc"');
-INSERT INTO melpa_recipes VALUES('github','"ox-rss"','"https://github.com/bhw-foss/ox-rss"','"bhw-foss/ox-rss"','"https://github.com/bhw-foss/ox-rss"',NULL,NULL,NULL,NULL,NULL,'"ox-rss"');
+INSERT INTO melpa_recipes VALUES('github','"ox-rss"','"https://github.com/bhwdev/ox-rss"','"bhwdev/ox-rss"','"https://github.com/bhwdev/ox-rss"',NULL,NULL,NULL,NULL,NULL,'"ox-rss"');
 INSERT INTO melpa_recipes VALUES('github','"ox-rst"','"https://github.com/msnoigrs/ox-rst"','"msnoigrs/ox-rst"','"https://github.com/msnoigrs/ox-rst"',NULL,NULL,NULL,NULL,NULL,'"ox-rst"');
 INSERT INTO melpa_recipes VALUES('github','"ox-slack"','"https://github.com/titaniumbones/ox-slack"','"titaniumbones/ox-slack"','"https://github.com/titaniumbones/ox-slack"',NULL,NULL,NULL,NULL,NULL,'"ox-slack"');
 INSERT INTO melpa_recipes VALUES('github','"ox-spectacle"','"https://github.com/lorniu/ox-spectacle"','"lorniu/ox-spectacle"','"https://github.com/lorniu/ox-spectacle"',NULL,NULL,NULL,NULL,NULL,'"ox-spectacle"');
