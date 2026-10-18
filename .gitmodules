@@ -24274,6 +24274,9 @@
 [submodule "supergenpass"]
 	path = attic/supergenpass
 	url = https://github.com/emacsattic/supergenpass
+[submodule "supersonic"]
+	path = mirror/supersonic
+	url = https://github.com/emacsmirror/supersonic
 [submodule "supertag"]
 	path = mirror/supertag
 	url = https://github.com/emacsmirror/supertag
