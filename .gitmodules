@@ -9491,8 +9491,8 @@
 	path = mirror/fuel
 	url = https://github.com/emacsmirror/fuel
 [submodule "fuff"]
-	path = mirror/fuff
-	url = https://github.com/emacsmirror/fuff
+	path = attic/fuff
+	url = https://github.com/emacsattic/fuff
 [submodule "full-ack"]
 	path = mirror/full-ack
 	url = https://github.com/emacsmirror/full-ack
