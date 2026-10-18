@@ -394,6 +394,9 @@
 [submodule "agent-shell"]
 	path = mirror/agent-shell
 	url = https://github.com/emacsmirror/agent-shell
+[submodule "agent-shell-attention"]
+	path = mirror/agent-shell-attention
+	url = https://github.com/emacsmirror/agent-shell-attention
 [submodule "agent-shell-math-renderer"]
 	path = mirror/agent-shell-math-renderer
 	url = https://github.com/emacsmirror/agent-shell-math-renderer
