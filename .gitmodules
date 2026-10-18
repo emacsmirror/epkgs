@@ -18613,6 +18613,9 @@
 [submodule "org-seenthis"]
 	path = attic/org-seenthis
 	url = https://github.com/emacsattic/org-seenthis
+[submodule "org-semantic"]
+	path = mirror/org-semantic
+	url = https://github.com/emacsmirror/org-semantic
 [submodule "org-shoplist"]
 	path = mirror/org-shoplist
 	url = https://github.com/emacsmirror/org-shoplist
