@@ -4948,6 +4948,9 @@
 [submodule "devkitemacs"]
 	path = attic/devkitemacs
 	url = https://github.com/emacsattic/devkitemacs
+[submodule "devops"]
+	path = mirror/devops
+	url = https://github.com/emacsmirror/devops
 [submodule "df"]
 	path = attic/df
 	url = https://github.com/emacsattic/df
