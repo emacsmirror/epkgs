@@ -2108,8 +2108,8 @@
 	path = mirror/bray
 	url = https://github.com/emacsmirror/bray
 [submodule "brazilian-holidays"]
-	path = mirror/brazilian-holidays
-	url = https://github.com/emacsmirror/brazilian-holidays
+	path = attic/brazilian-holidays
+	url = https://github.com/emacsattic/brazilian-holidays
 [submodule "breadcrumb"]
 	path = mirror/breadcrumb
 	url = https://github.com/emacsmirror/breadcrumb
