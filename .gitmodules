@@ -12922,6 +12922,9 @@
 [submodule "irony-eldoc"]
 	path = attic/irony-eldoc
 	url = https://github.com/emacsattic/irony-eldoc
+[submodule "isbn"]
+	path = mirror/isbn
+	url = https://github.com/emacsmirror/isbn
 [submodule "iscroll"]
 	path = mirror/iscroll
 	url = https://github.com/emacsmirror/iscroll
