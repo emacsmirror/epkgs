@@ -109200,6 +109200,7 @@ INSERT INTO gnu_elpa_recipes VALUES('codeberg','"flymake-harper"','t','"https://
 INSERT INTO gnu_elpa_recipes VALUES('core','"cperl-mode"','t',NULL,'"lisp/progmodes/cperl-mode.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"cperl-mode"');
 INSERT INTO gnu_elpa_recipes VALUES('codeberg','"r-ts-mode"','t','"https://codeberg.org/R-for-emacs/r-ts-mode"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"r-ts-mode"');
 INSERT INTO gnu_elpa_recipes VALUES('github','"typewriter"','t','"https://github.com/enricoflor/typewriter.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"typewriter"');
+INSERT INTO gnu_elpa_recipes VALUES('sourcehut','"isbn"','t','"https://git.sr.ht/~cook/isbn.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 CREATE TABLE var_ignored_repos (k , v );
 INSERT INTO var_ignored_repos VALUES('"https://github.com/madara123pain/unique-emacs-theme-pack"','"limited appeal"');
 CREATE TABLE var_suspended (k , v );
