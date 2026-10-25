@@ -16090,6 +16090,9 @@
 [submodule "modern-sh"]
 	path = mirror/modern-sh
 	url = https://github.com/emacsmirror/modern-sh
+[submodule "modern-tab"]
+	path = mirror/modern-tab
+	url = https://github.com/emacsmirror/modern-tab
 [submodule "modtime-skip-mode"]
 	path = mirror/modtime-skip-mode
 	url = https://github.com/emacsmirror/modtime-skip-mode
