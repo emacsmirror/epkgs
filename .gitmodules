@@ -4285,6 +4285,9 @@
 [submodule "ctags-update"]
 	path = mirror/ctags-update
 	url = https://github.com/emacsmirror/ctags-update
+[submodule "ctftime"]
+	path = mirror/ctftime
+	url = https://github.com/emacsmirror/ctftime
 [submodule "ctl-mode"]
 	path = mirror/ctl-mode
 	url = https://github.com/emacsmirror/ctl-mode
