@@ -5059,6 +5059,9 @@
 [submodule "diffed"]
 	path = mirror/diffed
 	url = https://github.com/emacsmirror/diffed
+[submodule "difflayer"]
+	path = mirror/difflayer
+	url = https://github.com/emacsmirror/difflayer
 [submodule "difflib"]
 	path = mirror/difflib
 	url = https://github.com/emacsmirror/difflib
