@@ -24124,6 +24124,9 @@
 [submodule "straight"]
 	path = mirror/straight
 	url = https://github.com/emacsmirror/straight
+[submodule "straight-overview"]
+	path = mirror/straight-overview
+	url = https://github.com/emacsmirror/straight-overview
 [submodule "streak"]
 	path = mirror/streak
 	url = https://github.com/emacsmirror/streak
