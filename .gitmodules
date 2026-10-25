@@ -21691,6 +21691,9 @@
 [submodule "region-convert"]
 	path = mirror/region-convert
 	url = https://github.com/emacsmirror/region-convert
+[submodule "region-cursors"]
+	path = mirror/region-cursors
+	url = https://github.com/emacsmirror/region-cursors
 [submodule "region-occurrences-highlighter"]
 	path = mirror/region-occurrences-highlighter
 	url = https://github.com/emacsmirror/region-occurrences-highlighter
