@@ -9577,6 +9577,9 @@
 [submodule "fyure"]
 	path = mirror/fyure
 	url = https://github.com/emacsmirror/fyure
+[submodule "fz-index"]
+	path = mirror/fz-index
+	url = https://github.com/emacsmirror/fz-index
 [submodule "fzf"]
 	path = mirror/fzf
 	url = https://github.com/emacsmirror/fzf
