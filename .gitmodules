@@ -6370,6 +6370,9 @@
 [submodule "elang"]
 	path = attic/elang
 	url = https://github.com/emacsattic/elang
+[submodule "elark"]
+	path = mirror/elark
+	url = https://github.com/emacsmirror/elark
 [submodule "elbank"]
 	path = mirror/elbank
 	url = https://github.com/emacsmirror/elbank
