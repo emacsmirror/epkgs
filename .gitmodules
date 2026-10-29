@@ -27454,6 +27454,9 @@
 [submodule "xbm-life"]
 	path = mirror/xbm-life
 	url = https://github.com/emacsmirror/xbm-life
+[submodule "xc"]
+	path = mirror/xc
+	url = https://github.com/emacsmirror/xc
 [submodule "xclip"]
 	path = mirror/xclip
 	url = https://github.com/emacsmirror/xclip
