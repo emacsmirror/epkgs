@@ -108876,7 +108876,7 @@ INSERT INTO gnu_elpa_recipes VALUES('internal','"greenbar"','t',NULL,NULL,NULL,N
 INSERT INTO gnu_elpa_recipes VALUES('git','"hcel"','t','"https://g.ypei.me/hc.el.git"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'t',NULL,NULL,NULL,NULL,NULL,'"hcel"');
 INSERT INTO gnu_elpa_recipes VALUES('nongnu','"hook-helpers"','t','"https://git.savannah.nongnu.org/git/hook-helpers-el.git"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"hook-helpers"');
 INSERT INTO gnu_elpa_recipes VALUES('internal','"html5-schema"','t',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"html5-schema"');
-INSERT INTO gnu_elpa_recipes VALUES('gnu','"hyperbole"','t','"https://git.savannah.gnu.org/git/hyperbole.git"',NULL,NULL,NULL,'("*.eps" "test" "*.pdf" "*.html" "HY-TALK/improve-performance.png" "man/im/wgrid4x3.png")',NULL,NULL,'"man/hyperbole.texi"',NULL,'"HY-NEWS"',NULL,'("kotl/kotl-autoloads.el")',NULL,'t',NULL,NULL,NULL,NULL,NULL,'"hyperbole"');
+INSERT INTO gnu_elpa_recipes VALUES('gnu','"hyperbole"','t','"https://git.savannah.gnu.org/git/hyperbole.git"',NULL,NULL,NULL,'("*.eps" "test" "*.pdf" "*.html" "HY-TALK/improve-performance.png" "man/im/wgrid4x3.png")',NULL,NULL,'"man/hyperbole.texi"',NULL,'"HY-NEWS.org"',NULL,'("kotl/kotl-autoloads.el")',NULL,'t',NULL,NULL,NULL,NULL,NULL,'"hyperbole"');
 INSERT INTO gnu_elpa_recipes VALUES('internal','"iterators"','t',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"iterators"');
 INSERT INTO gnu_elpa_recipes VALUES('internal','"javaimp"','t',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"javaimp"');
 INSERT INTO gnu_elpa_recipes VALUES('internal','"jgraph-mode"','t',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"jgraph-mode"');
@@ -109332,6 +109332,8 @@ INSERT INTO gnu_elpa_recipes VALUES('core','"cperl-mode"','t',NULL,'"lisp/progmo
 INSERT INTO gnu_elpa_recipes VALUES('codeberg','"r-ts-mode"','t','"https://codeberg.org/R-for-emacs/r-ts-mode"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"r-ts-mode"');
 INSERT INTO gnu_elpa_recipes VALUES('github','"typewriter"','t','"https://github.com/enricoflor/typewriter.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"typewriter"');
 INSERT INTO gnu_elpa_recipes VALUES('sourcehut','"isbn"','t','"https://git.sr.ht/~cook/isbn.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"isbn"');
+INSERT INTO gnu_elpa_recipes VALUES('core','"refactor"','t',NULL,'"lisp/progmodes/refactor.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"refactor"');
+INSERT INTO gnu_elpa_recipes VALUES('codeberg','"xc"','t','"https://codeberg.org/ryanprior/xc.el"',NULL,NULL,NULL,'("COPYING")',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 CREATE TABLE var_ignored_repos (k , v );
 INSERT INTO var_ignored_repos VALUES('"https://github.com/madara123pain/unique-emacs-theme-pack"','"limited appeal"');
 CREATE TABLE var_suspended (k , v );
