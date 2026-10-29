@@ -21661,9 +21661,6 @@
 [submodule "reduce-mode"]
 	path = attic/reduce-mode
 	url = https://github.com/emacsattic/reduce-mode
-[submodule "refactor"]
-	path = attic/refactor
-	url = https://github.com/emacsattic/refactor
 [submodule "refdb-mode"]
 	path = attic/refdb-mode
 	url = https://github.com/emacsattic/refdb-mode
