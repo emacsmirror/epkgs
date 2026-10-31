@@ -3254,8 +3254,8 @@
 	path = mirror/code-stats
 	url = https://github.com/emacsmirror/code-stats
 [submodule "codebug"]
-	path = mirror/codebug
-	url = https://github.com/emacsmirror/codebug
+	path = attic/codebug
+	url = https://github.com/emacsattic/codebug
 [submodule "codepad"]
 	path = mirror/codepad
 	url = https://github.com/emacsmirror/codepad
