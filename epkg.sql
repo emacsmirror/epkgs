@@ -9856,6 +9856,7 @@ INSERT INTO packages VALUES('github','"straight-overview"','"02ba4061c1534a46f03
 INSERT INTO packages VALUES('github','"typst-overlay"','"95d2c633fe1ec9a14b32c834c8a1f00ba4c08e74"','"https://github.com/hesampakdaman/typst-overlay"','"https://github.com/emacsmirror/typst-overlay"','"typst-overlay"','"hesampakdaman"','"typst-overlay"',NULL,NULL,NULL,'"https://github.com/hesampakdaman/typst-overlay"','"https://github.com/hesampakdaman/typst-overlay"','"https://github.com/emacsmirror/typst-overlay"',NULL,'"GPL-3.0-or-later"',NULL,'"20261029"','"Overlay Typst equations"','"typst-overlay renders Typst math equations as inline overlays.\nEquations are compiled asynchronously to SVG with the `typst''\ncompiler, many per process, and displayed over the source text.  The overlay is hidden\nwhile point is inside an equation, so you can edit the raw source,\nand restored when point leaves.\n\nSupported buffers: `typst-ts-mode'' and `org-mode'' (where $...$ is\ntreated as Typst math, with the #let code of the Typst export\nblocks before it).  Both use the Typst tree-sitter grammar to find\nequations.\n\nUsage:\n\n  M-x typst-overlay-mode      enable in the current buffer\n  M-x typst-overlay-refresh   re-render overlays manually\n\nEdited equations are rendered again once you stop typing; see\n`typst-overlay-idle-refresh-delay''.\n\nEquations that fail to compile are reported to Flymake, in org\nbuffers by default; see `typst-overlay-use-flymake''.\n\nRequires the `typst'' executable on PATH and the Typst tree-sitter\ngrammar.  See `customize-group'' `typst-overlay'' for options.\n"','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound',NULL,11,NULL,NULL,'"main"','eieio-unbound','t','"Claude:claude-sonnet-4-6, Claude:claude-opus-5-5"');
 INSERT INTO packages VALUES('codeberg','"xc"','"14de9a3b931a85ede7889f4038c000fb99129a1d"','"https://codeberg.org/ryanprior/xc.el"','"https://github.com/emacsmirror/xc"','"xc"','"ryanprior"','"xc.el"',NULL,NULL,NULL,'"https://codeberg.org/ryanprior/xc.el"','"https://codeberg.org/ryanprior/xc.el"','"https://github.com/emacsmirror/xc"',NULL,'"GPL-3.0-or-later"','"2026"','"20261026"','"Emacs interface for xc"','"An Emacs interface to the xc task-runner, <https://xcfile.dev/>\nUse `xc'' to launch a task defined in your README\n\nThe common use case for `xc'' is to run build, test, deploy type commands\nthat are documented in your README. Putting the documented steps on\nthe ``hot path'''' ensures they don''t get out-of-date and aids in\ndiscoverability. A unique feature of `xc'' is that it supports both\nMarkdown and org-mode READMEs.\n"','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound',NULL,NULL,NULL,NULL,'"main"','eieio-unbound','t',NULL);
 INSERT INTO packages VALUES('github','"japanese-menu"','"5790e2a9c88ff0b7165a7cacb3a36e3e0225c921"','"https://github.com/yt-emacs-ja/emacs-japanese-menu"','"https://github.com/emacsmirror/japanese-menu"','"japanese-menu"','"yt-emacs-ja"','"emacs-japanese-menu"',NULL,NULL,NULL,'"https://github.com/yt-emacs-ja/emacs-japanese-menu"','"https://github.com/yt-emacs-ja/emacs-japanese-menu"','"https://github.com/emacsmirror/japanese-menu"','"https://emacswiki.org/japanese-menu"','"GPL-3.0-or-later"',NULL,'"20261026"','"Japanese menu translation"','"Japanese translation for Emacs GUI menus.\n"','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound',NULL,NULL,NULL,NULL,'"main"','eieio-unbound','t','"ChatGPT:GPT-6"');
+INSERT INTO packages VALUES('github','"mdired"','"10d2f88bea8528109816670676085979912648fe"','"https://github.com/kickingvegas/mdired"','"https://github.com/emacsmirror/mdired"','"mdired"','"kickingvegas"','"mdired"',NULL,NULL,NULL,'"https://github.com/kickingvegas/mdired"','"https://github.com/kickingvegas/mdired"','"https://github.com/emacsmirror/mdired"',NULL,'"GPL-3.0-or-later"','"2026"','"20261101"','"SIMD-style commands for marked Dired items"','"mdired is an Elisp package that provides commands for running SIMD-style\noperations on marked Dired items.\n\nPlease be advised: mdired can make irreversible changes to the file system if\nno prior checkpoint (typically via a source code management or backup tool)\nis available. Exercise caution.\n\nINSTALL\n\nIf manually installed then ensure that mdired.el is in `load-path''.\n\nIf installed via `package-install'', then all mdired commands are auto-loaded.\n"','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound',NULL,NULL,NULL,NULL,'"main"','eieio-unbound','t',NULL);
 CREATE TABLE libraries (package NOT NULL, library NOT NULL, PRIMARY KEY (package, library), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO libraries VALUES('"bookmark+"','"bookmark+-1.el"');
 INSERT INTO libraries VALUES('"bookmark+"','"bookmark+-bmu.el"');
@@ -33444,6 +33445,7 @@ INSERT INTO provided VALUES('"solarized-theme"','solarized-kanagawa-wave-theme',
 INSERT INTO provided VALUES('"supertag"','supertag-stream-agent',NULL,NULL);
 INSERT INTO provided VALUES('"testcover-audit"','precommit-checks',NULL,NULL);
 INSERT INTO provided VALUES('"japanese-menu"','japanese-menu',NULL,NULL);
+INSERT INTO provided VALUES('"mdired"','mdired',NULL,NULL);
 CREATE TABLE required (package NOT NULL, feature NOT NULL, hard , ease , "drop" , PRIMARY KEY (package, feature), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO required VALUES('"add-lispdir"','info','t',NULL,NULL);
 INSERT INTO required VALUES('"admb"','outline','t',NULL,NULL);
@@ -63989,6 +63991,8 @@ INSERT INTO required VALUES('"testcover-audit"','package','t',NULL,NULL);
 INSERT INTO required VALUES('"testcover-audit"','package-lint','t',NULL,NULL);
 INSERT INTO required VALUES('"unicode-escape"','seq','t',NULL,NULL);
 INSERT INTO required VALUES('"japanese-menu"','subr-x','t',NULL,NULL);
+INSERT INTO required VALUES('"mdired"','compile','t',NULL,NULL);
+INSERT INTO required VALUES('"mdired"','dired','t',NULL,NULL);
 CREATE TABLE keywords (package NOT NULL, keyword NOT NULL, PRIMARY KEY (package, keyword), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO keywords VALUES('"abacus"','games');
 INSERT INTO keywords VALUES('"actr-mode"','act-r');
@@ -81363,6 +81367,7 @@ INSERT INTO keywords VALUES('"moonscript"','moonscript');
 INSERT INTO keywords VALUES('"japanese-menu"','convenience');
 INSERT INTO keywords VALUES('"japanese-menu"','japanese');
 INSERT INTO keywords VALUES('"japanese-menu"','menu');
+INSERT INTO keywords VALUES('"mdired"','tools');
 CREATE TABLE authors (package NOT NULL, name , email , PRIMARY KEY (package, name, email), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO authors VALUES('"abacus"','"Valvassori Moïse"','"moise@valvassori.org"');
 INSERT INTO authors VALUES('"actr-mode"','"Hedderik van Rijn"','"hvr-actrmode@van-rijn.org"');
@@ -90772,6 +90777,7 @@ INSERT INTO authors VALUES('"modern-tab"','"Marcel Arpogaus"','"znepry.necbtnhf@
 INSERT INTO authors VALUES('"region-cursors"','"Abidán Brito Clavijo"','"abidan.brito@gmail.com"');
 INSERT INTO authors VALUES('"straight-overview"','"Andrea Alberti"','"a.alberti82@gmail.com"');
 INSERT INTO authors VALUES('"xc"','"Ryan Prior"','"rprior@protonmail.com"');
+INSERT INTO authors VALUES('"mdired"','"Charles Y. Choi"','"kickingvegas@gmail.com"');
 CREATE TABLE maintainers (package NOT NULL, name , email , PRIMARY KEY (package, name, email), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO maintainers VALUES('"abacus"','"Valvassori Moïse"','"moise@valvassori.org"');
 INSERT INTO maintainers VALUES('"actr-mode"','"Hedderik van Rijn"','"hvr-actrmode@van-rijn.org"');
@@ -99999,6 +100005,7 @@ INSERT INTO maintainers VALUES('"modern-tab"','"Marcel Arpogaus"','"znepry.necbt
 INSERT INTO maintainers VALUES('"region-cursors"','"Abidán Brito Clavijo"','"abidan.brito@gmail.com"');
 INSERT INTO maintainers VALUES('"straight-overview"','"Andrea Alberti"','"a.alberti82@gmail.com"');
 INSERT INTO maintainers VALUES('"xc"','"Ryan Prior"','"rprior@protonmail.com"');
+INSERT INTO maintainers VALUES('"mdired"','"Charles Y. Choi"','"kickingvegas@gmail.com"');
 CREATE TABLE builtin_libraries (package NOT NULL, library NOT NULL, feature , FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO builtin_libraries VALUES('"5x5"','"lisp/play/5x5.el"','5x5');
 INSERT INTO builtin_libraries VALUES('"add-log"','"lisp/vc/add-log.el"','add-log');
@@ -108584,7 +108591,7 @@ INSERT INTO melpa_recipes VALUES('github','"region-cursors"','"https://github.co
 INSERT INTO melpa_recipes VALUES('github','"straight-overview"','"https://github.com/alberti42/straight-overview"','"alberti42/straight-overview"','"https://github.com/alberti42/straight-overview"',NULL,NULL,NULL,NULL,NULL,'"straight-overview"');
 INSERT INTO melpa_recipes VALUES('github','"typst-overlay"','"https://github.com/hesampakdaman/typst-overlay"','"hesampakdaman/typst-overlay"','"https://github.com/hesampakdaman/typst-overlay"',NULL,NULL,NULL,NULL,NULL,'"typst-overlay"');
 INSERT INTO melpa_recipes VALUES('github','"japanese-menu"','"https://github.com/yt-emacs-ja/emacs-japanese-menu"','"yt-emacs-ja/emacs-japanese-menu"','"https://github.com/yt-emacs-ja/emacs-japanese-menu"',NULL,NULL,NULL,NULL,NULL,'"japanese-menu"');
-INSERT INTO melpa_recipes VALUES('github','"mdired"','"https://github.com/kickingvegas/mdired"','"kickingvegas/mdired"','"https://github.com/kickingvegas/mdired"',NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO melpa_recipes VALUES('github','"mdired"','"https://github.com/kickingvegas/mdired"','"kickingvegas/mdired"','"https://github.com/kickingvegas/mdired"',NULL,NULL,NULL,NULL,NULL,'"mdired"');
 INSERT INTO melpa_recipes VALUES('github','"perl-live"','"https://github.com/vividsnow/perl-live"','"vividsnow/perl-live"','"https://github.com/vividsnow/perl-live"','(:defaults "perl-live.pl")',NULL,NULL,NULL,NULL,NULL);
 INSERT INTO melpa_recipes VALUES('github','"xdg-redirect"','"https://github.com/francisco-colaco/xdg-redirect"','"francisco-colaco/xdg-redirect"','"https://github.com/francisco-colaco/xdg-redirect"',NULL,NULL,NULL,NULL,NULL,NULL);
 CREATE TABLE nongnu_elpa_recipes (class NOT NULL, name NOT NULL PRIMARY KEY, released , url , main_file , lisp_dir , ignored_files , excludes , renames , doc , readme , news , shell_command , make , texinfo , auto_sync , merge , branch , release_branch , rolling_release , version_map , epkg_package );

@@ -15616,6 +15616,9 @@
 [submodule "mdfind"]
 	path = attic/mdfind
 	url = https://github.com/emacsattic/mdfind
+[submodule "mdired"]
+	path = mirror/mdired
+	url = https://github.com/emacsmirror/mdired
 [submodule "media-files"]
 	path = attic/media-files
 	url = https://github.com/emacsattic/media-files
