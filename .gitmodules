@@ -19675,6 +19675,9 @@
 [submodule "perl-find-library"]
 	path = attic/perl-find-library
 	url = https://github.com/emacsattic/perl-find-library
+[submodule "perl-live"]
+	path = mirror/perl-live
+	url = https://github.com/emacsmirror/perl-live
 [submodule "perl-manual"]
 	path = attic/perl-manual
 	url = https://github.com/emacsattic/perl-manual
