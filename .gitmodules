@@ -27481,6 +27481,9 @@
 [submodule "xdg-paths"]
 	path = mirror/xdg-paths
 	url = https://github.com/emacsmirror/xdg-paths
+[submodule "xdg-redirect"]
+	path = mirror/xdg-redirect
+	url = https://github.com/emacsmirror/xdg-redirect
 [submodule "xeft"]
 	path = mirror/xeft
 	url = https://github.com/emacsmirror/xeft
