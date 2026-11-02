@@ -13186,6 +13186,9 @@
 [submodule "japanese-holidays"]
 	path = mirror/japanese-holidays
 	url = https://github.com/emacsmirror/japanese-holidays
+[submodule "japanese-menu"]
+	path = mirror/japanese-menu
+	url = https://github.com/emacsmirror/japanese-menu
 [submodule "japanese-tokenizer"]
 	path = attic/japanese-tokenizer
 	url = https://github.com/emacsattic/japanese-tokenizer
