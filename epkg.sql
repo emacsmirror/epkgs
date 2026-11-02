@@ -104292,7 +104292,7 @@ INSERT INTO melpa_recipes VALUES('github','"fsharp-mode"','"https://github.com/f
 INSERT INTO melpa_recipes VALUES('github','"fsrs"','"https://github.com/open-spaced-repetition/lisp-fsrs"','"open-spaced-repetition/lisp-fsrs"','"https://github.com/open-spaced-repetition/lisp-fsrs"',NULL,NULL,NULL,NULL,NULL,'"fsrs"');
 INSERT INTO melpa_recipes VALUES('github','"fstar-mode"','"https://github.com/FStarLang/fstar-mode.el"','"FStarLang/fstar-mode.el"','"https://github.com/FStarLang/fstar-mode.el"','(:defaults "etc")',NULL,NULL,NULL,NULL,'"fstar-mode"');
 INSERT INTO melpa_recipes VALUES('github','"fuel"','"https://github.com/factor/fuel"','"factor/fuel"','"https://github.com/factor/fuel"',NULL,NULL,NULL,NULL,NULL,'"fuel"');
-INSERT INTO melpa_recipes VALUES('github','"fuff"','"https://github.com/joelmo/fuff"','"joelmo/fuff"','"https://github.com/joelmo/fuff"',NULL,NULL,NULL,NULL,NULL,'"fuff"');
+INSERT INTO melpa_recipes VALUES('github','"fuff"','"https://github.com/emacsattic/fuff"','"emacsattic/fuff"','"https://github.com/emacsattic/fuff"',NULL,NULL,NULL,NULL,NULL,'"fuff"');
 INSERT INTO melpa_recipes VALUES('github','"full-ack"','"https://github.com/nschum/full-ack"','"nschum/full-ack"','"https://github.com/nschum/full-ack"',NULL,NULL,NULL,NULL,NULL,'"full-ack"');
 INSERT INTO melpa_recipes VALUES('sourcehut','"fullframe"','"https://git.sr.ht/~tomterl/fullframe"','"tomterl/fullframe"','"https://git.sr.ht/~tomterl/fullframe"',NULL,NULL,NULL,NULL,NULL,'"fullframe"');
 INSERT INTO melpa_recipes VALUES('github','"function-args"','"https://github.com/abo-abo/function-args"','"abo-abo/function-args"','"https://github.com/abo-abo/function-args"',NULL,NULL,NULL,NULL,NULL,'"function-args"');
@@ -107941,7 +107941,7 @@ INSERT INTO melpa_recipes VALUES('github','"x-path-walker"','"https://github.com
 INSERT INTO melpa_recipes VALUES('github','"x509-mode"','"https://github.com/jobbflykt/x509-mode"','"jobbflykt/x509-mode"','"https://github.com/jobbflykt/x509-mode"','(:defaults "*.txt")',NULL,NULL,NULL,NULL,'"x509-mode"');
 INSERT INTO melpa_recipes VALUES('github','"x86-lookup"','"https://github.com/skeeto/x86-lookup"','"skeeto/x86-lookup"','"https://github.com/skeeto/x86-lookup"',NULL,NULL,NULL,NULL,NULL,'"x86-lookup"');
 INSERT INTO melpa_recipes VALUES('git','"xbm-life"','"https://depp.brause.cc/xbm-life.git"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"xbm-life"');
-INSERT INTO melpa_recipes VALUES('github','"xcode-mode"','"https://github.com/nicklanasa/xcode-mode"','"nicklanasa/xcode-mode"','"https://github.com/nicklanasa/xcode-mode"',NULL,NULL,NULL,NULL,NULL,'"xcode-mode"');
+INSERT INTO melpa_recipes VALUES('github','"xcode-mode"','"https://github.com/emacsattic/xcode-mode"','"emacsattic/xcode-mode"','"https://github.com/emacsattic/xcode-mode"',NULL,NULL,NULL,NULL,NULL,'"xcode-mode"');
 INSERT INTO melpa_recipes VALUES('github','"xcode-project"','"https://github.com/nhojb/xcode-project"','"nhojb/xcode-project"','"https://github.com/nhojb/xcode-project"',NULL,NULL,NULL,NULL,NULL,'"xcode-project"');
 INSERT INTO melpa_recipes VALUES('github','"xcscope"','"https://github.com/dkogan/xcscope.el"','"dkogan/xcscope.el"','"https://github.com/dkogan/xcscope.el"',NULL,NULL,NULL,NULL,NULL,'"xcscope"');
 INSERT INTO melpa_recipes VALUES('github','"xenops"','"https://github.com/dandavison/xenops"','"dandavison/xenops"','"https://github.com/dandavison/xenops"',NULL,NULL,NULL,NULL,NULL,'"xenops"');
