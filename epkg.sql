@@ -109502,6 +109502,9 @@ INSERT INTO gnu_elpa_recipes VALUES('github','"typewriter"','t','"https://github
 INSERT INTO gnu_elpa_recipes VALUES('sourcehut','"isbn"','t','"https://git.sr.ht/~cook/isbn.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"isbn"');
 INSERT INTO gnu_elpa_recipes VALUES('core','"refactor"','t',NULL,'"lisp/progmodes/refactor.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO gnu_elpa_recipes VALUES('codeberg','"xc"','t','"https://codeberg.org/ryanprior/xc.el"',NULL,NULL,NULL,'("COPYING")',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"xc"');
+INSERT INTO gnu_elpa_recipes VALUES('codeberg','"emureader"','t','"https://codeberg.org/MonadicSheep/emureader"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO gnu_elpa_recipes VALUES('github','"modus-vague"','t','"https://github.com/paniash/modus-vague.git"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO gnu_elpa_recipes VALUES('codeberg','"readline-completion"','t','"https://codeberg.org/astoff/readline-completion.el"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 CREATE TABLE var_ignored_repos (k , v );
 INSERT INTO var_ignored_repos VALUES('"https://github.com/madara123pain/unique-emacs-theme-pack"','"limited appeal"');
 CREATE TABLE var_suspended (k , v );
