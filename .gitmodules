@@ -21484,6 +21484,9 @@
 [submodule "readline-complete"]
 	path = mirror/readline-complete
 	url = https://github.com/emacsmirror/readline-complete
+[submodule "readline-completion"]
+	path = mirror/readline-completion
+	url = https://github.com/emacsmirror/readline-completion
 [submodule "ready-player"]
 	path = mirror/ready-player
 	url = https://github.com/emacsmirror/ready-player
