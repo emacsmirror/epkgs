@@ -16111,6 +16111,9 @@
 [submodule "modus-themes"]
 	path = mirror/modus-themes
 	url = https://github.com/emacsmirror/modus-themes
+[submodule "modus-vague"]
+	path = mirror/modus-vague
+	url = https://github.com/emacsmirror/modus-vague
 [submodule "moe-theme"]
 	path = mirror/moe-theme
 	url = https://github.com/emacsmirror/moe-theme
