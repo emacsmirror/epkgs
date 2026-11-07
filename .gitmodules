@@ -6964,6 +6964,9 @@
 [submodule "emuds"]
 	path = attic/emuds
 	url = https://github.com/emacsattic/emuds
+[submodule "emureader"]
+	path = mirror/emureader
+	url = https://github.com/emacsmirror/emureader
 [submodule "emux"]
 	path = attic/emux
 	url = https://github.com/emacsattic/emux
