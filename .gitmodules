@@ -21458,8 +21458,8 @@
 	path = attic/re-builder+
 	url = https://github.com/emacsattic/re-builder-plus
 [submodule "react-snippets"]
-	path = mirror/react-snippets
-	url = https://github.com/emacsmirror/react-snippets
+	path = attic/react-snippets
+	url = https://github.com/emacsattic/react-snippets
 [submodule "read-all-emacs-help"]
 	path = attic/read-all-emacs-help
 	url = https://github.com/emacsattic/read-all-emacs-help
