@@ -2335,6 +2335,9 @@
 [submodule "burly"]
 	path = mirror/burly
 	url = https://github.com/emacsmirror/burly
+[submodule "burnish"]
+	path = mirror/burnish
+	url = https://github.com/emacsmirror/burnish
 [submodule "burnt-toast"]
 	path = mirror/burnt-toast
 	url = https://github.com/emacsmirror/burnt-toast
