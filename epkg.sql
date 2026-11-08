@@ -9864,6 +9864,7 @@ INSERT INTO packages VALUES('codeberg','"readline-completion"','"567be45a202ee2f
 INSERT INTO packages VALUES('github','"agent-shell-consult"','"78a1056275cd26a7a8675f43e1499bd8d0a7aa53"','"https://github.com/Gleek/agent-shell-consult"','"https://github.com/emacsmirror/agent-shell-consult"','"agent-shell-consult"','"Gleek"','"agent-shell-consult"',NULL,NULL,NULL,'"https://github.com/Gleek/agent-shell-consult"','"https://github.com/Gleek/agent-shell-consult"','"https://github.com/emacsmirror/agent-shell-consult"',NULL,'"GPL-3.0-or-later"','"2026"','"20261105"','"Consult UI for agent-shell"','"Add a metadata-rich Consult interface and Embark actions to agent-shell''s\nnative buffer switcher.\n"','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound',NULL,NULL,NULL,NULL,'"master"','eieio-unbound','t','"Codex:GPT-6"');
 INSERT INTO packages VALUES('codeberg','"ajnc"','"ef420b2c50b4f2a5231060aeaf939e0acca09198"','"https://codeberg.org/zzkt/ajnc"','"https://github.com/emacsmirror/ajnc"','"ajnc"','"zzkt"','"ajnc"',NULL,NULL,NULL,'"https://codeberg.org/zzkt/ajnc"','"https://codeberg.org/zzkt/ajnc"','"https://github.com/emacsmirror/ajnc"',NULL,'"EUPL-1.2"',NULL,'"20261108"','"A Janet (Spork) Netrepl Client"','"A Janet (Spork) Netrepl Client.\n\nTo start a janet repl, `M-x run-janet'', to open a connection to a running\nnetrepl server, `M-x ajnc'' or `M-x ajnc-connect'' in a source buffer.\n\nSee the README for full usage and protocol notes.\n"','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound',NULL,NULL,NULL,NULL,'"endless"','eieio-unbound','t',NULL);
 INSERT INTO packages VALUES('github','"burnish"','"27e321d03820d7174aa220be1a9e1b7de91d3034"','"https://github.com/kickingvegas/burnish"','"https://github.com/emacsmirror/burnish"','"burnish"','"kickingvegas"','"burnish"',NULL,NULL,NULL,'"https://github.com/kickingvegas/burnish"','"https://github.com/kickingvegas/burnish"','"https://github.com/emacsmirror/burnish"',NULL,'"GPL-3.0-or-later"','"2026"','"20261108"','"Automate Org export and view"','"Burnish is an Elisp package that automates the export and viewing of an Org\nfile. With Burnish, users can rapidly iterate and review changes to an Org\nfile.\n\nINSTALL\n\nBurnish is intended to be run as a minor mode (`burnish-mode'') to Org mode.\nIt can be added as a hook to `org-mode-hook''. This will always enable\n`burnish-mode'' whenever an Org file is loaded.\n\n   (add-hook ''org-mode-hook #''burnish-mode)\n\nAlternately ‘burnish-mode’ can be invoked in an Org buffer as desired:\n\n   M-x burnish-mode RET\n\nWith `burnish-mode'', automated export of an Org file and viewing the\nresult is done on every file save.  If this behavior is not desired,\nthen an alternate install is to bind the command `burnish''.\n\n   (keymap-set org-mode-map burnish-export-key #''burnish)\n\n`burnish-export-key'' is a customizable variable whose default value is\n‘C-<f5>’.\n"','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound',NULL,NULL,NULL,NULL,'"main"','eieio-unbound','t',NULL);
+INSERT INTO packages VALUES('github','"yml"','"771ec134eb58658db0e42f7ead647984294b3afb"','"https://github.com/isamert/yml.el"','"https://github.com/emacsmirror/yml"','"yml"','"isamert"','"yml.el"',NULL,NULL,NULL,'"https://github.com/isamert/yml.el"','"https://github.com/isamert/yml.el"','"https://github.com/emacsmirror/yml"',NULL,'"GPL-3.0-or-later"','"2026"','"20261108"','"Fast YAML parser (dynamic module)"','"Like `json-parse-string'' but for YAML.  Use `yml-parse-string'' to\nparse YAMLs and `yml-serialize'' to serialize Lisp objects into\nYAML.  Uses a native Rust module for fast parsing and\nserialization.\n"','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound','eieio-unbound',NULL,NULL,NULL,NULL,'"main"','eieio-unbound','t',NULL);
 CREATE TABLE libraries (package NOT NULL, library NOT NULL, PRIMARY KEY (package, library), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO libraries VALUES('"bookmark+"','"bookmark+-1.el"');
 INSERT INTO libraries VALUES('"bookmark+"','"bookmark+-bmu.el"');
@@ -33506,6 +33507,9 @@ INSERT INTO provided VALUES('"readline-completion"','readline-completion',NULL,N
 INSERT INTO provided VALUES('"agent-shell-consult"','agent-shell-consult',NULL,NULL);
 INSERT INTO provided VALUES('"ajnc"','ajnc',NULL,NULL);
 INSERT INTO provided VALUES('"burnish"','burnish',NULL,NULL);
+INSERT INTO provided VALUES('"yml"','yml',NULL,NULL);
+INSERT INTO provided VALUES('"yml"','yml-bench',NULL,NULL);
+INSERT INTO provided VALUES('"yml"','yml-module-install',NULL,NULL);
 CREATE TABLE required (package NOT NULL, feature NOT NULL, hard , ease , "drop" , PRIMARY KEY (package, feature), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO required VALUES('"add-lispdir"','info','t',NULL,NULL);
 INSERT INTO required VALUES('"admb"','outline','t',NULL,NULL);
@@ -64121,6 +64125,12 @@ INSERT INTO required VALUES('"ajnc"','thingatpt','t',NULL,NULL);
 INSERT INTO required VALUES('"burnish"','info','t',NULL,NULL);
 INSERT INTO required VALUES('"burnish"','ox-html','t',NULL,NULL);
 INSERT INTO required VALUES('"burnish"','ox-md','t',NULL,NULL);
+INSERT INTO required VALUES('"yml"','benchmark','t',NULL,NULL);
+INSERT INTO required VALUES('"yml"','cl-lib','t',NULL,NULL);
+INSERT INTO required VALUES('"yml"','compile','t',NULL,NULL);
+INSERT INTO required VALUES('"yml"','url','t',NULL,NULL);
+INSERT INTO required VALUES('"yml"','url-http','t',NULL,NULL);
+INSERT INTO required VALUES('"yml"','yml-core','t',NULL,NULL);
 CREATE TABLE keywords (package NOT NULL, keyword NOT NULL, PRIMARY KEY (package, keyword), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO keywords VALUES('"abacus"','games');
 INSERT INTO keywords VALUES('"actr-mode"','act-r');
@@ -90932,6 +90942,7 @@ INSERT INTO authors VALUES('"readline-completion"','"Augusto Stoffel"','"arstoff
 INSERT INTO authors VALUES('"agent-shell-consult"','"Umar Ahmad"','"gleek@users.noreply.github.com"');
 INSERT INTO authors VALUES('"ajnc"','"nik gaffney"','"nik@fo.am"');
 INSERT INTO authors VALUES('"burnish"','"Charles Y. Choi"','"kickingvegas@gmail.com"');
+INSERT INTO authors VALUES('"yml"','"Isa Mert Gurbuz"','"isamertgurbuz@gmail.com"');
 CREATE TABLE maintainers (package NOT NULL, name , email , PRIMARY KEY (package, name, email), FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO maintainers VALUES('"abacus"','"Valvassori Moïse"','"moise@valvassori.org"');
 INSERT INTO maintainers VALUES('"actr-mode"','"Hedderik van Rijn"','"hvr-actrmode@van-rijn.org"');
@@ -100166,6 +100177,7 @@ INSERT INTO maintainers VALUES('"readline-completion"','"Augusto Stoffel"','"ars
 INSERT INTO maintainers VALUES('"agent-shell-consult"','"Umar Ahmad"','"gleek@users.noreply.github.com"');
 INSERT INTO maintainers VALUES('"ajnc"','"nik gaffney"','"nik@fo.am"');
 INSERT INTO maintainers VALUES('"burnish"','"Charles Y. Choi"','"kickingvegas@gmail.com"');
+INSERT INTO maintainers VALUES('"yml"','"Isa Mert Gurbuz"','"isamertgurbuz@gmail.com"');
 CREATE TABLE builtin_libraries (package NOT NULL, library NOT NULL, feature , FOREIGN KEY (package) REFERENCES packages (name) ON DELETE CASCADE);
 INSERT INTO builtin_libraries VALUES('"5x5"','"lisp/play/5x5.el"','5x5');
 INSERT INTO builtin_libraries VALUES('"add-log"','"lisp/vc/add-log.el"','add-log');
@@ -108756,7 +108768,7 @@ INSERT INTO melpa_recipes VALUES('github','"xdg-redirect"','"https://github.com/
 INSERT INTO melpa_recipes VALUES('github','"agent-shell-consult"','"https://github.com/Gleek/agent-shell-consult"','"Gleek/agent-shell-consult"','"https://github.com/Gleek/agent-shell-consult"',NULL,NULL,NULL,NULL,NULL,'"agent-shell-consult"');
 INSERT INTO melpa_recipes VALUES('codeberg','"ajnc"','"https://codeberg.org/zzkt/ajnc"','"zzkt/ajnc"','"https://codeberg.org/zzkt/ajnc"',NULL,NULL,NULL,NULL,NULL,'"ajnc"');
 INSERT INTO melpa_recipes VALUES('github','"burnish"','"https://github.com/kickingvegas/burnish"','"kickingvegas/burnish"','"https://github.com/kickingvegas/burnish"',NULL,NULL,NULL,NULL,NULL,'"burnish"');
-INSERT INTO melpa_recipes VALUES('github','"yml"','"https://github.com/isamert/yml.el"','"isamert/yml.el"','"https://github.com/isamert/yml.el"','("yml.el" "yml-module-install.el" "Cargo.toml" "Cargo.lock" "src")',NULL,NULL,NULL,NULL,NULL);
+INSERT INTO melpa_recipes VALUES('github','"yml"','"https://github.com/isamert/yml.el"','"isamert/yml.el"','"https://github.com/isamert/yml.el"','("yml.el" "yml-module-install.el" "Cargo.toml" "Cargo.lock" "src")',NULL,NULL,NULL,NULL,'"yml"');
 CREATE TABLE nongnu_elpa_recipes (class NOT NULL, name NOT NULL PRIMARY KEY, released , url , main_file , lisp_dir , ignored_files , excludes , renames , doc , readme , news , shell_command , make , texinfo , auto_sync , merge , branch , release_branch , rolling_release , version_map , epkg_package );
 INSERT INTO nongnu_elpa_recipes VALUES('git','"elpher"','t','"https://thelambdalab.xyz/git/elpher.git"',NULL,NULL,'("Makefile" "ISSUES.org" "RELEASE" "config.mk")',NULL,NULL,'"elpher.texi"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"elpher"');
 INSERT INTO nongnu_elpa_recipes VALUES('git','"gotham-theme"','t','"https://depp.brause.cc/gotham-theme.git"',NULL,NULL,'("img" "LICENSE")',NULL,NULL,NULL,'"README.md"',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'"gotham-theme"');

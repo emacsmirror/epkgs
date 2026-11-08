@@ -27820,6 +27820,9 @@
 [submodule "yesterbox"]
 	path = mirror/yesterbox
 	url = https://github.com/emacsmirror/yesterbox
+[submodule "yml"]
+	path = mirror/yml
+	url = https://github.com/emacsmirror/yml
 [submodule "ynab"]
 	path = attic/ynab
 	url = https://github.com/emacsattic/ynab
