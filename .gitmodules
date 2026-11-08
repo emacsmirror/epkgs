@@ -463,6 +463,9 @@
 [submodule "ajc-java-complete"]
 	path = mirror/ajc-java-complete
 	url = https://github.com/emacsmirror/ajc-java-complete
+[submodule "ajnc"]
+	path = mirror/ajnc
+	url = https://github.com/emacsmirror/ajnc
 [submodule "alabaster-themes"]
 	path = mirror/alabaster-themes
 	url = https://github.com/emacsmirror/alabaster-themes
