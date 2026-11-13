@@ -21361,6 +21361,9 @@
 [submodule "rats"]
 	path = mirror/rats
 	url = https://github.com/emacsmirror/rats
+[submodule "rau"]
+	path = mirror/rau
+	url = https://github.com/emacsmirror/rau
 [submodule "raycast-mode"]
 	path = mirror/raycast-mode
 	url = https://github.com/emacsmirror/raycast-mode
