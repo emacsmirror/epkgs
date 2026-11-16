@@ -7909,6 +7909,9 @@
 [submodule "express"]
 	path = mirror/express
 	url = https://github.com/emacsmirror/express
+[submodule "expui-icons"]
+	path = mirror/expui-icons
+	url = https://github.com/emacsmirror/expui-icons
 [submodule "exsqlaim-mode"]
 	path = mirror/exsqlaim-mode
 	url = https://github.com/emacsmirror/exsqlaim-mode
