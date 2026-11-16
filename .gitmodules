@@ -331,6 +331,9 @@
 [submodule "admb"]
 	path = attic/admb
 	url = https://github.com/emacsattic/admb
+[submodule "admin-delux"]
+	path = mirror/admin-delux
+	url = https://github.com/emacsmirror/admin-delux
 [submodule "ado-mode"]
 	path = mirror/ado-mode
 	url = https://github.com/emacsmirror/ado-mode
