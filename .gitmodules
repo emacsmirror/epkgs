@@ -2041,6 +2041,9 @@
 [submodule "bookmark-frecency"]
 	path = mirror/bookmark-frecency
 	url = https://github.com/emacsmirror/bookmark-frecency
+[submodule "bookmark-gt"]
+	path = mirror/bookmark-gt
+	url = https://github.com/emacsmirror/bookmark-gt
 [submodule "bookmark-in-project"]
 	path = mirror/bookmark-in-project
 	url = https://github.com/emacsmirror/bookmark-in-project
