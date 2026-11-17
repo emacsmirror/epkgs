@@ -14303,8 +14303,8 @@
 	path = mirror/leerzeichen
 	url = https://github.com/emacsmirror/leerzeichen
 [submodule "leetcode"]
-	path = mirror/leetcode
-	url = https://github.com/emacsmirror/leetcode
+	path = attic/leetcode
+	url = https://github.com/emacsattic/leetcode
 [submodule "legalese"]
 	path = mirror/legalese
 	url = https://github.com/emacsmirror/legalese
