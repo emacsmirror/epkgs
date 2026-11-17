@@ -6742,6 +6742,9 @@
 [submodule "elwiki"]
 	path = attic/elwiki
 	url = https://github.com/emacsattic/elwiki
+[submodule "elwl"]
+	path = mirror/elwl
+	url = https://github.com/emacsmirror/elwl
 [submodule "elwm"]
 	path = mirror/elwm
 	url = https://github.com/emacsmirror/elwm
