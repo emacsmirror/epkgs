@@ -8122,6 +8122,9 @@
 [submodule "fd-dired"]
 	path = mirror/fd-dired
 	url = https://github.com/emacsmirror/fd-dired
+[submodule "fd-fairy"]
+	path = mirror/fd-fairy
+	url = https://github.com/emacsmirror/fd-fairy
 [submodule "fdlcap"]
 	path = attic/fdlcap
 	url = https://github.com/emacsattic/fdlcap
