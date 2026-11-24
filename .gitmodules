@@ -15085,6 +15085,9 @@
 [submodule "macher"]
 	path = mirror/macher
 	url = https://github.com/emacsmirror/macher
+[submodule "macos-notifications"]
+	path = mirror/macos-notifications
+	url = https://github.com/emacsmirror/macos-notifications
 [submodule "macports"]
 	path = mirror/macports
 	url = https://github.com/emacsmirror/macports
