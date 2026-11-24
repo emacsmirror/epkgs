@@ -16244,8 +16244,8 @@
 	path = mirror/morgentau-theme
 	url = https://github.com/emacsmirror/morgentau-theme
 [submodule "morlock"]
-	path = mirror/morlock
-	url = https://github.com/emacsmirror/morlock
+	path = attic/morlock
+	url = https://github.com/emacsattic/morlock
 [submodule "morrowind-theme"]
 	path = mirror/morrowind-theme
 	url = https://github.com/emacsmirror/morrowind-theme
