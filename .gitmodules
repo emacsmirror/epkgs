@@ -91,6 +91,9 @@
 [submodule "abs-mode"]
 	path = mirror/abs-mode
 	url = https://github.com/emacsmirror/abs-mode
+[submodule "abv"]
+	path = mirror/abv
+	url = https://github.com/emacsmirror/abv
 [submodule "abyss-theme"]
 	path = mirror/abyss-theme
 	url = https://github.com/emacsmirror/abyss-theme
