@@ -6202,6 +6202,9 @@
 [submodule "efs"]
 	path = attic/efs
 	url = https://github.com/emacsattic/efs
+[submodule "efzf"]
+	path = mirror/efzf
+	url = https://github.com/emacsmirror/efzf
 [submodule "eg"]
 	path = mirror/eg
 	url = https://github.com/emacsmirror/eg
