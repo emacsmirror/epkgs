@@ -6230,8 +6230,8 @@
 	path = mirror/eglot-inactive-regions
 	url = https://github.com/emacsmirror/eglot-inactive-regions
 [submodule "eglot-java"]
-	path = mirror/eglot-java
-	url = https://github.com/emacsmirror/eglot-java
+	path = attic/eglot-java
+	url = https://github.com/emacsattic/eglot-java
 [submodule "eglot-jl"]
 	path = mirror/eglot-jl
 	url = https://github.com/emacsmirror/eglot-jl
