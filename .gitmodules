@@ -27787,6 +27787,9 @@
 [submodule "yarn-mode"]
 	path = mirror/yarn-mode
 	url = https://github.com/emacsmirror/yarn-mode
+[submodule "yas-autoinsert"]
+	path = mirror/yas-autoinsert
+	url = https://github.com/emacsmirror/yas-autoinsert
 [submodule "yascroll"]
 	path = mirror/yascroll
 	url = https://github.com/emacsmirror/yascroll
