@@ -1072,6 +1072,9 @@
 [submodule "attrap"]
 	path = mirror/attrap
 	url = https://github.com/emacsmirror/attrap
+[submodule "au-themes"]
+	path = mirror/au-themes
+	url = https://github.com/emacsmirror/au-themes
 [submodule "auctex"]
 	path = mirror/auctex
 	url = https://github.com/emacsmirror/auctex
