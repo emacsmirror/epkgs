@@ -6262,6 +6262,9 @@
 [submodule "egocentric"]
 	path = attic/egocentric
 	url = https://github.com/emacsattic/egocentric
+[submodule "ei-interface"]
+	path = mirror/ei-interface
+	url = https://github.com/emacsmirror/ei-interface
 [submodule "eicq"]
 	path = attic/eicq
 	url = https://github.com/emacsattic/eicq
