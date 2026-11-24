@@ -7282,6 +7282,9 @@
 [submodule "ert-extras"]
 	path = mirror/ert-extras
 	url = https://github.com/emacsmirror/ert-extras
+[submodule "ert-gwt"]
+	path = mirror/ert-gwt
+	url = https://github.com/emacsmirror/ert-gwt
 [submodule "ert-junit"]
 	path = mirror/ert-junit
 	url = https://github.com/emacsmirror/ert-junit
